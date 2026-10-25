@@ -1,5 +1,18 @@
 [
   {
+    "id": "20261025-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-10-25T06:30:00-05:00",
+    "claim": "Amy Acton is a liar who lies about her past, including growing up living in a tent. None of that is true.",
+    "outlet": "Ramaswamy campaign ad",
+    "outlet_url": "https://www.factcheck.org/2026/10/controversial-ohio-ad-calls-acton-a-liar-but-records-back-her-account-of-childhood/",
+    "read": "The ad features Acton's estranged mother calling her a liar about her childhood, specifically denying the tent claim. Court records show her stepfather was charged with rape in July 1978, indicted that September, and fled. Acton was removed from custody at age 12. Arrest paperwork listed a campground address. A 1982 police report notes the manager said he lived there earlier. The claim does not match the cited record. The interesting fact is the mother's statement. The missing fact is the contemporaneous court and police paper trail.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "FactCheck.org \u2014 Controversial Ohio Ad Calls Acton a \u2018Liar,\u2019 But Records Back Her Account of Childhood", "url": "https://www.factcheck.org/2026/10/controversial-ohio-ad-calls-acton-a-liar-but-records-back-her-account-of-childhood/"}],
+    "video_url": "",
+    "script": "Morning Check. A campaign ad says Amy Acton is a liar about her past, including living in a tent. None of that is true. Court records show her stepfather was charged with rape in 1978 and indicted. She was removed from her mother's custody at age 12. Arrest paperwork listed a campground as the address. A later police report noted he had lived there. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
     "id": "20261025-late",
     "slot": "Late Check",
     "aired_at": "2026-10-25T02:50:00-05:00",
@@ -8,7 +21,7 @@
     "outlet_url": "https://www.nytimes.com/2026/10/24/us/politics/trump-elections-voting-fact-check.html",
     "read": "Alaska voters approved ranked-choice voting in a 2020 ballot initiative. Voters rank candidates. The system does not have a person selecting a winner. The New York Times fact-check of the Oct 24 rally line marks it false. The interesting claim is that the system is opaque. The missing fact is that the ranking is on the ballot and the count is public.",
     "verdict": "Contradicted",
-    "sources": [{"title": "New York Times — A Fact-Check on Trump's Election Claims", "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-elections-voting-fact-check.html"}],
+    "sources": [{"title": "New York Times \u2014 A Fact-Check on Trump's Election Claims", "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-elections-voting-fact-check.html"}],
     "video_url": "",
     "script": "Late Check. One line from the Alaska rally does not survive the ballot. The claim says a guy sits behind a table and picks the winner in ranked-choice. Alaska voters approved the system in 2020. Voters rank candidates. There is no person selecting a winner. Verdict: contradicted."
   },
@@ -21,7 +34,7 @@
     "outlet_url": "https://www.politifact.com/2026-midterms/",
     "read": "PolitiFact checked the Oct 17 CBS town-hall line. Refining capacity did not drop by 20 percent under Biden. Some plants closed and others expanded. The claim uses a round number that does not match the EIA capacity series. The interesting fact is that some capacity left. The missing fact is the size of what left.",
     "verdict": "Missing context",
-    "sources": [{"title": "PolitiFact — 2026 Midterms", "url": "https://politifact.com/2026-midterms/"}],
+    "sources": [{"title": "PolitiFact \u2014 2026 Midterms", "url": "https://politifact.com/2026-midterms/"}],
     "video_url": "",
     "script": "Evening Check. JD Vance said the biggest reason gas prices are high is that about 20 percent of American refining capacity went offline under Biden. The number does not match the record. Some plants closed. Others expanded. Verdict: missing context."
   },
@@ -34,7 +47,7 @@
     "outlet_url": "https://www.wral.com/news/state/fact-check-trump-midterm-rally-talking-point-october-21/",
     "read": "The line counts 2016, 2020, and 2024. The 2020 result was certified for Biden, 306 electoral votes to 232. Congress accepted that result. PolitiFact and WRAL mark the three-win claim as false. The interesting fact is that the claim is repeated. The missing fact is the certified count.",
     "verdict": "Contradicted",
-    "sources": [{"title": "WRAL — Fact-checking Trump's midterm talking points", "url": "https://www.wral.com/news/state/fact-check-trump-midterm-rally-talking-point-october-21/"}],
+    "sources": [{"title": "WRAL \u2014 Fact-checking Trump's midterm talking points", "url": "https://www.wral.com/news/state/fact-check-trump-midterm-rally-talking-point-october-21/"}],
     "video_url": "",
     "script": "Midday Check. The line is that the presidency was won three times. 2016 and 2024 were wins. 2020 was certified for Biden. Verdict: contradicted."
   },
@@ -47,7 +60,7 @@
     "outlet_url": "https://www.politifact.com/elections/",
     "read": "PolitiFact checked the circulating image on Oct 16. Election workers mark ballots for spoiled, provisional, or curbside reasons under state rules. A mark by a worker does not by itself disqualify a ballot. The claim turns a routine procedure into a trap. The interesting fact is that workers do mark some ballots. The missing fact is why.",
     "verdict": "Missing context",
-    "sources": [{"title": "PolitiFact — Elections", "url": "https://www.politifact.com/elections"}],
+    "sources": [{"title": "PolitiFact \u2014 Elections", "url": "https://www.politifact.com/elections"}],
     "video_url": "",
     "script": "Morning Check. A social image says if an election worker writes on your ballot, it could be disqualified. Workers mark ballots for spoiled, provisional, or curbside reasons. A mark is not a disqualification. Verdict: missing context."
   },
@@ -60,7 +73,7 @@
     "outlet_url": "https://www.eia.gov/tools/faqs/faq.php?id=29&t=6",
     "read": "The line is true only if it means a large fuels refinery with full downstream capacity. EIA's January 1, 2026 count is 130 operable refineries. The newest is Texas International Terminals in Galveston, 45,000 barrels a day, first operated in February 2022. Smaller plants also came online in 2021, 2019, 2017, and 2015. The newest refinery with significant downstream capacity is Marathon Garyville, Louisiana, online in 1977 and now 617,000 barrels a day. Existing plants have added capacity since, including ExxonMobil Beaumont in 2023. No new large refinery is not the same as no new refinery.",
     "verdict": "Missing context",
-    "sources": [{"title": "EIA — When was the last refinery built in the United States?", "url": "https://www.eia.gov/tools/faqs/faq.php?id=29&t=6"}],
+    "sources": [{"title": "EIA \u2014 When was the last refinery built in the United States?", "url": "https://www.eia.gov/tools/faqs/faq.php?id=29&t=6"}],
     "video_url": "",
     "script": "Late Check. One line keeps getting repeated. The United States has not built a new oil refinery in fifty years. That is true only if the sentence means a large fuels refinery. The Energy Information Administration counts 130 operable refineries as of January 1, 2026. The newest is in Galveston. It started in February 2022, at 45,000 barrels a day. Smaller plants opened in 2021, 2019, 2017, and 2015. The newest with significant downstream capacity is Marathon in Garyville, Louisiana, online in 1977. Verdict: missing context. The interesting fact is that no large new refinery has been built. The missing fact is that new refineries have."
   }
