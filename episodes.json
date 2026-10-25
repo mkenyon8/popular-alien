@@ -1,5 +1,18 @@
 [
   {
+    "id": "20261025-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-25T12:00:00-05:00",
+    "claim": "Audi has just committed to invest $4.2 billion in nearby Macon, Georgia to begin the construction next month on a massive plant that will produce 200,000 cars a year. This will be the single largest investment in U.S. auto industry history, modern history.",
+    "outlet": "Rally claim",
+    "outlet_url": "https://www.audi.com/en/press-releases/audi-to-establish-first-us-production-site-in-georgia-investing-4-billion-and-creating-4500-jobs-18420",
+    "read": "Audi's press release states construction is scheduled to begin in 2027, with production in the early 2030s. Georgia officials list site grading in 2027 and construction in 2028. The claim of next-month construction does not match that timeline. The $4.2 billion figure is not the single largest modern U.S. auto investment; Hyundai has announced packages of $21 billion and later $26 billion. Reuters notes a final investment decision by Volkswagen's supervisory board is still required. The interesting fact is the plant announcement. The missing fact is the multi-year construction schedule in the company's own release.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "Audi press release \u2014 Audi to establish first U.S. production site in Georgia", "url": "https://www.audi.com/en/press-releases/audi-to-establish-first-us-production-site-in-georgia-investing-4-billion-and-creating-4500-jobs-18420"}, {"title": "Georgia Governor Brian Kemp announcement", "url": "https://gov.georgia.gov/"}],
+    "video_url": "",
+    "script": "Midday Check. A rally line says Audi has committed $4.2 billion to begin construction next month on a plant in Georgia, and that this is the single largest investment in U.S. auto industry history, modern history. Audi's own release says construction is scheduled to begin in 2027. Georgia officials list grading in 2027 and construction in 2028. Production is targeted for the early 2030s. The claim does not match the cited record on the timeline. Larger packages have been announced by other automakers in recent years. Verdict: contradicted."
+  },
+  {
     "id": "20261025-morning",
     "slot": "Morning Check",
     "aired_at": "2026-10-25T06:30:00-05:00",
