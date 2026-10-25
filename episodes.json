@@ -1,0 +1,15 @@
+[
+  {
+    "id": "20261007-late",
+    "slot": "Late Check",
+    "aired_at": "2026-10-07T23:00:00-05:00",
+    "claim": "The United States has not built a new oil refinery in fifty years.",
+    "outlet": "Recurring claim",
+    "outlet_url": "https://www.eia.gov/tools/faqs/faq.php?id=29&t=6",
+    "read": "The line is true only if it means a large fuels refinery with full downstream capacity. EIA's January 1, 2026 count is 130 operable refineries. The newest is Texas International Terminals in Galveston, 45,000 barrels a day, first operated in February 2022. Smaller plants also came online in 2021, 2019, 2017, and 2015. The newest refinery with significant downstream capacity is Marathon Garyville, Louisiana, online in 1977 and now 617,000 barrels a day. Existing plants have added capacity since, including ExxonMobil Beaumont in 2023. No new large refinery is not the same as no new refinery.",
+    "verdict": "Missing context",
+    "sources": [{"title": "EIA — When was the last refinery built in the United States?", "url": "https://www.eia.gov/tools/faqs/faq.php?id=29&t=6"}],
+    "video_url": "",
+    "script": "Late Check. One line keeps getting repeated. The United States has not built a new oil refinery in fifty years. That is true only if the sentence means a large fuels refinery. The Energy Information Administration counts 130 operable refineries as of January 1, 2026. The newest is in Galveston. It started in February 2022, at 45,000 barrels a day. Smaller plants opened in 2021, 2019, 2017, and 2015. The newest with significant downstream capacity is Marathon in Garyville, Louisiana, online in 1977. Verdict: missing context. The interesting fact is that no large new refinery has been built. The missing fact is that new refineries have."
+  }
+]
