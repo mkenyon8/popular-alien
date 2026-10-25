@@ -1,5 +1,18 @@
 [
   {
+    "id": "20261024-test",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-24T22:40:00-05:00",
+    "claim": "This is a test story to confirm the site loads from the repo.",
+    "outlet": "Desk test",
+    "outlet_url": "https://github.com/mkenyon8/popular-alien",
+    "read": "If you see this card on popularalien.com, the site is loading the repo file and a bot can update the desk.",
+    "verdict": "Matches record",
+    "sources": [{"title": "Popular Alien repo", "url": "https://github.com/mkenyon8/popular-alien"}],
+    "video_url": "",
+    "script": "Test. If this card is on the site, the automatic load works."
+  },
+  {
     "id": "20261007-late",
     "slot": "Late Check",
     "aired_at": "2026-10-07T23:00:00-05:00",
@@ -10,6 +23,6 @@
     "verdict": "Missing context",
     "sources": [{"title": "EIA — When was the last refinery built in the United States?", "url": "https://www.eia.gov/tools/faqs/faq.php?id=29&t=6"}],
     "video_url": "",
-    "script": "Late Check. One line keeps getting repeated. The United States has not built a new oil refinery in fifty years. That is true only if the sentence means a large fuels refinery. The Energy Information Administration counts 130 operable refineries as of January 1, 2026. The newest is in Galveston. It started in February 2022, at 45,000 barrels a day. Smaller plants opened in 2021, 2019, 2017, and 2015. The newest with significant downstream capacity is Marathon in Garyville, Louisiana, online in 1977. Verdict: missing context. The interesting fact is that no large new refinery has been built. The missing fact is that new refineries have."
+    "script": "Late Check. One line keeps getting repeated."
   }
 ]
