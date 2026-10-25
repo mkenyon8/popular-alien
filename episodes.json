@@ -1,5 +1,57 @@
 [
   {
+    "id": "20261025-late",
+    "slot": "Late Check",
+    "aired_at": "2026-10-25T02:50:00-05:00",
+    "claim": "There is a guy sitting behind a table just picking the winner in Alaska's ranked-choice system.",
+    "outlet": "Rally claim",
+    "outlet_url": "https://www.nytimes.com/2026/10/24/us/politics/trump-elections-voting-fact-check.html",
+    "read": "Alaska voters approved ranked-choice voting in a 2020 ballot initiative. Voters rank candidates. The system does not have a person selecting a winner. The New York Times fact-check of the Oct 24 rally line marks it false. The interesting claim is that the system is opaque. The missing fact is that the ranking is on the ballot and the count is public.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "New York Times — A Fact-Check on Trump's Election Claims", "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-elections-voting-fact-check.html"}],
+    "video_url": "",
+    "script": "Late Check. One line from the Alaska rally does not survive the ballot. The claim says a guy sits behind a table and picks the winner in ranked-choice. Alaska voters approved the system in 2020. Voters rank candidates. There is no person selecting a winner. Verdict: contradicted."
+  },
+  {
+    "id": "20261024-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-24T18:00:00-05:00",
+    "claim": "The biggest reason gas prices are so high is that about 20 percent of American refining capacity went offline when Joe Biden was president.",
+    "outlet": "JD Vance",
+    "outlet_url": "https://www.politifact.com/2026-midterms/",
+    "read": "PolitiFact checked the Oct 17 CBS town-hall line. Refining capacity did not drop by 20 percent under Biden. Some plants closed and others expanded. The claim uses a round number that does not match the EIA capacity series. The interesting fact is that some capacity left. The missing fact is the size of what left.",
+    "verdict": "Missing context",
+    "sources": [{"title": "PolitiFact — 2026 Midterms", "url": "https://politifact.com/2026-midterms/"}],
+    "video_url": "",
+    "script": "Evening Check. JD Vance said the biggest reason gas prices are high is that about 20 percent of American refining capacity went offline under Biden. The number does not match the record. Some plants closed. Others expanded. Verdict: missing context."
+  },
+  {
+    "id": "20261024-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-24T12:00:00-05:00",
+    "claim": "We won the presidency three times.",
+    "outlet": "Rally claim",
+    "outlet_url": "https://www.wral.com/news/state/fact-check-trump-midterm-rally-talking-point-october-21/",
+    "read": "The line counts 2016, 2020, and 2024. The 2020 result was certified for Biden, 306 electoral votes to 232. Congress accepted that result. PolitiFact and WRAL mark the three-win claim as false. The interesting fact is that the claim is repeated. The missing fact is the certified count.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "WRAL — Fact-checking Trump's midterm talking points", "url": "https://www.wral.com/news/state/fact-check-trump-midterm-rally-talking-point-october-21/"}],
+    "video_url": "",
+    "script": "Midday Check. The line is that the presidency was won three times. 2016 and 2024 were wins. 2020 was certified for Biden. Verdict: contradicted."
+  },
+  {
+    "id": "20261024-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-10-24T06:30:00-05:00",
+    "claim": "If an election worker writes anything on your ballot before you put it in the voting machine, your ballot could be disqualified.",
+    "outlet": "Social media image",
+    "outlet_url": "https://www.politifact.com/elections/",
+    "read": "PolitiFact checked the circulating image on Oct 16. Election workers mark ballots for spoiled, provisional, or curbside reasons under state rules. A mark by a worker does not by itself disqualify a ballot. The claim turns a routine procedure into a trap. The interesting fact is that workers do mark some ballots. The missing fact is why.",
+    "verdict": "Missing context",
+    "sources": [{"title": "PolitiFact — Elections", "url": "https://www.politifact.com/elections"}],
+    "video_url": "",
+    "script": "Morning Check. A social image says if an election worker writes on your ballot, it could be disqualified. Workers mark ballots for spoiled, provisional, or curbside reasons. A mark is not a disqualification. Verdict: missing context."
+  },
+  {
     "id": "20261007-late",
     "slot": "Late Check",
     "aired_at": "2026-10-07T23:00:00-05:00",
@@ -11,58 +63,5 @@
     "sources": [{"title": "EIA — When was the last refinery built in the United States?", "url": "https://www.eia.gov/tools/faqs/faq.php?id=29&t=6"}],
     "video_url": "",
     "script": "Late Check. One line keeps getting repeated. The United States has not built a new oil refinery in fifty years. That is true only if the sentence means a large fuels refinery. The Energy Information Administration counts 130 operable refineries as of January 1, 2026. The newest is in Galveston. It started in February 2022, at 45,000 barrels a day. Smaller plants opened in 2021, 2019, 2017, and 2015. The newest with significant downstream capacity is Marathon in Garyville, Louisiana, online in 1977. Verdict: missing context. The interesting fact is that no large new refinery has been built. The missing fact is that new refineries have."
-  },
-  {
-    "id": "ev-sales",
-    "slot": "Evening Check",
-    "aired_at": "2026-10-07T18:00:00-05:00",
-    "claim": "Electric cars now outsell gasoline cars in the United States.",
-    "outlet": "Northline Report",
-    "outlet_url": "https://example.com/northline-report",
-    "read": "That sentence is true only if battery-electric vehicles are the majority of new U.S. sales. They are not. Share has climbed, and a single electric model can top a monthly chart, but gasoline vehicles are still most of what dealers move and nearly all of what is on the road. A rising share is not a change of guard. The claim drops the denominator.",
-    "verdict": "Missing context",
-    "sources": [{"title": "Alternative Fuels Data Center — light-duty vehicle data", "url": "https://afdc.energy.gov/data"}, {"title": "U.S. Energy Information Administration — energy explained", "url": "https://www.eia.gov/energyexplained/"}],
-    "video_url": "",
-    "script": "Evening Check. One line is doing a lot of work tonight. Northline Report said electric cars now outsell gasoline cars in the United States. Listen to the scale of that. Not a model. Not a month on a single chart. The claim says the electric fleet has passed gasoline. It has not. Electric share of new sales is up, and some months an electric model is the one people talk about. Gasoline vehicles are still the majority of new sales, and they are almost the entire fleet already on the road. You can be early to a transition and still misstate the present. Verdict: missing context. The interesting fact is the rise. The missing fact is the size of what it has not yet passed."
-  },
-  {
-    "id": "mississippi-basin",
-    "slot": "Midday Check",
-    "aired_at": "2026-10-07T12:05:00-05:00",
-    "claim": "The Mississippi River drains about forty percent of the contiguous United States.",
-    "outlet": "Bayline Desk",
-    "outlet_url": "https://example.com/bayline-desk",
-    "read": "This one matches the record. The U.S. Geological Survey describes the Mississippi River watershed as about 1.2 million square miles, roughly forty percent of the contiguous United States. A broadcast can round a figure and still be faithful when the primary source rounds it the same way. Nothing left out of the sentence changes what it means.",
-    "verdict": "Matches record",
-    "sources": [{"title": "USGS Water Science School — Rivers: Mississippi", "url": "https://www.usgs.gov/special-topics/water-science-school/science/rivers-mississippi"}, {"title": "National Park Service — Mississippi River facts", "url": "https://www.nps.gov/miss/riverfacts.htm"}],
-    "video_url": "",
-    "script": "Midday Check. Not every line on the air is a trap. Bayline Desk said the Mississippi River drains about forty percent of the contiguous United States. The Geological Survey puts that watershed at roughly 1.2 million square miles, which is the same forty percent, said with a round number the source itself uses. Verdict: matches record. Round is allowed when the record is round. We will say so when it holds."
-  },
-  {
-    "id": "new-reactors",
-    "slot": "Morning Check",
-    "aired_at": "2026-10-07T06:30:00-05:00",
-    "claim": "The United States has not built a new nuclear reactor in fifty years.",
-    "outlet": "Civic Ledger",
-    "outlet_url": "https://example.com/civic-ledger",
-    "read": "The absolute does not survive the record. Watts Bar Unit 2 in Tennessee began commercial operation in 2016. Vogtle Units 3 and 4 in Georgia followed in 2023 and 2024. The fleet is old. New construction has been rare and expensive. Rarity is not absence.",
-    "verdict": "Contradicted",
-    "sources": [{"title": "EIA — U.S. nuclear industry", "url": "https://www.eia.gov/energyexplained/nuclear/us-nuclear-industry.php"}, {"title": "U.S. Nuclear Regulatory Commission — reactors", "url": "https://www.nrc.gov/reactors.html"}],
-    "video_url": "",
-    "script": "Morning Check. An old line is back, and it is still too clean to be true. Civic Ledger said the United States has not built a new nuclear reactor in fifty years. Watts Bar Unit 2 came online in 2016. Vogtle Unit 3 entered commercial operation in 2023, and Unit 4 in 2024. That is a thin decade of construction. It is not an empty fifty years. Verdict: contradicted.",
-    "correction": "An earlier draft of this check dated both Vogtle units to 2023. Unit 3 entered commercial operation in July 2023. Unit 4 entered commercial operation in April 2024."
-  },
-  {
-    "id": "blackout-briefing",
-    "slot": "Late Check",
-    "aired_at": "2026-10-06T23:10:00-05:00",
-    "claim": "A classified briefing this week confirmed the regional blackout was caused by a foreign cyberattack.",
-    "outlet": "Night Signal",
-    "outlet_url": "https://example.com/night-signal",
-    "read": "Nothing on the public record confirms that sentence. A classified briefing cannot be audited from the outside, and no on-the-record finding, technical report, or utility filing has established a foreign cyberattack as the cause. Silence in the public record is not proof the claim is false. It is proof we cannot check it. Until a citable record exists, the verdict stays unverifiable.",
-    "verdict": "Unverifiable",
-    "sources": [{"title": "CISA — cybersecurity advisories", "url": "https://www.cisa.gov/news-events/cybersecurity-advisories"}, {"title": "North American Electric Reliability Corporation", "url": "https://www.nerc.com/"}],
-    "video_url": "",
-    "script": "Late Check. This is the one we will not pretend to settle. Night Signal said a classified briefing this week confirmed that the regional blackout was a foreign cyberattack. We cannot sit in that briefing. We also cannot find an on-the-record official finding, a technical report, or a utility filing that says what the sentence says. That does not make the claim false. It makes it unchecked. Anonymous certainty and a closed door are not sources. Verdict: unverifiable. If a public record appears, this page changes in the open."
   }
 ]
