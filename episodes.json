@@ -1,5 +1,18 @@
 [
   {
+    "id": "20261026-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-10-26T06:31:00-05:00",
+    "claim": "Everyone thought she came in second or third, but then she 'won.'",
+    "outlet": "Truth Social",
+    "outlet_url": "https://www.trumpstruth.org/statuses/42711",
+    "read": "In a Saturday-night Truth Social post, the president wrote that Lisa Murkowski only got elected because of ranked-choice voting and that everyone thought she came in second or third before she won. The official 2022 Alaska Division of Elections first-choice tally shows Murkowski finishing first with 113,495 votes (43.37 percent) to Kelly Tshibaka's 111,480 (42.60 percent). She led the initial count by roughly 2,000 votes; second-choice ballots from eliminated candidates then expanded her margin to 53.7 percent. The claim does not match the cited record. The interesting fact is the ranked-choice redistribution. The missing fact is that she already held the plurality before any redistribution.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "Alaska Division of Elections \u2014 2022 General Election Official Summary Report", "url": "https://www.elections.alaska.gov/results/22GENR/ElectionSummaryReportRPT.pdf"}, {"title": "Alaska Division of Elections \u2014 2022 U.S. Senate Ranked-Choice Detailed Report", "url": "https://www.elections.alaska.gov/results/22GENR/rcv/US-SEN.pdf"}],
+    "video_url": "",
+    "script": "Morning Check. A Truth Social post says everyone thought Lisa Murkowski came in second or third, then she won under ranked-choice voting. The official first-choice tally from the Alaska Division of Elections shows she finished first with 113,495 votes, 43.37 percent, ahead of Kelly Tshibaka at 111,480 votes, 42.60 percent. She led the initial count. Second-choice ballots from the Democrat and a withdrawn Republican then widened the margin to 53.7 percent. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
     "id": "20261025-late",
     "slot": "Late Check",
     "aired_at": "2026-10-25T23:08:00-05:00",
