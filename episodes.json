@@ -1,5 +1,18 @@
 [
   {
+    "id": "20261025-late",
+    "slot": "Late Check",
+    "aired_at": "2026-10-25T23:08:00-05:00",
+    "claim": "Heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood. Abdulrahman Mohamed El-Sayed is a Fake Doctor, who runs what is considered to be the WORST CLINIC IN AMERICA.",
+    "outlet": "Truth Social",
+    "outlet_url": "https://truthsocial.com/@realDonaldTrump",
+    "read": "Bridge Michigan reviewed public records and found no evidence that El-Sayed is a member of or pledged support to the Muslim Brotherhood. He has disavowed the group. He holds an MD from Columbia and a public-health doctorate from Oxford, but did not complete residency and has never held a medical license in Michigan or New York. He has said he does not practice medicine. The claim does not match the cited record. The interesting fact is the campaign attack. The missing fact is the degree and the absence of membership evidence.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "Bridge Michigan \u2014 Fact check: No evidence Abdul El-Sayed \u2018pledged support\u2019 to Muslim Brotherhood", "url": "https://bridgemi.com/michigan-government/fact-check-no-evidence-abdul-el-sayed-pledged-support-to-muslim-brotherhood/"}, {"title": "Bridge Michigan \u2014 Fact check: Abdul El-Sayed not a \u2018fake doctor\u2019 or licensed physician", "url": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-not-a-fake-doctor-or-licensed-physician/"}],
+    "video_url": "",
+    "script": "Late Check. A Truth Social post says the president is heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood, a Fake Doctor who runs the worst clinic in America. Bridge Michigan reviewed the record and found no evidence of membership or a pledge of support. El-Sayed has disavowed the group. He holds a medical degree from Columbia. He did not complete residency and has never held a license to practice in Michigan or New York. He has said he does not practice medicine. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
     "id": "20261025-midday",
     "slot": "Midday Check",
     "aired_at": "2026-10-25T12:00:00-05:00",
