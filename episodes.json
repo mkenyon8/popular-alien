@@ -1,5 +1,18 @@
 [
   {
+    "id": "20261026-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-26T11:34:00-05:00",
+    "claim": "Minnesota voters are choosing a GHOST CANDIDATE who is NOT REAL. \"Ilhan Omar\" as it appears on the ballot is not a real person!!",
+    "outlet": "Social media post",
+    "outlet_url": "https://x.com/EricLDaugh/status/2114712009132388412",
+    "read": "A high-engagement post claims voters are choosing a ghost candidate and that the name Ilhan Omar on the ballot is not a real person. A federal court filing in the search-warrant matter lists the subject as Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar. a/k/a means also known as. The filing does not find that the ballot name is nonexistent. Official House records, the Biographical Directory, and her office site list her as Ilhan Omar, the sitting Representative from Minnesota's 5th District. Her office has stated that Ilhan Omar is her real name. The claim does not match the cited record. The interesting fact is the alternate name in the motion. The missing fact is that a/k/a is not a finding of a fake ballot identity.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "U.S. District Court for the District of Columbia \u2014 Motion for Extension of Time, Case 1:26-mc-00144", "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.3.0.pdf"}, {"title": "U.S. House of Representatives \u2014 About Representative Ilhan Omar", "url": "https://omar.house.gov/about"}],
+    "video_url": "",
+    "script": "Midday Check. A post says Minnesota voters are choosing a ghost candidate. The name Ilhan Omar on the ballot is not a real person. A federal filing in the search-warrant case lists the subject as Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar. a/k/a means also known as. Official House records list her as Ilhan Omar, the Representative from Minnesota's Fifth District. Her office says that is her real name. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
     "id": "20261026-morning",
     "slot": "Morning Check",
     "aired_at": "2026-10-26T06:31:00-05:00",
@@ -11,109 +24,5 @@
     "sources": [{"title": "Alaska Division of Elections \u2014 2022 General Election Official Summary Report", "url": "https://www.elections.alaska.gov/results/22GENR/ElectionSummaryReportRPT.pdf"}, {"title": "Alaska Division of Elections \u2014 2022 U.S. Senate Ranked-Choice Detailed Report", "url": "https://www.elections.alaska.gov/results/22GENR/rcv/US-SEN.pdf"}],
     "video_url": "",
     "script": "Morning Check. A Truth Social post says everyone thought Lisa Murkowski came in second or third, then she won under ranked-choice voting. The official first-choice tally from the Alaska Division of Elections shows she finished first with 113,495 votes, 43.37 percent, ahead of Kelly Tshibaka at 111,480 votes, 42.60 percent. She led the initial count. Second-choice ballots from the Democrat and a withdrawn Republican then widened the margin to 53.7 percent. The claim does not match the cited record. Verdict: contradicted."
-  },
-  {
-    "id": "20261025-late",
-    "slot": "Late Check",
-    "aired_at": "2026-10-25T23:08:00-05:00",
-    "claim": "Heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood. Abdulrahman Mohamed El-Sayed is a Fake Doctor, who runs what is considered to be the WORST CLINIC IN AMERICA.",
-    "outlet": "Truth Social",
-    "outlet_url": "https://truthsocial.com/@realDonaldTrump",
-    "read": "Bridge Michigan reviewed public records and found no evidence that El-Sayed is a member of or pledged support to the Muslim Brotherhood. He has disavowed the group. He holds an MD from Columbia and a public-health doctorate from Oxford, but did not complete residency and has never held a medical license in Michigan or New York. He has said he does not practice medicine. The claim does not match the cited record. The interesting fact is the campaign attack. The missing fact is the degree and the absence of membership evidence.",
-    "verdict": "Contradicted",
-    "sources": [{"title": "Bridge Michigan \u2014 Fact check: No evidence Abdul El-Sayed \u2018pledged support\u2019 to Muslim Brotherhood", "url": "https://bridgemi.com/michigan-government/fact-check-no-evidence-abdul-el-sayed-pledged-support-to-muslim-brotherhood/"}, {"title": "Bridge Michigan \u2014 Fact check: Abdul El-Sayed not a \u2018fake doctor\u2019 or licensed physician", "url": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-not-a-fake-doctor-or-licensed-physician/"}],
-    "video_url": "",
-    "script": "Late Check. A Truth Social post says the president is heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood, a Fake Doctor who runs the worst clinic in America. Bridge Michigan reviewed the record and found no evidence of membership or a pledge of support. El-Sayed has disavowed the group. He holds a medical degree from Columbia. He did not complete residency and has never held a license to practice in Michigan or New York. He has said he does not practice medicine. The claim does not match the cited record. Verdict: contradicted."
-  },
-  {
-    "id": "20261025-midday",
-    "slot": "Midday Check",
-    "aired_at": "2026-10-25T12:00:00-05:00",
-    "claim": "Audi has just committed to invest $4.2 billion in nearby Macon, Georgia to begin the construction next month on a massive plant that will produce 200,000 cars a year. This will be the single largest investment in U.S. auto industry history, modern history.",
-    "outlet": "Rally claim",
-    "outlet_url": "https://www.audi.com/en/press-releases/audi-to-establish-first-us-production-site-in-georgia-investing-4-billion-and-creating-4500-jobs-18420",
-    "read": "Audi's press release states construction is scheduled to begin in 2027, with production in the early 2030s. Georgia officials list site grading in 2027 and construction in 2028. The claim of next-month construction does not match that timeline. The $4.2 billion figure is not the single largest modern U.S. auto investment; Hyundai has announced packages of $21 billion and later $26 billion. Reuters notes a final investment decision by Volkswagen's supervisory board is still required. The interesting fact is the plant announcement. The missing fact is the multi-year construction schedule in the company's own release.",
-    "verdict": "Contradicted",
-    "sources": [{"title": "Audi press release \u2014 Audi to establish first U.S. production site in Georgia", "url": "https://www.audi.com/en/press-releases/audi-to-establish-first-us-production-site-in-georgia-investing-4-billion-and-creating-4500-jobs-18420"}, {"title": "Georgia Governor Brian Kemp announcement", "url": "https://gov.georgia.gov/"}],
-    "video_url": "",
-    "script": "Midday Check. A rally line says Audi has committed $4.2 billion to begin construction next month on a plant in Georgia, and that this is the single largest investment in U.S. auto industry history, modern history. Audi's own release says construction is scheduled to begin in 2027. Georgia officials list grading in 2027 and construction in 2028. Production is targeted for the early 2030s. The claim does not match the cited record on the timeline. Larger packages have been announced by other automakers in recent years. Verdict: contradicted."
-  },
-  {
-    "id": "20261025-morning",
-    "slot": "Morning Check",
-    "aired_at": "2026-10-25T06:30:00-05:00",
-    "claim": "Amy Acton is a liar who lies about her past, including growing up living in a tent. None of that is true.",
-    "outlet": "Ramaswamy campaign ad",
-    "outlet_url": "https://www.factcheck.org/2026/10/controversial-ohio-ad-calls-acton-a-liar-but-records-back-her-account-of-childhood/",
-    "read": "The ad features Acton's estranged mother calling her a liar about her childhood, specifically denying the tent claim. Court records show her stepfather was charged with rape in July 1978, indicted that September, and fled. Acton was removed from custody at age 12. Arrest paperwork listed a campground address. A 1982 police report notes the manager said he lived there earlier. The claim does not match the cited record. The interesting fact is the mother's statement. The missing fact is the contemporaneous court and police paper trail.",
-    "verdict": "Contradicted",
-    "sources": [{"title": "FactCheck.org \u2014 Controversial Ohio Ad Calls Acton a \u2018Liar,\u2019 But Records Back Her Account of Childhood", "url": "https://www.factcheck.org/2026/10/controversial-ohio-ad-calls-acton-a-liar-but-records-back-her-account-of-childhood/"}],
-    "video_url": "",
-    "script": "Morning Check. A campaign ad says Amy Acton is a liar about her past, including living in a tent. None of that is true. Court records show her stepfather was charged with rape in 1978 and indicted. She was removed from her mother's custody at age 12. Arrest paperwork listed a campground as the address. A later police report noted he had lived there. The claim does not match the cited record. Verdict: contradicted."
-  },
-  {
-    "id": "20261025-late",
-    "slot": "Late Check",
-    "aired_at": "2026-10-25T02:50:00-05:00",
-    "claim": "There is a guy sitting behind a table just picking the winner in Alaska's ranked-choice system.",
-    "outlet": "Rally claim",
-    "outlet_url": "https://www.nytimes.com/2026/10/24/us/politics/trump-elections-voting-fact-check.html",
-    "read": "Alaska voters approved ranked-choice voting in a 2020 ballot initiative. Voters rank candidates. The system does not have a person selecting a winner. The New York Times fact-check of the Oct 24 rally line marks it false. The interesting claim is that the system is opaque. The missing fact is that the ranking is on the ballot and the count is public.",
-    "verdict": "Contradicted",
-    "sources": [{"title": "New York Times \u2014 A Fact-Check on Trump's Election Claims", "url": "https://www.nytimes.com/2026/10/24/us/politics/trump-elections-voting-fact-check.html"}],
-    "video_url": "",
-    "script": "Late Check. One line from the Alaska rally does not survive the ballot. The claim says a guy sits behind a table and picks the winner in ranked-choice. Alaska voters approved the system in 2020. Voters rank candidates. There is no person selecting a winner. Verdict: contradicted."
-  },
-  {
-    "id": "20261024-evening",
-    "slot": "Evening Check",
-    "aired_at": "2026-10-24T18:00:00-05:00",
-    "claim": "The biggest reason gas prices are so high is that about 20 percent of American refining capacity went offline when Joe Biden was president.",
-    "outlet": "JD Vance",
-    "outlet_url": "https://www.politifact.com/2026-midterms/",
-    "read": "PolitiFact checked the Oct 17 CBS town-hall line. Refining capacity did not drop by 20 percent under Biden. Some plants closed and others expanded. The claim uses a round number that does not match the EIA capacity series. The interesting fact is that some capacity left. The missing fact is the size of what left.",
-    "verdict": "Missing context",
-    "sources": [{"title": "PolitiFact \u2014 2026 Midterms", "url": "https://politifact.com/2026-midterms/"}],
-    "video_url": "",
-    "script": "Evening Check. JD Vance said the biggest reason gas prices are high is that about 20 percent of American refining capacity went offline under Biden. The number does not match the record. Some plants closed. Others expanded. Verdict: missing context."
-  },
-  {
-    "id": "20261024-midday",
-    "slot": "Midday Check",
-    "aired_at": "2026-10-24T12:00:00-05:00",
-    "claim": "We won the presidency three times.",
-    "outlet": "Rally claim",
-    "outlet_url": "https://www.wral.com/news/state/fact-check-trump-midterm-rally-talking-point-october-21/",
-    "read": "The line counts 2016, 2020, and 2024. The 2020 result was certified for Biden, 306 electoral votes to 232. Congress accepted that result. PolitiFact and WRAL mark the three-win claim as false. The interesting fact is that the claim is repeated. The missing fact is the certified count.",
-    "verdict": "Contradicted",
-    "sources": [{"title": "WRAL \u2014 Fact-checking Trump's midterm talking points", "url": "https://www.wral.com/news/state/fact-check-trump-midterm-rally-talking-point-october-21/"}],
-    "video_url": "",
-    "script": "Midday Check. The line is that the presidency was won three times. 2016 and 2024 were wins. 2020 was certified for Biden. Verdict: contradicted."
-  },
-  {
-    "id": "20261024-morning",
-    "slot": "Morning Check",
-    "aired_at": "2026-10-24T06:30:00-05:00",
-    "claim": "If an election worker writes anything on your ballot before you put it in the voting machine, your ballot could be disqualified.",
-    "outlet": "Social media image",
-    "outlet_url": "https://www.politifact.com/elections/",
-    "read": "PolitiFact checked the circulating image on Oct 16. Election workers mark ballots for spoiled, provisional, or curbside reasons under state rules. A mark by a worker does not by itself disqualify a ballot. The claim turns a routine procedure into a trap. The interesting fact is that workers do mark some ballots. The missing fact is why.",
-    "verdict": "Missing context",
-    "sources": [{"title": "PolitiFact \u2014 Elections", "url": "https://www.politifact.com/elections"}],
-    "video_url": "",
-    "script": "Morning Check. A social image says if an election worker writes on your ballot, it could be disqualified. Workers mark ballots for spoiled, provisional, or curbside reasons. A mark is not a disqualification. Verdict: missing context."
-  },
-  {
-    "id": "20261007-late",
-    "slot": "Late Check",
-    "aired_at": "2026-10-07T23:00:00-05:00",
-    "claim": "The United States has not built a new oil refinery in fifty years.",
-    "outlet": "Recurring claim",
-    "outlet_url": "https://www.eia.gov/tools/faqs/faq.php?id=29&t=6",
-    "read": "The line is true only if it means a large fuels refinery with full downstream capacity. EIA's January 1, 2026 count is 130 operable refineries. The newest is Texas International Terminals in Galveston, 45,000 barrels a day, first operated in February 2022. Smaller plants also came online in 2021, 2019, 2017, and 2015. The newest refinery with significant downstream capacity is Marathon Garyville, Louisiana, online in 1977 and now 617,000 barrels a day. Existing plants have added capacity since, including ExxonMobil Beaumont in 2023. No new large refinery is not the same as no new refinery.",
-    "verdict": "Missing context",
-    "sources": [{"title": "EIA \u2014 When was the last refinery built in the United States?", "url": "https://www.eia.gov/tools/faqs/faq.php?id=29&t=6"}],
-    "video_url": "",
-    "script": "Late Check. One line keeps getting repeated. The United States has not built a new oil refinery in fifty years. That is true only if the sentence means a large fuels refinery. The Energy Information Administration counts 130 operable refineries as of January 1, 2026. The newest is in Galveston. It started in February 2022, at 45,000 barrels a day. Smaller plants opened in 2021, 2019, 2017, and 2015. The newest with significant downstream capacity is Marathon in Garyville, Louisiana, online in 1977. Verdict: missing context. The interesting fact is that no large new refinery has been built. The missing fact is that new refineries have."
   }
 ]
