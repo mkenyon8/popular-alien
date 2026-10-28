@@ -1,0 +1,18 @@
+[
+  {
+    "id": "20261028-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-28T11:45:00-05:00",
+    "claim": "The Alaskans for Mary campaign has no involvement with either Sullivan campaign and did not recruit any candidates into the race",
+    "outlet": "Alaskans for Mary campaign statement",
+    "outlet_url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
+    "read": "The Alaskans for Mary campaign stated that it has no involvement with either Sullivan campaign and did not recruit any candidates into the Alaska Senate race. The New York Times reported on October 28 that aides to Mary Peltola received instructions in summer 2025 to comb voter records for people named Dan Sullivan, that the effort (internally called the ballot composition project) involved campaign lawyers and Democratic Senatorial Campaign Committee aides, and that text messages and documents show the team worked to recruit Dan J. Sullivan and other potential spoilers. Former campaign manager Elisa Rios told the Times that Peltola was not directly involved but was \u201cdefinitely aware.\u201d The claim does not match the cited record. The interesting fact is the scale of the internal coordination. The missing fact is the campaign\u2019s continued denial against the reported texts and interviews.",
+    "verdict": "Contradicted",
+    "sources": [
+      {"title": "New York Times \u2014 Inside Democrats\u2019 Secret Effort to Stack Alaska\u2019s Ballot, October 28, 2026", "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"},
+      {"title": "DNYUZ mirror of NYT reporting", "url": "https://dnyuz.com/2026/10/28/inside-democrats-secret-effort-to-stack-alaskas-ballot/"}
+    ],
+    "video_url": "",
+    "script": "Midday Check. The Alaskans for Mary campaign says it has no involvement with either Sullivan campaign and did not recruit any candidates into the race. The New York Times reported today that a staffer for Mary Peltola was instructed in the summer of twenty twenty-five to find as many people named Dan Sullivan in Alaska as possible. The effort, called the ballot composition project, involved campaign lawyers and senior aides from the Democratic Senatorial Campaign Committee. Text messages and documents reviewed by the Times show the team worked to recruit Dan J. Sullivan and other potential spoilers. Former campaign manager Elisa Rios said Peltola was not directly involved but was definitely aware. The claim does not match the cited record. Verdict: contradicted."
+  }
+]
