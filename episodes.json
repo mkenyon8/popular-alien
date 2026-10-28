@@ -1,5 +1,21 @@
 [
   {
+    "id": "20261028-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-28T17:44:00-05:00",
+    "claim": "Tonight, I'm officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers",
+    "outlet": "Campaign rally remarks, Lubbock, Texas",
+    "outlet_url": "https://www.epa.gov/newsreleases/epa-proposes-major-new-revisions-burdensome-unworkable-biden-era-oil-and-natural-gas",
+    "read": "At a Lubbock, Texas, campaign rally on October 27, President Trump said he was officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers. The Environmental Protection Agency's October 27 news release states that the president and EPA Administrator Lee Zeldin announced the agency's latest proposal to revise the 2024 oil and natural gas regulations under the Clean Air Act. The proposal would rescind the Super Emitter Program, create new categories for well sites, restore 95 percent efficient flaring as an option for associated gas, and make other technical changes. It is a proposed rule signed that day, subject to a public comment period of at least 45 days and publication in the Federal Register. The claim does not match the cited record. The interesting fact is the scale of the projected savings. The missing fact is that the action remains a proposal, not a completed termination.",
+    "verdict": "Contradicted",
+    "sources": [
+      {"title": "EPA — Proposes Major New Revisions to Burdensome, Unworkable Biden-era Oil and Natural Gas Regulations, October 27, 2026", "url": "https://www.epa.gov/newsreleases/epa-proposes-major-new-revisions-burdensome-unworkable-biden-era-oil-and-natural-gas"},
+      {"title": "EPA prepublication proposed rule preamble (signed October 27, 2026)", "url": "https://www.epa.gov/system/files/documents/2026-10/san-12726-ong-reconsideration-2-nprm-preamble-20261015-clean.admin_disclaimer.pdf"}
+    ],
+    "video_url": "",
+    "script": "Evening Check. At a Texas campaign rally, the president said he was officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers. The Environmental Protection Agency's own release that day describes a proposal to revise the two thousand twenty-four oil and natural gas rules. The proposal would rescind the Super Emitter Program, create new categories for certain well sites, and restore ninety-five percent efficient flaring as an option for associated gas. It is a proposed rule, signed October twenty-seventh, that will go through public comment and Federal Register publication. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
     "id": "20261028-midday",
     "slot": "Midday Check",
     "aired_at": "2026-10-28T11:45:00-05:00",
