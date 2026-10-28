@@ -1,1 +1,36 @@
-PLACEHOLDER_WILL_REPLACE
+[
+  {
+    "id": "20261027-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-27T17:44:00-05:00",
+    "claim": "There's 500 million Arabs in the world. And yet they don't produce science. They don't win the Nobel Prize. They don't win the Fields Prize. They don't win the Wolf Prize. They don't produce literature.",
+    "outlet": "Campaign rally remarks",
+    "outlet_url": "https://www.newsweek.com/rfk-jr-says-500m-arabs-dont-produce-science-at-michigan-rally-12622276",
+    "read": "At a Grand Rapids, Michigan, campaign event Monday, Health and Human Services Secretary Robert F. Kennedy Jr. said there are 500 million Arabs in the world and yet they do not produce science, do not win the Nobel Prize, the Fields Prize, or the Wolf Prize, and do not produce literature. Official Nobel records show Egyptian chemist Ahmed Zewail received the 1999 Nobel Prize in Chemistry for femtosecond spectroscopy of chemical reactions; he was born in Damanhur, Egypt. Egyptian novelist Naguib Mahfouz received the 1988 Nobel Prize in Literature, the first for a writer with Arabic as his native tongue. Jordanian-born chemist Omar M. Yaghi shared the 2025 Nobel Prize in Chemistry for metal-organic frameworks. Zewail also received the 1993 Wolf Prize in Chemistry. The claim does not match the cited record. The interesting fact is the scale of the assertion. The missing fact is the documented prize winners.",
+    "verdict": "Contradicted",
+    "sources": [
+      {"title": "Nobel Prize — Ahmed Zewail, Chemistry 1999", "url": "https://www.nobelprize.org/prizes/chemistry/1999/zewail/facts/"},
+      {"title": "Nobel Prize — Naguib Mahfouz, Literature 1988", "url": "https://www.nobelprize.org/prizes/literature/1988/press-release/"},
+      {"title": "Nobel Prize — Chemistry 2025 press release (Omar M. Yaghi)", "url": "https://www.nobelprize.org/prizes/chemistry/2025/press-release/"},
+      {"title": "Wolf Foundation — Ahmed H. Zewail", "url": "https://wolffund.org.il/ahmed-h-zewail/"}
+    ],
+    "video_url": "",
+    "script": "Evening Check. At a Michigan campaign event, the health secretary said there are five hundred million Arabs in the world and yet they do not produce science. They do not win the Nobel Prize. They do not win the Fields Prize. They do not win the Wolf Prize. They do not produce literature. Official Nobel records show Egyptian chemist Ahmed Zewail received the nineteen ninety-nine Nobel Prize in Chemistry. Egyptian novelist Naguib Mahfouz received the nineteen eighty-eight Nobel Prize in Literature. Jordanian-born chemist Omar Yaghi shared the twenty twenty-five Nobel Prize in Chemistry. Zewail also received the nineteen ninety-three Wolf Prize in Chemistry. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261027-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-27T11:34:00-05:00",
+    "claim": "15% of Americans believe between 1 and 5% of NCAA athletes are transgender; 14% believe between 6 and 25%.",
+    "outlet": "X post",
+    "outlet_url": "https://x.com/samstein/status/2115078660373745735",
+    "read": "A high-engagement post reports a YouGov survey in which 15 percent of American adults estimated that between 1 and 5 percent of NCAA athletes are transgender and 14 percent estimated between 6 and 25 percent. An NCAA spokesperson confirmed that the current number of student-athletes competing in women's sports who identify as transgender is effectively zero, consistent with the association's policy. In December 2024 NCAA President Charlie Baker told a Senate panel that fewer than 10 of more than 510,000 athletes were transgender. In February 2025 the Board of Governors restricted women's-team competition to athletes assigned female at birth. The estimates do not match the cited record. The interesting fact is the size of the overestimate. The missing fact is the official count and the current policy.",
+    "verdict": "Contradicted",
+    "sources": [
+      {"title": "The Bulwark — New poll on sports, masculinity, and transgender athletes", "url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"},
+      {"title": "NCAA — Participation Policy for Transgender Student-Athletes (effective February 6, 2025)", "url": "https://www.ncaa.org/what-we-do/health-safety-and-performance/participation-policy-for-transgender-student-athletes/"}
+    ],
+    "video_url": "",
+    "script": "Midday Check. A high-engagement post reports a new poll. Fifteen percent of Americans said they believe between one and five percent of NCAA athletes are transgender. Fourteen percent put the share between six and twenty-five percent. An NCAA spokesperson confirmed the current number competing in women's sports is effectively zero. In December two thousand twenty-four, NCAA President Charlie Baker told a Senate panel fewer than ten of more than five hundred ten thousand athletes were transgender. The following February the Board of Governors restricted women's-team competition to athletes assigned female at birth. The estimates do not match the cited record. Verdict: contradicted."
+  }
+]
