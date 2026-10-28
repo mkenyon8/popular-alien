@@ -1,5 +1,21 @@
 [
   {
+    "id": "20261028-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-10-28T10:55:00-05:00",
+    "claim": "DOJ has long followed a policy not to take investigative steps relating to a candidate this close to an election if delaying the action will not jeopardize a criminal investigation",
+    "outlet": "Letter from 175 House Democrats",
+    "outlet_url": "https://jayapal.house.gov/wp-content/uploads/2026/10/Omar-Investigation-Letter_2026.10.26-final.pdf",
+    "read": "A letter from 175 House Democrats led by Rep. Pramila Jayapal to Attorney General Todd Blanche and DHS Secretary Markwayne Mullin cites Justice Manual section 9-85.500 for the claim that the Department has long followed a policy against taking investigative steps involving a candidate this close to an election when delay would not jeopardize the case. The cited section states that prosecutors and agents may never select the timing of any action, including investigative steps, for the purpose of affecting any election or giving an advantage or disadvantage to any candidate or party. It requires consultation with the Public Integrity Section when an action is likely to raise that issue or the perception of it. The section does not establish a time-based prohibition on investigative steps near an election. The claim does not match the cited record. The interesting fact is the citation itself. The missing fact is the actual text of the provision.",
+    "verdict": "Contradicted",
+    "sources": [
+      {"title": "Letter from 175 House Democrats to AG Blanche and Secretary Mullin, October 26, 2026", "url": "https://jayapal.house.gov/wp-content/uploads/2026/10/Omar-Investigation-Letter_2026.10.26-final.pdf"},
+      {"title": "Justice Manual § 9-85.500 – Actions that May Have an Impact on an Election", "url": "https://www.justice.gov/jm/jm-9-85000-protection-government-integrity#9-85.500"}
+    ],
+    "video_url": "",
+    "script": "Morning Check. A letter signed by one hundred seventy-five House Democrats cites the Justice Manual for the claim that the Department has long followed a policy not to take investigative steps relating to a candidate this close to an election if delaying the action will not jeopardize a criminal investigation. The section they cite, nine dash eighty-five point five hundred, says prosecutors and agents may never select the timing of any action, including investigative steps, for the purpose of affecting any election or giving an advantage or disadvantage to any candidate or party. It requires consultation when an action is likely to raise that issue. It does not set a calendar cutoff. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
     "id": "20261027-evening",
     "slot": "Evening Check",
     "aired_at": "2026-10-27T17:44:00-05:00",
