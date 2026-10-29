@@ -1,1 +1,18 @@
-PLACEHOLDER_TO_BE_REPLACED
+[
+  {
+    "id": "20261029-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-10-29T06:31:00-05:00",
+    "claim": "Defense Secretary Pete Hegseth fired the Pentagon\u2019s top military planner over leaks of classified information related to the Iran and Ukraine wars",
+    "outlet": "CBS News, citing a Pentagon official",
+    "outlet_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
+    "read": "CBS News reported that an anonymous Pentagon official said Army Lt. Gen. Brett Sylvia was fired for misconduct involving leaks of classified information on the Iran and Russia-Ukraine wars, and that he failed three polygraph tests, with the case referred to the Department of Justice. The Joint Staff spokesperson issued a statement thanking Sylvia for 32 years of service and wishing him well, with no mention of leaks, misconduct, or any reason for the removal. Other reports, including the Associated Press, stated that no reason had been given for the firing. The claim does not match the cited public record of the Joint Staff statement.",
+    "verdict": "Missing context",
+    "sources": [
+      {"title": "CBS News \u2014 Hegseth fires Pentagon's top military planner, October 29, 2026", "url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"},
+      {"title": "Associated Press via NewsBreak \u2014 Hegseth fires the Pentagon's top military planner", "url": "https://www.newsbreak.com/the-associated-press-510077/4973266049225-hegseth-fires-the-pentagon-s-top-military-planner-even-as-trump-considers-new-iran-strikes"}
+    ],
+    "video_url": "",
+    "script": "Morning Check. CBS News reports that Defense Secretary Pete Hegseth fired the Pentagon\u2019s top military planner, Army Lieutenant General Brett Sylvia, over leaks of classified information tied to the Iran and Ukraine wars. An anonymous official told CBS that Sylvia failed three polygraph tests and that the case has been referred to the Justice Department. The Joint Staff, in its public statement, thanked Sylvia for thirty-two years of service and wished him and his family well. The statement contains no reference to leaks, misconduct, or any reason for the removal. Other accounts, including the Associated Press, reported that no reason had been given. The claim does not match the cited public record. Verdict: missing context."
+  }
+]
