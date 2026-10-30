@@ -1,5 +1,34 @@
 [
   {
+    "id": "20261030-reframe-serbia",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-10-30T03:16:00-05:00",
+    "claim": "Serbia votes in election pitting longtime leader against student movement",
+    "outlet": "Al Jazeera",
+    "outlet_url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss",
+    "read": "A clean horse race, one unpaid Orban analogy, and an accusation that forgot its premises. Graded B+ overall across three arguments. Al Jazeera, echoing analyst Mario Bikarski: B+. Rights groups and activists: C. Aleksandar Vucic: F. Scorecard: 0% valid, 33% cogent, 33% supported, 100% fallacy-free.",
+    "grade": "B+",
+    "scores": {
+      "valid": 0,
+      "cogent": 33,
+      "supported": 33,
+      "fallacy_free": 100
+    },
+    "sources": [
+      {
+        "title": "Al Jazeera — Serbia votes in election pitting longtime leader against student movement",
+        "url": "https://www.aljazeera.com/news/2026/10/25/serbia-votes-in-election-pitting-longtime-leader-against-student-movement?traffic_source=rss"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode",
+        "url": "https://show.popularalien.com/?segment=4a6a07884758"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/4a6a07884758.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Al Jazeera reports: Serbia votes in election pitting longtime leader against student movement.\nAl Jazeera reported this on October 25.\nThe headline: Serbia votes in election pitting longtime leader against student movement.\nPolls show populist leader Aleksandar Vucic in a tight race against the anticorruption and anti-authoritarian movement.\nLet's grade the headline.\nWe ask four questions of every argument.\nIs it valid? If the reasons are true... must the conclusion be true?\nIs it cogent? Are the reasons believable... and do they make it likely?\nIs it supported? Does the article actually show the evidence?\nAnd is it fallacy-free? Does it avoid reasoning tricks... like attacking the person?\nArgument one. It comes from Al Jazeera, echoing analyst Mario Bikarski.\nThe reasons. Reason one. Aleksandar Vucic has held power as prime minister and then president for more than a decade and is described as a strong incumbent.\nReason two. An Ipsos poll puts his Serbian Progressive Party at 47 percent and the Student List at 40 percent, while other polls have put the students ahead.\nReason three. Nearly two years of student-led protests have gained widespread support, including a rally of about 150,000 in Belgrade, and the students have fielded a roster of 250 candidates.\nTherefore... The election is a watershed and the Student List is the biggest challenge to Vucic yet; a loss would be a profound shift reminiscent of Viktor Orban’s defeat.\nLet's put argument one on the board. P stands for its reasons, all together. C is the conclusion.\nHere's every combination of true and false.\nRow two. The reasons are true... but the conclusion is false. Nothing in the reasons rules that out.\nThat's a counterexample. One is enough. The argument is invalid.\nTo make it valid, you'd need a missing link. If P... then C.\nNow, whenever both premises are true, C is true. No counterexample.\nValid.\nBut valid doesn't mean true. Someone still has to show that link is true.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? Yes. The reasons are believable and make the conclusion likely.\nIs it supported? Partly. Some of it is shown. Some is only asserted.\nAny fallacies? None found.\nThat's a B-plus.\nWhy B plus? Charitably reconstructed, the horse-race half is the real thing: named pollster, contrary-poll caveat, crowd figure, long incumbency.\nThat inductively supports ‘biggest challenge’ and a genuine watershed contest.\nIt does not entail ‘profound shift reminiscent of Orban’ — no comparative premise is offered — which is why this stops at a B-plus rather than an A.\nArgument two. It comes from Rights groups and activists. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. Sixteen people died when a train station canopy collapsed in Novi Sad in 2024.\nReason two. The collapse was widely blamed on government corruption and triggered the student demonstrations.\nTherefore... Repression has worsened since the canopy collapse.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? No. The reasons don't make the conclusion likely.\nIs it supported? Partly. Some of it is shown. Some is only asserted.\nAny fallacies? None found.\nThat's a C.\nWhy C? I will not fine the reporter for a claim they attribute and immediately balance with a denial.\nJudged as an argument on the page, though, a death toll plus ‘widely blamed’ does not establish a repression trend.\nConcrete trigger, missing link: a C until the cases show up.\nArgument three. It comes from Aleksandar Vucic. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. No supporting premise appears in the text — only the accusation and the students’ denial.\nTherefore... The students are funded by foreign agents in Croatia and Montenegro.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? No. The reasons don't make the conclusion likely.\nIs it supported? No. The article doesn't show the evidence.\nAny fallacies? None found.\nThat's an F.\nWhy F? Charity first: this copy may not hold his full case.\nWhat it does hold is a naked charge and a denial.\nNo document, no quoted receipt, no inference.\nThat is not an argument.\nF until a trail appears; the desk stays clean by not laundering it.\nNow, the whole scorecard.\nValid: 0 percent.\nCogent: 33 percent.\nConclusion supported: 33 percent.\nFallacy-free: 100 percent. No fallacies found.\nOverall... a B-plus.\nIn one line: A clean horse race, one unpaid Orban analogy, and an accusation that forgot its premises.\nThree arguments. Zero valid. One cogent. None fully supported. Zero fallacies.\nDon't just read the news. ReFrame it."
+  },
+  {
     "id": "20261030-reframe-milei",
     "slot": "ReFrame",
     "lead": true,
