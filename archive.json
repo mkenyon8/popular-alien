@@ -1,5 +1,63 @@
 [
   {
+    "id": "20261030-reframe-iran-hormuz-tankers",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-10-30T06:43:00-05:00",
+    "claim": "Iran claims four tankers hit mines in Hormuz as U.S. strike fears grow",
+    "outlet": "CNBC",
+    "outlet_url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html",
+    "read": "Fires are not mines, press releases are not sweeps, and unnamed analysts do not get to set the war clock. Graded B overall across 3 arguments. Iran's IRGC and army: C. IRGC spokesman Hossein Mohebi: A-. CNBC's lead framing: B. Scorecard: 33% valid, 33% cogent, 67% supported, 100% fallacy-free.",
+    "grade": "B",
+    "scores": {
+      "valid": 33,
+      "cogent": 33,
+      "supported": 67,
+      "fallacy_free": 100
+    },
+    "sources": [
+      {
+        "title": "CNBC — Iran claims four tankers hit mines in Hormuz as U.S. strike fears grow",
+        "url": "https://www.cnbc.com/2026/10/30/iran-trump-hormuz-oil-middle-east-.html"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode",
+        "url": "https://show.popularalien.com/?segment=f31991ea64a8"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/f31991ea64a8.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNBC reports: Iran claims four tankers hit mines in Hormuz as U.S. strike fears grow.\nCNBC reported this on October 30.\nThe headline: Iran claims four tankers hit mines in Hormuz as U.S. strike fears grow.\nLet's grade the headline.\nWe ask four questions of every argument.\nIs it valid? If the reasons are true... must the conclusion be true?\nIs it cogent? Are the reasons believable... and do they make it likely?\nIs it supported? Does the article actually show the evidence?\nAnd is it fallacy-free? Does it avoid reasoning tricks... like attacking the person?\nArgument one. It comes from Iran's IRGC and army. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. The IRGC said three tankers caught fire after striking mines along what it called an 'unauthorized southern route' near the Omani coast.\nReason two. Iran's army said a fourth tanker burned east of the strait.\nReason three. Separately, UKMTO reported a small boat attaching two explosive devices to one tanker about 25 nautical miles northeast of Khasab, disabling it after an engine-room fire, with the crew safe.\nTherefore... Four tankers struck mines in or near the Strait of Hormuz.\nLet's put argument one on the board. P stands for its reasons, all together. C is the conclusion.\nHere's every combination of true and false.\nRow two. The reasons are true... but the conclusion is false. Nothing in the reasons rules that out.\nThat's a counterexample. One is enough. The argument is invalid.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? No. The reasons don't make the conclusion likely.\nIs it supported? Partly. Some of it is shown. Some is only asserted.\nAny fallacies? None found.\nThat's a C.\nWhy C? Charity first: something burned, and an outside maritime agency confirms at least one deliberate explosive attack.\nBut 'caught fire after striking mines' writes the disputed cause into the description, and UKMTO's boat-and-devices account is a different mechanism for a single ship.\nA fire is not a mine strike, and one corroborated attack is not four.\nArgument two. It comes from IRGC spokesman Hossein Mohebi. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. U.S. Central Command stated that American forces had cleared mines from the primary transit routes in the Strait of Hormuz.\nReason two. A physical clearance claim should be proved 'with independent evidence, not a statement.'\nReason three. 'The reality of the Strait of Hormuz is determined in the air, on land and at sea, not on social media and in America's media war rooms.'\nTherefore... CENTCOM's statement, by itself, does not establish that the Strait of Hormuz has been cleared of mines.\nArgument two was graded valid. On the board, it has this shape. P... and if P, then C.\nHere's every combination of true and false.\nLook at every row where both premises are true. C is true every time. No counterexample.\nThat's what valid means. But valid isn't the same as true. Whether the reasons are true... is what cogent and supported measure.\nIs it valid? Yes. If the reasons are true, the conclusion must be true.\nIs it cogent? Yes. The reasons are believable and make the conclusion likely.\nIs it supported? Yes. The article shows the evidence.\nAny fallacies? None found.\nThat's an A-minus.\nWhy A minus? This is a clean burden-of-proof argument, and on the page it holds: an empirical demining claim is not proved by announcing it.\nThe 'media war rooms' flourish is heat, not a premise the conclusion needs.\nA-minus, not A, because he shows the U.S. line is unproved here — he does not show the mines are still there.\nArgument three. It comes from CNBC's lead framing.\nThe reasons. Reason one. Iran's mine claims and Houthi claims of six operations against Saudi airports and oil facilities arrived while Vance was trying to reopen talks.\nReason two. Saudi authorities have not confirmed those attacks, though they said defenses destroyed one Houthi drone toward the Mecca region.\nReason three. The Wall Street Journal, citing unnamed U.S. officials, reported that Adm. Brad Cooper briefed Trump on military options, and 'reports have emerged' that action may resume after the Nov. 3 midterms.\nReason four. The article says the flare-up is 'fueling concern among regional officials and analysts' that fighting could resume around the vote.\nTherefore... The incidents are escalating pressure on two fronts and justify growing fear that U.S. strikes could resume around the Nov. 3 election, even as diplomacy continues.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? No. The reasons don't make the conclusion likely.\nIs it supported? Partly. Some of it is shown. Some is only asserted.\nAny fallacies? None found.\nThat's a B.\nWhy B? The desk earns real credit for 'reportedly,' for citing the Journal's unnamed officials, and for keeping Trump's non-direction of the Vance letter in frame.\nThe joint that fails is the chorus of unnamed 'regional officials and analysts' plus an election-timed resumption that this text does not evidence beyond anonymous briefing.\nGood wire craft; the calendar inference is a gap, not a proof.\nNow, the whole scorecard.\nValid: 33 percent.\nCogent: 33 percent.\nConclusion supported: 67 percent.\nFallacy-free: 100 percent. No fallacies found.\nOverall... a B.\nIn one line: Fires are not mines, press releases are not sweeps, and unnamed analysts do not get to set the war clock.\nThree arguments. One valid. One cogent. One fully supported. Zero fallacies.\nDon't just read the news. ReFrame it."
+  },
+  {
+    "id": "20261030-reframe-mississippi-officer-resigns",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-10-30T06:43:00-05:00",
+    "claim": "Mississippi officer resigns after deadly shooting of one-year-old",
+    "outlet": "CNN",
+    "outlet_url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1ozOUpSZ0FFdmNaaFg1NEtDTnNGNi03SXVtZWVhRm1uNVdRTXlfckJpT2FVMlVuMXdaNV90NkprTmpiaFhMVDZiOTg5SVBsTlZxTGNTSk11ZmV2azNTOFVZWHBGUm5zMm5DSWVXYmthYnk5ZVA2S3VlT3lWbHE0aGJ4Uk1LWlcxWERzWTFCd01PaTFmdlJkYU1vOWNrS190b2dnWV9wQUtvT3NjempTRnZURllYYVNWNV9mLTRDZThvYXgy?oc=5",
+    "read": "A child's death reduced to a video title and a playlist. Graded F overall across 1 argument. CNN headline: F. Scorecard: 0% valid, 0% cogent, 0% supported, 100% fallacy-free.",
+    "grade": "F",
+    "scores": {
+      "valid": 0,
+      "cogent": 0,
+      "supported": 0,
+      "fallacy_free": 100
+    },
+    "sources": [
+      {
+        "title": "CNN — Mississippi officer resigns after deadly shooting of one-year-old",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxON1ozOUpSZ0FFdmNaaFg1NEtDTnNGNi03SXVtZWVhRm1uNVdRTXlfckJpT2FVMlVuMXdaNV90NkprTmpiaFhMVDZiOTg5SVBsTlZxTGNTSk11ZmV2azNTOFVZWHBGUm5zMm5DSWVXYmthYnk5ZVA2S3VlT3lWbHE0aGJ4Uk1LWlcxWERzWTFCd01PaTFmdlJkYU1vOWNrS190b2dnWV9wQUtvT3NjempTRnZURllYYVNWNV9mLTRDZThvYXgy?oc=5"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode",
+        "url": "https://show.popularalien.com/?segment=9fd2f2f4779d"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/9fd2f2f4779d.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNN reports: Mississippi officer resigns after deadly shooting of one-year-old.\nCNN reported this on October 23.\nThe headline: Mississippi officer resigns after deadly shooting of one-year-old.\nMississippi officer resigns after deadly shooting of one-year-old CNN\nLet's grade the headline.\nWe ask four questions of every argument.\nIs it valid? If the reasons are true... must the conclusion be true?\nIs it cogent? Are the reasons believable... and do they make it likely?\nIs it supported? Does the article actually show the evidence?\nAnd is it fallacy-free? Does it avoid reasoning tricks... like attacking the person?\nArgument one. It comes from CNN headline.\nThe reasons. Reason one. The page titles a CNN segment 'Mississippi officer resigns after deadly shooting of one-year-old.'\nReason two. It adds only that Ryan Young 'joins The Lead' and that the clip runs 2:54, with no transcript, named officials, documents, or quotes.\nTherefore... A Mississippi officer resigned after the deadly shooting of a one-year-old.\nLet's put argument one on the board. P stands for its reasons, all together. C is the conclusion.\nHere's every combination of true and false.\nRow two. The reasons are true... but the conclusion is false. Nothing in the reasons rules that out.\nThat's a counterexample. One is enough. The argument is invalid.\nTo make it valid, you'd need a missing link. If P... then C.\nNow, whenever both premises are true, C is true. No counterexample.\nValid.\nBut valid doesn't mean true. Someone still has to show that link is true.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? No. The reasons don't make the conclusion likely.\nIs it supported? No. The article doesn't show the evidence.\nAny fallacies? None found.\nThat's an F.\nWhy F? Charitably, this is a factual claim, not a smear — and it may well be true in the world.\nIn this text it is a conclusion with no premises that entail it and no evidence that inductively supports it.\nAbsence of an argument is not a fallacy I can honestly name; it is simply an empty page where a report should be.\nNow, the whole scorecard.\nValid: 0 percent.\nCogent: 0 percent.\nConclusion supported: 0 percent.\nFallacy-free: 100 percent. No fallacies found.\nOverall... an F.\nIn one line: A child's death reduced to a video title and a playlist.\nOne argument. Zero valid. Zero cogent. None fully supported. Zero fallacies.\nDon't just read the news. ReFrame it."
+  },
+  {
     "id": "20261030-reframe-brazil-lula-bolsonaro-debate",
     "slot": "ReFrame",
     "lead": false,
@@ -205,7 +263,7 @@
   {
     "id": "20261030-reframe-milei",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-10-30T03:07:00-05:00",
     "claim": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
     "outlet": "Al Jazeera",
