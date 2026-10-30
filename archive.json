@@ -1,5 +1,83 @@
 [
   {
+    "id": "20261030-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-30T17:44:00-05:00",
+    "claim": "Alaska Gov. Mike Dunleavy says the state’s election certification could be stopped or changed if the investigation into the Peltola campaign finds wrongdoing.",
+    "outlet": "The Hill / NewsNation interview, October 29–30, 2026",
+    "outlet_url": "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/",
+    "read": "Alaska Governor Mike Dunleavy told NewsNation that if the investigation finds wrongdoing, certification of the Senate race could be stopped or changed. Alaska Statutes § 15.15.450 provides that upon completion of the state ballot counting review, the director of the Division of Elections shall certify the person receiving the largest number of votes and issue a certificate of election. A University of Washington law professor stated that the governor plays no role in the state certification process. The governor does sign a separate federal certificate for the senator-elect, described as typically ministerial. The claim does not match the cited statutory record for who certifies.",
+    "verdict": "Missing context",
+    "sources": [
+      {
+        "title": "The Hill — Alaska may stop election verification due to Mary Peltola probe",
+        "url": "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/"
+      },
+      {
+        "title": "Alaska Statutes § 15.15.450 — Certification of state ballot counting review",
+        "url": "https://law.justia.com/codes/alaska/title-15/chapter-15/section-15-15-450/"
+      },
+      {
+        "title": "Newsweek — Alaska Election Certification Explained",
+        "url": "https://www.newsweek.com/dan-sullivan-alaska-mary-peltola-election-ballot-certification-12642522"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. Alaska Governor Mike Dunleavy said if investigators find wrongdoing in the reported effort around a second Dan Sullivan, the certification of the Senate race could be stopped or changed. Alaska law is more specific. Section 15.15.450 says that once the state ballot counting review is complete, the director of the Division of Elections shall certify the candidate with the largest number of votes and issue the certificate. A law professor who studies the process told Newsweek the governor plays no role in that state certification step. The governor does have a later, usually ministerial role signing the certificate that goes to the U.S. Senate. The claim does not match the cited record of who certifies. Verdict: missing context."
+  },
+  {
+    "id": "20261030-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-30T17:44:00-05:00",
+    "claim": "President Trump called the reported Democratic effort to place a second Dan Sullivan on the Alaska Senate ballot a “criminal act” and a “conspiracy.”",
+    "outlet": "FOX & Friends / Fox News, October 30, 2026",
+    "outlet_url": "https://x.com/foxandfriends/status/2116143739806576640",
+    "read": "Fox News aired President Trump describing the reported recruitment of a second Dan Sullivan as a criminal act and a conspiracy. The New York Times reported that Democratic operatives and Peltola campaign aides worked to recruit the namesake candidate; the paper noted it did not uncover evidence of illegal activity. The Alaska Supreme Court previously ruled the second candidate could remain on the ballot. The Justice Department has issued subpoenas and filed a civil suit seeking to condition certification, but no criminal charges have been filed. The claim does not match the cited public record of a completed crime.",
+    "verdict": "Missing context",
+    "sources": [
+      {
+        "title": "FOX & Friends post — Trump on Decoy Dan",
+        "url": "https://x.com/foxandfriends/status/2116143739806576640"
+      },
+      {
+        "title": "New York Times — Inside Democrats’ Secret Effort to Stack Alaska’s Ballot",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+      },
+      {
+        "title": "CourtListener — United States v. State of Alaska amended complaint",
+        "url": "https://www.courtlistener.com/docket/75009254/43/united-states-v-state-of-alaska/"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. On Fox News, President Trump called the reported effort to put a second Dan Sullivan on the Alaska ballot a criminal act and a conspiracy. The New York Times detailed recruitment by Democratic operatives and people connected to the Peltola campaign. The paper said it did not uncover evidence of illegal activity. The Alaska Supreme Court earlier allowed the second candidate to stay on the ballot. Federal prosecutors have issued grand-jury subpoenas and the Justice Department has a civil lawsuit about certification, but no public document shows a criminal charge has been filed. The claim does not match the cited record of a completed crime. Verdict: missing context."
+  },
+  {
+    "id": "20261030-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-30T17:44:00-05:00",
+    "claim": "CNN reports President Trump scrapped planned in-person rallies in Kansas and Iowa as a strategy shift ahead of the midterms, with some Republicans expressing relief.",
+    "outlet": "CNN, October 29–30, 2026",
+    "outlet_url": "https://www.cnn.com/2026/10/29/politics/live-news/midterm-election-congress",
+    "read": "CNN reported that Trump canceled weekend rallies in Kansas and Iowa in favor of tele-rallies, citing sources who said some GOP officials were relieved because he had not moved the needle. Trump himself told reporters he was not going to Kansas because the Republican candidate was doing very well and that he would do a tele-rally instead. The Republican National Committee said the in-person events would no longer take place as scheduled because Republicans were in a strong position. Subsequent reporting indicated Trump later ordered the in-person rallies restored. The claim does not match the cited public statements from Trump and the RNC.",
+    "verdict": "Missing context",
+    "sources": [
+      {
+        "title": "CNN — Trump scraps another red-state rally as he shifts strategy",
+        "url": "https://www.cnn.com/2026/10/29/politics/live-news/midterm-election-congress"
+      },
+      {
+        "title": "NBC News — Trump cancels weekend rallies in Iowa and Kansas",
+        "url": "https://www.nbcnews.com/politics/2026-election/trump-cancels-weekend-rallies-iowa-kansas-favor-holding-numerous-teler-rcna606487"
+      },
+      {
+        "title": "Fox News video — In-person Trump rallies BACK ON",
+        "url": "https://www.foxnews.com/video/6407661487112"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. CNN reported that President Trump scrapped planned rallies in Kansas and Iowa as a strategy shift, with sources saying some Republicans were relieved he had not moved the needle. Trump told reporters he was not going to Kansas because the candidate was doing very well and that he would do a tele-rally. The Republican National Committee said the in-person events would no longer take place as scheduled because Republicans were in a strong position. Later reporting indicated the in-person rallies were ordered back on. The claim does not match the cited public statements. Verdict: missing context."
+  },
+  {
     "id": "20261030-reframe-iran-hormuz-tankers",
     "slot": "ReFrame",
     "lead": true,
