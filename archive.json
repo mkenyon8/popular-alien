@@ -1,17 +1,55 @@
 [
   {
+    "id": "20261030-reframe-milei",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-10-30T03:07:00-05:00",
+    "claim": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+    "outlet": "Al Jazeera",
+    "outlet_url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
+    "read": "The judge did law; the palace did mythology. Graded B overall across three arguments. Judge Marcelo Martinez de Giorgi: B+. The official presidential office: F (argument from ignorance, complex question). President Javier Milei: D. Scorecard: 33% valid, 33% cogent, 17% supported, 60% fallacy-free.",
+    "grade": "B",
+    "scores": {
+      "valid": 33,
+      "cogent": 33,
+      "supported": 17,
+      "fallacy_free": 60
+    },
+    "sources": [
+      {
+        "title": "Al Jazeera — Argentinian judge drops fraud investigation into Milei over crypto scandal",
+        "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode",
+        "url": "https://show.popularalien.com/?segment=a79d4fc65bb5"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/a79d4fc65bb5.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Al Jazeera reports: Argentinian judge drops fraud investigation into Milei over crypto scandal.\nAl Jazeera reported this on October 24.\nThe headline: Argentinian judge drops fraud investigation into Milei over crypto scandal.\nPresident Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.\nLet's grade the headline.\nWe ask four questions of every argument.\nIs it valid? If the reasons are true... must the conclusion be true?\nIs it cogent? Are the reasons believable... and do they make it likely?\nIs it supported? Does the article actually show the evidence?\nAnd is it fallacy-free? Does it avoid reasoning tricks... like attacking the person?\nArgument one. It comes from Judge Marcelo Martinez de Giorgi. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. Investor losses and the rise and fall in the Libra price were the core reported events.\nReason two. Those facts are insufficient to establish fraud.\nReason three. Milei's institutional standing may have given the launch greater impact when he posted about it.\nReason four. Greater promotional impact does not by itself amount to a fraudulent scheme.\nReason five. An unstated reason, one we supply: A criminal fraud offence requires a fraudulent scheme — deceit — not market loss or amplification alone.\nTherefore... The reported events do not constitute a criminal offence, so the investigation is properly dropped.\nArgument one was graded valid. On the board, it has this shape. P... and if P, then C.\nHere's every combination of true and false.\nLook at every row where both premises are true. C is true every time. No counterexample.\nThat's what valid means. But valid isn't the same as true. Whether the reasons are true... is what cogent and supported measure.\nIs it valid? Yes. If the reasons are true, the conclusion must be true.\nIs it cogent? Yes. The reasons are believable and make the conclusion likely.\nIs it supported? Partly. Some of it is shown. Some is only asserted.\nAny fallacies? None found.\nThat's a B-plus.\nWhy B plus? This is real legal reasoning, and it earns the credit.\nA crash plus a loud post is not, without more, a fraud; the unstated element of deceit is the obvious one every criminal statute already carries.\nI withhold the A only because the text never shows the ruling answering the deleted post, the later denial, or the adviser sitting on near 100 million dollars.\nArgument two. It comes from the official presidential office. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. A president was investigated with complete freedom.\nReason two. The judge ended the inquiry and found no criminal offence.\nTherefore... The investigation produced absolute proof of Milei's innocence and was a failed institutional coup that wasted taxpayers' money and the president's time.\nLet's put argument two on the board. P stands for its reasons, all together. C is the conclusion.\nHere's every combination of true and false.\nRow two. The reasons are true... but the conclusion is false. Nothing in the reasons rules that out.\nThat's a counterexample. One is enough. The argument is invalid.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? No. The reasons don't make the conclusion likely.\nIs it supported? No. The article doesn't show the evidence.\nAny fallacies? Yes. Two: argument from ignorance, and complex question.\nThat's an F.\nThe first fallacy in argument two... argument from ignorance.\nHere's the line. Quote... For the first time in history, a President of the Nation was investigated with complete freedom, resulting in absolute proof of his innocence\nWhat is argument from ignorance? Treating a lack of proof as if it were proof.\nWhy does it fail here? A closed inquiry means the charge was not proved. It does not follow that innocence was absolutely proved.\nThe second fallacy in argument two... complex question.\nHere's the line. Quote... Who will take responsibility for having wasted Argentine taxpayers’ money and the President of the Nation’s time in a failed attempt at an institutional coup?\nWhat is complex question? A question that smuggles in an assumption nobody has shown.\nWhy does it fail here? The question presupposes a coup and a waste. Nothing in the ruling, or in this article, establishes either.\nWhy F? Put plainly, and kindly: the conclusion reaches further than the reasons can carry; the article doesn't show the evidence for it, and argument from ignorance and complex question stand in for the missing steps. A more modest claim would earn a better grade.\n'Absolute proof' does not follow from a file that closed, and 'institutional coup' is a charge smuggled in behind a question mark.\nArgument three. It comes from President Javier Milei. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. He said he had acted in good faith.\nReason two. He accused political rivals of trying to exploit the crash.\nTherefore... His promotion of the token was not wrongful; the controversy is political exploitation rather than misconduct.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? No. The reasons don't make the conclusion likely.\nIs it supported? No. The article doesn't show the evidence.\nAny fallacies? None found.\nThat's a D.\nWhy D? Relayed, not adopted, and still thin.\n'Good faith' is a mental state, and this text offers no evidence of it — only the assertion, plus a finger pointed at rivals.\nWeak, not wicked.\nNow, the whole scorecard.\nValid: 33 percent.\nCogent: 33 percent.\nConclusion supported: 17 percent.\nFallacy-free: 60 percent. Two fallacies... twenty points each.\nOverall... a B.\nIn one line: The judge did law; the palace did mythology.\nThree arguments. One valid. One cogent. None fully supported. Two fallacies.\nDon't just read the news. ReFrame it."
+  },
+  {
     "id": "20261029-evening",
     "slot": "Evening Check",
     "aired_at": "2026-10-29T17:44:00-05:00",
-    "claim": "This is Voter Fraud at the Highest Level, and the Dumocrat Candidate, who was involved in the scheme, Mary Peltola, should be removed from the Ballot and prosecuted \u2014 So should the FAKE Dan Sullivan.",
+    "claim": "This is Voter Fraud at the Highest Level, and the Dumocrat Candidate, who was involved in the scheme, Mary Peltola, should be removed from the Ballot and prosecuted — So should the FAKE Dan Sullivan.",
     "outlet": "Truth Social post, October 28, 2026",
     "outlet_url": "https://www.trumpstruth.org/statuses/42817",
     "read": "President Trump stated on Truth Social that Democrats put a second Dan Sullivan on the Alaska Senate ballot to confuse voters, calling it voter fraud at the highest level and demanding that Mary Peltola and the other Sullivan be removed from the ballot and prosecuted. The Alaska Supreme Court, in its June 29, 2026 order in State of Alaska, Division of Elections v. Daniel J. Sullivan, Jr., affirmed a lower-court ruling that the second candidate is eligible; the court found no statutory good-faith requirement and remanded only for ballot-listing details under existing design law. The New York Times reported recruitment activity that is generally considered legal ballot-stacking used by both parties. No public record establishes a completed crime of voter fraud. The claim does not match the cited record.",
     "verdict": "Contradicted",
     "sources": [
-      {"title": "Trump Truth Social archive \u2014 October 28, 2026 post", "url": "https://www.trumpstruth.org/statuses/42817"},
-      {"title": "Alaska Supreme Court Order, June 29, 2026 (S-19935)", "url": "https://static1.squarespace.com/static/59f229bd2aeba5312c87df44/t/6a42f8651a60f4069a74c053/1782773861443/S19935_2026-06-29_O0.pdf"},
-      {"title": "New York Times \u2014 Inside Democrats\u2019 Secret Effort to Stack Alaska\u2019s Ballot, October 28, 2026", "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"}
+      {
+        "title": "Trump Truth Social archive — October 28, 2026 post",
+        "url": "https://www.trumpstruth.org/statuses/42817"
+      },
+      {
+        "title": "Alaska Supreme Court Order, June 29, 2026 (S-19935)",
+        "url": "https://static1.squarespace.com/static/59f229bd2aeba5312c87df44/t/6a42f8651a60f4069a74c053/1782773861443/S19935_2026-06-29_O0.pdf"
+      },
+      {
+        "title": "New York Times — Inside Democrats’ Secret Effort to Stack Alaska’s Ballot, October 28, 2026",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+      }
     ],
     "video_url": "",
     "script": "Evening Check. The president posted that Democrats put a second Dan Sullivan on the Alaska ballot to confuse voters. He called it voter fraud at the highest level and said Mary Peltola and the other Sullivan should be removed from the ballot and prosecuted. The Alaska Supreme Court, in its June twenty-ninth order, affirmed that the second candidate is eligible. The justices found no good-faith requirement in state law and sent the case back only for how the names appear under existing ballot rules. The Times reported recruitment activity that courts and prior practice treat as legal ballot-stacking. No public document shows a completed crime of voter fraud. The claim does not match the cited record. Verdict: contradicted."
@@ -23,15 +61,24 @@
     "claim": "This is a scandal at the highest order. She and her team, and at the highest levels of the DSCC, spent over a year scheming in a secret operation to trick Alaskans to get them to throw away their vote.",
     "outlet": "Sen. Dan Sullivan on Fox News Hannity, October 28, 2026",
     "outlet_url": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order",
-    "read": "Senator Dan Sullivan told Fox News that Mary Peltola\u2019s team and the DSCC spent over a year in a secret operation to trick Alaskans into throwing away their votes, calling it a scandal at the highest order. The New York Times reported that Peltola aides and DSCC staff coordinated a ballot-composition effort that included recruiting another Dan Sullivan, and that the campaign has denied involvement. The Alaska Supreme Court held the second candidate eligible under existing law, which contains no good-faith test. Ballot-stacking tactics are common and generally legal. The claim\u2019s \u201cscandal\u201d and \u201ctrick\u201d framing does not match the cited legal record.",
+    "read": "Senator Dan Sullivan told Fox News that Mary Peltola’s team and the DSCC spent over a year in a secret operation to trick Alaskans into throwing away their votes, calling it a scandal at the highest order. The New York Times reported that Peltola aides and DSCC staff coordinated a ballot-composition effort that included recruiting another Dan Sullivan, and that the campaign has denied involvement. The Alaska Supreme Court held the second candidate eligible under existing law, which contains no good-faith test. Ballot-stacking tactics are common and generally legal. The claim’s “scandal” and “trick” framing does not match the cited legal record.",
     "verdict": "Missing context",
     "sources": [
-      {"title": "Fox News \u2014 Sen. Dan Sullivan brands Peltola\u2019s alleged ballot scheme a \u2018scandal at the highest order\u2019", "url": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order"},
-      {"title": "Alaska Supreme Court Order, June 29, 2026", "url": "https://static1.squarespace.com/static/59f229bd2aeba5312c87df44/t/6a42f8651a60f4069a74c053/1782773861443/S19935_2026-06-29_O0.pdf"},
-      {"title": "New York Times \u2014 Inside Democrats\u2019 Secret Effort to Stack Alaska\u2019s Ballot", "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"}
+      {
+        "title": "Fox News — Sen. Dan Sullivan brands Peltola’s alleged ballot scheme a ‘scandal at the highest order’",
+        "url": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order"
+      },
+      {
+        "title": "Alaska Supreme Court Order, June 29, 2026",
+        "url": "https://static1.squarespace.com/static/59f229bd2aeba5312c87df44/t/6a42f8651a60f4069a74c053/1782773861443/S19935_2026-06-29_O0.pdf"
+      },
+      {
+        "title": "New York Times — Inside Democrats’ Secret Effort to Stack Alaska’s Ballot",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+      }
     ],
     "video_url": "",
-    "script": "Evening Check. On Fox News, Senator Dan Sullivan called the Alaska situation a scandal at the highest order. He said Mary Peltola\u2019s team and the highest levels of the DSCC spent over a year scheming in a secret operation to trick Alaskans into throwing away their vote. The Times reported coordination on a ballot-composition project that included recruiting another Dan Sullivan, and that the campaign has denied any role. The Alaska Supreme Court ruled the second candidate eligible. State law has no good-faith test that would have removed him. Similar tactics have been used by both parties and are generally treated as legal. The claim does not match the cited legal record. Verdict: missing context."
+    "script": "Evening Check. On Fox News, Senator Dan Sullivan called the Alaska situation a scandal at the highest order. He said Mary Peltola’s team and the highest levels of the DSCC spent over a year scheming in a secret operation to trick Alaskans into throwing away their vote. The Times reported coordination on a ballot-composition project that included recruiting another Dan Sullivan, and that the campaign has denied any role. The Alaska Supreme Court ruled the second candidate eligible. State law has no good-faith test that would have removed him. Similar tactics have been used by both parties and are generally treated as legal. The claim does not match the cited legal record. Verdict: missing context."
   },
   {
     "id": "20261029-evening-cnn",
@@ -40,15 +87,94 @@
     "claim": "Alaska Democrats just handed Trump a political gift.",
     "outlet": "CNN analysis by Stephen Collinson, October 29, 2026",
     "outlet_url": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan",
-    "read": "CNN\u2019s analysis stated that Alaska Democrats handed President Trump a political gift by the reported recruitment of a second Dan Sullivan. The New York Times reported that Peltola campaign aides and DSCC staff coordinated the effort and that the campaign and DSCC have continued to deny involvement, contradicting interviews, texts, and documents cited by the Times. The Alaska Supreme Court previously ruled the second candidate eligible. The gift framing treats the episode primarily as optics while the cited record shows a direct contradiction between the public denials and the reported coordination.",
+    "read": "CNN’s analysis stated that Alaska Democrats handed President Trump a political gift by the reported recruitment of a second Dan Sullivan. The New York Times reported that Peltola campaign aides and DSCC staff coordinated the effort and that the campaign and DSCC have continued to deny involvement, contradicting interviews, texts, and documents cited by the Times. The Alaska Supreme Court previously ruled the second candidate eligible. The gift framing treats the episode primarily as optics while the cited record shows a direct contradiction between the public denials and the reported coordination.",
     "verdict": "Missing context",
     "sources": [
-      {"title": "CNN \u2014 Alaska Democrats just handed Trump a political gift, October 29, 2026", "url": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan"},
-      {"title": "New York Times \u2014 Inside Democrats\u2019 Secret Effort to Stack Alaska\u2019s Ballot", "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"},
-      {"title": "Alaska Supreme Court Order, June 29, 2026", "url": "https://static1.squarespace.com/static/59f229bd2aeba5312c87df44/t/6a42f8651a60f4069a74c053/1782773861443/S19935_2026-06-29_O0.pdf"}
+      {
+        "title": "CNN — Alaska Democrats just handed Trump a political gift, October 29, 2026",
+        "url": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan"
+      },
+      {
+        "title": "New York Times — Inside Democrats’ Secret Effort to Stack Alaska’s Ballot",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+      },
+      {
+        "title": "Alaska Supreme Court Order, June 29, 2026",
+        "url": "https://static1.squarespace.com/static/59f229bd2aeba5312c87df44/t/6a42f8651a60f4069a74c053/1782773861443/S19935_2026-06-29_O0.pdf"
+      }
     ],
     "video_url": "",
-    "script": "Evening Check. CNN\u2019s analysis said Alaska Democrats just handed Trump a political gift. The New York Times reported that aides to Mary Peltola and staff from the Democratic Senatorial Campaign Committee coordinated a ballot-composition project that included recruiting another Dan Sullivan. The campaign and the committee have continued to say they had no involvement. That denial sits against the interviews, text messages, and documents the Times cited. The Alaska Supreme Court earlier ruled the second candidate eligible under existing law. The gift framing treats the story mainly as political optics. The cited record shows a direct contradiction between the public statements and the reported coordination. Verdict: missing context."
+    "script": "Evening Check. CNN’s analysis said Alaska Democrats just handed Trump a political gift. The New York Times reported that aides to Mary Peltola and staff from the Democratic Senatorial Campaign Committee coordinated a ballot-composition project that included recruiting another Dan Sullivan. The campaign and the committee have continued to say they had no involvement. That denial sits against the interviews, text messages, and documents the Times cited. The Alaska Supreme Court earlier ruled the second candidate eligible under existing law. The gift framing treats the story mainly as political optics. The cited record shows a direct contradiction between the public statements and the reported coordination. Verdict: missing context."
+  },
+  {
+    "id": "20261029-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-10-29T06:31:00-05:00",
+    "claim": "Defense Secretary Pete Hegseth fired the Pentagon’s top military planner over leaks of classified information related to the Iran and Ukraine wars",
+    "outlet": "CBS News, citing a Pentagon official",
+    "outlet_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
+    "read": "CBS News reported that an anonymous Pentagon official said Army Lt. Gen. Brett Sylvia was fired for misconduct involving leaks of classified information on the Iran and Russia-Ukraine wars, and that he failed three polygraph tests, with the case referred to the Department of Justice. The Joint Staff spokesperson issued a statement thanking Sylvia for 32 years of service and wishing him well, with no mention of leaks, misconduct, or any reason for the removal. Other reports, including the Associated Press, stated that no reason had been given for the firing. The claim does not match the cited public record of the Joint Staff statement.",
+    "verdict": "Missing context",
+    "sources": [
+      {
+        "title": "CBS News — Hegseth fires Pentagon's top military planner, October 29, 2026",
+        "url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+      },
+      {
+        "title": "Associated Press via NewsBreak — Hegseth fires the Pentagon's top military planner",
+        "url": "https://www.newsbreak.com/the-associated-press-510077/4973266049225-hegseth-fires-the-pentagon-s-top-military-planner-even-as-trump-considers-new-iran-strikes"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. CBS News reports that Defense Secretary Pete Hegseth fired the Pentagon’s top military planner, Army Lieutenant General Brett Sylvia, over leaks of classified information tied to the Iran and Ukraine wars. An anonymous official told CBS that Sylvia failed three polygraph tests and that the case has been referred to the Justice Department. The Joint Staff, in its public statement, thanked Sylvia for thirty-two years of service and wished him and his family well. The statement contains no reference to leaks, misconduct, or any reason for the removal. Other accounts, including the Associated Press, reported that no reason had been given. The claim does not match the cited public record. Verdict: missing context."
+  },
+  {
+    "id": "20261028-late",
+    "slot": "Late Check",
+    "aired_at": "2026-10-28T23:09:00-05:00",
+    "claim": "They sent me, as a gift, a boatload of a million barrels of oil. And I'm giving that to the United States of America. The oil is being provided to the United States at zero cost to the American taxpayer.",
+    "outlet": "Remarks en route to and at Corpus Christi campaign event, October 27, 2026",
+    "outlet_url": "https://www.pbs.org/newshour/politics/watch-trump-says-venezuela-sent-him-1-million-barrels-of-oil-as-a-gift",
+    "read": "On October 27 President Trump said Venezuela sent him a million barrels of oil as a gift that he was giving to the United States, and that the oil was provided at zero cost to the American taxpayer, framing it as spoils of the recent war. North American Blue Energy Partners' October 27 release states that to recognize the historic nature of its agreement with the United States, NABEP delivered the first million barrels at no cost to the U.S. taxpayer. The cargo marks the beginning of the larger deal, which grants the U.S. Government the right to purchase 20 percent of NABEP's production at cost with no markup, in addition to a 35 percent equity stake in NABEP's parent company. The claim does not match the cited record. The interesting fact is the one-time no-cost delivery. The missing fact is the ongoing commercial structure of at-cost purchases and equity ownership.",
+    "verdict": "Contradicted",
+    "sources": [
+      {
+        "title": "NABEP — First NABEP Crude Cargo Under U.S. Agreement Arrives in Texas, October 27, 2026",
+        "url": "https://www.nabep.net/newsroom/first-nabep-crude-cargo-under-u-s-agreement-arrives-in-texas"
+      },
+      {
+        "title": "NABEP — United States Government and NABEP Reach Historic Deal, August 31, 2026",
+        "url": "https://www.nabep.net/newsroom/united-states-government-and-north-american-blue-energy-partners-nabep-reach-historic-deal-to-develop-venezuelas-oil-sector"
+      },
+      {
+        "title": "White House fact sheet on the oil agreement",
+        "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-secures-the-biggest-oil-deal-in-world-history/"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. At a Texas campaign stop the president pointed to a tanker and said Venezuela sent him a boatload of a million barrels of oil as a gift, and that he was giving it to the United States at zero cost to the American taxpayer. North American Blue Energy Partners' own release that day states it delivered the first million barrels at no cost to the U.S. taxpayer to recognize the agreement. That same release says the cargo marks the beginning of the larger deal, which grants the U.S. government the right to purchase twenty percent of production at cost with no markup, plus a thirty-five percent equity stake. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261028-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-28T17:44:00-05:00",
+    "claim": "Tonight, I'm officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers",
+    "outlet": "Campaign rally remarks, Lubbock, Texas",
+    "outlet_url": "https://www.epa.gov/newsreleases/epa-proposes-major-new-revisions-burdensome-unworkable-biden-era-oil-and-natural-gas",
+    "read": "At a Lubbock, Texas, campaign rally on October 27, President Trump said he was officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers. The Environmental Protection Agency's October 27 news release states that the president and EPA Administrator Lee Zeldin announced the agency's latest proposal to revise the 2024 oil and natural gas regulations under the Clean Air Act. The proposal would rescind the Super Emitter Program, create new categories for well sites, restore 95 percent efficient flaring as an option for associated gas, and make other technical changes. It is a proposed rule signed that day, subject to a public comment period of at least 45 days and publication in the Federal Register. The claim does not match the cited record. The interesting fact is the scale of the projected savings. The missing fact is that the action remains a proposal, not a completed termination.",
+    "verdict": "Contradicted",
+    "sources": [
+      {
+        "title": "EPA — Proposes Major New Revisions to Burdensome, Unworkable Biden-era Oil and Natural Gas Regulations, October 27, 2026",
+        "url": "https://www.epa.gov/newsreleases/epa-proposes-major-new-revisions-burdensome-unworkable-biden-era-oil-and-natural-gas"
+      },
+      {
+        "title": "EPA prepublication proposed rule preamble (signed October 27, 2026)",
+        "url": "https://www.epa.gov/system/files/documents/2026-10/san-12726-ong-reconsideration-2-nprm-preamble-20261015-clean.admin_disclaimer.pdf"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. At a Texas campaign rally, the president said he was officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers. The Environmental Protection Agency's own release that day describes a proposal to revise the two thousand twenty-four oil and natural gas rules. The proposal would rescind the Super Emitter Program, create new categories for certain well sites, and restore ninety-five percent efficient flaring as an option for associated gas. It is a proposed rule, signed October twenty-seventh, that will go through public comment and Federal Register publication. The claim does not match the cited record. Verdict: contradicted."
   },
   {
     "id": "20261028-midday",
@@ -57,13 +183,203 @@
     "claim": "The Alaskans for Mary campaign has no involvement with either Sullivan campaign and did not recruit any candidates into the race",
     "outlet": "Alaskans for Mary campaign statement",
     "outlet_url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
-    "read": "The Alaskans for Mary campaign stated that it has no involvement with either Sullivan campaign and did not recruit any candidates into the Alaska Senate race. The New York Times reported on October 28 that aides to Mary Peltola received instructions in summer 2025 to comb voter records for people named Dan Sullivan, that the effort (internally called the ballot composition project) involved campaign lawyers and Democratic Senatorial Campaign Committee aides, and that text messages and documents show the team worked to recruit Dan J. Sullivan and other potential spoilers. Former campaign manager Elisa Rios told the Times that Peltola was not directly involved but was \"definitely aware.\" The claim does not match the cited record. The interesting fact is the scale of the internal coordination. The missing fact is the campaign\u2019s continued denial against the reported texts and interviews.",
+    "read": "The Alaskans for Mary campaign stated that it has no involvement with either Sullivan campaign and did not recruit any candidates into the Alaska Senate race. The New York Times reported on October 28 that aides to Mary Peltola received instructions in summer 2025 to comb voter records for people named Dan Sullivan, that the effort (internally called the ballot composition project) involved campaign lawyers and Democratic Senatorial Campaign Committee aides, and that text messages and documents show the team worked to recruit Dan J. Sullivan and other potential spoilers. Former campaign manager Elisa Rios told the Times that Peltola was not directly involved but was \"definitely aware.\" The claim does not match the cited record. The interesting fact is the scale of the internal coordination. The missing fact is the campaign’s continued denial against the reported texts and interviews.",
     "verdict": "Contradicted",
     "sources": [
-      {"title": "New York Times \u2014 Inside Democrats\u2019 Secret Effort to Stack Alaska\u2019s Ballot, October 28, 2026", "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"},
-      {"title": "DNYUZ mirror of NYT reporting", "url": "https://dnyuz.com/2026/10/28/inside-democrats-secret-effort-to-stack-alaskas-ballot/"}
+      {
+        "title": "New York Times — Inside Democrats’ Secret Effort to Stack Alaska’s Ballot, October 28, 2026",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+      },
+      {
+        "title": "DNYUZ mirror of NYT reporting",
+        "url": "https://dnyuz.com/2026/10/28/inside-democrats-secret-effort-to-stack-alaskas-ballot/"
+      }
     ],
     "video_url": "",
     "script": "Midday Check. The Alaskans for Mary campaign says it has no involvement with either Sullivan campaign and did not recruit any candidates into the race. The New York Times reported today that a staffer for Mary Peltola was instructed in the summer of twenty twenty-five to find as many people named Dan Sullivan in Alaska as possible. The effort, called the ballot composition project, involved campaign lawyers and senior aides from the Democratic Senatorial Campaign Committee. Text messages and documents reviewed by the Times show the team worked to recruit Dan J. Sullivan and other potential spoilers. Former campaign manager Elisa Rios said Peltola was not directly involved but was definitely aware. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261027-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-27T17:44:00-05:00",
+    "claim": "There's 500 million Arabs in the world. And yet they don't produce science. They don't win the Nobel Prize. They don't win the Fields Prize. They don't win the Wolf Prize. They don't produce literature.",
+    "outlet": "Campaign rally remarks",
+    "outlet_url": "https://www.newsweek.com/rfk-jr-says-500m-arabs-dont-produce-science-at-michigan-rally-12622276",
+    "read": "At a Grand Rapids, Michigan, campaign event Monday, Health and Human Services Secretary Robert F. Kennedy Jr. said there are 500 million Arabs in the world and yet they do not produce science, do not win the Nobel Prize, the Fields Prize, or the Wolf Prize, and do not produce literature. Official Nobel records show Egyptian chemist Ahmed Zewail received the 1999 Nobel Prize in Chemistry for femtosecond spectroscopy of chemical reactions; he was born in Damanhur, Egypt. Egyptian novelist Naguib Mahfouz received the 1988 Nobel Prize in Literature, the first for a writer with Arabic as his native tongue. Jordanian-born chemist Omar M. Yaghi shared the 2025 Nobel Prize in Chemistry for metal-organic frameworks. Zewail also received the 1993 Wolf Prize in Chemistry. The claim does not match the cited record. The interesting fact is the scale of the assertion. The missing fact is the documented prize winners.",
+    "verdict": "Contradicted",
+    "sources": [
+      {
+        "title": "Nobel Prize — Ahmed Zewail, Chemistry 1999",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1999/zewail/facts/"
+      },
+      {
+        "title": "Nobel Prize — Naguib Mahfouz, Literature 1988",
+        "url": "https://www.nobelprize.org/prizes/literature/1988/press-release/"
+      },
+      {
+        "title": "Nobel Prize — Chemistry 2025 press release (Omar M. Yaghi)",
+        "url": "https://www.nobelprize.org/prizes/chemistry/2025/press-release/"
+      },
+      {
+        "title": "Wolf Foundation — Ahmed H. Zewail",
+        "url": "https://wolffund.org.il/ahmed-h-zewail/"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. At a Michigan campaign event, the health secretary said there are five hundred million Arabs in the world and yet they do not produce science. They do not win the Nobel Prize. They do not win the Fields Prize. They do not win the Wolf Prize. They do not produce literature. Official Nobel records show Egyptian chemist Ahmed Zewail received the nineteen ninety-nine Nobel Prize in Chemistry. Egyptian novelist Naguib Mahfouz received the nineteen eighty-eight Nobel Prize in Literature. Jordanian-born chemist Omar Yaghi shared the twenty twenty-five Nobel Prize in Chemistry. Zewail also received the nineteen ninety-three Wolf Prize in Chemistry. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261027-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-27T11:34:00-05:00",
+    "claim": "15% of Americans believe between 1 and 5% of NCAA athletes are transgender; 14% believe between 6 and 25%.",
+    "outlet": "X post",
+    "outlet_url": "https://x.com/samstein/status/2115078660373745735",
+    "read": "A high-engagement post reports a YouGov survey in which 15 percent of American adults estimated that between 1 and 5 percent of NCAA athletes are transgender and 14 percent estimated between 6 and 25 percent. An NCAA spokesperson confirmed that the current number of student-athletes competing in women's sports who identify as transgender is effectively zero, consistent with the association's policy. In December 2024 NCAA President Charlie Baker told a Senate panel that fewer than 10 of more than 510,000 athletes were transgender. In February 2025 the Board of Governors restricted women's-team competition to athletes assigned female at birth. The estimates do not match the cited record. The interesting fact is the size of the overestimate. The missing fact is the official count and the current policy.",
+    "verdict": "Contradicted",
+    "sources": [
+      {
+        "title": "The Bulwark — New poll on sports, masculinity, and transgender athletes",
+        "url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+      },
+      {
+        "title": "NCAA — Participation Policy for Transgender Student-Athletes (effective February 6, 2025)",
+        "url": "https://www.ncaa.org/what-we-do/health-safety-and-performance/participation-policy-for-transgender-student-athletes/"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. A high-engagement post reports a new poll. Fifteen percent of Americans said they believe between one and five percent of NCAA athletes are transgender. Fourteen percent put the share between six and twenty-five percent. An NCAA spokesperson confirmed the current number competing in women's sports is effectively zero. In December two thousand twenty-four, NCAA President Charlie Baker told a Senate panel fewer than ten of more than five hundred ten thousand athletes were transgender. The following February the Board of Governors restricted women's-team competition to athletes assigned female at birth. The estimates do not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261027-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-10-27T06:31:00-05:00",
+    "claim": "40% drop in drug overdoses.",
+    "outlet": "Instagram post",
+    "outlet_url": "https://www.instagram.com/p/De2HR7pvPG2/",
+    "read": "A high-engagement Instagram post from the president shows a black-and-white photo of him in the Oval Office with the text \"40% drop in drug overdoses.\" White House and ONDCP posts frame this as the president's Office of National Drug Control Policy overseeing a massive decrease since the peak under the prior administration. CDC provisional data from the National Vital Statistics System show the 12-month ending peak near 112,000 deaths in mid-to-late 2023. Analyses of those counts put the decline at roughly 40 percent by early 2026. The downward trend began in mid-2023, more than a year before the current term. Peer-reviewed and expert reviews point primarily to shifts in the illicit fentanyl supply, wider naloxone access, and treatment changes rather than post-2025 enforcement alone. The claim does not match the cited record on attribution. The interesting fact is the scale of the drop. The missing fact is that it started well before this administration.",
+    "verdict": "Missing context",
+    "sources": [
+      {
+        "title": "CDC National Center for Health Statistics — Provisional Drug Overdose Death Counts",
+        "url": "https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm"
+      },
+      {
+        "title": "Opioid Data Lab — Causes of the recent rise & decline in US overdose deaths",
+        "url": "https://www.opioiddata.org/causes-of-the-recent-rise-decline-in-us-overdose-deaths/"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. An Instagram post from the president shows him in the Oval Office with the text forty percent drop in drug overdoses. The White House says his drug control office has overseen a massive decrease since the peak under the prior administration. CDC provisional counts show the twelve-month peak near one hundred twelve thousand deaths in mid to late two thousand twenty-three. The decline is roughly forty percent by early two thousand twenty-six. That downward trend began in mid two thousand twenty-three, more than a year before this term. Experts point mainly to changes in the illicit fentanyl supply, naloxone access, and treatment. The claim does not match the cited record on who oversaw the full drop. Verdict: missing context."
+  },
+  {
+    "id": "20261026-late",
+    "slot": "Late Check",
+    "aired_at": "2026-10-26T23:08:00-05:00",
+    "claim": "The Department of Justice does not seek to stop any ballot from being cast or to stop the certification of Alaska's election.",
+    "outlet": "Social media post",
+    "outlet_url": "https://x.com/AGToddBlanche/status/2114072424815776119",
+    "read": "Attorney General Todd Blanche posted that the Justice Department does not seek to stop the certification of Alaska's election. The department's complaint in United States v. Alaska asks the court to enjoin the state from certifying any result that may be impacted by voter confusion. The complaint defines that impact as a case where Senator Dan S. Sullivan does not win, but would have won if every vote for Daniel J. Sullivan had gone to him instead. The claim does not match the cited record. The interesting fact is the conditional nature of the requested order. The missing fact is that the complaint seeks to block certification in the specific scenario where the incumbent loses narrowly.",
+    "verdict": "Contradicted",
+    "sources": [
+      {
+        "title": "U.S. District Court for the District of Alaska — Complaint, United States v. State of Alaska, 3:26-cv-00376",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.1.0_2.pdf"
+      },
+      {
+        "title": "Attorney General Todd Blanche — X post",
+        "url": "https://x.com/AGToddBlanche/status/2114072424815776119"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. The attorney general said the Justice Department does not seek to stop the certification of Alaska's election. The department's own complaint asks a federal court to block the state from certifying any result that may be impacted by voter confusion. The complaint defines that impact as a case where Senator Dan Sullivan does not win, but would have if every vote for the other Daniel Sullivan had gone to him. The prayer for relief seeks an injunction against certification pending an investigation into whether those votes were meant for the incumbent. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261026-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-26T17:44:00-05:00",
+    "claim": "It looked like another rigged election, frankly.",
+    "outlet": "Remarks to reporters",
+    "outlet_url": "https://www.lbc.co.uk/article/trump-brazil-election-rigged-5HjdkT7_2/",
+    "read": "Speaking to reporters Monday before a Mississippi rally, the president said Brazil's presidential runoff looked like another rigged election and had a terrible look, citing the tabulation and a last-minute voting extension. Brazil's Superior Electoral Court reported the official result: Luiz Inácio Lula da Silva 64,256,232 votes (51.79 percent), Flávio Bolsonaro 59,826,041 votes (48.21 percent), a margin of more than 4.4 million. Independent analyses of TSE data found roughly 34,000 to 35,000 votes cast after the original 5 p.m. close, about 0.03 percent of the total, far smaller than the margin. The TSE president, appointed by Jair Bolsonaro, said the extension did not affect the outcome. The claim does not match the cited record. The interesting fact is the last-minute extension ordered by a Supreme Court justice. The missing fact is that the extra votes were too few to change the result.",
+    "verdict": "Contradicted",
+    "sources": [
+      {
+        "title": "Tribunal Superior Eleitoral — Presidente do TSE anuncia reeleição de Lula",
+        "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026"
+      },
+      {
+        "title": "BBC News Brasil — 33.8 mil votos durante prorrogação",
+        "url": "https://www.bbc.com/portuguese/articles/crp3g2ynkp1xo"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. A reporter asked the president if Brazil's election was fair. He said it looked terrible and looked like another rigged election. Brazil's Superior Electoral Court certified Luiz Inácio Lula da Silva with 64,256,232 votes, 51.79 percent, over Flávio Bolsonaro's 59,826,041 votes, 48.21 percent. The margin was more than four million votes. A Supreme Court order extended voting by two hours. Analyses of the official data show about 34,000 votes after the original close, 0.03 percent of the total. The electoral court president said the extension did not change the result. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261026-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-26T11:34:00-05:00",
+    "claim": "Minnesota voters are choosing a GHOST CANDIDATE who is NOT REAL. \"Ilhan Omar\" as it appears on the ballot is not a real person!!",
+    "outlet": "Social media post",
+    "outlet_url": "https://x.com/EricLDaugh/status/2114712009132388412",
+    "read": "A high-engagement post claims voters are choosing a ghost candidate and that the name Ilhan Omar on the ballot is not a real person. A federal court filing in the search-warrant matter lists the subject as Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar. a/k/a means also known as. The filing does not find that the ballot name is nonexistent. Official House records, the Biographical Directory, and her office site list her as Ilhan Omar, the sitting Representative from Minnesota's 5th District. Her office has stated that Ilhan Omar is her real name. The claim does not match the cited record. The interesting fact is the alternate name in the motion. The missing fact is that a/k/a is not a finding of a fake ballot identity.",
+    "verdict": "Contradicted",
+    "sources": [
+      {
+        "title": "U.S. District Court for the District of Columbia — Motion for Extension of Time, Case 1:26-mc-00144",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.3.0.pdf"
+      },
+      {
+        "title": "U.S. House of Representatives — About Representative Ilhan Omar",
+        "url": "https://omar.house.gov/about"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. A post says Minnesota voters are choosing a ghost candidate. The name Ilhan Omar on the ballot is not a real person. A federal filing in the search-warrant case lists the subject as Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar. a/k/a means also known as. Official House records list her as Ilhan Omar, the Representative from Minnesota's Fifth District. Her office says that is her real name. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261026-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-10-26T06:31:00-05:00",
+    "claim": "Everyone thought she came in second or third, but then she 'won.'",
+    "outlet": "Truth Social",
+    "outlet_url": "https://www.trumpstruth.org/statuses/42711",
+    "read": "In a Saturday-night Truth Social post, the president wrote that Lisa Murkowski only got elected because of ranked-choice voting and that everyone thought she came in second or third before she won. The official 2022 Alaska Division of Elections first-choice tally shows Murkowski finishing first with 113,495 votes (43.37 percent) to Kelly Tshibaka's 111,480 (42.60 percent). She led the initial count by roughly 2,000 votes; second-choice ballots from eliminated candidates then expanded her margin to 53.7 percent. The claim does not match the cited record. The interesting fact is the ranked-choice redistribution. The missing fact is that she already held the plurality before any redistribution.",
+    "verdict": "Contradicted",
+    "sources": [
+      {
+        "title": "Alaska Division of Elections — 2022 General Election Official Summary Report",
+        "url": "https://www.elections.alaska.gov/results/22GENR/ElectionSummaryReportRPT.pdf"
+      },
+      {
+        "title": "Alaska Division of Elections — 2022 U.S. Senate Ranked-Choice Detailed Report",
+        "url": "https://www.elections.alaska.gov/results/22GENR/rcv/US-SEN.pdf"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. A Truth Social post says everyone thought Lisa Murkowski came in second or third, then she won under ranked-choice voting. The official first-choice tally from the Alaska Division of Elections shows she finished first with 113,495 votes, 43.37 percent, ahead of Kelly Tshibaka at 111,480 votes, 42.60 percent. She led the initial count. Second-choice ballots from the Democrat and a withdrawn Republican then widened the margin to 53.7 percent. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261025-late",
+    "slot": "Late Check",
+    "aired_at": "2026-10-25T23:08:00-05:00",
+    "claim": "Heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood. Abdulrahman Mohamed El-Sayed is a Fake Doctor, who runs what is considered to be the WORST CLINIC IN AMERICA.",
+    "outlet": "Truth Social",
+    "outlet_url": "https://truthsocial.com/@realDonaldTrump",
+    "read": "Bridge Michigan reviewed public records and found no evidence that El-Sayed is a member of or pledged support to the Muslim Brotherhood. He has disavowed the group. He holds an MD from Columbia and a public-health doctorate from Oxford, but did not complete residency and has never held a medical license in Michigan or New York. He has said he does not practice medicine. The claim does not match the cited record. The interesting fact is the campaign attack. The missing fact is the degree and the absence of membership evidence.",
+    "verdict": "Contradicted",
+    "sources": [
+      {
+        "title": "Bridge Michigan — Fact check: No evidence Abdul El-Sayed ‘pledged support’ to Muslim Brotherhood",
+        "url": "https://bridgemi.com/michigan-government/fact-check-no-evidence-abdul-el-sayed-pledged-support-to-muslim-brotherhood/"
+      },
+      {
+        "title": "Bridge Michigan — Fact check: Abdul El-Sayed not a ‘fake doctor’ or licensed physician",
+        "url": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-not-a-fake-doctor-or-licensed-physician/"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. A Truth Social post says the president is heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood, a Fake Doctor who runs the worst clinic in America. Bridge Michigan reviewed the record and found no evidence of membership or a pledge of support. El-Sayed has disavowed the group. He holds a medical degree from Columbia. He did not complete residency and has never held a license to practice in Michigan or New York. He has said he does not practice medicine. The claim does not match the cited record. Verdict: contradicted."
   }
 ]

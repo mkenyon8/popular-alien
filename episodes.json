@@ -1,17 +1,55 @@
 [
   {
+    "id": "20261030-reframe-milei",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-10-30T03:07:00-05:00",
+    "claim": "Argentinian judge drops fraud investigation into Milei over crypto scandal",
+    "outlet": "Al Jazeera",
+    "outlet_url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss",
+    "read": "The judge did law; the palace did mythology. Graded B overall across three arguments. Judge Marcelo Martinez de Giorgi: B+. The official presidential office: F (argument from ignorance, complex question). President Javier Milei: D. Scorecard: 33% valid, 33% cogent, 17% supported, 60% fallacy-free.",
+    "grade": "B",
+    "scores": {
+      "valid": 33,
+      "cogent": 33,
+      "supported": 17,
+      "fallacy_free": 60
+    },
+    "sources": [
+      {
+        "title": "Al Jazeera — Argentinian judge drops fraud investigation into Milei over crypto scandal",
+        "url": "https://www.aljazeera.com/news/2026/10/24/argentinian-judge-drops-fraud-investigation-into-milei-over-crypto-scandal?traffic_source=rss"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode",
+        "url": "https://show.popularalien.com/?segment=a79d4fc65bb5"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/a79d4fc65bb5.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Al Jazeera reports: Argentinian judge drops fraud investigation into Milei over crypto scandal.\nAl Jazeera reported this on October 24.\nThe headline: Argentinian judge drops fraud investigation into Milei over crypto scandal.\nPresident Javier Milei’s role in cryptocurrency launch does not translate into a fraudulent scheme, judge says.\nLet's grade the headline.\nWe ask four questions of every argument.\nIs it valid? If the reasons are true... must the conclusion be true?\nIs it cogent? Are the reasons believable... and do they make it likely?\nIs it supported? Does the article actually show the evidence?\nAnd is it fallacy-free? Does it avoid reasoning tricks... like attacking the person?\nArgument one. It comes from Judge Marcelo Martinez de Giorgi. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. Investor losses and the rise and fall in the Libra price were the core reported events.\nReason two. Those facts are insufficient to establish fraud.\nReason three. Milei's institutional standing may have given the launch greater impact when he posted about it.\nReason four. Greater promotional impact does not by itself amount to a fraudulent scheme.\nReason five. An unstated reason, one we supply: A criminal fraud offence requires a fraudulent scheme — deceit — not market loss or amplification alone.\nTherefore... The reported events do not constitute a criminal offence, so the investigation is properly dropped.\nArgument one was graded valid. On the board, it has this shape. P... and if P, then C.\nHere's every combination of true and false.\nLook at every row where both premises are true. C is true every time. No counterexample.\nThat's what valid means. But valid isn't the same as true. Whether the reasons are true... is what cogent and supported measure.\nIs it valid? Yes. If the reasons are true, the conclusion must be true.\nIs it cogent? Yes. The reasons are believable and make the conclusion likely.\nIs it supported? Partly. Some of it is shown. Some is only asserted.\nAny fallacies? None found.\nThat's a B-plus.\nWhy B plus? This is real legal reasoning, and it earns the credit.\nA crash plus a loud post is not, without more, a fraud; the unstated element of deceit is the obvious one every criminal statute already carries.\nI withhold the A only because the text never shows the ruling answering the deleted post, the later denial, or the adviser sitting on near 100 million dollars.\nArgument two. It comes from the official presidential office. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. A president was investigated with complete freedom.\nReason two. The judge ended the inquiry and found no criminal offence.\nTherefore... The investigation produced absolute proof of Milei's innocence and was a failed institutional coup that wasted taxpayers' money and the president's time.\nLet's put argument two on the board. P stands for its reasons, all together. C is the conclusion.\nHere's every combination of true and false.\nRow two. The reasons are true... but the conclusion is false. Nothing in the reasons rules that out.\nThat's a counterexample. One is enough. The argument is invalid.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? No. The reasons don't make the conclusion likely.\nIs it supported? No. The article doesn't show the evidence.\nAny fallacies? Yes. Two: argument from ignorance, and complex question.\nThat's an F.\nThe first fallacy in argument two... argument from ignorance.\nHere's the line. Quote... For the first time in history, a President of the Nation was investigated with complete freedom, resulting in absolute proof of his innocence\nWhat is argument from ignorance? Treating a lack of proof as if it were proof.\nWhy does it fail here? A closed inquiry means the charge was not proved. It does not follow that innocence was absolutely proved.\nThe second fallacy in argument two... complex question.\nHere's the line. Quote... Who will take responsibility for having wasted Argentine taxpayers’ money and the President of the Nation’s time in a failed attempt at an institutional coup?\nWhat is complex question? A question that smuggles in an assumption nobody has shown.\nWhy does it fail here? The question presupposes a coup and a waste. Nothing in the ruling, or in this article, establishes either.\nWhy F? Put plainly, and kindly: the conclusion reaches further than the reasons can carry; the article doesn't show the evidence for it, and argument from ignorance and complex question stand in for the missing steps. A more modest claim would earn a better grade.\n'Absolute proof' does not follow from a file that closed, and 'institutional coup' is a charge smuggled in behind a question mark.\nArgument three. It comes from President Javier Milei. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. He said he had acted in good faith.\nReason two. He accused political rivals of trying to exploit the crash.\nTherefore... His promotion of the token was not wrongful; the controversy is political exploitation rather than misconduct.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? No. The reasons don't make the conclusion likely.\nIs it supported? No. The article doesn't show the evidence.\nAny fallacies? None found.\nThat's a D.\nWhy D? Relayed, not adopted, and still thin.\n'Good faith' is a mental state, and this text offers no evidence of it — only the assertion, plus a finger pointed at rivals.\nWeak, not wicked.\nNow, the whole scorecard.\nValid: 33 percent.\nCogent: 33 percent.\nConclusion supported: 17 percent.\nFallacy-free: 60 percent. Two fallacies... twenty points each.\nOverall... a B.\nIn one line: The judge did law; the palace did mythology.\nThree arguments. One valid. One cogent. None fully supported. Two fallacies.\nDon't just read the news. ReFrame it."
+  },
+  {
     "id": "20261029-evening",
     "slot": "Evening Check",
     "aired_at": "2026-10-29T17:44:00-05:00",
-    "claim": "This is Voter Fraud at the Highest Level, and the Dumocrat Candidate, who was involved in the scheme, Mary Peltola, should be removed from the Ballot and prosecuted \u2014 So should the FAKE Dan Sullivan.",
+    "claim": "This is Voter Fraud at the Highest Level, and the Dumocrat Candidate, who was involved in the scheme, Mary Peltola, should be removed from the Ballot and prosecuted — So should the FAKE Dan Sullivan.",
     "outlet": "Truth Social post, October 28, 2026",
     "outlet_url": "https://www.trumpstruth.org/statuses/42817",
     "read": "President Trump stated on Truth Social that Democrats put a second Dan Sullivan on the Alaska Senate ballot to confuse voters, calling it voter fraud at the highest level and demanding that Mary Peltola and the other Sullivan be removed from the ballot and prosecuted. The Alaska Supreme Court, in its June 29, 2026 order in State of Alaska, Division of Elections v. Daniel J. Sullivan, Jr., affirmed a lower-court ruling that the second candidate is eligible; the court found no statutory good-faith requirement and remanded only for ballot-listing details under existing design law. The New York Times reported recruitment activity that is generally considered legal ballot-stacking used by both parties. No public record establishes a completed crime of voter fraud. The claim does not match the cited record.",
     "verdict": "Contradicted",
     "sources": [
-      {"title": "Trump Truth Social archive \u2014 October 28, 2026 post", "url": "https://www.trumpstruth.org/statuses/42817"},
-      {"title": "Alaska Supreme Court Order, June 29, 2026 (S-19935)", "url": "https://static1.squarespace.com/static/59f229bd2aeba5312c87df44/t/6a42f8651a60f4069a74c053/1782773861443/S19935_2026-06-29_O0.pdf"},
-      {"title": "New York Times \u2014 Inside Democrats\u2019 Secret Effort to Stack Alaska\u2019s Ballot, October 28, 2026", "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"}
+      {
+        "title": "Trump Truth Social archive — October 28, 2026 post",
+        "url": "https://www.trumpstruth.org/statuses/42817"
+      },
+      {
+        "title": "Alaska Supreme Court Order, June 29, 2026 (S-19935)",
+        "url": "https://static1.squarespace.com/static/59f229bd2aeba5312c87df44/t/6a42f8651a60f4069a74c053/1782773861443/S19935_2026-06-29_O0.pdf"
+      },
+      {
+        "title": "New York Times — Inside Democrats’ Secret Effort to Stack Alaska’s Ballot, October 28, 2026",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+      }
     ],
     "video_url": "",
     "script": "Evening Check. The president posted that Democrats put a second Dan Sullivan on the Alaska ballot to confuse voters. He called it voter fraud at the highest level and said Mary Peltola and the other Sullivan should be removed from the ballot and prosecuted. The Alaska Supreme Court, in its June twenty-ninth order, affirmed that the second candidate is eligible. The justices found no good-faith requirement in state law and sent the case back only for how the names appear under existing ballot rules. The Times reported recruitment activity that courts and prior practice treat as legal ballot-stacking. No public document shows a completed crime of voter fraud. The claim does not match the cited record. Verdict: contradicted."
@@ -20,17 +58,23 @@
     "id": "20261029-morning",
     "slot": "Morning Check",
     "aired_at": "2026-10-29T06:31:00-05:00",
-    "claim": "Defense Secretary Pete Hegseth fired the Pentagon\u2019s top military planner over leaks of classified information related to the Iran and Ukraine wars",
+    "claim": "Defense Secretary Pete Hegseth fired the Pentagon’s top military planner over leaks of classified information related to the Iran and Ukraine wars",
     "outlet": "CBS News, citing a Pentagon official",
     "outlet_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
     "read": "CBS News reported that an anonymous Pentagon official said Army Lt. Gen. Brett Sylvia was fired for misconduct involving leaks of classified information on the Iran and Russia-Ukraine wars, and that he failed three polygraph tests, with the case referred to the Department of Justice. The Joint Staff spokesperson issued a statement thanking Sylvia for 32 years of service and wishing him well, with no mention of leaks, misconduct, or any reason for the removal. Other reports, including the Associated Press, stated that no reason had been given for the firing. The claim does not match the cited public record of the Joint Staff statement.",
     "verdict": "Missing context",
     "sources": [
-      {"title": "CBS News \u2014 Hegseth fires Pentagon's top military planner, October 29, 2026", "url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"},
-      {"title": "Associated Press via NewsBreak \u2014 Hegseth fires the Pentagon's top military planner", "url": "https://www.newsbreak.com/the-associated-press-510077/4973266049225-hegseth-fires-the-pentagon-s-top-military-planner-even-as-trump-considers-new-iran-strikes"}
+      {
+        "title": "CBS News — Hegseth fires Pentagon's top military planner, October 29, 2026",
+        "url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+      },
+      {
+        "title": "Associated Press via NewsBreak — Hegseth fires the Pentagon's top military planner",
+        "url": "https://www.newsbreak.com/the-associated-press-510077/4973266049225-hegseth-fires-the-pentagon-s-top-military-planner-even-as-trump-considers-new-iran-strikes"
+      }
     ],
     "video_url": "",
-    "script": "Morning Check. CBS News reports that Defense Secretary Pete Hegseth fired the Pentagon\u2019s top military planner, Army Lieutenant General Brett Sylvia, over leaks of classified information tied to the Iran and Ukraine wars. An anonymous official told CBS that Sylvia failed three polygraph tests and that the case has been referred to the Justice Department. The Joint Staff, in its public statement, thanked Sylvia for thirty-two years of service and wished him and his family well. The statement contains no reference to leaks, misconduct, or any reason for the removal. Other accounts, including the Associated Press, reported that no reason had been given. The claim does not match the cited public record. Verdict: missing context."
+    "script": "Morning Check. CBS News reports that Defense Secretary Pete Hegseth fired the Pentagon’s top military planner, Army Lieutenant General Brett Sylvia, over leaks of classified information tied to the Iran and Ukraine wars. An anonymous official told CBS that Sylvia failed three polygraph tests and that the case has been referred to the Justice Department. The Joint Staff, in its public statement, thanked Sylvia for thirty-two years of service and wished him and his family well. The statement contains no reference to leaks, misconduct, or any reason for the removal. Other accounts, including the Associated Press, reported that no reason had been given. The claim does not match the cited public record. Verdict: missing context."
   },
   {
     "id": "20261028-late",
@@ -42,9 +86,18 @@
     "read": "On October 27 President Trump said Venezuela sent him a million barrels of oil as a gift that he was giving to the United States, and that the oil was provided at zero cost to the American taxpayer, framing it as spoils of the recent war. North American Blue Energy Partners' October 27 release states that to recognize the historic nature of its agreement with the United States, NABEP delivered the first million barrels at no cost to the U.S. taxpayer. The cargo marks the beginning of the larger deal, which grants the U.S. Government the right to purchase 20 percent of NABEP's production at cost with no markup, in addition to a 35 percent equity stake in NABEP's parent company. The claim does not match the cited record. The interesting fact is the one-time no-cost delivery. The missing fact is the ongoing commercial structure of at-cost purchases and equity ownership.",
     "verdict": "Contradicted",
     "sources": [
-      {"title": "NABEP \u2014 First NABEP Crude Cargo Under U.S. Agreement Arrives in Texas, October 27, 2026", "url": "https://www.nabep.net/newsroom/first-nabep-crude-cargo-under-u-s-agreement-arrives-in-texas"},
-      {"title": "NABEP \u2014 United States Government and NABEP Reach Historic Deal, August 31, 2026", "url": "https://www.nabep.net/newsroom/united-states-government-and-north-american-blue-energy-partners-nabep-reach-historic-deal-to-develop-venezuelas-oil-sector"},
-      {"title": "White House fact sheet on the oil agreement", "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-secures-the-biggest-oil-deal-in-world-history/"}
+      {
+        "title": "NABEP — First NABEP Crude Cargo Under U.S. Agreement Arrives in Texas, October 27, 2026",
+        "url": "https://www.nabep.net/newsroom/first-nabep-crude-cargo-under-u-s-agreement-arrives-in-texas"
+      },
+      {
+        "title": "NABEP — United States Government and NABEP Reach Historic Deal, August 31, 2026",
+        "url": "https://www.nabep.net/newsroom/united-states-government-and-north-american-blue-energy-partners-nabep-reach-historic-deal-to-develop-venezuelas-oil-sector"
+      },
+      {
+        "title": "White House fact sheet on the oil agreement",
+        "url": "https://www.whitehouse.gov/releases/2026/09/president-trump-secures-the-biggest-oil-deal-in-world-history/"
+      }
     ],
     "video_url": "",
     "script": "Late Check. At a Texas campaign stop the president pointed to a tanker and said Venezuela sent him a boatload of a million barrels of oil as a gift, and that he was giving it to the United States at zero cost to the American taxpayer. North American Blue Energy Partners' own release that day states it delivered the first million barrels at no cost to the U.S. taxpayer to recognize the agreement. That same release says the cargo marks the beginning of the larger deal, which grants the U.S. government the right to purchase twenty percent of production at cost with no markup, plus a thirty-five percent equity stake. The claim does not match the cited record. Verdict: contradicted."
@@ -59,8 +112,14 @@
     "read": "At a Lubbock, Texas, campaign rally on October 27, President Trump said he was officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers. The Environmental Protection Agency's October 27 news release states that the president and EPA Administrator Lee Zeldin announced the agency's latest proposal to revise the 2024 oil and natural gas regulations under the Clean Air Act. The proposal would rescind the Super Emitter Program, create new categories for well sites, restore 95 percent efficient flaring as an option for associated gas, and make other technical changes. It is a proposed rule signed that day, subject to a public comment period of at least 45 days and publication in the Federal Register. The claim does not match the cited record. The interesting fact is the scale of the projected savings. The missing fact is that the action remains a proposal, not a completed termination.",
     "verdict": "Contradicted",
     "sources": [
-      {"title": "EPA \u2014 Proposes Major New Revisions to Burdensome, Unworkable Biden-era Oil and Natural Gas Regulations, October 27, 2026", "url": "https://www.epa.gov/newsreleases/epa-proposes-major-new-revisions-burdensome-unworkable-biden-era-oil-and-natural-gas"},
-      {"title": "EPA prepublication proposed rule preamble (signed October 27, 2026)", "url": "https://www.epa.gov/system/files/documents/2026-10/san-12726-ong-reconsideration-2-nprm-preamble-20261015-clean.admin_disclaimer.pdf"}
+      {
+        "title": "EPA — Proposes Major New Revisions to Burdensome, Unworkable Biden-era Oil and Natural Gas Regulations, October 27, 2026",
+        "url": "https://www.epa.gov/newsreleases/epa-proposes-major-new-revisions-burdensome-unworkable-biden-era-oil-and-natural-gas"
+      },
+      {
+        "title": "EPA prepublication proposed rule preamble (signed October 27, 2026)",
+        "url": "https://www.epa.gov/system/files/documents/2026-10/san-12726-ong-reconsideration-2-nprm-preamble-20261015-clean.admin_disclaimer.pdf"
+      }
     ],
     "video_url": "",
     "script": "Evening Check. At a Texas campaign rally, the president said he was officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers. The Environmental Protection Agency's own release that day describes a proposal to revise the two thousand twenty-four oil and natural gas rules. The proposal would rescind the Super Emitter Program, create new categories for certain well sites, and restore ninety-five percent efficient flaring as an option for associated gas. It is a proposed rule, signed October twenty-seventh, that will go through public comment and Federal Register publication. The claim does not match the cited record. Verdict: contradicted."
@@ -72,11 +131,17 @@
     "claim": "The Alaskans for Mary campaign has no involvement with either Sullivan campaign and did not recruit any candidates into the race",
     "outlet": "Alaskans for Mary campaign statement",
     "outlet_url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
-    "read": "The Alaskans for Mary campaign stated that it has no involvement with either Sullivan campaign and did not recruit any candidates into the Alaska Senate race. The New York Times reported on October 28 that aides to Mary Peltola received instructions in summer 2025 to comb voter records for people named Dan Sullivan, that the effort (internally called the ballot composition project) involved campaign lawyers and Democratic Senatorial Campaign Committee aides, and that text messages and documents show the team worked to recruit Dan J. Sullivan and other potential spoilers. Former campaign manager Elisa Rios told the Times that Peltola was not directly involved but was \"definitely aware.\" The claim does not match the cited record. The interesting fact is the scale of the internal coordination. The missing fact is the campaign\u2019s continued denial against the reported texts and interviews.",
+    "read": "The Alaskans for Mary campaign stated that it has no involvement with either Sullivan campaign and did not recruit any candidates into the Alaska Senate race. The New York Times reported on October 28 that aides to Mary Peltola received instructions in summer 2025 to comb voter records for people named Dan Sullivan, that the effort (internally called the ballot composition project) involved campaign lawyers and Democratic Senatorial Campaign Committee aides, and that text messages and documents show the team worked to recruit Dan J. Sullivan and other potential spoilers. Former campaign manager Elisa Rios told the Times that Peltola was not directly involved but was \"definitely aware.\" The claim does not match the cited record. The interesting fact is the scale of the internal coordination. The missing fact is the campaign’s continued denial against the reported texts and interviews.",
     "verdict": "Contradicted",
     "sources": [
-      {"title": "New York Times \u2014 Inside Democrats\u2019 Secret Effort to Stack Alaska\u2019s Ballot, October 28, 2026", "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"},
-      {"title": "DNYUZ mirror of NYT reporting", "url": "https://dnyuz.com/2026/10/28/inside-democrats-secret-effort-to-stack-alaskas-ballot/"}
+      {
+        "title": "New York Times — Inside Democrats’ Secret Effort to Stack Alaska’s Ballot, October 28, 2026",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+      },
+      {
+        "title": "DNYUZ mirror of NYT reporting",
+        "url": "https://dnyuz.com/2026/10/28/inside-democrats-secret-effort-to-stack-alaskas-ballot/"
+      }
     ],
     "video_url": "",
     "script": "Midday Check. The Alaskans for Mary campaign says it has no involvement with either Sullivan campaign and did not recruit any candidates into the race. The New York Times reported today that a staffer for Mary Peltola was instructed in the summer of twenty twenty-five to find as many people named Dan Sullivan in Alaska as possible. The effort, called the ballot composition project, involved campaign lawyers and senior aides from the Democratic Senatorial Campaign Committee. Text messages and documents reviewed by the Times show the team worked to recruit Dan J. Sullivan and other potential spoilers. Former campaign manager Elisa Rios said Peltola was not directly involved but was definitely aware. The claim does not match the cited record. Verdict: contradicted."
@@ -91,10 +156,22 @@
     "read": "At a Grand Rapids, Michigan, campaign event Monday, Health and Human Services Secretary Robert F. Kennedy Jr. said there are 500 million Arabs in the world and yet they do not produce science, do not win the Nobel Prize, the Fields Prize, or the Wolf Prize, and do not produce literature. Official Nobel records show Egyptian chemist Ahmed Zewail received the 1999 Nobel Prize in Chemistry for femtosecond spectroscopy of chemical reactions; he was born in Damanhur, Egypt. Egyptian novelist Naguib Mahfouz received the 1988 Nobel Prize in Literature, the first for a writer with Arabic as his native tongue. Jordanian-born chemist Omar M. Yaghi shared the 2025 Nobel Prize in Chemistry for metal-organic frameworks. Zewail also received the 1993 Wolf Prize in Chemistry. The claim does not match the cited record. The interesting fact is the scale of the assertion. The missing fact is the documented prize winners.",
     "verdict": "Contradicted",
     "sources": [
-      {"title": "Nobel Prize \u2014 Ahmed Zewail, Chemistry 1999", "url": "https://www.nobelprize.org/prizes/chemistry/1999/zewail/facts/"},
-      {"title": "Nobel Prize \u2014 Naguib Mahfouz, Literature 1988", "url": "https://www.nobelprize.org/prizes/literature/1988/press-release/"},
-      {"title": "Nobel Prize \u2014 Chemistry 2025 press release (Omar M. Yaghi)", "url": "https://www.nobelprize.org/prizes/chemistry/2025/press-release/"},
-      {"title": "Wolf Foundation \u2014 Ahmed H. Zewail", "url": "https://wolffund.org.il/ahmed-h-zewail/"}
+      {
+        "title": "Nobel Prize — Ahmed Zewail, Chemistry 1999",
+        "url": "https://www.nobelprize.org/prizes/chemistry/1999/zewail/facts/"
+      },
+      {
+        "title": "Nobel Prize — Naguib Mahfouz, Literature 1988",
+        "url": "https://www.nobelprize.org/prizes/literature/1988/press-release/"
+      },
+      {
+        "title": "Nobel Prize — Chemistry 2025 press release (Omar M. Yaghi)",
+        "url": "https://www.nobelprize.org/prizes/chemistry/2025/press-release/"
+      },
+      {
+        "title": "Wolf Foundation — Ahmed H. Zewail",
+        "url": "https://wolffund.org.il/ahmed-h-zewail/"
+      }
     ],
     "video_url": "",
     "script": "Evening Check. At a Michigan campaign event, the health secretary said there are five hundred million Arabs in the world and yet they do not produce science. They do not win the Nobel Prize. They do not win the Fields Prize. They do not win the Wolf Prize. They do not produce literature. Official Nobel records show Egyptian chemist Ahmed Zewail received the nineteen ninety-nine Nobel Prize in Chemistry. Egyptian novelist Naguib Mahfouz received the nineteen eighty-eight Nobel Prize in Literature. Jordanian-born chemist Omar Yaghi shared the twenty twenty-five Nobel Prize in Chemistry. Zewail also received the nineteen ninety-three Wolf Prize in Chemistry. The claim does not match the cited record. Verdict: contradicted."
