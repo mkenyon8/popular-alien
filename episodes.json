@@ -1,1 +1,106 @@
-PLACEHOLDER_FULL_HISTORY
+[
+  {
+    "id": "20261027-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-27T17:44:00-05:00",
+    "claim": "There's 500 million Arabs in the world. And yet they don't produce science. They don't win the Nobel Prize. They don't win the Fields Prize. They don't win the Wolf Prize. They don't produce literature.",
+    "outlet": "Campaign rally remarks",
+    "outlet_url": "https://www.newsweek.com/rfk-jr-says-500m-arabs-dont-produce-science-at-michigan-rally-12622276",
+    "read": "At a Grand Rapids, Michigan, campaign event Monday, Health and Human Services Secretary Robert F. Kennedy Jr. said there are 500 million Arabs in the world and yet they do not produce science, do not win the Nobel Prize, the Fields Prize, or the Wolf Prize, and do not produce literature. Official Nobel records show Egyptian chemist Ahmed Zewail received the 1999 Nobel Prize in Chemistry for femtosecond spectroscopy of chemical reactions; he was born in Damanhur, Egypt. Egyptian novelist Naguib Mahfouz received the 1988 Nobel Prize in Literature, the first for a writer with Arabic as his native tongue. Jordanian-born chemist Omar M. Yaghi shared the 2025 Nobel Prize in Chemistry for metal-organic frameworks. Zewail also received the 1993 Wolf Prize in Chemistry. The claim does not match the cited record. The interesting fact is the scale of the assertion. The missing fact is the documented prize winners.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "Nobel Prize — Ahmed Zewail, Chemistry 1999", "url": "https://www.nobelprize.org/prizes/chemistry/1999/zewail/facts/"}, {"title": "Nobel Prize — Naguib Mahfouz, Literature 1988", "url": "https://www.nobelprize.org/prizes/literature/1988/press-release/"}, {"title": "Nobel Prize — Chemistry 2025 press release (Omar M. Yaghi)", "url": "https://www.nobelprize.org/prizes/chemistry/2025/press-release/"}, {"title": "Wolf Foundation — Ahmed H. Zewail", "url": "https://wolffund.org.il/ahmed-h-zewail/"}],
+    "video_url": "",
+    "script": "Evening Check. At a Michigan campaign event, the health secretary said there are five hundred million Arabs in the world and yet they do not produce science. They do not win the Nobel Prize. They do not win the Fields Prize. They do not win the Wolf Prize. They do not produce literature. Official Nobel records show Egyptian chemist Ahmed Zewail received the nineteen ninety-nine Nobel Prize in Chemistry. Egyptian novelist Naguib Mahfouz received the nineteen eighty-eight Nobel Prize in Literature. Jordanian-born chemist Omar Yaghi shared the twenty twenty-five Nobel Prize in Chemistry. Zewail also received the nineteen ninety-three Wolf Prize in Chemistry. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261027-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-27T11:34:00-05:00",
+    "claim": "15% of Americans believe between 1 and 5% of NCAA athletes are transgender; 14% believe between 6 and 25%.",
+    "outlet": "X post",
+    "outlet_url": "https://x.com/samstein/status/2115078660373745735",
+    "read": "A high-engagement post reports a YouGov survey in which 15 percent of American adults estimated that between 1 and 5 percent of NCAA athletes are transgender and 14 percent estimated between 6 and 25 percent. An NCAA spokesperson confirmed that the current number of student-athletes competing in women's sports who identify as transgender is effectively zero, consistent with the association's policy. In December 2024 NCAA President Charlie Baker told a Senate panel that fewer than 10 of more than 510,000 athletes were transgender. In February 2025 the Board of Governors restricted women's-team competition to athletes assigned female at birth. The estimates do not match the cited record. The interesting fact is the size of the overestimate. The missing fact is the official count and the current policy.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "The Bulwark — New poll on sports, masculinity, and transgender athletes", "url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"}, {"title": "NCAA — Participation Policy for Transgender Student-Athletes (effective February 6, 2025)", "url": "https://www.ncaa.org/what-we-do/health-safety-and-performance/participation-policy-for-transgender-student-athletes/"}],
+    "video_url": "",
+    "script": "Midday Check. A high-engagement post reports a new poll. Fifteen percent of Americans said they believe between one and five percent of NCAA athletes are transgender. Fourteen percent put the share between six and twenty-five percent. An NCAA spokesperson confirmed the current number competing in women's sports is effectively zero. In December two thousand twenty-four, NCAA President Charlie Baker told a Senate panel fewer than ten of more than five hundred ten thousand athletes were transgender. The following February the Board of Governors restricted women's-team competition to athletes assigned female at birth. The estimates do not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261027-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-10-27T06:31:00-05:00",
+    "claim": "40% drop in drug overdoses.",
+    "outlet": "Instagram post",
+    "outlet_url": "https://www.instagram.com/p/De2HR7pvPG2/",
+    "read": "A high-engagement Instagram post from the president shows a black-and-white photo of him in the Oval Office with the text \"40% drop in drug overdoses.\" White House and ONDCP posts frame this as the president's Office of National Drug Control Policy overseeing a massive decrease since the peak under the prior administration. CDC provisional data from the National Vital Statistics System show the 12-month ending peak near 112,000 deaths in mid-to-late 2023. Analyses of those counts put the decline at roughly 40 percent by early 2026. The downward trend began in mid-2023, more than a year before the current term. Peer-reviewed and expert reviews point primarily to shifts in the illicit fentanyl supply, wider naloxone access, and treatment changes rather than post-2025 enforcement alone. The claim does not match the cited record on attribution. The interesting fact is the scale of the drop. The missing fact is that it started well before this administration.",
+    "verdict": "Missing context",
+    "sources": [{"title": "CDC National Center for Health Statistics — Provisional Drug Overdose Death Counts", "url": "https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm"}, {"title": "Opioid Data Lab — Causes of the recent rise & decline in US overdose deaths", "url": "https://www.opioiddata.org/causes-of-the-recent-rise-decline-in-us-overdose-deaths/"}],
+    "video_url": "",
+    "script": "Morning Check. An Instagram post from the president shows him in the Oval Office with the text forty percent drop in drug overdoses. The White House says his drug control office has overseen a massive decrease since the peak under the prior administration. CDC provisional counts show the twelve-month peak near one hundred twelve thousand deaths in mid to late two thousand twenty-three. The decline is roughly forty percent by early two thousand twenty-six. That downward trend began in mid two thousand twenty-three, more than a year before this term. Experts point mainly to changes in the illicit fentanyl supply, naloxone access, and treatment. The claim does not match the cited record on who oversaw the full drop. Verdict: missing context."
+  },
+  {
+    "id": "20261026-late",
+    "slot": "Late Check",
+    "aired_at": "2026-10-26T23:08:00-05:00",
+    "claim": "The Department of Justice does not seek to stop any ballot from being cast or to stop the certification of Alaska's election.",
+    "outlet": "Social media post",
+    "outlet_url": "https://x.com/AGToddBlanche/status/2114072424815776119",
+    "read": "Attorney General Todd Blanche posted that the Justice Department does not seek to stop the certification of Alaska's election. The department's complaint in United States v. Alaska asks the court to enjoin the state from certifying any result that may be impacted by voter confusion. The complaint defines that impact as a case where Senator Dan S. Sullivan does not win, but would have won if every vote for Daniel J. Sullivan had gone to him instead. The claim does not match the cited record. The interesting fact is the conditional nature of the requested order. The missing fact is that the complaint seeks to block certification in the specific scenario where the incumbent loses narrowly.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "U.S. District Court for the District of Alaska — Complaint, United States v. State of Alaska, 3:26-cv-00376", "url": "https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.1.0_2.pdf"}, {"title": "Attorney General Todd Blanche — X post", "url": "https://x.com/AGToddBlanche/status/2114072424815776119"}],
+    "video_url": "",
+    "script": "Late Check. The attorney general said the Justice Department does not seek to stop the certification of Alaska's election. The department's own complaint asks a federal court to block the state from certifying any result that may be impacted by voter confusion. The complaint defines that impact as a case where Senator Dan Sullivan does not win, but would have if every vote for the other Daniel Sullivan had gone to him. The prayer for relief seeks an injunction against certification pending an investigation into whether those votes were meant for the incumbent. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261026-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-10-26T17:44:00-05:00",
+    "claim": "It looked like another rigged election, frankly.",
+    "outlet": "Remarks to reporters",
+    "outlet_url": "https://www.lbc.co.uk/article/trump-brazil-election-rigged-5HjdkT7_2/",
+    "read": "Speaking to reporters Monday before a Mississippi rally, the president said Brazil's presidential runoff looked like another rigged election and had a terrible look, citing the tabulation and a last-minute voting extension. Brazil's Superior Electoral Court reported the official result: Luiz Inácio Lula da Silva 64,256,232 votes (51.79 percent), Flávio Bolsonaro 59,826,041 votes (48.21 percent), a margin of more than 4.4 million. Independent analyses of TSE data found roughly 34,000 to 35,000 votes cast after the original 5 p.m. close, about 0.03 percent of the total, far smaller than the margin. The TSE president, appointed by Jair Bolsonaro, said the extension did not affect the outcome. The claim does not match the cited record. The interesting fact is the last-minute extension ordered by a Supreme Court justice. The missing fact is that the extra votes were too few to change the result.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "Tribunal Superior Eleitoral — Presidente do TSE anuncia reeleição de Lula", "url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026"}, {"title": "BBC News Brasil — 33.8 mil votos durante prorrogação", "url": "https://www.bbc.com/portuguese/articles/crp3g2ynkp1xo"}],
+    "video_url": "",
+    "script": "Evening Check. A reporter asked the president if Brazil's election was fair. He said it looked terrible and looked like another rigged election. Brazil's Superior Electoral Court certified Luiz Inácio Lula da Silva with 64,256,232 votes, 51.79 percent, over Flávio Bolsonaro's 59,826,041 votes, 48.21 percent. The margin was more than four million votes. A Supreme Court order extended voting by two hours. Analyses of the official data show about 34,000 votes after the original close, 0.03 percent of the total. The electoral court president said the extension did not change the result. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261026-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-26T11:34:00-05:00",
+    "claim": "Minnesota voters are choosing a GHOST CANDIDATE who is NOT REAL. \"Ilhan Omar\" as it appears on the ballot is not a real person!!",
+    "outlet": "Social media post",
+    "outlet_url": "https://x.com/EricLDaugh/status/2114712009132388412",
+    "read": "A high-engagement post claims voters are choosing a ghost candidate and that the name Ilhan Omar on the ballot is not a real person. A federal court filing in the search-warrant matter lists the subject as Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar. a/k/a means also known as. The filing does not find that the ballot name is nonexistent. Official House records, the Biographical Directory, and her office site list her as Ilhan Omar, the sitting Representative from Minnesota's 5th District. Her office has stated that Ilhan Omar is her real name. The claim does not match the cited record. The interesting fact is the alternate name in the motion. The missing fact is that a/k/a is not a finding of a fake ballot identity.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "U.S. District Court for the District of Columbia — Motion for Extension of Time, Case 1:26-mc-00144", "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.3.0.pdf"}, {"title": "U.S. House of Representatives — About Representative Ilhan Omar", "url": "https://omar.house.gov/about"}],
+    "video_url": "",
+    "script": "Midday Check. A post says Minnesota voters are choosing a ghost candidate. The name Ilhan Omar on the ballot is not a real person. A federal filing in the search-warrant case lists the subject as Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar. a/k/a means also known as. Official House records list her as Ilhan Omar, the Representative from Minnesota's Fifth District. Her office says that is her real name. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261026-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-10-26T06:31:00-05:00",
+    "claim": "Everyone thought she came in second or third, but then she 'won.'",
+    "outlet": "Truth Social",
+    "outlet_url": "https://www.trumpstruth.org/statuses/42711",
+    "read": "In a Saturday-night Truth Social post, the president wrote that Lisa Murkowski only got elected because of ranked-choice voting and that everyone thought she came in second or third before she won. The official 2022 Alaska Division of Elections first-choice tally shows Murkowski finishing first with 113,495 votes (43.37 percent) to Kelly Tshibaka's 111,480 (42.60 percent). She led the initial count by roughly 2,000 votes; second-choice ballots from eliminated candidates then expanded her margin to 53.7 percent. The claim does not match the cited record. The interesting fact is the ranked-choice redistribution. The missing fact is that she already held the plurality before any redistribution.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "Alaska Division of Elections — 2022 General Election Official Summary Report", "url": "https://www.elections.alaska.gov/results/22GENR/ElectionSummaryReportRPT.pdf"}, {"title": "Alaska Division of Elections — 2022 U.S. Senate Ranked-Choice Detailed Report", "url": "https://www.elections.alaska.gov/results/22GENR/rcv/US-SEN.pdf"}],
+    "video_url": "",
+    "script": "Morning Check. A Truth Social post says everyone thought Lisa Murkowski came in second or third, then she won under ranked-choice voting. The official first-choice tally from the Alaska Division of Elections shows she finished first with 113,495 votes, 43.37 percent, ahead of Kelly Tshibaka at 111,480 votes, 42.60 percent. She led the initial count. Second-choice ballots from the Democrat and a withdrawn Republican then widened the margin to 53.7 percent. The claim does not match the cited record. Verdict: contradicted."
+  },
+  {
+    "id": "20261025-late",
+    "slot": "Late Check",
+    "aired_at": "2026-10-25T23:08:00-05:00",
+    "claim": "Heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood. Abdulrahman Mohamed El-Sayed is a Fake Doctor, who runs what is considered to be the WORST CLINIC IN AMERICA.",
+    "outlet": "Truth Social",
+    "outlet_url": "https://truthsocial.com/@realDonaldTrump",
+    "read": "Bridge Michigan reviewed public records and found no evidence that El-Sayed is a member of or pledged support to the Muslim Brotherhood. He has disavowed the group. He holds an MD from Columbia and a public-health doctorate from Oxford, but did not complete residency and has never held a medical license in Michigan or New York. He has said he does not practice medicine. The claim does not match the cited record. The interesting fact is the campaign attack. The missing fact is the degree and the absence of membership evidence.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "Bridge Michigan — Fact check: No evidence Abdul El-Sayed ‘pledged support’ to Muslim Brotherhood", "url": "https://bridgemi.com/michigan-government/fact-check-no-evidence-abdul-el-sayed-pledged-support-to-muslim-brotherhood/"}, {"title": "Bridge Michigan — Fact check: Abdul El-Sayed not a ‘fake doctor’ or licensed physician", "url": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-not-a-fake-doctor-or-licensed-physician/"}],
+    "video_url": "",
+    "script": "Late Check. A Truth Social post says the president is heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood, a Fake Doctor who runs the worst clinic in America. Bridge Michigan reviewed the record and found no evidence of membership or a pledge of support. El-Sayed has disavowed the group. He holds a medical degree from Columbia. He did not complete residency and has never held a license to practice in Michigan or New York. He has said he does not practice medicine. The claim does not match the cited record. Verdict: contradicted."
+  }
+]
