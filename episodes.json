@@ -1,5 +1,34 @@
 [
   {
+    "id": "20261030-reframe-brazil-lula-bolsonaro-debate",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-10-30T05:58:00-05:00",
+    "claim": "Brazil’s Lula and Flávio Bolsonaro face final debate two days before runoff",
+    "outlet": "Al Jazeera English",
+    "outlet_url": "https://www.youtube.com/shorts/2t1LNZrj36s",
+    "read": "The shouting was witnessed; the geopolitics was guessed. Graded B overall across 3 arguments. Associated Press: A-. Associated Press: C. Senator Flávio Bolsonaro: D. Scorecard: 33% valid, 33% cogent, 50% supported, 100% fallacy-free.",
+    "grade": "B",
+    "scores": {
+      "valid": 33,
+      "cogent": 33,
+      "supported": 50,
+      "fallacy_free": 100
+    },
+    "sources": [
+      {
+        "title": "Al Jazeera English — Brazil’s Lula and Flávio Bolsonaro face final debate two days before runoff",
+        "url": "https://www.youtube.com/shorts/2t1LNZrj36s"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode",
+        "url": "https://show.popularalien.com/?segment=d91bf9886f20"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/d91bf9886f20.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Al Jazeera English reports: Brazil’s Lula and Flávio Bolsonaro face final debate two days before runoff.\nAl Jazeera English reported this on October 24.\nThe headline: Brazil’s Lula and Flávio Bolsonaro face final debate two days before runoff.\nBrazil’s runoff presidential election is less than two days away, and President Luiz Inacio Lula da Silva is facing his right-wing rival, Flavio Bolsonaro, in the second and final debate before the vote.\nAl Jazeera’s Latin America editor, Lucia Newman, reporting live from Brasília, says the debate is very important.\nOne in five Brazilians, more than 33 million people, abstained in the first round, and many voters remain undecided.\nLet's grade the headline.\nWe ask four questions of every argument.\nIs it valid? If the reasons are true... must the conclusion be true?\nIs it cogent? Are the reasons believable... and do they make it likely?\nIs it supported? Does the article actually show the evidence?\nAnd is it fallacy-free? Does it avoid reasoning tricks... like attacking the person?\nArgument one. It comes from Associated Press.\nThe reasons. Reason one. Lula and Flávio Bolsonaro debated for about two hours on Band TV days before the Oct. 25 runoff.\nReason two. They exchanged barbs, accusations and insults; family members were often the topic; exchanges were sometimes inaudible.\nReason three. There was little discussion of their plans for the future, contrary to what analysts had expected of a pitch to undecided voters.\nTherefore... The first debate disappointed expectations of outreach to undecided voters and offered little substantive debate about governing plans.\nArgument one was graded valid. On the board, it has this shape. P... and if P, then C.\nHere's every combination of true and false.\nLook at every row where both premises are true. C is true every time. No counterexample.\nThat's what valid means. But valid isn't the same as true. Whether the reasons are true... is what cogent and supported measure.\nIs it valid? Yes. If the reasons are true, the conclusion must be true.\nIs it cogent? Yes. The reasons are believable and make the conclusion likely.\nIs it supported? Yes. The article shows the evidence.\nAny fallacies? None found.\nThat's an A-minus.\nWhy A minus? Charitably reconstructed, disappointment follows from a missed expectation plus a thin policy discussion, and the reporter was watching the broadcast.\nThat is real evidence, not vibe.\nIt is not a clean A only because the analysts stay unnamed and the reader gets no transcript line to test 'little discussion.'\nArgument two. It comes from Associated Press.\nThe reasons. Reason one. Flávio Bolsonaro is an ally of U.S. President Donald Trump.\nReason two. The winner will lead Latin America's biggest economy and a population of 214 million.\nReason three. The article treats Lula's current stance as distance from Washington and a deepening relationship with China.\nTherefore... A Bolsonaro win would increase U.S. influence in Latin America; a Lula win would keep Brazil distant from Washington and continue deepening ties with China.\nLet's put argument two on the board. P stands for its reasons, all together. C is the conclusion.\nHere's every combination of true and false.\nRow two. The reasons are true... but the conclusion is false. Nothing in the reasons rules that out.\nThat's a counterexample. One is enough. The argument is invalid.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? No. The reasons don't make the conclusion likely.\nIs it supported? Partly. Some of it is shown. Some is only asserted.\nAny fallacies? None found.\nThat's a C.\nWhy C? Alliance is a clue to alignment, not a proof that influence increases, and 'keep' and 'continue' smuggle in a foreign-policy record this piece never documents.\nFair as a stakes sketch, unpaid as a causal argument.\nNo named fallacy: compression is not yet a howler.\nArgument three. It comes from Senator Flávio Bolsonaro. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. Lula can be removed from office.\nReason two. Corruption can be fought.\nReason three. The article supplies no further mechanism, baseline, or data for the economic claim.\nTherefore... Brazil's economy will improve just by removing Lula and fighting corruption.\nIs it valid? No. The reasons could all be true and the conclusion still false.\nIs it cogent? No. The reasons don't make the conclusion likely.\nIs it supported? No. The article doesn't show the evidence.\nAny fallacies? None found.\nThat's a D.\nWhy D? Graded only as printed.\nEven read charitably, removal plus an anti-corruption slogan does not entail a better economy, and the page gives no number, channel, or comparison.\nThe D stays with the claim: the wire attributes it and does not endorse it.\nNow, the whole scorecard.\nValid: 33 percent.\nCogent: 33 percent.\nConclusion supported: 50 percent.\nFallacy-free: 100 percent. No fallacies found.\nOverall... a B.\nIn one line: The shouting was witnessed; the geopolitics was guessed.\nThree arguments. One valid. One cogent. One fully supported. Zero fallacies.\nDon't just read the news. ReFrame it."
+  },
+  {
     "id": "20261030-reframe-fauci-darkest-hours",
     "slot": "ReFrame",
     "lead": false,
