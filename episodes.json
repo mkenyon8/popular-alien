@@ -1,1 +1,15 @@
-PLACEHOLDER_WILL_REPLACE
+[
+  {
+    "id": "20261029-late",
+    "slot": "Late Check",
+    "aired_at": "2026-10-29T23:10:00-05:00",
+    "claim": "The Justice Department has identified more than 20,000 likely noncitizens who are registered to vote in California.",
+    "outlet": "Justice Department lawsuit and public statements, October 2026",
+    "outlet_url": "https://www.reuters.com/world/us-justice-dept-loses-initial-bid-block-votes-alleged-noncitizens-california-2026-10-29/",
+    "read": "The Justice Department alleged in court filings that more than 20,000 likely noncitizens were registered to vote in California and sought an emergency order to segregate and not count their ballots. U.S. District Judge David O. Carter, in a 26-page order issued October 28, 2026, denied the request. He wrote that the allegations are not credible, that the methodology was vague and provided no error rates or validation against a reliable benchmark, and that similar lists in other states had produced large numbers of false positives (including a Nevada list that shrank from thousands to 185, all of whom were later confirmed as citizens). The claim does not match the cited record. The interesting fact is the scale of the asserted number days before Election Day. The missing fact is the court's finding that the evidence is unreliable.",
+    "verdict": "Contradicted",
+    "sources": [{"title": "Reuters — Judge rejects US Justice Dept bid to block votes from alleged noncitizens in California", "url": "https://www.reuters.com/world/us-justice-dept-loses-initial-bid-block-votes-alleged-noncitizens-california-2026-10-29/"}, {"title": "Reason — Trump's noncitizen voting claims are 'not credible,' says federal judge", "url": "https://reason.com/2026/10/29/trumps-claims-about-noncitizen-voting-are-not-credible-a-federal-judge-says-in-a-scathing-decision/"}, {"title": "CBS News — Judge rejects Trump administration's push to force California to set aside thousands of mail ballots", "url": "https://www.cbsnews.com/news/judge-rejects-trump-california-mail-ballots/"}],
+    "video_url": "",
+    "script": "Late Check. The Justice Department said it has identified more than twenty thousand likely noncitizens registered to vote in California and asked a federal court to set their ballots aside. U.S. District Judge David Carter denied the request in a twenty-six-page order. He wrote that the allegations are not credible. The methodology was vague and provided no error rates or validation against a reliable benchmark. Similar lists in other states had produced large numbers of false positives. In Nevada the list shrank from thousands to one hundred eighty-five individuals, all later confirmed as citizens. The claim does not match the cited record. Verdict: contradicted."
+  }
+]
