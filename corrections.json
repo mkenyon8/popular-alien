@@ -1,0 +1,114 @@
+[
+  {
+    "story_id": "20261029-morning",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "reason": "Attributed the claim to its actual source, an anonymous official quoted by CBS, instead of stating it as fact.",
+    "source_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+  },
+  {
+    "story_id": "20261029-morning",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "why",
+    "what_changed": "why updated",
+    "reason": "Replaced the outdated aired line that the Joint Staff statement gave no reason; CBS's updated story reports Parnell's statement and the Joint Staff's retraction.",
+    "source_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+  },
+  {
+    "story_id": "20261028-late",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "reason": "Attributed the quote to its speaker and used the wording CNN and Reuters reported; the old text merged the spoken remark with the later Truth Social post.",
+    "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+  },
+  {
+    "story_id": "20261028-late",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "verdict",
+    "what_changed": "verdict: Contradicted -> Missing context",
+    "reason": "The record supports the no-cost part: NABEP's amended release says the first million barrels came at no cost to taxpayers. What is missing is how: the oil came from a private company, not the Venezuelan government, and its value is to be recovered through higher prices on later deliveries. That is missing context, not a contradiction.",
+    "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+  },
+  {
+    "story_id": "20261028-late",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "why",
+    "what_changed": "why updated",
+    "reason": "Rewrote to reflect NABEP's amended statement and CNN's reporting on deferred pricing, and to match the corrected verdict.",
+    "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+  },
+  {
+    "story_id": "20261028-late",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "what_would_change",
+    "what_changed": "what_would_change updated",
+    "reason": "Updated to match the corrected verdict.",
+    "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+  },
+  {
+    "story_id": "20261027-midday",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "reason": "Attributed the claim to its speaker and quoted the post's exact wording.",
+    "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+  },
+  {
+    "story_id": "20261027-midday",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "verdict",
+    "what_changed": "verdict: Contradicted -> Matches record",
+    "reason": "The post accurately reports the poll's published numbers. The wrong estimates belong to the poll respondents, not to the post, so Contradicted was the wrong verdict.",
+    "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+  },
+  {
+    "story_id": "20261027-midday",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "record_title",
+    "what_changed": "record_title updated",
+    "reason": "Pointed the record at the poll write-up that the claim reports on.",
+    "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+  },
+  {
+    "story_id": "20261027-midday",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "record_url",
+    "what_changed": "record_url updated: https://www.ncaa.org/what-we-do/health-safety-and-performance/participation-policy-for-transgender-student-athletes/ -> https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting",
+    "reason": "Pointed the record at the poll write-up that the claim reports on.",
+    "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+  },
+  {
+    "story_id": "20261027-midday",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "why",
+    "what_changed": "why updated",
+    "reason": "Rewrote to match the corrected verdict and add the poll's method and the critique of the question's wording.",
+    "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+  },
+  {
+    "story_id": "20261027-midday",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "what_would_change",
+    "what_changed": "what_would_change updated",
+    "reason": "Updated to match the corrected verdict.",
+    "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+  },
+  {
+    "story_id": "20261026-morning",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "reason": "Attributed the quote to its speaker and matched the post's exact wording.",
+    "source_url": "https://www.trumpstruth.org/statuses/42712"
+  },
+  {
+    "story_id": "20261026-morning",
+    "date": "2026-10-30T23:41:39-05:00",
+    "field": "outlet_url",
+    "what_changed": "outlet_url updated: https://www.trumpstruth.org/statuses/42711 -> https://www.trumpstruth.org/statuses/42712",
+    "reason": "The old link (status 42711) is a different post; the quoted words are in status 42712.",
+    "source_url": "https://www.trumpstruth.org/statuses/42712"
+  }
+]
