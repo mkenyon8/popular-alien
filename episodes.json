@@ -1,5 +1,93 @@
 [
   {
+    "id": "20261031-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-31T11:40:00-05:00",
+    "headline": "Talarico ad ties Crystal Mason's five-year sentence to Ken Paxton; court records show Tarrant County prosecuted her and an appeals court later acquitted her",
+    "claim": "“Crystal Mason received a five-year prison sentence for illegal voting because of Ken Paxton’s crackdown on voters of color.” — closing TV ad from James Talarico’s Texas Senate campaign, as quoted by FactCheck.org, Oct. 30, 2026",
+    "outlet": "FactCheck.org, October 30, 2026",
+    "outlet_url": "https://www.factcheck.org/2026/10/talarico-ad-omits-details-of-crystal-masons-illegal-voting-case/",
+    "source_url": "https://www.factcheck.org/2026/10/talarico-ad-omits-details-of-crystal-masons-illegal-voting-case/",
+    "record_url": "https://law.justia.com/cases/texas/second-court-of-appeals/2024/02-18-00138-cr.html",
+    "record_title": "Mason v. State, No. 02-18-00138-CR, Texas Second Court of Appeals, opinion on remand, March 28, 2024",
+    "verdict": "Missing context",
+    "why": "The court record shows Mason was convicted in Tarrant County's 432nd District Court for casting a provisional ballot in 2016 while on federal supervised release, and FactCheck.org reports the case was investigated and prosecuted by the Tarrant County District Attorney's Office, not by Attorney General Ken Paxton's office. The ad leaves out that the Second Court of Appeals reversed the conviction in 2024 and acquitted her because the state didn't prove she knew she was ineligible. The record doesn't settle whether Paxton's broader voter-fraud push shaped the local case, so the ad's causal link is unproven rather than shown false.",
+    "what_would_change": "Records showing Paxton's office directed, referred, or helped prosecute the Mason case would move this toward Matches record; records showing the Tarrant County prosecution had no connection to any statewide effort would move it toward Contradicted.",
+    "read": "The court record shows Mason was convicted in Tarrant County's 432nd District Court for casting a provisional ballot in 2016 while on federal supervised release, and FactCheck.org reports the case was investigated and prosecuted by the Tarrant County District Attorney's Office, not by Attorney General Ken Paxton's office. The ad leaves out that the Second Court of Appeals reversed the conviction in 2024 and acquitted her because the state didn't prove she knew she was ineligible. The record doesn't settle whether Paxton's broader voter-fraud push shaped the local case, so the ad's causal link is unproven rather than shown false.",
+    "sources": [
+      {
+        "title": "FactCheck.org, October 30, 2026",
+        "url": "https://www.factcheck.org/2026/10/talarico-ad-omits-details-of-crystal-masons-illegal-voting-case/"
+      },
+      {
+        "title": "Mason v. State, No. 02-18-00138-CR, Texas Second Court of Appeals, opinion on remand, March 28, 2024",
+        "url": "https://law.justia.com/cases/texas/second-court-of-appeals/2024/02-18-00138-cr.html"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. A closing ad for Texas Senate candidate James Talarico says Crystal Mason got five years in prison because of Ken Paxton's crackdown on voters of color. The court record shows Tarrant County prosecuted her, not Paxton's office, and an appeals court acquitted her in 2024 because the state never proved she knew she couldn't vote. Verdict: missing context."
+  },
+  {
+    "id": "20261031-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-31T11:40:00-05:00",
+    "headline": "Trump says Rep. Ilhan Omar 'will not be legally allowed' to serve in Congress; the Constitution leaves that call to the House, which hasn't made it",
+    "claim": "“She will not be legally allowed to be a member of that august body of politicians.” — President Donald Trump on Rep. Ilhan Omar, D-Minn., as quoted by Fox News, Oct. 31, 2026",
+    "outlet": "Fox News, October 31, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away",
+    "source_url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away",
+    "record_url": "https://constitution.congress.gov/browse/article-1/section-5/",
+    "record_title": "U.S. Constitution, Article I, Section 5 (Constitution Annotated, Congress.gov)",
+    "verdict": "Contradicted",
+    "why": "Article I, Section 5 makes each chamber the judge of its own members' elections, returns and qualifications, and expelling a member takes a two-thirds vote of that chamber, so the president has no power to bar Omar from her seat. Fox News' own report says the federal immigration-fraud inquiry is still under way, the House has taken no action on her qualifications, and Democrats have not conceded her seat. Nothing in the public record so far shows a legal finding that would disqualify her.",
+    "what_would_change": "A House vote to exclude or expel Omar, or a court ruling that her naturalization was obtained by fraud, would move this toward Matches record.",
+    "read": "Article I, Section 5 makes each chamber the judge of its own members' elections, returns and qualifications, and expelling a member takes a two-thirds vote of that chamber, so the president has no power to bar Omar from her seat. Fox News' own report says the federal immigration-fraud inquiry is still under way, the House has taken no action on her qualifications, and Democrats have not conceded her seat. Nothing in the public record so far shows a legal finding that would disqualify her.",
+    "sources": [
+      {
+        "title": "Fox News, October 31, 2026",
+        "url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away"
+      },
+      {
+        "title": "U.S. Constitution, Article I, Section 5 (Constitution Annotated, Congress.gov)",
+        "url": "https://constitution.congress.gov/browse/article-1/section-5/"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. President Trump says Congresswoman Ilhan Omar will not be legally allowed to stay in Congress. Article One, Section Five of the Constitution gives that judgment to the House itself, and expulsion takes a two-thirds vote. The House hasn't acted, and the federal inquiry hasn't produced any legal finding against her. Verdict: contradicted."
+  },
+  {
+    "id": "20261031-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-10-31T11:40:00-05:00",
+    "headline": "CNN says Alaska gives mailed ballots 10 to 15 days to arrive; state election law says the same",
+    "claim": "“The state gives between 10 to 15 days for mailed ballots to be returned to the elections office (10 days if mailed within the US and 15 days from overseas).” — CNN, on why Alaska's Senate count could take two weeks, Oct. 31, 2026",
+    "outlet": "CNN, October 31, 2026",
+    "outlet_url": "https://edition.cnn.com/2026/10/31/politics/alaska-senate-certification-ranked-choice-voting",
+    "source_url": "https://edition.cnn.com/2026/10/31/politics/alaska-senate-certification-ranked-choice-voting",
+    "record_url": "https://law.justia.com/codes/alaska/title-15/chapter-20/article-1/section-15-20-081/",
+    "record_title": "Alaska Statutes § 15.20.081, absentee voting deadlines",
+    "verdict": "Matches record",
+    "why": "Alaska law requires a mailed absentee ballot to be postmarked by Election Day and received by the close of business on the 10th day after the election, and gives ballots mailed from outside the United States until the 15th day after a general election. The Division of Elections' own general-election calendar lists the same 10-day and 15-day receipt deadlines. CNN's description of the window matches the statute.",
+    "what_would_change": "A change to Alaska's absentee receipt deadlines in law or by court order for the 2026 general election would move this toward Contradicted or Missing context.",
+    "read": "Alaska law requires a mailed absentee ballot to be postmarked by Election Day and received by the close of business on the 10th day after the election, and gives ballots mailed from outside the United States until the 15th day after a general election. The Division of Elections' own general-election calendar lists the same 10-day and 15-day receipt deadlines. CNN's description of the window matches the statute.",
+    "sources": [
+      {
+        "title": "CNN, October 31, 2026",
+        "url": "https://edition.cnn.com/2026/10/31/politics/alaska-senate-certification-ranked-choice-voting"
+      },
+      {
+        "title": "Alaska Statutes § 15.20.081, absentee voting deadlines",
+        "url": "https://law.justia.com/codes/alaska/title-15/chapter-20/article-1/section-15-20-081/"
+      },
+      {
+        "title": "Alaska Division of Elections, 2024 General Election media packet (deadline calendar)",
+        "url": "https://www.elections.alaska.gov/doc/mp/2024/MediaPacket-2024-General.pdf"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. CNN reports that Alaska gives mailed ballots ten days to arrive from inside the country and fifteen from overseas, one reason the Senate race could take two weeks to call. Alaska's election statute sets exactly those deadlines. Verdict: matches record."
+  },
+  {
     "id": "20261031-morning",
     "slot": "Morning Check",
     "aired_at": "2026-10-31T06:45:00-05:00",
