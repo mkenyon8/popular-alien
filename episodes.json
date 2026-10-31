@@ -282,9 +282,49 @@
     "what_would_change": "If the rescheduled Sunday rallies are canceled again, or Republican officials say on the record that they asked Trump to stay away, the original report would move toward Matches record."
   },
   {
-    "id": "20261030-reframe-iran-hormuz-tankers",
+    "id": "20261031-reframe-binance-north-korea-hack",
     "slot": "ReFrame",
     "lead": true,
+    "aired_at": "2026-10-31T09:30:00-05:00",
+    "label": "Story of the Day",
+    "claim": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+    "outlet": "BBC News",
+    "outlet_url": "https://www.bbc.com/news/articles/ck9dz3v7z7v3o",
+    "source_url": "https://www.bbc.com/news/articles/ck9dz3v7z7v3o",
+    "record_url": "https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/",
+    "record_title": "Chainalysis — The $6.4 Billion Binance Hack: Tracing the North Korea Link (Oct 30, 2026)",
+    "read": "The attribution is relayed with care; the AI angle is a guess riding on a laundering quote. Graded C+ overall across 3 arguments. TRM Labs and Chainalysis, relayed by the BBC: B. Lily Jamali, BBC North America Technology correspondent, on AI being used to break in: D (non sequitur). Lily Jamali on how powerful North Korea's hackers have become: B-. Scorecard: 0% valid, 67% cogent, 33% supported, 80% fallacy-free.",
+    "grade": "C+",
+    "scores": {
+      "valid": 0,
+      "cogent": 67,
+      "supported": 33,
+      "fallacy_free": 80
+    },
+    "why": "The North Korea attribution is well sourced: TRM Labs and Chainalysis both name TraderTraitor (Lazarus) \"with high confidence\", and the BBC keeps it conditional, but the article never shows their evidence; Chainalysis's own write-up cites stolen Binance funds commingling on-chain with funds from the September Bitget theft. The claim that AI was plausibly used to infiltrate Binance rests only on a general AI trend and a novel laundering pattern, which describes what happened to the money after it left, not how the attacker got in (non sequitur). The size of the haul reflects what was in the wallet as much as the hackers' skill.",
+    "what_would_change": "A named investigator, Binance's own incident report or law-enforcement findings showing AI-assisted intrusion would lift the AI argument; publishing the on-chain receipts (such as the Bitget commingling) in the article would lift the attribution argument toward strongly supported; an FBI or other government attribution would firm up the North Korea link.",
+    "sources": [
+      {
+        "title": "BBC News — Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
+        "url": "https://www.bbc.com/news/articles/ck9dz3v7z7v3o"
+      },
+      {
+        "title": "Chainalysis — The $6.4 Billion Binance Hack: Tracing the North Korea Link",
+        "url": "https://www.chainalysis.com/blog/binance-exploit-latest-findings-and-response/"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/44a8ebdefe7d.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/44a8ebdefe7d.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... BBC News reports: Why North Korea's 'elite' hackers are the prime suspect in major Binance hack.\nBBC News reported this on October 31.\nThe headline: Why North Korea's 'elite' hackers are the prime suspect in major Binance hack.\nThe Lazarus Group, a North Korean hacking unit also known as TraderTraitor, was identified \"with high confidence\" by TRM Labs, as well as Chainalysis.\nSome 80% of stolen assets have been secured, a Binance spokesperson said on Friday, but the rest remains unaccounted for.\nLet's grade the headline.\nArgument one. It comes from TRM Labs and Chainalysis. The reporter relays it... and does not adopt it.\nThe reasons. Reason one. TRM Labs and Chainalysis identified the Lazarus Group, also known as TraderTraitor, \"with high confidence.\"\nReason two. TRM said it's likely the attacker gained access to Binance's hot wallet signing system.\nReason three. Last year, the FBI said North Korea was responsible for the theft of 1.5 billion dollars on the Bybit exchange.\nTherefore... A North Korean state-backed group is the likely culprit in the 6.3 billion dollars hack of Binance.\nValid? No.\nCogent? Yes.\nSupported? Partly.\nAny fallacies? None found.\nThat's a B.\nWhy B? Credit where it is earned: two independent firms, a stated confidence level, the hedge word 'likely', and a documented prior case.\nBut the page never shows what the firms saw.\nChainalysis's own write-up cites stolen Binance funds commingling on-chain with funds from last month's Bitget theft; that receipt never makes the article.\n'Robust intelligence' is a description, not the evidence.\nArgument two. It comes from Lily Jamali, BBC North America Technology correspondent.\nThe reasons. Reason one. Experts say the rise of artificial intelligence has also given threat actors new ways to carry out crime, through automation and other means.\nReason two. As Chainalysis put it, the attacker used laundering patterns \"we have not seen before\".\nTherefore... In this case, it's plausible that AI was used to infiltrate Binance's systems.\nValid? No.\nCogent? No.\nSupported? No.\nAny fallacies? Yes. One: non sequitur.\nThat's a D.\nThe fallacy in argument two... non sequitur.\nHere's the line. Quote... In this case, it's plausible that AI was used to infiltrate Binance's systems.\nWhy does it fail here? The only case-specific evidence offered is about laundering, what happened to the money after it left. It says nothing about how the attacker got in. A general trend about AI plus a novel laundering pattern does not lead to AI-assisted infiltration.\nWhy D? No named expert, firm or investigator in the piece says AI was used to break in.\nBinance's own account is a compromised laptop and 'additional points of breach.' 'Plausible' is doing all the work, and nothing on the page carries it.\nArgument three. It comes from Lily Jamali, BBC North America Technology correspondent.\nThe reasons. Reason one. Last year, the FBI said North Korea was responsible for the theft of 1.5 billion dollars on the Bybit exchange.\nReason two. North Korean hackers are also suspected in the theft of 620 million dollars worth of cryptocurrency in 2022.\nReason three. At 6.3 billion dollars, the Binance theft is a record-making heist.\nTherefore... If the accusations are true, the heist shows how powerful suspected North Korean hackers have become, a sign that the tools of the hacking trade have grown sharper.\nValid? No.\nCogent? Yes.\nSupported? Partly.\nAny fallacies? None found.\nThat's a B-minus.\nWhy B minus? Fairly hedged: 'if the accusations are true' keeps the attribution conditional, and the rising totals are real reported figures.\nBut the size of a haul measures what was in the wallet and how it was guarded as much as the thief's skill, and the article itself reports Binance found 'additional points of breach.' Bigger loot is a clue to sharper tools, not proof.\nNow, the whole scorecard. Every term here is explained in our grading legend, How We Rate.\nValid: 0 percent.\nCogent: 67 percent.\nConclusion supported: 33 percent.\nFallacy-free: 80 percent.\nOverall... a C-plus.\nIn one line: The attribution is relayed with care; the AI angle is a guess riding on a laundering quote.\nThree arguments. Zero valid. Two cogent. None fully supported. One fallacy.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
+    "id": "20261030-reframe-iran-hormuz-tankers",
+    "slot": "ReFrame",
+    "lead": false,
     "aired_at": "2026-10-30T06:43:00-05:00",
     "claim": "Iran claims four tankers hit mines in Hormuz as U.S. strike fears grow",
     "outlet": "CNBC",
