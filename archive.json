@@ -119,7 +119,11 @@
       }
     ],
     "video_url": "",
-    "script": "Evening Check. Alaska Governor Mike Dunleavy said if investigators find wrongdoing in the reported effort around a second Dan Sullivan, the certification of the Senate race could be stopped or changed. Alaska law is more specific. Section 15.15.450 says that once the state ballot counting review is complete, the director of the Division of Elections shall certify the candidate with the largest number of votes and issue the certificate. A law professor who studies the process told Newsweek the governor plays no role in that state certification step. The governor does have a later, usually ministerial role signing the certificate that goes to the U.S. Senate. The claim does not match the cited record of who certifies. Verdict: missing context."
+    "script": "Evening Check. Alaska Governor Mike Dunleavy said if investigators find wrongdoing in the reported effort around a second Dan Sullivan, the certification of the Senate race could be stopped or changed. Alaska law is more specific. Section 15.15.450 says that once the state ballot counting review is complete, the director of the Division of Elections shall certify the candidate with the largest number of votes and issue the certificate. A law professor who studies the process told Newsweek the governor plays no role in that state certification step. The governor does have a later, usually ministerial role signing the certificate that goes to the U.S. Senate. The claim does not match the cited record of who certifies. Verdict: missing context.",
+    "record_title": "Alaska Statutes § 15.15.450 — Certification of state ballot counting review",
+    "record_url": "https://law.justia.com/codes/alaska/title-15/chapter-15/section-15-15-450/",
+    "why": "Dunleavy told NewsNation that if the state's investigation finds wrongdoing and that means certification is \"stopped or changed, then that's what happens.\" Under AS 15.15.450, once the ballot counting review is complete the Division of Elections director \"shall certify\" the candidate with the most votes, with no exception for a pending investigation; the governor's role is the separate federal certificate sent to the U.S. Senate, which an election-law professor told Newsweek is typically ministerial.",
+    "what_would_change": "A court order, an amended statute, or a legal finding that the reported recruitment broke Alaska law and that the state may withhold or alter certification because of it would move this toward Matches record."
   },
   {
     "id": "20261030-evening-fox",
@@ -145,7 +149,11 @@
       }
     ],
     "video_url": "",
-    "script": "Evening Check. On Fox News, President Trump called the reported effort to put a second Dan Sullivan on the Alaska ballot a criminal act and a conspiracy. The New York Times detailed recruitment by Democratic operatives and people connected to the Peltola campaign. The paper said it did not uncover evidence of illegal activity. The Alaska Supreme Court earlier allowed the second candidate to stay on the ballot. Federal prosecutors have issued grand-jury subpoenas and the Justice Department has a civil lawsuit about certification, but no public document shows a criminal charge has been filed. The claim does not match the cited record of a completed crime. Verdict: missing context."
+    "script": "Evening Check. On Fox News, President Trump called the reported effort to put a second Dan Sullivan on the Alaska ballot a criminal act and a conspiracy. The New York Times detailed recruitment by Democratic operatives and people connected to the Peltola campaign. The paper said it did not uncover evidence of illegal activity. The Alaska Supreme Court earlier allowed the second candidate to stay on the ballot. Federal prosecutors have issued grand-jury subpoenas and the Justice Department has a civil lawsuit about certification, but no public document shows a criminal charge has been filed. The claim does not match the cited record of a completed crime. Verdict: missing context.",
+    "record_title": "CourtListener — United States v. State of Alaska, 3:26-cv-00376, ECF No. 43 (amended civil complaint, Oct. 29, 2026)",
+    "record_url": "https://www.courtlistener.com/docket/75009254/43/united-states-v-state-of-alaska/",
+    "why": "Trump said the ballot effort was \"a criminal act\" \"because it was a conspiracy.\" The public federal case is a civil lawsuit over certification, and the New York Times, which first reported the recruitment, called ballot-stacking common and generally considered legal; Alaska says its own investigation has only just begun. No court filing we found shows a criminal charge or a finding that a crime occurred.",
+    "what_would_change": "An indictment, criminal complaint, or court finding that the recruitment violated a specific criminal law would move this toward Matches record; a closed investigation with no charges would strengthen the missing-context reading."
   },
   {
     "id": "20261030-evening-cnn",
@@ -171,7 +179,11 @@
       }
     ],
     "video_url": "",
-    "script": "Evening Check. CNN reported that President Trump scrapped planned rallies in Kansas and Iowa as a strategy shift, with sources saying some Republicans were relieved he had not moved the needle. Trump told reporters he was not going to Kansas because the candidate was doing very well and that he would do a tele-rally. The Republican National Committee said the in-person events would no longer take place as scheduled because Republicans were in a strong position. Later reporting indicated the in-person rallies were ordered back on. The claim does not match the cited public statements. Verdict: missing context."
+    "script": "Evening Check. CNN reported that President Trump scrapped planned rallies in Kansas and Iowa as a strategy shift, with sources saying some Republicans were relieved he had not moved the needle. Trump told reporters he was not going to Kansas because the candidate was doing very well and that he would do a tele-rally. The Republican National Committee said the in-person events would no longer take place as scheduled because Republicans were in a strong position. Later reporting indicated the in-person rallies were ordered back on. The claim does not match the cited public statements. Verdict: missing context.",
+    "record_title": "NBC News — Trump reschedules weekend rallies in Kansas and Iowa after briefly canceling them",
+    "record_url": "https://www.nbcnews.com/politics/2026-election/trump-cancels-weekend-rallies-iowa-kansas-favor-holding-numerous-teler-rcna606487",
+    "why": "CNN accurately reported Thursday's cancellations, the shift to as many as 20 tele-rallies, and anonymous Republicans who said Trump \"hasn't moved the needle.\" On the record, Trump said he skipped Kansas because Sen. Roger Marshall was \"doing very well,\" and the RNC said the change was about reaching more voters. By Friday the RNC announced in-person rallies for Sunday in Salina, Kansas, and Dubuque, Iowa, so the cancellation did not stand.",
+    "what_would_change": "If the rescheduled Sunday rallies are canceled again, or Republican officials say on the record that they asked Trump to stay away, the original report would move toward Matches record."
   },
   {
     "id": "20261030-reframe-iran-hormuz-tankers",
@@ -487,7 +499,11 @@
       }
     ],
     "video_url": "",
-    "script": "Evening Check. The president posted that Democrats put a second Dan Sullivan on the Alaska ballot to confuse voters. He called it voter fraud at the highest level and said Mary Peltola and the other Sullivan should be removed from the ballot and prosecuted. The Alaska Supreme Court, in its June twenty-ninth order, affirmed that the second candidate is eligible. The justices found no good-faith requirement in state law and sent the case back only for how the names appear under existing ballot rules. The Times reported recruitment activity that courts and prior practice treat as legal ballot-stacking. No public document shows a completed crime of voter fraud. The claim does not match the cited record. Verdict: contradicted."
+    "script": "Evening Check. The president posted that Democrats put a second Dan Sullivan on the Alaska ballot to confuse voters. He called it voter fraud at the highest level and said Mary Peltola and the other Sullivan should be removed from the ballot and prosecuted. The Alaska Supreme Court, in its June twenty-ninth order, affirmed that the second candidate is eligible. The justices found no good-faith requirement in state law and sent the case back only for how the names appear under existing ballot rules. The Times reported recruitment activity that courts and prior practice treat as legal ballot-stacking. No public document shows a completed crime of voter fraud. The claim does not match the cited record. Verdict: contradicted.",
+    "record_title": "Alaska Supreme Court Order, State of Alaska, Division of Elections v. Sullivan, S-19935 (June 29, 2026)",
+    "record_url": "https://static1.squarespace.com/static/59f229bd2aeba5312c87df44/t/6a42f8651a60f4069a74c053/1782773861443/S19935_2026-06-29_O0.pdf",
+    "why": "The Alaska Supreme Court's June 29 order upheld a lower-court ruling putting Daniel J. Sullivan on the ballot and left only how his name is listed to the Division of Elections. The New York Times reported that Peltola aides and DSCC staff worked on recruiting him and other candidates, but described ballot-stacking as common and generally legal, and no charge or court finding of voter fraud has been made public.",
+    "what_would_change": "Criminal charges, a court ruling that the recruitment broke election law, or evidence that ballots were cast or counted fraudulently would move this toward Matches record."
   },
   {
     "id": "20261029-evening-fox",
@@ -513,7 +529,11 @@
       }
     ],
     "video_url": "",
-    "script": "Evening Check. On Fox News, Senator Dan Sullivan called the Alaska situation a scandal at the highest order. He said Mary Peltola’s team and the highest levels of the DSCC spent over a year scheming in a secret operation to trick Alaskans into throwing away their vote. The Times reported coordination on a ballot-composition project that included recruiting another Dan Sullivan, and that the campaign has denied any role. The Alaska Supreme Court ruled the second candidate eligible. State law has no good-faith test that would have removed him. Similar tactics have been used by both parties and are generally treated as legal. The claim does not match the cited legal record. Verdict: missing context."
+    "script": "Evening Check. On Fox News, Senator Dan Sullivan called the Alaska situation a scandal at the highest order. He said Mary Peltola’s team and the highest levels of the DSCC spent over a year scheming in a secret operation to trick Alaskans into throwing away their vote. The Times reported coordination on a ballot-composition project that included recruiting another Dan Sullivan, and that the campaign has denied any role. The Alaska Supreme Court ruled the second candidate eligible. State law has no good-faith test that would have removed him. Similar tactics have been used by both parties and are generally treated as legal. The claim does not match the cited legal record. Verdict: missing context.",
+    "record_title": "Alaska Supreme Court Order, State of Alaska, Division of Elections v. Sullivan, S-19935 (June 29, 2026)",
+    "record_url": "https://static1.squarespace.com/static/59f229bd2aeba5312c87df44/t/6a42f8651a60f4069a74c053/1782773861443/S19935_2026-06-29_O0.pdf",
+    "why": "Sen. Sullivan's description of a secret, year-long effort tracks the New York Times report, based on interviews, texts and documents, that Peltola aides and DSCC staff ran a \"ballot composition project\" starting in summer 2025; the campaign and the DSCC deny involvement. Left out is that the Alaska Supreme Court upheld putting the second Sullivan on the ballot, and that the Times described ballot-stacking as common and generally considered legal.",
+    "what_would_change": "Released documents confirming the campaign's direct role, or a finding that the effort broke state or federal law, would move this toward Matches record; evidence the Times sourcing is wrong would move it toward Contradicted."
   },
   {
     "id": "20261029-evening-cnn",
@@ -539,7 +559,11 @@
       }
     ],
     "video_url": "",
-    "script": "Evening Check. CNN’s analysis said Alaska Democrats just handed Trump a political gift. The New York Times reported that aides to Mary Peltola and staff from the Democratic Senatorial Campaign Committee coordinated a ballot-composition project that included recruiting another Dan Sullivan. The campaign and the committee have continued to say they had no involvement. That denial sits against the interviews, text messages, and documents the Times cited. The Alaska Supreme Court earlier ruled the second candidate eligible under existing law. The gift framing treats the story mainly as political optics. The cited record shows a direct contradiction between the public statements and the reported coordination. Verdict: missing context."
+    "script": "Evening Check. CNN’s analysis said Alaska Democrats just handed Trump a political gift. The New York Times reported that aides to Mary Peltola and staff from the Democratic Senatorial Campaign Committee coordinated a ballot-composition project that included recruiting another Dan Sullivan. The campaign and the committee have continued to say they had no involvement. That denial sits against the interviews, text messages, and documents the Times cited. The Alaska Supreme Court earlier ruled the second candidate eligible under existing law. The gift framing treats the story mainly as political optics. The cited record shows a direct contradiction between the public statements and the reported coordination. Verdict: missing context.",
+    "record_title": "New York Times — Inside Democrats' Secret Effort to Stack Alaska's Midterm Ballot With Another Dan Sullivan (Oct. 28, 2026)",
+    "record_url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
+    "why": "\"Political gift\" is CNN analyst Stephen Collinson's opinion, not a checkable fact; the reporting it rests on, the New York Times account of Peltola aides and DSCC staff recruiting spoiler candidates, is on the record and denied by the campaign and the DSCC. Collinson's own piece says the effort does not appear to be illegal based on current evidence, and that context matters for how far the story can help Trump.",
+    "what_would_change": "Polling or results showing the story moved Alaska voters, or new evidence that the recruitment was illegal, would bear on the framing; a retraction or correction of the Times reporting would undercut it."
   },
   {
     "id": "20261029-morning",
@@ -561,7 +585,11 @@
       }
     ],
     "video_url": "",
-    "script": "Morning Check. CBS News reports that Defense Secretary Pete Hegseth fired the Pentagon’s top military planner, Army Lieutenant General Brett Sylvia, over leaks of classified information tied to the Iran and Ukraine wars. An anonymous official told CBS that Sylvia failed three polygraph tests and that the case has been referred to the Justice Department. The Joint Staff, in its public statement, thanked Sylvia for thirty-two years of service and wished him and his family well. The statement contains no reference to leaks, misconduct, or any reason for the removal. Other accounts, including the Associated Press, reported that no reason had been given. The claim does not match the cited public record. Verdict: missing context."
+    "script": "Morning Check. CBS News reports that Defense Secretary Pete Hegseth fired the Pentagon’s top military planner, Army Lieutenant General Brett Sylvia, over leaks of classified information tied to the Iran and Ukraine wars. An anonymous official told CBS that Sylvia failed three polygraph tests and that the case has been referred to the Justice Department. The Joint Staff, in its public statement, thanked Sylvia for thirty-two years of service and wished him and his family well. The statement contains no reference to leaks, misconduct, or any reason for the removal. Other accounts, including the Associated Press, reported that no reason had been given. The claim does not match the cited public record. Verdict: missing context.",
+    "record_title": "CBS News — Hegseth fires Pentagon's top military planner over what official says were leaks to media (updated Oct. 29, 2026)",
+    "record_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
+    "why": "The leak explanation and the failed-polygraph detail come from an anonymous Pentagon official, and two other Pentagon sources told CBS those accusations are not true. On the record, spokesman Sean Parnell said only that the department took \"necessary personnel action to protect sensitive information\" after an Air Force OSI investigation and referred the matter to the Justice Department, without naming Lt. Gen. Brett Sylvia; the Joint Staff withdrew its first statement thanking him for his service.",
+    "what_would_change": "A named official or document tying Sylvia to specific Iran or Ukraine leaks, or charges from the Justice Department, would move this toward Matches record; clearing him in the investigation would move it toward Contradicted."
   },
   {
     "id": "20261028-late",
@@ -587,7 +615,11 @@
       }
     ],
     "video_url": "",
-    "script": "Late Check. At a Texas campaign stop the president pointed to a tanker and said Venezuela sent him a boatload of a million barrels of oil as a gift, and that he was giving it to the United States at zero cost to the American taxpayer. North American Blue Energy Partners' own release that day states it delivered the first million barrels at no cost to the U.S. taxpayer to recognize the agreement. That same release says the cargo marks the beginning of the larger deal, which grants the U.S. government the right to purchase twenty percent of production at cost with no markup, plus a thirty-five percent equity stake. The claim does not match the cited record. Verdict: contradicted."
+    "script": "Late Check. At a Texas campaign stop the president pointed to a tanker and said Venezuela sent him a boatload of a million barrels of oil as a gift, and that he was giving it to the United States at zero cost to the American taxpayer. North American Blue Energy Partners' own release that day states it delivered the first million barrels at no cost to the U.S. taxpayer to recognize the agreement. That same release says the cargo marks the beginning of the larger deal, which grants the U.S. government the right to purchase twenty percent of production at cost with no markup, plus a thirty-five percent equity stake. The claim does not match the cited record. Verdict: contradicted.",
+    "record_title": "NABEP — First NABEP Crude Cargo Under U.S. Agreement Arrives in Texas (Oct. 27, 2026)",
+    "record_url": "https://www.nabep.net/newsroom/first-nabep-crude-cargo-under-u-s-agreement-arrives-in-texas",
+    "why": "The release from North American Blue Energy Partners, a private oil company, says it delivered the first 1 million barrels \"at no cost to the U.S. taxpayer\" to mark the deal, so the no-cost part matches. The shipment was not a gift from Venezuela to Trump personally; the company calls it \"the beginning\" of a deal giving the U.S. government the right to buy 20% of NABEP's production at cost, along with a 35% stake in its parent company.",
+    "what_would_change": "Records showing the oil came from the Venezuelan government as a gift, or that U.S. purchases under the deal carry no taxpayer cost, would move this toward Matches record."
   },
   {
     "id": "20261028-evening",
@@ -609,7 +641,11 @@
       }
     ],
     "video_url": "",
-    "script": "Evening Check. At a Texas campaign rally, the president said he was officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers. The Environmental Protection Agency's own release that day describes a proposal to revise the two thousand twenty-four oil and natural gas rules. The proposal would rescind the Super Emitter Program, create new categories for certain well sites, and restore ninety-five percent efficient flaring as an option for associated gas. It is a proposed rule, signed October twenty-seventh, that will go through public comment and Federal Register publication. The claim does not match the cited record. Verdict: contradicted."
+    "script": "Evening Check. At a Texas campaign rally, the president said he was officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers. The Environmental Protection Agency's own release that day describes a proposal to revise the two thousand twenty-four oil and natural gas rules. The proposal would rescind the Super Emitter Program, create new categories for certain well sites, and restore ninety-five percent efficient flaring as an option for associated gas. It is a proposed rule, signed October twenty-seventh, that will go through public comment and Federal Register publication. The claim does not match the cited record. Verdict: contradicted.",
+    "record_title": "EPA — EPA Proposes Major New Revisions to Burdensome, Unworkable Biden-era Oil and Natural Gas Regulations (Oct. 27, 2026)",
+    "record_url": "https://www.epa.gov/newsreleases/epa-proposes-major-new-revisions-burdensome-unworkable-biden-era-oil-and-natural-gas",
+    "why": "EPA's own release for the Lubbock announcement describes a proposal to revise the 2024 oil and gas methane rules (OOOOb/c), not a termination. It would rescind the Super Emitter Program, add new well-site categories and restore 95%-efficient flaring for associated gas, and EPA says it will hold at least a 45-day public comment period after Federal Register publication.",
+    "what_would_change": "A final rule published in the Federal Register that fully repeals the 2024 methane standards would move this toward Matches record."
   },
   {
     "id": "20261028-midday",
@@ -631,7 +667,11 @@
       }
     ],
     "video_url": "",
-    "script": "Midday Check. The Alaskans for Mary campaign says it has no involvement with either Sullivan campaign and did not recruit any candidates into the race. The New York Times reported today that a staffer for Mary Peltola was instructed in the summer of twenty twenty-five to find as many people named Dan Sullivan in Alaska as possible. The effort, called the ballot composition project, involved campaign lawyers and senior aides from the Democratic Senatorial Campaign Committee. Text messages and documents reviewed by the Times show the team worked to recruit Dan J. Sullivan and other potential spoilers. Former campaign manager Elisa Rios said Peltola was not directly involved but was definitely aware. The claim does not match the cited record. Verdict: contradicted."
+    "script": "Midday Check. The Alaskans for Mary campaign says it has no involvement with either Sullivan campaign and did not recruit any candidates into the race. The New York Times reported today that a staffer for Mary Peltola was instructed in the summer of twenty twenty-five to find as many people named Dan Sullivan in Alaska as possible. The effort, called the ballot composition project, involved campaign lawyers and senior aides from the Democratic Senatorial Campaign Committee. Text messages and documents reviewed by the Times show the team worked to recruit Dan J. Sullivan and other potential spoilers. Former campaign manager Elisa Rios said Peltola was not directly involved but was definitely aware. The claim does not match the cited record. Verdict: contradicted.",
+    "record_title": "New York Times — Inside Democrats' Secret Effort to Stack Alaska's Midterm Ballot With Another Dan Sullivan (Oct. 28, 2026)",
+    "record_url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
+    "why": "The Times reported, from interviews with 12 people, dozens of text messages and documents, that Peltola campaign aides worked with DSCC staff and lawyers on a \"ballot composition project\" to recruit spoiler candidates, including Daniel J. Sullivan. The campaign's statement denies this. Its former manager Elisa Rios, a key source, later tried to retract her interviews, though the Times says her account matched its other reporting.",
+    "what_would_change": "Evidence that the texts and documents are inaccurate, or a court finding that the campaign had no role, would move this toward Missing context or Matches record."
   },
   {
     "id": "20261027-evening",
@@ -661,7 +701,11 @@
       }
     ],
     "video_url": "",
-    "script": "Evening Check. At a Michigan campaign event, the health secretary said there are five hundred million Arabs in the world and yet they do not produce science. They do not win the Nobel Prize. They do not win the Fields Prize. They do not win the Wolf Prize. They do not produce literature. Official Nobel records show Egyptian chemist Ahmed Zewail received the nineteen ninety-nine Nobel Prize in Chemistry. Egyptian novelist Naguib Mahfouz received the nineteen eighty-eight Nobel Prize in Literature. Jordanian-born chemist Omar Yaghi shared the twenty twenty-five Nobel Prize in Chemistry. Zewail also received the nineteen ninety-three Wolf Prize in Chemistry. The claim does not match the cited record. Verdict: contradicted."
+    "script": "Evening Check. At a Michigan campaign event, the health secretary said there are five hundred million Arabs in the world and yet they do not produce science. They do not win the Nobel Prize. They do not win the Fields Prize. They do not win the Wolf Prize. They do not produce literature. Official Nobel records show Egyptian chemist Ahmed Zewail received the nineteen ninety-nine Nobel Prize in Chemistry. Egyptian novelist Naguib Mahfouz received the nineteen eighty-eight Nobel Prize in Literature. Jordanian-born chemist Omar Yaghi shared the twenty twenty-five Nobel Prize in Chemistry. Zewail also received the nineteen ninety-three Wolf Prize in Chemistry. The claim does not match the cited record. Verdict: contradicted.",
+    "record_title": "Nobel Prize — Ahmed H. Zewail, Nobel Prize in Chemistry 1999",
+    "record_url": "https://www.nobelprize.org/prizes/chemistry/1999/zewail/facts/",
+    "why": "Nobel Foundation records show Egyptian-born chemist Ahmed Zewail won the 1999 chemistry prize, Egyptian novelist Naguib Mahfouz won the 1988 literature prize, and Jordanian-born Omar Yaghi shared the 2025 chemistry prize. The Wolf Foundation lists Zewail as its 1993 chemistry laureate and Yaghi as its 2018 laureate, so the Nobel, Wolf and literature parts of the claim are contradicted.",
+    "what_would_change": "Nothing in the record supports the claim as stated; a narrower claim, such as one about per-capita prize counts, would need its own data."
   },
   {
     "id": "20261027-midday",
@@ -683,7 +727,11 @@
       }
     ],
     "video_url": "",
-    "script": "Midday Check. A high-engagement post reports a new poll. Fifteen percent of Americans said they believe between one and five percent of NCAA athletes are transgender. Fourteen percent put the share between six and twenty-five percent. An NCAA spokesperson confirmed the current number competing in women's sports is effectively zero. In December two thousand twenty-four, NCAA President Charlie Baker told a Senate panel fewer than ten of more than five hundred ten thousand athletes were transgender. The following February the Board of Governors restricted women's-team competition to athletes assigned female at birth. The estimates do not match the cited record. Verdict: contradicted."
+    "script": "Midday Check. A high-engagement post reports a new poll. Fifteen percent of Americans said they believe between one and five percent of NCAA athletes are transgender. Fourteen percent put the share between six and twenty-five percent. An NCAA spokesperson confirmed the current number competing in women's sports is effectively zero. In December two thousand twenty-four, NCAA President Charlie Baker told a Senate panel fewer than ten of more than five hundred ten thousand athletes were transgender. The following February the Board of Governors restricted women's-team competition to athletes assigned female at birth. The estimates do not match the cited record. Verdict: contradicted.",
+    "record_title": "NCAA — Participation Policy for Transgender Student-Athletes (effective Feb. 6, 2025)",
+    "record_url": "https://www.ncaa.org/what-we-do/health-safety-and-performance/participation-policy-for-transgender-student-athletes/",
+    "why": "The Bulwark's poll write-up confirms the post's numbers, so the poll is reported accurately; what the record contradicts is the public's estimate. NCAA President Charlie Baker told Congress in December 2024 that fewer than 10 of more than 500,000 athletes were transgender, NCAA policy since February 2025 limits women's teams to athletes assigned female at birth, and an NCAA spokesperson said the current number in women's sports is effectively zero.",
+    "what_would_change": "NCAA data showing a meaningful share of transgender athletes, at least 1% of more than 500,000, would move this toward Matches record."
   },
   {
     "id": "20261027-morning",
@@ -705,7 +753,11 @@
       }
     ],
     "video_url": "",
-    "script": "Morning Check. An Instagram post from the president shows him in the Oval Office with the text forty percent drop in drug overdoses. The White House says his drug control office has overseen a massive decrease since the peak under the prior administration. CDC provisional counts show the twelve-month peak near one hundred twelve thousand deaths in mid to late two thousand twenty-three. The decline is roughly forty percent by early two thousand twenty-six. That downward trend began in mid two thousand twenty-three, more than a year before this term. Experts point mainly to changes in the illicit fentanyl supply, naloxone access, and treatment. The claim does not match the cited record on who oversaw the full drop. Verdict: missing context."
+    "script": "Morning Check. An Instagram post from the president shows him in the Oval Office with the text forty percent drop in drug overdoses. The White House says his drug control office has overseen a massive decrease since the peak under the prior administration. CDC provisional counts show the twelve-month peak near one hundred twelve thousand deaths in mid to late two thousand twenty-three. The decline is roughly forty percent by early two thousand twenty-six. That downward trend began in mid two thousand twenty-three, more than a year before this term. Experts point mainly to changes in the illicit fentanyl supply, naloxone access, and treatment. The claim does not match the cited record on who oversaw the full drop. Verdict: missing context.",
+    "record_title": "CDC National Center for Health Statistics — Provisional Drug Overdose Death Counts",
+    "record_url": "https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm",
+    "why": "CDC provisional data, as analyzed by the Opioid Data Lab, show 12-month overdose deaths peaking around 112,400 in August 2023 and falling to about 66,900 by April 2026, a drop of roughly 40%, so the figure holds. But the decline began more than a year before Trump took office in January 2025, and researchers point to changes in the drug supply, behavior and interventions such as naloxone rather than any single policy.",
+    "what_would_change": "Evidence that most of the decline happened after January 2025, or research that ties it mainly to this administration's policies, would move this toward Matches record."
   },
   {
     "id": "20261026-late",
@@ -727,7 +779,11 @@
       }
     ],
     "video_url": "",
-    "script": "Late Check. The attorney general said the Justice Department does not seek to stop the certification of Alaska's election. The department's own complaint asks a federal court to block the state from certifying any result that may be impacted by voter confusion. The complaint defines that impact as a case where Senator Dan Sullivan does not win, but would have if every vote for the other Daniel Sullivan had gone to him. The prayer for relief seeks an injunction against certification pending an investigation into whether those votes were meant for the incumbent. The claim does not match the cited record. Verdict: contradicted."
+    "script": "Late Check. The attorney general said the Justice Department does not seek to stop the certification of Alaska's election. The department's own complaint asks a federal court to block the state from certifying any result that may be impacted by voter confusion. The complaint defines that impact as a case where Senator Dan Sullivan does not win, but would have if every vote for the other Daniel Sullivan had gone to him. The prayer for relief seeks an injunction against certification pending an investigation into whether those votes were meant for the incumbent. The claim does not match the cited record. Verdict: contradicted.",
+    "record_title": "U.S. District Court for the District of Alaska — Complaint, United States v. State of Alaska, 3:26-cv-00376 (Oct. 22, 2026)",
+    "record_url": "https://storage.courtlistener.com/recap/gov.uscourts.akd.80263/gov.uscourts.akd.80263.1.0_2.pdf",
+    "why": "The Justice Department's complaint asks the court to bar Alaska officials \"from certifying any result that may be impacted by voter confusion,\" pending an investigation into whether votes for Daniel J. Sullivan were meant for Sen. Sullivan. It defines that as a result where Sen. Sullivan loses but would have won with those votes, so the lawsuit does seek to stop certification in that case.",
+    "what_would_change": "An amended complaint that drops the request to block certification would move this toward Matches record."
   },
   {
     "id": "20261026-evening",
@@ -749,7 +805,11 @@
       }
     ],
     "video_url": "",
-    "script": "Evening Check. A reporter asked the president if Brazil's election was fair. He said it looked terrible and looked like another rigged election. Brazil's Superior Electoral Court certified Luiz Inácio Lula da Silva with 64,256,232 votes, 51.79 percent, over Flávio Bolsonaro's 59,826,041 votes, 48.21 percent. The margin was more than four million votes. A Supreme Court order extended voting by two hours. Analyses of the official data show about 34,000 votes after the original close, 0.03 percent of the total. The electoral court president said the extension did not change the result. The claim does not match the cited record. Verdict: contradicted."
+    "script": "Evening Check. A reporter asked the president if Brazil's election was fair. He said it looked terrible and looked like another rigged election. Brazil's Superior Electoral Court certified Luiz Inácio Lula da Silva with 64,256,232 votes, 51.79 percent, over Flávio Bolsonaro's 59,826,041 votes, 48.21 percent. The margin was more than four million votes. A Supreme Court order extended voting by two hours. Analyses of the official data show about 34,000 votes after the original close, 0.03 percent of the total. The electoral court president said the extension did not change the result. The claim does not match the cited record. Verdict: contradicted.",
+    "record_title": "Tribunal Superior Eleitoral — Presidente do TSE anuncia reeleição de Lula (Oct. 26, 2026)",
+    "record_url": "https://www.tse.jus.br/comunicacao/noticias/2026/Outubro/presidente-do-tse-anuncia-reeleicao-de-lula-e-faz-balanco-do-2o-turno-das-eleicoes-2026",
+    "why": "Brazil's Superior Electoral Court reported that Lula won with 64,256,232 votes (51.79%) to Flávio Bolsonaro's 59,826,041 (48.21%), a margin of more than 4.4 million. A Supreme Court order did extend voting by two hours, but BBC News Brasil's count of the official data found about 33,900 votes cast after the original close, about 0.03% of the total, and Trump offered no evidence of rigging.",
+    "what_would_change": "An audit, court ruling, or election-observer finding of fraud large enough to affect the margin would move this toward Matches record."
   },
   {
     "id": "20261026-midday",
@@ -771,7 +831,11 @@
       }
     ],
     "video_url": "",
-    "script": "Midday Check. A post says Minnesota voters are choosing a ghost candidate. The name Ilhan Omar on the ballot is not a real person. A federal filing in the search-warrant case lists the subject as Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar. a/k/a means also known as. Official House records list her as Ilhan Omar, the Representative from Minnesota's Fifth District. Her office says that is her real name. The claim does not match the cited record. Verdict: contradicted."
+    "script": "Midday Check. A post says Minnesota voters are choosing a ghost candidate. The name Ilhan Omar on the ballot is not a real person. A federal filing in the search-warrant case lists the subject as Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar. a/k/a means also known as. Official House records list her as Ilhan Omar, the Representative from Minnesota's Fifth District. Her office says that is her real name. The claim does not match the cited record. Verdict: contradicted.",
+    "record_title": "U.S. District Court for the District of Columbia — Motion for Extension of Time, Case 1:26-mc-00144 (Oct. 21, 2026)",
+    "record_url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.297666/gov.uscourts.dcd.297666.3.0.pdf",
+    "why": "The government's own filing in the search-warrant case identifies its subject as \"Congresswoman Ilhan Nur Said Elmi, a/k/a Ilhan Abdullahi Omar,\" which treats the names as the same real person. The House lists Ilhan Omar as the representative for Minnesota's 5th District since January 2019, and a person known by more than one name is not a nonexistent candidate.",
+    "what_would_change": "A court or election-official finding that the person on the ballot is not the sitting congresswoman, or is ineligible under Minnesota law, would change this."
   },
   {
     "id": "20261026-morning",
@@ -793,7 +857,11 @@
       }
     ],
     "video_url": "",
-    "script": "Morning Check. A Truth Social post says everyone thought Lisa Murkowski came in second or third, then she won under ranked-choice voting. The official first-choice tally from the Alaska Division of Elections shows she finished first with 113,495 votes, 43.37 percent, ahead of Kelly Tshibaka at 111,480 votes, 42.60 percent. She led the initial count. Second-choice ballots from the Democrat and a withdrawn Republican then widened the margin to 53.7 percent. The claim does not match the cited record. Verdict: contradicted."
+    "script": "Morning Check. A Truth Social post says everyone thought Lisa Murkowski came in second or third, then she won under ranked-choice voting. The official first-choice tally from the Alaska Division of Elections shows she finished first with 113,495 votes, 43.37 percent, ahead of Kelly Tshibaka at 111,480 votes, 42.60 percent. She led the initial count. Second-choice ballots from the Democrat and a withdrawn Republican then widened the margin to 53.7 percent. The claim does not match the cited record. Verdict: contradicted.",
+    "record_title": "Alaska Division of Elections — 2022 General Election Official Summary Report",
+    "record_url": "https://www.elections.alaska.gov/results/22GENR/ElectionSummaryReportRPT.pdf",
+    "why": "Alaska's official 2022 results show Murkowski finished first on first-choice votes with 113,495 (43.37%), ahead of Kelly Tshibaka's 111,480 (42.60%). She led after every round of the ranked-choice count and won the final round 53.69% to 46.31%. The quoted words appear in Trump's Oct. 24, 2026 Truth Social post.",
+    "what_would_change": "Official results showing Murkowski behind on first-choice votes would move this toward Matches record; nothing in the certified count does."
   },
   {
     "id": "20261025-late",
@@ -815,6 +883,10 @@
       }
     ],
     "video_url": "",
-    "script": "Late Check. A Truth Social post says the president is heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood, a Fake Doctor who runs the worst clinic in America. Bridge Michigan reviewed the record and found no evidence of membership or a pledge of support. El-Sayed has disavowed the group. He holds a medical degree from Columbia. He did not complete residency and has never held a license to practice in Michigan or New York. He has said he does not practice medicine. The claim does not match the cited record. Verdict: contradicted."
+    "script": "Late Check. A Truth Social post says the president is heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood, a Fake Doctor who runs the worst clinic in America. Bridge Michigan reviewed the record and found no evidence of membership or a pledge of support. El-Sayed has disavowed the group. He holds a medical degree from Columbia. He did not complete residency and has never held a license to practice in Michigan or New York. He has said he does not practice medicine. The claim does not match the cited record. Verdict: contradicted.",
+    "record_title": "Bridge Michigan — Fact check: Abdul El-Sayed not a 'fake doctor' or licensed physician",
+    "record_url": "https://bridgemi.com/michigan-politics/fact-check-abdul-el-sayed-not-a-fake-doctor-or-licensed-physician/",
+    "why": "Bridge Michigan found that El-Sayed has a medical degree from Columbia but never did a residency, isn't licensed to practice, and says he doesn't practice medicine. It also found no evidence he has ties to or pledged support to the Muslim Brotherhood, which he has disavowed. Reporting has found no clinic he runs, so there is no record behind the \"worst clinic\" line.",
+    "what_would_change": "Documents showing El-Sayed is a member of the Muslim Brotherhood or runs a clinic would move parts of this toward Matches record."
   }
 ]
