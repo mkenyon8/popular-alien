@@ -509,7 +509,7 @@
     "id": "20261029-morning",
     "slot": "Morning Check",
     "aired_at": "2026-10-29T06:31:00-05:00",
-    "claim": "Defense Secretary Pete Hegseth fired the Pentagon’s top military planner over leaks of classified information related to the Iran and Ukraine wars",
+    "claim": "“Army Lt. Gen. Brett Sylvia was accused of misconduct for allegedly leaking classified information related to the Iran war and the Russia-Ukraine war.” — an anonymous Pentagon official, as reported by CBS News, Oct. 29, 2026, on Defense Secretary Pete Hegseth's firing of Sylvia",
     "outlet": "CBS News, citing a Pentagon official",
     "outlet_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
     "read": "CBS News reported that an anonymous Pentagon official said Army Lt. Gen. Brett Sylvia was fired for misconduct involving leaks of classified information on the Iran and Russia-Ukraine wars, and that he failed three polygraph tests, with the case referred to the Department of Justice. The Joint Staff spokesperson issued a statement thanking Sylvia for 32 years of service and wishing him well, with no mention of leaks, misconduct, or any reason for the removal. Other reports, including the Associated Press, stated that no reason had been given for the firing. The claim does not match the cited public record of the Joint Staff statement.",
@@ -528,18 +528,36 @@
     "script": "Morning Check. CBS News reports that Defense Secretary Pete Hegseth fired the Pentagon’s top military planner, Army Lieutenant General Brett Sylvia, over leaks of classified information tied to the Iran and Ukraine wars. An anonymous official told CBS that Sylvia failed three polygraph tests and that the case has been referred to the Justice Department. The Joint Staff, in its public statement, thanked Sylvia for thirty-two years of service and wished him and his family well. The statement contains no reference to leaks, misconduct, or any reason for the removal. Other accounts, including the Associated Press, reported that no reason had been given. The claim does not match the cited public record. Verdict: missing context.",
     "record_title": "CBS News — Hegseth fires Pentagon's top military planner over what official says were leaks to media (updated Oct. 29, 2026)",
     "record_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
-    "why": "The leak explanation and the failed-polygraph detail come from an anonymous Pentagon official, and two other Pentagon sources told CBS those accusations are not true. On the record, spokesman Sean Parnell said only that the department took \"necessary personnel action to protect sensitive information\" after an Air Force OSI investigation and referred the matter to the Justice Department, without naming Lt. Gen. Brett Sylvia; the Joint Staff withdrew its first statement thanking him for his service.",
-    "what_would_change": "A named official or document tying Sylvia to specific Iran or Ukraine leaks, or charges from the Justice Department, would move this toward Matches record; clearing him in the investigation would move it toward Contradicted."
+    "why": "Several sources confirmed the firing to CBS, but the leak explanation and failed-polygraph detail come from one anonymous Pentagon official, and two other Pentagon sources told CBS those accusations are not true. On the record, spokesman Sean Parnell said only that the department took “necessary personnel action to protect sensitive information” after an Air Force OSI investigation and referred the matter to the Justice Department, without naming Sylvia; the Joint Staff withdrew its first statement thanking him for his service.",
+    "what_would_change": "A named official or document tying Sylvia to specific Iran or Ukraine leaks, or charges from the Justice Department, would move this toward Matches record; clearing him in the investigation would move it toward Contradicted.",
+    "corrections": [
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "claim",
+        "old": "Defense Secretary Pete Hegseth fired the Pentagon’s top military planner over leaks of classified information related to the Iran and Ukraine wars",
+        "new": "“Army Lt. Gen. Brett Sylvia was accused of misconduct for allegedly leaking classified information related to the Iran war and the Russia-Ukraine war.” — an anonymous Pentagon official, as reported by CBS News, Oct. 29, 2026, on Defense Secretary Pete Hegseth's firing of Sylvia",
+        "reason": "Attributed the claim to its actual source, an anonymous official quoted by CBS, instead of stating it as fact.",
+        "source_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "why",
+        "old": "The leak explanation and the failed-polygraph detail come from an anonymous Pentagon official, and two other Pentagon sources told CBS those accusations are not true. On the record, spokesman Sean Parnell said only that the department took \"necessary personnel action to protect sensitive information\" after an Air Force OSI investigation and referred the matter to the Justice Department, without naming Lt. Gen. Brett Sylvia; the Joint Staff withdrew its first statement thanking him for his service.",
+        "new": "Several sources confirmed the firing to CBS, but the leak explanation and failed-polygraph detail come from one anonymous Pentagon official, and two other Pentagon sources told CBS those accusations are not true. On the record, spokesman Sean Parnell said only that the department took “necessary personnel action to protect sensitive information” after an Air Force OSI investigation and referred the matter to the Justice Department, without naming Sylvia; the Joint Staff withdrew its first statement thanking him for his service.",
+        "reason": "Replaced the outdated aired line that the Joint Staff statement gave no reason; CBS's updated story reports Parnell's statement and the Joint Staff's retraction.",
+        "source_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+      }
+    ]
   },
   {
     "id": "20261028-late",
     "slot": "Late Check",
     "aired_at": "2026-10-28T23:09:00-05:00",
-    "claim": "They sent me, as a gift, a boatload of a million barrels of oil. And I'm giving that to the United States of America. The oil is being provided to the United States at zero cost to the American taxpayer.",
+    "claim": "“They’ve sent me as a gift a boatload of a million barrels of oil, and I’m giving that to the United States of America.” — President Donald Trump, to reporters before his Texas campaign stops, Oct. 27, 2026; he later wrote on Truth Social that the oil “is being provided to the United States at NO cost to the American Taxpayer.”",
     "outlet": "Remarks en route to and at Corpus Christi campaign event, October 27, 2026",
     "outlet_url": "https://www.pbs.org/newshour/politics/watch-trump-says-venezuela-sent-him-1-million-barrels-of-oil-as-a-gift",
     "read": "On October 27 President Trump said Venezuela sent him a million barrels of oil as a gift that he was giving to the United States, and that the oil was provided at zero cost to the American taxpayer, framing it as spoils of the recent war. North American Blue Energy Partners' October 27 release states that to recognize the historic nature of its agreement with the United States, NABEP delivered the first million barrels at no cost to the U.S. taxpayer. The cargo marks the beginning of the larger deal, which grants the U.S. Government the right to purchase 20 percent of NABEP's production at cost with no markup, in addition to a 35 percent equity stake in NABEP's parent company. The claim does not match the cited record. The interesting fact is the one-time no-cost delivery. The missing fact is the ongoing commercial structure of at-cost purchases and equity ownership.",
-    "verdict": "Contradicted",
+    "verdict": "Missing context",
     "sources": [
       {
         "title": "NABEP — First NABEP Crude Cargo Under U.S. Agreement Arrives in Texas, October 27, 2026",
@@ -558,8 +576,42 @@
     "script": "Late Check. At a Texas campaign stop the president pointed to a tanker and said Venezuela sent him a boatload of a million barrels of oil as a gift, and that he was giving it to the United States at zero cost to the American taxpayer. North American Blue Energy Partners' own release that day states it delivered the first million barrels at no cost to the U.S. taxpayer to recognize the agreement. That same release says the cargo marks the beginning of the larger deal, which grants the U.S. government the right to purchase twenty percent of production at cost with no markup, plus a thirty-five percent equity stake. The claim does not match the cited record. Verdict: contradicted.",
     "record_title": "NABEP — First NABEP Crude Cargo Under U.S. Agreement Arrives in Texas (Oct. 27, 2026)",
     "record_url": "https://www.nabep.net/newsroom/first-nabep-crude-cargo-under-u-s-agreement-arrives-in-texas",
-    "why": "The release from North American Blue Energy Partners, a private oil company, says it delivered the first 1 million barrels \"at no cost to the U.S. taxpayer\" to mark the deal, so the no-cost part matches. The shipment was not a gift from Venezuela to Trump personally; the company calls it \"the beginning\" of a deal giving the U.S. government the right to buy 20% of NABEP's production at cost, along with a 35% stake in its parent company.",
-    "what_would_change": "Records showing the oil came from the Venezuelan government as a gift, or that U.S. purchases under the deal carry no taxpayer cost, would move this toward Matches record."
+    "why": "North American Blue Energy Partners, a private company, says it delivered the first 1 million barrels “at no cost to the U.S. taxpayer,” and the White House says only that first shipment is free, so the no-cost part matches. NABEP's first statement that day described the cargo as part of the U.S. right to buy 20% of its output at cost, and a person familiar with the terms told CNN its value will be settled through higher prices on later deliveries rather than an upfront payment.",
+    "what_would_change": "Publication of the contract terms showing the first cargo is truly free with no offsetting price adjustments would move this toward Matches record; terms showing the U.S. pays for it later at or above market price would move it toward Contradicted.",
+    "corrections": [
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "claim",
+        "old": "They sent me, as a gift, a boatload of a million barrels of oil. And I'm giving that to the United States of America. The oil is being provided to the United States at zero cost to the American taxpayer.",
+        "new": "“They’ve sent me as a gift a boatload of a million barrels of oil, and I’m giving that to the United States of America.” — President Donald Trump, to reporters before his Texas campaign stops, Oct. 27, 2026; he later wrote on Truth Social that the oil “is being provided to the United States at NO cost to the American Taxpayer.”",
+        "reason": "Attributed the quote to its speaker and used the wording CNN and Reuters reported; the old text merged the spoken remark with the later Truth Social post.",
+        "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "verdict",
+        "old": "Contradicted",
+        "new": "Missing context",
+        "reason": "The record supports the no-cost part: NABEP's amended release says the first million barrels came at no cost to taxpayers. What is missing is how: the oil came from a private company, not the Venezuelan government, and its value is to be recovered through higher prices on later deliveries. That is missing context, not a contradiction.",
+        "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "why",
+        "old": "The release from North American Blue Energy Partners, a private oil company, says it delivered the first 1 million barrels \"at no cost to the U.S. taxpayer\" to mark the deal, so the no-cost part matches. The shipment was not a gift from Venezuela to Trump personally; the company calls it \"the beginning\" of a deal giving the U.S. government the right to buy 20% of NABEP's production at cost, along with a 35% stake in its parent company.",
+        "new": "North American Blue Energy Partners, a private company, says it delivered the first 1 million barrels “at no cost to the U.S. taxpayer,” and the White House says only that first shipment is free, so the no-cost part matches. NABEP's first statement that day described the cargo as part of the U.S. right to buy 20% of its output at cost, and a person familiar with the terms told CNN its value will be settled through higher prices on later deliveries rather than an upfront payment.",
+        "reason": "Rewrote to reflect NABEP's amended statement and CNN's reporting on deferred pricing, and to match the corrected verdict.",
+        "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "what_would_change",
+        "old": "Records showing the oil came from the Venezuelan government as a gift, or that U.S. purchases under the deal carry no taxpayer cost, would move this toward Matches record.",
+        "new": "Publication of the contract terms showing the first cargo is truly free with no offsetting price adjustments would move this toward Matches record; terms showing the U.S. pays for it later at or above market price would move it toward Contradicted.",
+        "reason": "Updated to match the corrected verdict.",
+        "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+      }
+    ]
   },
   {
     "id": "20261028-evening",
