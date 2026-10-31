@@ -569,7 +569,7 @@
     "id": "20261029-morning",
     "slot": "Morning Check",
     "aired_at": "2026-10-29T06:31:00-05:00",
-    "claim": "Defense Secretary Pete Hegseth fired the Pentagon’s top military planner over leaks of classified information related to the Iran and Ukraine wars",
+    "claim": "“Army Lt. Gen. Brett Sylvia was accused of misconduct for allegedly leaking classified information related to the Iran war and the Russia-Ukraine war.” — an anonymous Pentagon official, as reported by CBS News, Oct. 29, 2026, on Defense Secretary Pete Hegseth's firing of Sylvia",
     "outlet": "CBS News, citing a Pentagon official",
     "outlet_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
     "read": "CBS News reported that an anonymous Pentagon official said Army Lt. Gen. Brett Sylvia was fired for misconduct involving leaks of classified information on the Iran and Russia-Ukraine wars, and that he failed three polygraph tests, with the case referred to the Department of Justice. The Joint Staff spokesperson issued a statement thanking Sylvia for 32 years of service and wishing him well, with no mention of leaks, misconduct, or any reason for the removal. Other reports, including the Associated Press, stated that no reason had been given for the firing. The claim does not match the cited public record of the Joint Staff statement.",
@@ -588,18 +588,36 @@
     "script": "Morning Check. CBS News reports that Defense Secretary Pete Hegseth fired the Pentagon’s top military planner, Army Lieutenant General Brett Sylvia, over leaks of classified information tied to the Iran and Ukraine wars. An anonymous official told CBS that Sylvia failed three polygraph tests and that the case has been referred to the Justice Department. The Joint Staff, in its public statement, thanked Sylvia for thirty-two years of service and wished him and his family well. The statement contains no reference to leaks, misconduct, or any reason for the removal. Other accounts, including the Associated Press, reported that no reason had been given. The claim does not match the cited public record. Verdict: missing context.",
     "record_title": "CBS News — Hegseth fires Pentagon's top military planner over what official says were leaks to media (updated Oct. 29, 2026)",
     "record_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
-    "why": "The leak explanation and the failed-polygraph detail come from an anonymous Pentagon official, and two other Pentagon sources told CBS those accusations are not true. On the record, spokesman Sean Parnell said only that the department took \"necessary personnel action to protect sensitive information\" after an Air Force OSI investigation and referred the matter to the Justice Department, without naming Lt. Gen. Brett Sylvia; the Joint Staff withdrew its first statement thanking him for his service.",
-    "what_would_change": "A named official or document tying Sylvia to specific Iran or Ukraine leaks, or charges from the Justice Department, would move this toward Matches record; clearing him in the investigation would move it toward Contradicted."
+    "why": "Several sources confirmed the firing to CBS, but the leak explanation and failed-polygraph detail come from one anonymous Pentagon official, and two other Pentagon sources told CBS those accusations are not true. On the record, spokesman Sean Parnell said only that the department took “necessary personnel action to protect sensitive information” after an Air Force OSI investigation and referred the matter to the Justice Department, without naming Sylvia; the Joint Staff withdrew its first statement thanking him for his service.",
+    "what_would_change": "A named official or document tying Sylvia to specific Iran or Ukraine leaks, or charges from the Justice Department, would move this toward Matches record; clearing him in the investigation would move it toward Contradicted.",
+    "corrections": [
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "claim",
+        "old": "Defense Secretary Pete Hegseth fired the Pentagon’s top military planner over leaks of classified information related to the Iran and Ukraine wars",
+        "new": "“Army Lt. Gen. Brett Sylvia was accused of misconduct for allegedly leaking classified information related to the Iran war and the Russia-Ukraine war.” — an anonymous Pentagon official, as reported by CBS News, Oct. 29, 2026, on Defense Secretary Pete Hegseth's firing of Sylvia",
+        "reason": "Attributed the claim to its actual source, an anonymous official quoted by CBS, instead of stating it as fact.",
+        "source_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "why",
+        "old": "The leak explanation and the failed-polygraph detail come from an anonymous Pentagon official, and two other Pentagon sources told CBS those accusations are not true. On the record, spokesman Sean Parnell said only that the department took \"necessary personnel action to protect sensitive information\" after an Air Force OSI investigation and referred the matter to the Justice Department, without naming Lt. Gen. Brett Sylvia; the Joint Staff withdrew its first statement thanking him for his service.",
+        "new": "Several sources confirmed the firing to CBS, but the leak explanation and failed-polygraph detail come from one anonymous Pentagon official, and two other Pentagon sources told CBS those accusations are not true. On the record, spokesman Sean Parnell said only that the department took “necessary personnel action to protect sensitive information” after an Air Force OSI investigation and referred the matter to the Justice Department, without naming Sylvia; the Joint Staff withdrew its first statement thanking him for his service.",
+        "reason": "Replaced the outdated aired line that the Joint Staff statement gave no reason; CBS's updated story reports Parnell's statement and the Joint Staff's retraction.",
+        "source_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+      }
+    ]
   },
   {
     "id": "20261028-late",
     "slot": "Late Check",
     "aired_at": "2026-10-28T23:09:00-05:00",
-    "claim": "They sent me, as a gift, a boatload of a million barrels of oil. And I'm giving that to the United States of America. The oil is being provided to the United States at zero cost to the American taxpayer.",
+    "claim": "“They’ve sent me as a gift a boatload of a million barrels of oil, and I’m giving that to the United States of America.” — President Donald Trump, to reporters before his Texas campaign stops, Oct. 27, 2026; he later wrote on Truth Social that the oil “is being provided to the United States at NO cost to the American Taxpayer.”",
     "outlet": "Remarks en route to and at Corpus Christi campaign event, October 27, 2026",
     "outlet_url": "https://www.pbs.org/newshour/politics/watch-trump-says-venezuela-sent-him-1-million-barrels-of-oil-as-a-gift",
     "read": "On October 27 President Trump said Venezuela sent him a million barrels of oil as a gift that he was giving to the United States, and that the oil was provided at zero cost to the American taxpayer, framing it as spoils of the recent war. North American Blue Energy Partners' October 27 release states that to recognize the historic nature of its agreement with the United States, NABEP delivered the first million barrels at no cost to the U.S. taxpayer. The cargo marks the beginning of the larger deal, which grants the U.S. Government the right to purchase 20 percent of NABEP's production at cost with no markup, in addition to a 35 percent equity stake in NABEP's parent company. The claim does not match the cited record. The interesting fact is the one-time no-cost delivery. The missing fact is the ongoing commercial structure of at-cost purchases and equity ownership.",
-    "verdict": "Contradicted",
+    "verdict": "Missing context",
     "sources": [
       {
         "title": "NABEP — First NABEP Crude Cargo Under U.S. Agreement Arrives in Texas, October 27, 2026",
@@ -618,8 +636,42 @@
     "script": "Late Check. At a Texas campaign stop the president pointed to a tanker and said Venezuela sent him a boatload of a million barrels of oil as a gift, and that he was giving it to the United States at zero cost to the American taxpayer. North American Blue Energy Partners' own release that day states it delivered the first million barrels at no cost to the U.S. taxpayer to recognize the agreement. That same release says the cargo marks the beginning of the larger deal, which grants the U.S. government the right to purchase twenty percent of production at cost with no markup, plus a thirty-five percent equity stake. The claim does not match the cited record. Verdict: contradicted.",
     "record_title": "NABEP — First NABEP Crude Cargo Under U.S. Agreement Arrives in Texas (Oct. 27, 2026)",
     "record_url": "https://www.nabep.net/newsroom/first-nabep-crude-cargo-under-u-s-agreement-arrives-in-texas",
-    "why": "The release from North American Blue Energy Partners, a private oil company, says it delivered the first 1 million barrels \"at no cost to the U.S. taxpayer\" to mark the deal, so the no-cost part matches. The shipment was not a gift from Venezuela to Trump personally; the company calls it \"the beginning\" of a deal giving the U.S. government the right to buy 20% of NABEP's production at cost, along with a 35% stake in its parent company.",
-    "what_would_change": "Records showing the oil came from the Venezuelan government as a gift, or that U.S. purchases under the deal carry no taxpayer cost, would move this toward Matches record."
+    "why": "North American Blue Energy Partners, a private company, says it delivered the first 1 million barrels “at no cost to the U.S. taxpayer,” and the White House says only that first shipment is free, so the no-cost part matches. NABEP's first statement that day described the cargo as part of the U.S. right to buy 20% of its output at cost, and a person familiar with the terms told CNN its value will be settled through higher prices on later deliveries rather than an upfront payment.",
+    "what_would_change": "Publication of the contract terms showing the first cargo is truly free with no offsetting price adjustments would move this toward Matches record; terms showing the U.S. pays for it later at or above market price would move it toward Contradicted.",
+    "corrections": [
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "claim",
+        "old": "They sent me, as a gift, a boatload of a million barrels of oil. And I'm giving that to the United States of America. The oil is being provided to the United States at zero cost to the American taxpayer.",
+        "new": "“They’ve sent me as a gift a boatload of a million barrels of oil, and I’m giving that to the United States of America.” — President Donald Trump, to reporters before his Texas campaign stops, Oct. 27, 2026; he later wrote on Truth Social that the oil “is being provided to the United States at NO cost to the American Taxpayer.”",
+        "reason": "Attributed the quote to its speaker and used the wording CNN and Reuters reported; the old text merged the spoken remark with the later Truth Social post.",
+        "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "verdict",
+        "old": "Contradicted",
+        "new": "Missing context",
+        "reason": "The record supports the no-cost part: NABEP's amended release says the first million barrels came at no cost to taxpayers. What is missing is how: the oil came from a private company, not the Venezuelan government, and its value is to be recovered through higher prices on later deliveries. That is missing context, not a contradiction.",
+        "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "why",
+        "old": "The release from North American Blue Energy Partners, a private oil company, says it delivered the first 1 million barrels \"at no cost to the U.S. taxpayer\" to mark the deal, so the no-cost part matches. The shipment was not a gift from Venezuela to Trump personally; the company calls it \"the beginning\" of a deal giving the U.S. government the right to buy 20% of NABEP's production at cost, along with a 35% stake in its parent company.",
+        "new": "North American Blue Energy Partners, a private company, says it delivered the first 1 million barrels “at no cost to the U.S. taxpayer,” and the White House says only that first shipment is free, so the no-cost part matches. NABEP's first statement that day described the cargo as part of the U.S. right to buy 20% of its output at cost, and a person familiar with the terms told CNN its value will be settled through higher prices on later deliveries rather than an upfront payment.",
+        "reason": "Rewrote to reflect NABEP's amended statement and CNN's reporting on deferred pricing, and to match the corrected verdict.",
+        "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "what_would_change",
+        "old": "Records showing the oil came from the Venezuelan government as a gift, or that U.S. purchases under the deal carry no taxpayer cost, would move this toward Matches record.",
+        "new": "Publication of the contract terms showing the first cargo is truly free with no offsetting price adjustments would move this toward Matches record; terms showing the U.S. pays for it later at or above market price would move it toward Contradicted.",
+        "reason": "Updated to match the corrected verdict.",
+        "source_url": "https://www.cnn.com/2026/10/29/economy/venezuela-oil-trump-no-cost-nabep"
+      }
+    ]
   },
   {
     "id": "20261028-evening",
@@ -711,11 +763,11 @@
     "id": "20261027-midday",
     "slot": "Midday Check",
     "aired_at": "2026-10-27T11:34:00-05:00",
-    "claim": "15% of Americans believe between 1 and 5% of NCAA athletes are transgender; 14% believe between 6 and 25%.",
+    "claim": "“In a new poll, 15% of Americans said they believe between 1 and 5% of NCAA athletes are transgender. 14% think between it's between 6 and 25%.” — Sam Stein of The Bulwark, on X, sharing the Bulwark / Pablo Torre Finds Out / YouGov poll",
     "outlet": "X post",
     "outlet_url": "https://x.com/samstein/status/2115078660373745735",
     "read": "A high-engagement post reports a YouGov survey in which 15 percent of American adults estimated that between 1 and 5 percent of NCAA athletes are transgender and 14 percent estimated between 6 and 25 percent. An NCAA spokesperson confirmed that the current number of student-athletes competing in women's sports who identify as transgender is effectively zero, consistent with the association's policy. In December 2024 NCAA President Charlie Baker told a Senate panel that fewer than 10 of more than 510,000 athletes were transgender. In February 2025 the Board of Governors restricted women's-team competition to athletes assigned female at birth. The estimates do not match the cited record. The interesting fact is the size of the overestimate. The missing fact is the official count and the current policy.",
-    "verdict": "Contradicted",
+    "verdict": "Matches record",
     "sources": [
       {
         "title": "The Bulwark — New poll on sports, masculinity, and transgender athletes",
@@ -728,10 +780,60 @@
     ],
     "video_url": "",
     "script": "Midday Check. A high-engagement post reports a new poll. Fifteen percent of Americans said they believe between one and five percent of NCAA athletes are transgender. Fourteen percent put the share between six and twenty-five percent. An NCAA spokesperson confirmed the current number competing in women's sports is effectively zero. In December two thousand twenty-four, NCAA President Charlie Baker told a Senate panel fewer than ten of more than five hundred ten thousand athletes were transgender. The following February the Board of Governors restricted women's-team competition to athletes assigned female at birth. The estimates do not match the cited record. Verdict: contradicted.",
-    "record_title": "NCAA — Participation Policy for Transgender Student-Athletes (effective Feb. 6, 2025)",
-    "record_url": "https://www.ncaa.org/what-we-do/health-safety-and-performance/participation-policy-for-transgender-student-athletes/",
-    "why": "The Bulwark's poll write-up confirms the post's numbers, so the poll is reported accurately; what the record contradicts is the public's estimate. NCAA President Charlie Baker told Congress in December 2024 that fewer than 10 of more than 500,000 athletes were transgender, NCAA policy since February 2025 limits women's teams to athletes assigned female at birth, and an NCAA spokesperson said the current number in women's sports is effectively zero.",
-    "what_would_change": "NCAA data showing a meaningful share of transgender athletes, at least 1% of more than 500,000, would move this toward Matches record."
+    "record_title": "The Bulwark — Hegseth Needs More T: Poll Shows He's No Male Role Model (Bulwark / Pablo Torre Finds Out / YouGov poll write-up)",
+    "record_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting",
+    "why": "The Bulwark's write-up of its YouGov survey of 1,417 adults (Oct. 10–14, 2026; margin of error ±3.6 points) reports these exact numbers, so the post matches the poll. Those estimates are far from the record: NCAA President Charlie Baker told Congress in December 2024 that fewer than 10 of more than 500,000 athletes were transgender, and an NCAA spokesperson said the number now competing in women's sports is effectively zero. Outsports noted that the question asked about all NCAA athletes, not only women's sports.",
+    "what_would_change": "A correction to the Bulwark's toplines, or poll data showing different shares, would move this toward Contradicted.",
+    "corrections": [
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "claim",
+        "old": "15% of Americans believe between 1 and 5% of NCAA athletes are transgender; 14% believe between 6 and 25%.",
+        "new": "“In a new poll, 15% of Americans said they believe between 1 and 5% of NCAA athletes are transgender. 14% think between it's between 6 and 25%.” — Sam Stein of The Bulwark, on X, sharing the Bulwark / Pablo Torre Finds Out / YouGov poll",
+        "reason": "Attributed the claim to its speaker and quoted the post's exact wording.",
+        "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "verdict",
+        "old": "Contradicted",
+        "new": "Matches record",
+        "reason": "The post accurately reports the poll's published numbers. The wrong estimates belong to the poll respondents, not to the post, so Contradicted was the wrong verdict.",
+        "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "record_title",
+        "old": "NCAA — Participation Policy for Transgender Student-Athletes (effective Feb. 6, 2025)",
+        "new": "The Bulwark — Hegseth Needs More T: Poll Shows He's No Male Role Model (Bulwark / Pablo Torre Finds Out / YouGov poll write-up)",
+        "reason": "Pointed the record at the poll write-up that the claim reports on.",
+        "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "record_url",
+        "old": "https://www.ncaa.org/what-we-do/health-safety-and-performance/participation-policy-for-transgender-student-athletes/",
+        "new": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting",
+        "reason": "Pointed the record at the poll write-up that the claim reports on.",
+        "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "why",
+        "old": "The Bulwark's poll write-up confirms the post's numbers, so the poll is reported accurately; what the record contradicts is the public's estimate. NCAA President Charlie Baker told Congress in December 2024 that fewer than 10 of more than 500,000 athletes were transgender, NCAA policy since February 2025 limits women's teams to athletes assigned female at birth, and an NCAA spokesperson said the current number in women's sports is effectively zero.",
+        "new": "The Bulwark's write-up of its YouGov survey of 1,417 adults (Oct. 10–14, 2026; margin of error ±3.6 points) reports these exact numbers, so the post matches the poll. Those estimates are far from the record: NCAA President Charlie Baker told Congress in December 2024 that fewer than 10 of more than 500,000 athletes were transgender, and an NCAA spokesperson said the number now competing in women's sports is effectively zero. Outsports noted that the question asked about all NCAA athletes, not only women's sports.",
+        "reason": "Rewrote to match the corrected verdict and add the poll's method and the critique of the question's wording.",
+        "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "what_would_change",
+        "old": "NCAA data showing a meaningful share of transgender athletes, at least 1% of more than 500,000, would move this toward Matches record.",
+        "new": "A correction to the Bulwark's toplines, or poll data showing different shares, would move this toward Contradicted.",
+        "reason": "Updated to match the corrected verdict.",
+        "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+      }
+    ]
   },
   {
     "id": "20261027-morning",
@@ -841,9 +943,9 @@
     "id": "20261026-morning",
     "slot": "Morning Check",
     "aired_at": "2026-10-26T06:31:00-05:00",
-    "claim": "Everyone thought she came in second or third, but then she 'won.'",
+    "claim": "“Everyone thought she came in second or third, but then she ‘won.’ Miracles happen!” — President Donald Trump, Truth Social, Oct. 24, 2026, on Sen. Lisa Murkowski",
     "outlet": "Truth Social",
-    "outlet_url": "https://www.trumpstruth.org/statuses/42711",
+    "outlet_url": "https://www.trumpstruth.org/statuses/42712",
     "read": "In a Saturday-night Truth Social post, the president wrote that Lisa Murkowski only got elected because of ranked-choice voting and that everyone thought she came in second or third before she won. The official 2022 Alaska Division of Elections first-choice tally shows Murkowski finishing first with 113,495 votes (43.37 percent) to Kelly Tshibaka's 111,480 (42.60 percent). She led the initial count by roughly 2,000 votes; second-choice ballots from eliminated candidates then expanded her margin to 53.7 percent. The claim does not match the cited record. The interesting fact is the ranked-choice redistribution. The missing fact is that she already held the plurality before any redistribution.",
     "verdict": "Contradicted",
     "sources": [
@@ -861,7 +963,25 @@
     "record_title": "Alaska Division of Elections — 2022 General Election Official Summary Report",
     "record_url": "https://www.elections.alaska.gov/results/22GENR/ElectionSummaryReportRPT.pdf",
     "why": "Alaska's official 2022 results show Murkowski finished first on first-choice votes with 113,495 (43.37%), ahead of Kelly Tshibaka's 111,480 (42.60%). She led after every round of the ranked-choice count and won the final round 53.69% to 46.31%. The quoted words appear in Trump's Oct. 24, 2026 Truth Social post.",
-    "what_would_change": "Official results showing Murkowski behind on first-choice votes would move this toward Matches record; nothing in the certified count does."
+    "what_would_change": "Official results showing Murkowski behind on first-choice votes would move this toward Matches record; nothing in the certified count does.",
+    "corrections": [
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "claim",
+        "old": "Everyone thought she came in second or third, but then she 'won.'",
+        "new": "“Everyone thought she came in second or third, but then she ‘won.’ Miracles happen!” — President Donald Trump, Truth Social, Oct. 24, 2026, on Sen. Lisa Murkowski",
+        "reason": "Attributed the quote to its speaker and matched the post's exact wording.",
+        "source_url": "https://www.trumpstruth.org/statuses/42712"
+      },
+      {
+        "date": "2026-10-30T23:41:39-05:00",
+        "field": "outlet_url",
+        "old": "https://www.trumpstruth.org/statuses/42711",
+        "new": "https://www.trumpstruth.org/statuses/42712",
+        "reason": "The old link (status 42711) is a different post; the quoted words are in status 42712.",
+        "source_url": "https://www.trumpstruth.org/statuses/42712"
+      }
+    ]
   },
   {
     "id": "20261025-late",
