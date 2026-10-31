@@ -1,5 +1,101 @@
 [
   {
+    "id": "20261030-late",
+    "slot": "Late Check",
+    "aired_at": "2026-10-30T23:05:00-05:00",
+    "headline": "Iowa ad says Rep. Zach Nunn took thousands from Chinese companies; FEC filings show the money came from a U.S. subsidiary's employee PAC",
+    "claim": "“Nunn took thousands from Chinese companies and then voted to let them buy Iowa farmland.” — Iowa state Sen. Sarah Trone Garriott, campaign video posted on X, Oct. 21, 2026",
+    "outlet": "PolitiFact Iowa, October 30, 2026",
+    "outlet_url": "https://politifact.com/factchecks/2026/oct/30/sarah-trone-garriott/sarah-trone-garriott-says-zach-nunn-has-taken-thousands-from-chinese-companies-thats-missing-context/",
+    "source_url": "https://politifact.com/factchecks/2026/oct/30/sarah-trone-garriott/sarah-trone-garriott-says-zach-nunn-has-taken-thousands-from-chinese-companies-thats-missing-context/",
+    "record_url": "https://www.fec.gov/data/receipts/?committee_id=C00784389&contributor_name=syngenta",
+    "record_title": "FEC receipts — Nunn for Iowa (C00784389) from Syngenta Corporation Employee PAC",
+    "verdict": "Missing context",
+    "why": "FEC filings show Nunn's campaign committee received $15,000 from the Syngenta Corporation Employee Political Action Committee between March 2022 and May 2026, including $2,500 in the 2026 cycle; Syngenta is owned by China's state-owned Sinochem. The money came from a corporate PAC funded by employees of the U.S.-based subsidiary, not from Chinese companies directly, since foreign nationals and companies cannot legally give to U.S. campaigns.",
+    "what_would_change": "FEC records or other documents showing direct contributions from China-based companies or foreign nationals would move this toward Matches record; evidence that the PAC is funded by the parent company rather than U.S. employees would also change it.",
+    "read": "FEC filings show Nunn's campaign committee received $15,000 from the Syngenta Corporation Employee Political Action Committee between March 2022 and May 2026, including $2,500 in the 2026 cycle; Syngenta is owned by China's state-owned Sinochem. The money came from a corporate PAC funded by employees of the U.S.-based subsidiary, not from Chinese companies directly, since foreign nationals and companies cannot legally give to U.S. campaigns.",
+    "sources": [
+      {
+        "title": "PolitiFact Iowa, October 30, 2026",
+        "url": "https://politifact.com/factchecks/2026/oct/30/sarah-trone-garriott/sarah-trone-garriott-says-zach-nunn-has-taken-thousands-from-chinese-companies-thats-missing-context/"
+      },
+      {
+        "title": "FEC receipts — Nunn for Iowa (C00784389) from Syngenta Corporation Employee PAC",
+        "url": "https://www.fec.gov/data/receipts/?committee_id=C00784389&contributor_name=syngenta"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. Iowa Democrat Sarah Trone Garriott says Republican Congressman Zach Nunn took thousands from Chinese companies. Federal Election Commission filings show Nunn's campaign took fifteen thousand dollars since 2022 from the Syngenta Corporation Employee PAC. Syngenta is owned by China's state-owned Sinochem, but the PAC is funded by employees of its U.S. subsidiary, and foreign companies can't legally give to American campaigns. The dollars are real; the source is narrower than the ad suggests. Verdict: missing context."
+  },
+  {
+    "id": "20261030-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-10-30T23:05:00-05:00",
+    "headline": "Virginia delegate says Spanberger restored a dead dog's voting rights; the governor's office says the record belongs to a real person",
+    "claim": "“Biscuit was a dog. Biscuit has been dead for five years. Yet an official document bearing the governor’s signature says the executive reviewed the particulars of Biscuit’s criminal case.” — Del. Tom Garrett, R-Buckingham, quoted by Fox News Digital, Oct. 30, 2026",
+    "outlet": "Fox News Digital, October 30, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/biscuit-dog-latest-dead-felon-get-voting-rights-back-spanberger-confused-owner-says",
+    "source_url": "https://www.foxnews.com/politics/biscuit-dog-latest-dead-felon-get-voting-rights-back-spanberger-confused-owner-says",
+    "record_url": "https://law.lis.virginia.gov/constitution/article5/section12/",
+    "record_title": "Constitution of Virginia, Article V, Section 12 — Executive clemency",
+    "verdict": "Unverifiable",
+    "why": "Article V, Section 12 gives the governor power to remove political disabilities after conviction and requires reporting particulars of clemency cases to the General Assembly, but the underlying record for this certificate has not been made public. The owner says the certificate named his late dog, while Gov. Spanberger's spokesperson says it is tied to a person with a date of birth and Social Security number; neither side has released a document that settles who the certificate was for.",
+    "what_would_change": "Release of the conviction record or Social Security–linked identity behind the “Biscuit Rigsby” certificate, or the governor's clemency report to the General Assembly listing the case, would show whether it went to a real ex-felon or was issued in error.",
+    "read": "Article V, Section 12 gives the governor power to remove political disabilities after conviction and requires reporting particulars of clemency cases to the General Assembly, but the underlying record for this certificate has not been made public. The owner says the certificate named his late dog, while Gov. Spanberger's spokesperson says it is tied to a person with a date of birth and Social Security number; neither side has released a document that settles who the certificate was for.",
+    "sources": [
+      {
+        "title": "Fox News Digital, October 30, 2026",
+        "url": "https://www.foxnews.com/politics/biscuit-dog-latest-dead-felon-get-voting-rights-back-spanberger-confused-owner-says"
+      },
+      {
+        "title": "Constitution of Virginia, Article V, Section 12 — Executive clemency",
+        "url": "https://law.lis.virginia.gov/constitution/article5/section12/"
+      },
+      {
+        "title": "WSET — Spanberger addresses voting rights restored to 'Betty No Last Name'",
+        "url": "https://wset.com/news/local/spanberger-addresses-betty-no-last-name-voting-rights-restoration-october-2026"
+      },
+      {
+        "title": "Virginia Restoration of Rights — Secretary of the Commonwealth",
+        "url": "https://www.restore.virginia.gov/"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. Virginia Delegate Tom Garrett says Governor Abigail Spanberger's office restored voting rights to Biscuit, a dog that died five years ago. Fox News confirmed the certificate with the owner. Spanberger's spokesperson says the record is tied to a real person with a date of birth and Social Security number, and the governor called an earlier 'Betty No Last Name' certificate a mail merge error. Virginia's constitution gives the governor this clemency power and requires reporting case particulars to lawmakers, but the record behind this certificate isn't public. Verdict: unverifiable."
+  },
+  {
+    "id": "20261030-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-10-30T23:05:00-05:00",
+    "headline": "Trump keeps saying gas is cheaper than under Biden; federal price data says that's true for only a sliver of Biden's term",
+    "claim": "“Remember, your prices – your gas prices – are lower than when Biden was president.” — President Donald Trump, Ohio rally, as reported by CNN",
+    "outlet": "CNN Politics fact check, October 13, 2026",
+    "outlet_url": "https://www.cnn.com/2026/10/13/politics/fact-check-trump-gas-prices-under-biden",
+    "source_url": "https://www.cnn.com/2026/10/13/politics/fact-check-trump-gas-prices-under-biden",
+    "record_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPM0_PTE_NUS_DPG&f=W",
+    "record_title": "U.S. Energy Information Administration — U.S. All Grades All Formulations Retail Gasoline Prices (weekly)",
+    "verdict": "Contradicted",
+    "why": "EIA's weekly series puts the national all-grades average at $4.405 a gallon for the week of Oct. 26, 2026, higher than in 195 of the 208 weekly readings during Biden's term; the only higher weeks came from March to July 2022 after Russia invaded Ukraine. The Biden-term weekly average was about $3.57, versus about $3.59 so far in Trump's second term, and the price was about $3.16 the week before Trump took office.",
+    "what_would_change": "A sustained drop in the national average below Biden-era levels for most of his term, or a comparison limited to the 2022 peak that Trump explicitly framed that way, would move this toward Missing context or Matches record.",
+    "read": "EIA's weekly series puts the national all-grades average at $4.405 a gallon for the week of Oct. 26, 2026, higher than in 195 of the 208 weekly readings during Biden's term; the only higher weeks came from March to July 2022 after Russia invaded Ukraine. The Biden-term weekly average was about $3.57, versus about $3.59 so far in Trump's second term, and the price was about $3.16 the week before Trump took office.",
+    "sources": [
+      {
+        "title": "CNN Politics fact check, October 13, 2026",
+        "url": "https://www.cnn.com/2026/10/13/politics/fact-check-trump-gas-prices-under-biden"
+      },
+      {
+        "title": "U.S. Energy Information Administration — U.S. All Grades All Formulations Retail Gasoline Prices (weekly)",
+        "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPM0_PTE_NUS_DPG&f=W"
+      },
+      {
+        "title": "CNN — Gas under Trump 2.0 is now more expensive than it was under Biden",
+        "url": "https://kesq.com/money/cnn-business-consumer/2026/10/26/gas-under-trump-2-0-is-now-more-expensive-than-it-was-under-biden/"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. President Trump told an Ohio rally that gas prices are lower than when Biden was president, a line CNN says he's repeated for weeks. The Energy Information Administration's weekly data puts the national average at about four dollars and forty cents. That's higher than in all but 13 of the 208 weeks of Biden's term, and the only higher stretch was spring and summer 2022 after Russia invaded Ukraine. Averaged over each term, prices are now slightly higher under Trump. Verdict: contradicted."
+  },
+  {
     "id": "20261030-evening",
     "slot": "Evening Check",
     "aired_at": "2026-10-30T17:44:00-05:00",
