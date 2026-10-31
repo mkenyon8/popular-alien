@@ -517,6 +517,47 @@
     "corrections": []
   },
   {
+    "id": "20261031-reframe-talarico-crystal-mason",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-10-31T18:50:00-05:00",
+    "label": "ReFrame",
+    "claim": "Talarico ad ties Crystal Mason's five-year sentence to Ken Paxton; Tarrant County prosecuted her",
+    "outlet": "FactCheck.org",
+    "outlet_url": "https://www.factcheck.org/2026/10/talarico-ad-omits-details-of-crystal-masons-illegal-voting-case/",
+    "source_url": "https://www.factcheck.org/2026/10/talarico-ad-omits-details-of-crystal-masons-illegal-voting-case/",
+    "record_url": "https://law.justia.com/cases/texas/second-court-of-appeals/2024/02-18-00138-cr.html",
+    "record_title": "Mason v. State, No. 02-18-00138-CR, Texas Second Court of Appeals, opinion on remand, March 28, 2024",
+    "read": "The sentence and Paxton's voter-fraud push are both real, but the ad's 'because of' link is never shown, and it leaves out that an appeals court acquitted Mason in 2024. Graded C overall across 2 arguments. The Talarico campaign ad: D+ (false cause). FactCheck.org: A-. Scorecard: 50% valid, 50% cogent, 75% supported, 80% fallacy-free.",
+    "grade": "C",
+    "scores": {
+      "valid": 50,
+      "cogent": 50,
+      "supported": 75,
+      "fallacy_free": 80
+    },
+    "why": "The facts on each side are real: the five-year sentence happened, and Paxton did push voter-fraud cases. What's missing is the link. The record shows a county prosecution, and the ad also leaves out that the Second Court of Appeals acquitted Mason in 2024. Well sourced to the court record and the trial transcript. FactCheck.org also notes what the record can't settle: how much Paxton's broader push shaped the local case.",
+    "key_question": "If the Tarrant County district attorney prosecuted Mason, what record shows Paxton's office had a role in her case?",
+    "sources": [
+      {
+        "title": "FactCheck.org — Talarico Ad Omits Details of Crystal Mason's Illegal Voting Case",
+        "url": "https://www.factcheck.org/2026/10/talarico-ad-omits-details-of-crystal-masons-illegal-voting-case/"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Missing context)",
+        "url": "https://popularalien.com/story/20261031-midday"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261031-midday.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261031-midday.mp4",
+    "popart_story": "20261031-midday",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... FactCheck.org reports: Talarico ad ties Crystal Mason's five-year sentence to Ken Paxton; Tarrant County prosecuted her.\nLet's grade the headline.\nDon't just read the news. ReFrame it.\nHere's the question worth asking. If the Tarrant County district attorney prosecuted Mason, what record shows Paxton's office had a role in her case?",
+    "corrections": []
+  },
+  {
     "id": "20261030-reframe-iran-hormuz-tankers",
     "slot": "ReFrame",
     "lead": false,
