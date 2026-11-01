@@ -1360,12 +1360,25 @@
       {
         "title": "ReFrame the Facts with Professor Reid — full episode (video)",
         "url": "https://show.popularalien.com/talk/pa-20261031-late-cnn.mp4"
+      },
+      {
+        "title": "Field Report with Marcus Okafor (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261031-cnn-2008-marcus.mp4"
       }
     ],
     "video_url": "https://show.popularalien.com/talk/pa-20261031-late-cnn.mp4",
     "popart_story": "20261031-late-cnn",
     "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNN reports: CNN says a contested Senate race last delayed a senator's seating in 2008; the Senate's own record agrees.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
-    "corrections": []
+    "corrections": [],
+    "field_report": {
+      "reporter": "Marcus Okafor",
+      "dateline": "Washington, D.C.",
+      "video_url": "https://show.popularalien.com/talk/fr-20261031-cnn-2008-marcus.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261031-cnn-2008-marcus.jpg",
+      "duration_s": 79.1,
+      "published_at": "2026-11-01T17:50:00-06:00",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
   },
   {
     "id": "20261030-reframe-iran-hormuz-tankers",
