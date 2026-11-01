@@ -232,10 +232,23 @@
       {
         "title": "Mason v. State, No. 02-18-00138-CR, Texas Second Court of Appeals, opinion on remand, March 28, 2024",
         "url": "https://law.justia.com/cases/texas/second-court-of-appeals/2024/02-18-00138-cr.html"
+      },
+      {
+        "title": "Field Report with Diego Ramirez (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261031-midday-diego.mp4"
       }
     ],
-    "video_url": "",
-    "script": "Midday Check. A closing ad for Texas Senate candidate James Talarico says Crystal Mason got five years in prison because of Ken Paxton's crackdown on voters of color. The court record shows Tarrant County prosecuted her, not Paxton's office, and an appeals court acquitted her in 2024 because the state never proved she knew she couldn't vote. Verdict: missing context."
+    "video_url": "https://show.popularalien.com/talk/fr-20261031-midday-diego.mp4",
+    "script": "Midday Check. A closing ad for Texas Senate candidate James Talarico says Crystal Mason got five years in prison because of Ken Paxton's crackdown on voters of color. The court record shows Tarrant County prosecuted her, not Paxton's office, and an appeals court acquitted her in 2024 because the state never proved she knew she couldn't vote. Verdict: missing context.",
+    "field_report": {
+      "reporter": "Diego Ramirez",
+      "dateline": "Fort Worth, Texas",
+      "video_url": "https://show.popularalien.com/talk/fr-20261031-midday-diego.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261031-midday-diego.jpg",
+      "duration_s": 81.3,
+      "published_at": "2026-11-01T01:40:00-05:00",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
   },
   {
     "id": "20261031-midday-fox",
