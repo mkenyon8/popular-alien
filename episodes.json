@@ -1142,12 +1142,25 @@
       {
         "title": "ReFrame the Facts with Professor Reid — full episode (video)",
         "url": "https://show.popularalien.com/talk/pa-20261031-late.mp4"
+      },
+      {
+        "title": "Field Report with Priya Nair (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261031-essayli-priya.mp4"
       }
     ],
     "video_url": "https://show.popularalien.com/talk/pa-20261031-late.mp4",
     "popart_story": "20261031-late",
     "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Donald J. Trump on Truth Social reports: Trump says DOJ's Bill Essayli 'caught' 20,000 illegal votes in California; court filings describe a list of 'likely' noncitizens.\nLet's grade the headline.\nDon't just read the news. ReFrame it.\nHere's the question worth asking. If the filings call the 20,000 'likely' noncitizens, how many has any court or agency confirmed cast an illegal vote?",
-    "corrections": []
+    "corrections": [],
+    "field_report": {
+      "reporter": "Priya Nair",
+      "dateline": "Los Angeles, California",
+      "video_url": "https://show.popularalien.com/talk/fr-20261031-essayli-priya.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261031-essayli-priya.jpg",
+      "duration_s": 78.8,
+      "published_at": "2026-11-01T16:35:00-06:00",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
   },
   {
     "id": "20261031-reframe-fox-senate-53-47",
