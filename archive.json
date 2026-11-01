@@ -763,6 +763,44 @@
     "corrections": []
   },
   {
+    "id": "20261031-reframe-pbs-late-midterm-results",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-01T02:20:00-06:00",
+    "label": "ReFrame",
+    "claim": "PBS News says late midterm results and overnight lead changes are normal, not signs of fraud",
+    "outlet": "PBS News",
+    "outlet_url": "https://www.pbs.org/newshour/politics/when-will-we-know-2026-midterm-election-results-it-may-take-some-time-but-thats-normal",
+    "source_url": "https://www.pbs.org/newshour/politics/when-will-we-know-2026-midterm-election-results-it-may-take-some-time-but-thats-normal",
+    "read": "The PBS News and PolitiFact explainer backs its main point with state ballot laws and the 2020 Wisconsin count; one quoted expert overstates it by saying no state is faster than another. Graded B+ overall across 2 arguments. PBS News (republishing PolitiFact's Amy Sherman): A-. Ryan Macias, election technology expert (quoted by PBS News): C+. Scorecard: 50% valid, 50% cogent, 75% supported, 100% fallacy-free.",
+    "grade": "B+",
+    "scores": {
+      "valid": 50,
+      "cogent": 50,
+      "supported": 75,
+      "fallacy_free": 100
+    },
+    "why": "Each of PBS's reasons is checkable: certification deadlines and mail-ballot receipt rules are set by state law, and the 2020 Wisconsin example, where Trump's 100,000-plus vote lead flipped after Milwaukee's mail ballots were reported around 3:30 a.m., is on the record. The piece also names its limits, calling Detroit's 95 percent figure an estimate. The weak spot is Ryan Macias's line that states are \"neither fast nor slow\": following state law doesn't make every state equally quick, because those laws differ, and the same article says Florida often finishes most of its count within hours while states like New Hampshire can't start processing mail ballots before Election Day. His point about media projections is fair; the claim that no state is faster goes too far.",
+    "key_question": "If Florida often finishes most of its count within hours while other states take days, aren't some states faster than others?",
+    "sources": [
+      {
+        "title": "PBS News — When will we know 2026 midterm election results? It may take some time, but that's normal",
+        "url": "https://www.pbs.org/newshour/politics/when-will-we-know-2026-midterm-election-results-it-may-take-some-time-but-thats-normal"
+      },
+      {
+        "title": "PBS NewsHour on X — the post that shared it",
+        "url": "https://x.com/NewsHour/status/2116591535072416038"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/matt-20261031-newshour-results.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/matt-20261031-newshour-results.mp4",
+    "requested_by": "Matt",
+    "corrections": []
+  },
+  {
     "id": "20261030-reframe-iran-hormuz-tankers",
     "slot": "ReFrame",
     "lead": false,
