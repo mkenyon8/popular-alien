@@ -1082,6 +1082,10 @@
       {
         "title": "ReFrame the Facts with Professor Reid — full episode (video)",
         "url": "https://show.popularalien.com/talk/matt-20261031-newshour-results.mp4"
+      },
+      {
+        "title": "Field Report with Lena Sato (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261031-newshour-lena.mp4"
       }
     ],
     "video_url": "https://show.popularalien.com/talk/matt-20261031-newshour-results.mp4",
@@ -1089,7 +1093,16 @@
     "corrections": [],
     "record_title": "NCSL — Table 16: When absentee/mail ballot processing and counting can begin (state law, by state)",
     "record_url": "https://www.ncsl.org/elections-and-campaigns/table-16-when-absentee-mail-ballot-processing-and-counting-can-begin",
-    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... PBS News reports: PBS News says late midterm results and overnight lead changes are normal, not signs of fraud.\nLet's grade the headline.\nDon't just read the news. ReFrame it."
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... PBS News reports: PBS News says late midterm results and overnight lead changes are normal, not signs of fraud.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "field_report": {
+      "reporter": "Lena Sato",
+      "dateline": "Milwaukee, Wisconsin",
+      "video_url": "https://show.popularalien.com/talk/fr-20261031-newshour-lena.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261031-newshour-lena.jpg",
+      "duration_s": 77.2,
+      "published_at": "2026-11-01T15:50:00-06:00",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
   },
   {
     "id": "20261031-reframe-trump-essayli-20000-votes",
