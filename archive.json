@@ -849,6 +849,51 @@
     "corrections": []
   },
   {
+    "id": "20261031-reframe-fox-senate-53-47",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-01T04:10:00-06:00",
+    "label": "ReFrame",
+    "claim": "Fox News says Republicans hold a 53-47 Senate lead; the Senate lists 53 Republicans, 45 Democrats and 2 independents",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/veteran-dem-operative-says-subpar-gop-candidates-poised-hand-over-senate-majority",
+    "source_url": "https://www.foxnews.com/politics/veteran-dem-operative-says-subpar-gop-candidates-poised-hand-over-senate-majority",
+    "record_url": "https://www.senate.gov/senators/index.htm",
+    "record_title": "U.S. Senate, Senators of the 119th Congress and Party Division",
+    "read": "Fox's 53-47 shorthand matches the Senate's own party division once the two independents are counted with the Democrats they caucus with; the strategist's forecast in the same story is an opinion the article itself hedges. Graded B+ overall across 2 arguments. Fox News Digital's '53-47 lead in the Senate' line: A-. Democratic strategist Dan Turrentine's 'weak candidate quality' forecast (quoted by Fox News Digital): C. Scorecard: 50% valid, 50% cogent, 75% supported, 100% fallacy-free.",
+    "grade": "B+",
+    "scores": {
+      "valid": 50,
+      "cogent": 50,
+      "supported": 75,
+      "fallacy_free": 100
+    },
+    "why": "The Senate's own roster lists the 119th Congress party division as 53 Republicans, 45 Democrats and 2 independents, and the two independents, Angus King and Bernie Sanders, caucus with Democrats, so Fox's 53-47 count checks out; saying so outright would have made it airtight. The second argument is a partisan forecast from Democratic strategist Dan Turrentine: the article gives no polling for three of the four races he names, and he concedes that polling has struggled in recent elections and that \"Nobody knows\" how Tuesday will go, which undercuts his own confidence.",
+    "key_question": "Besides one strategist's view, what evidence in the coverage shows candidate quality, rather than other factors, will decide these four races?",
+    "sources": [
+      {
+        "title": "Fox News, October 31, 2026",
+        "url": "https://www.foxnews.com/politics/veteran-dem-operative-says-subpar-gop-candidates-poised-hand-over-senate-majority"
+      },
+      {
+        "title": "U.S. Senate, Senators of the 119th Congress and Party Division",
+        "url": "https://www.senate.gov/senators/index.htm"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261031-late-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261031-late-fox.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261031-late-fox.mp4",
+    "popart_story": "20261031-late-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News says Republicans hold a 53-47 Senate lead; the Senate lists 53 Republicans, 45 Democrats and 2 independents.\nLet's grade the headline.\nDon't just read the news. ReFrame it.\nHere's the question worth asking. Besides one strategist's view, what evidence in the coverage shows candidate quality, rather than other factors, will decide these four races?",
+    "corrections": []
+  },
+  {
     "id": "20261030-reframe-iran-hormuz-tankers",
     "slot": "ReFrame",
     "lead": false,
