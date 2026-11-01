@@ -804,6 +804,51 @@
     "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... PBS News reports: PBS News says late midterm results and overnight lead changes are normal, not signs of fraud.\nLet's grade the headline.\nDon't just read the news. ReFrame it."
   },
   {
+    "id": "20261031-reframe-trump-essayli-20000-votes",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-01T03:20:00-06:00",
+    "label": "ReFrame",
+    "claim": "Trump says DOJ's Bill Essayli 'caught' 20,000 illegal votes in California; court filings describe a list of 'likely' noncitizens",
+    "outlet": "Donald J. Trump on Truth Social",
+    "outlet_url": "https://truthsocial.com/@realDonaldTrump/117536719518293568",
+    "source_url": "https://truthsocial.com/@realDonaldTrump/117536719518293568",
+    "record_url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/26/26-7070.pdf",
+    "record_title": "Order, United States v. State of California, No. 26-7070 (9th Cir.), filed Oct. 26, 2026",
+    "read": "The 20,000 figure is a federal list of registered voters flagged as 'likely' noncitizens, not votes shown to be illegal, and the court ruled against setting those ballots aside, not against fixing proven fraud. Graded D- overall across 2 arguments. President Trump's '20,000 illegal votes' claim: F (begging the question). President Trump's 'the Court rejected fixing Election Fraud' claim: D (loaded question). Scorecard: 50% valid, 0% cogent, 0% supported, 60% fallacy-free.",
+    "grade": "D-",
+    "scores": {
+      "valid": 50,
+      "cogent": 0,
+      "supported": 0,
+      "fallacy_free": 60
+    },
+    "why": "A list of people flagged for review is not a count of illegal votes. The Ninth Circuit order says the government sent a list of over 20,000 \"likely\" noncitizens and asked that their ballots be set aside until citizenship could be verified; nothing in the record shows any of them was confirmed as a noncitizen who voted, a county sample found many listed as U.S.-born, and the jump to \"hundreds of thousands\" or \"millions\" has no source at all. The court did rule against the government, but what it refused was setting aside ballots based on an unverified list, not fixing proven fraud: Judge David O. Carter wrote that he could not conclude the government's process was credible and pointed to indictments as the remedy for any real illegal voting.",
+    "key_question": "If the filings call the 20,000 'likely' noncitizens, how many has any court or agency confirmed cast an illegal vote?",
+    "sources": [
+      {
+        "title": "Donald J. Trump on Truth Social, October 31, 2026 — original post",
+        "url": "https://truthsocial.com/@realDonaldTrump/117536719518293568"
+      },
+      {
+        "title": "Order, United States v. State of California, No. 26-7070 (9th Cir.), filed Oct. 26, 2026",
+        "url": "https://cdn.ca9.uscourts.gov/datastore/opinions/2026/10/26/26-7070.pdf"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261031-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261031-late.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261031-late.mp4",
+    "popart_story": "20261031-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Donald J. Trump on Truth Social reports: Trump says DOJ's Bill Essayli 'caught' 20,000 illegal votes in California; court filings describe a list of 'likely' noncitizens.\nLet's grade the headline.\nDon't just read the news. ReFrame it.\nHere's the question worth asking. If the filings call the 20,000 'likely' noncitizens, how many has any court or agency confirmed cast an illegal vote?",
+    "corrections": []
+  },
+  {
     "id": "20261030-reframe-iran-hormuz-tankers",
     "slot": "ReFrame",
     "lead": false,
