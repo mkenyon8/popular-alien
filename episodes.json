@@ -558,6 +558,95 @@
     "corrections": []
   },
   {
+    "id": "20261031-reframe-trump-omar-congress",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-10-31T19:40:00-05:00",
+    "label": "ReFrame",
+    "claim": "Trump says Ilhan Omar 'will not be legally allowed' in Congress; the Constitution leaves that call to the House",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away",
+    "source_url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away",
+    "record_url": "https://constitution.congress.gov/browse/article-1/section-5/",
+    "record_title": "U.S. Constitution, Article I, Section 5 (Constitution Annotated, Congress.gov)",
+    "read": "Fox's own reporting corrects the claim: the Constitution makes the House the judge of its members, and no legal finding against Omar has been made. Graded C overall across 2 arguments. President Trump's claim: D (hasty conclusion). Fox News' reporting: A-. Scorecard: 100% valid, 50% cogent, 50% supported, 80% fallacy-free.",
+    "grade": "C",
+    "scores": {
+      "valid": 100,
+      "cogent": 50,
+      "supported": 50,
+      "fallacy_free": 80
+    },
+    "why": "If the reasons were true and the House acted, Trump's conclusion would follow. But the reasons are allegations still under investigation, which Omar's office denies, and the call isn't the president's to make: Article I, Section 5 makes each chamber the judge of its own members, and expulsion takes a two-thirds vote. Fox's own report, sourced straight to the Constitution's text, makes that point and frames the citizenship question as conditional rather than settled.",
+    "key_question": "If the House judges its own members' qualifications and has not acted, what legal finding bars Omar from her seat?",
+    "sources": [
+      {
+        "title": "Fox News — original report",
+        "url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away"
+      },
+      {
+        "title": "U.S. Constitution, Article I, Section 5 (Constitution Annotated, Congress.gov)",
+        "url": "https://constitution.congress.gov/browse/article-1/section-5/"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261031-midday-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261031-midday-fox.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261031-midday-fox.mp4",
+    "popart_story": "20261031-midday-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Trump says Ilhan Omar 'will not be legally allowed' in Congress; the Constitution leaves that call to the House.\nLet's grade the headline.\nDon't just read the news. ReFrame it.\nHere's the question worth asking. If the House judges its own members' qualifications and has not acted, what legal finding bars Omar from her seat?",
+    "corrections": []
+  },
+  {
+    "id": "20261031-reframe-alaska-mailed-ballots",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-10-31T19:40:00-05:00",
+    "label": "ReFrame",
+    "claim": "CNN says Alaska gives mailed ballots 10 to 15 days to arrive; state election law says the same",
+    "outlet": "CNN",
+    "outlet_url": "https://edition.cnn.com/2026/10/31/politics/alaska-senate-certification-ranked-choice-voting",
+    "source_url": "https://edition.cnn.com/2026/10/31/politics/alaska-senate-certification-ranked-choice-voting",
+    "record_url": "https://law.justia.com/codes/alaska/title-15/chapter-20/article-1/section-15-20-081/",
+    "record_title": "Alaska Statutes § 15.20.081, absentee voting deadlines",
+    "read": "CNN's explanation of Alaska's slow count rests on deadlines that match the state statute word for word, and it hedges its forecast with 'might' and 'could'. Graded A- overall across 2 arguments. CNN's reporting: A-. Professor Russell Luke (quoted by CNN): B+. Scorecard: 100% valid, 100% cogent, 100% supported, 100% fallacy-free.",
+    "grade": "A-",
+    "scores": {
+      "valid": 100,
+      "cogent": 100,
+      "supported": 100,
+      "fallacy_free": 100
+    },
+    "why": "The 10-day and 15-day receipt deadlines match Alaska Statutes 15.20.081, and the ranked-choice tabulation waits for the 15-day window to close, so a two-week wait is set by law and is not a sign of tampering. CNN hedges the forecast with 'might' and attributes the first-round prediction to a named professor rather than stating it as fact. Luke's point shows the delay is normal; it does not by itself rule out every other problem, and it doesn't claim to.",
+    "sources": [
+      {
+        "title": "CNN — original report",
+        "url": "https://edition.cnn.com/2026/10/31/politics/alaska-senate-certification-ranked-choice-voting"
+      },
+      {
+        "title": "Alaska Statutes § 15.20.081, absentee voting deadlines",
+        "url": "https://law.justia.com/codes/alaska/title-15/chapter-20/article-1/section-15-20-081/"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261031-midday-cnn"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261031-midday-cnn.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261031-midday-cnn.mp4",
+    "popart_story": "20261031-midday-cnn",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNN reports: CNN says Alaska gives mailed ballots 10 to 15 days to arrive; state election law says the same.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261030-reframe-iran-hormuz-tankers",
     "slot": "ReFrame",
     "lead": false,
