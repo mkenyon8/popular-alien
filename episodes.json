@@ -1200,12 +1200,25 @@
       {
         "title": "ReFrame the Facts with Professor Reid — full episode (video)",
         "url": "https://show.popularalien.com/talk/pa-20261031-late-fox.mp4"
+      },
+      {
+        "title": "Field Report with Diego Ramirez (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261031-fox-senate-diego.mp4"
       }
     ],
     "video_url": "https://show.popularalien.com/talk/pa-20261031-late-fox.mp4",
     "popart_story": "20261031-late-fox",
     "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News says Republicans hold a 53-47 Senate lead; the Senate lists 53 Republicans, 45 Democrats and 2 independents.\nLet's grade the headline.\nDon't just read the news. ReFrame it.\nHere's the question worth asking. Besides one strategist's view, what evidence in the coverage shows candidate quality, rather than other factors, will decide these four races?",
-    "corrections": []
+    "corrections": [],
+    "field_report": {
+      "reporter": "Diego Ramirez",
+      "dateline": "Washington, D.C.",
+      "video_url": "https://show.popularalien.com/talk/fr-20261031-fox-senate-diego.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261031-fox-senate-diego.jpg",
+      "duration_s": 71.5,
+      "published_at": "2026-11-01T17:00:00-06:00",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
   },
   {
     "id": "20261031-reframe-cnn-senate-2008-seating",
