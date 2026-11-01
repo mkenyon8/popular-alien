@@ -973,12 +973,25 @@
       {
         "title": "ReFrame the Facts with Professor Reid — full episode (video)",
         "url": "https://show.popularalien.com/talk/pa-20261031-midday-fox.mp4"
+      },
+      {
+        "title": "Field Report with Priya Nair (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261031-omar-priya.mp4"
       }
     ],
     "video_url": "https://show.popularalien.com/talk/pa-20261031-midday-fox.mp4",
     "popart_story": "20261031-midday-fox",
     "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Trump says Ilhan Omar 'will not be legally allowed' in Congress; the Constitution leaves that call to the House.\nLet's grade the headline.\nDon't just read the news. ReFrame it.\nHere's the question worth asking. If the House judges its own members' qualifications and has not acted, what legal finding bars Omar from her seat?",
-    "corrections": []
+    "corrections": [],
+    "field_report": {
+      "reporter": "Priya Nair",
+      "dateline": "Washington, D.C.",
+      "video_url": "https://show.popularalien.com/talk/fr-20261031-omar-priya.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261031-omar-priya.jpg",
+      "duration_s": 87.5,
+      "published_at": "2026-11-01T14:51:00-06:00",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
   },
   {
     "id": "20261031-reframe-alaska-mailed-ballots",
