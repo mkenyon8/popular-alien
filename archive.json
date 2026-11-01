@@ -894,6 +894,50 @@
     "corrections": []
   },
   {
+    "id": "20261031-reframe-cnn-senate-2008-seating",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-01T04:50:00-06:00",
+    "label": "ReFrame",
+    "claim": "CNN says a contested Senate race last delayed a senator's seating in 2008; the Senate's own record agrees",
+    "outlet": "CNN",
+    "outlet_url": "https://www.cnn.com/2026/10/31/politics/trump-election-denial-midterms",
+    "source_url": "https://www.cnn.com/2026/10/31/politics/trump-election-denial-midterms",
+    "record_url": "https://www.senate.gov/about/origins-foundations/electing-appointing-senators/contested-senate-elections/",
+    "record_title": "U.S. Senate Historical Office, Contested Senate Elections",
+    "read": "CNN's history check matches the Senate Historical Office's table, which ends with Coleman v. Franken and notes Franken was sworn in July 7, 2009; the only soft spot is that the table is a selection, not a complete list. Graded A- overall across 2 arguments. CNN's '2008 was the most recent contested-seat delay' line: A-. CNN's closing hope for clear winners after Election Day: B+. Scorecard: 100% valid, 100% cogent, 100% supported, 100% fallacy-free.",
+    "grade": "A-",
+    "scores": {
+      "valid": 100,
+      "cogent": 100,
+      "supported": 100,
+      "fallacy_free": 100
+    },
+    "why": "The Senate Historical Office table of contested elections ends with the 2008 Minnesota race, resolved June 30, 2009, and notes Franken took the oath on July 7, 2009, about six months into the new Congress. The table calls itself a selection of cases, so it supports the 'most recently' claim strongly but is not an exhaustive list. The Senate record confirms the Constitution makes each house the judge of the elections, returns and qualifications of its members. The closing line is a hope, not a factual claim, and CNN presents it that way.",
+    "sources": [
+      {
+        "title": "CNN, October 31, 2026",
+        "url": "https://www.cnn.com/2026/10/31/politics/trump-election-denial-midterms"
+      },
+      {
+        "title": "U.S. Senate Historical Office, Contested Senate Elections",
+        "url": "https://www.senate.gov/about/origins-foundations/electing-appointing-senators/contested-senate-elections/"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261031-late-cnn"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261031-late-cnn.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261031-late-cnn.mp4",
+    "popart_story": "20261031-late-cnn",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNN reports: CNN says a contested Senate race last delayed a senator's seating in 2008; the Senate's own record agrees.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261030-reframe-iran-hormuz-tankers",
     "slot": "ReFrame",
     "lead": false,
