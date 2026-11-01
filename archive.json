@@ -1030,12 +1030,25 @@
       {
         "title": "ReFrame the Facts with Professor Reid — full episode (video)",
         "url": "https://show.popularalien.com/talk/pa-20261031-midday-cnn.mp4"
+      },
+      {
+        "title": "Field Report with Marcus Okafor (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261031-alaska-marcus.mp4"
       }
     ],
     "video_url": "https://show.popularalien.com/talk/pa-20261031-midday-cnn.mp4",
     "popart_story": "20261031-midday-cnn",
     "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNN reports: CNN says Alaska gives mailed ballots 10 to 15 days to arrive; state election law says the same.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
-    "corrections": []
+    "corrections": [],
+    "field_report": {
+      "reporter": "Marcus Okafor",
+      "dateline": "Juneau, Alaska",
+      "video_url": "https://show.popularalien.com/talk/fr-20261031-alaska-marcus.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261031-alaska-marcus.jpg",
+      "duration_s": 79.8,
+      "published_at": "2026-11-01T15:27:00-06:00",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
   },
   {
     "id": "20261031-reframe-pbs-late-midterm-results",
