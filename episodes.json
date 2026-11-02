@@ -1,5 +1,104 @@
 [
   {
+    "id": "20261101-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-01T23:05:00-06:00",
+    "headline": "Trump says he won Iowa all three times 'with more votes than any candidate by far in Iowa history'; the state canvass backs that for 2024, but his 2016 total was below Obama's 2008 mark",
+    "claim": "“I'm thrilled to be back in this beautiful state, which I won all three times with more votes than any candidate by far in Iowa history.” — President Donald Trump at a rally in Dubuque, Iowa, Nov. 1, 2026",
+    "outlet": "Roll Call Factba.se transcript, Trump rally in Dubuque, Iowa, November 1, 2026",
+    "outlet_url": "https://rollcall.com/factbase/trump/transcript/donald-trump-speech-midterm-political-rally-dubuque-iowa-november-1-2026/",
+    "source_url": "https://rollcall.com/factbase/trump/transcript/donald-trump-speech-midterm-political-rally-dubuque-iowa-november-1-2026/",
+    "record_url": "https://sos.iowa.gov/elections/pdf/2024/general/canvsummary.pdf",
+    "record_title": "Iowa Secretary of State, 2024 General Election Canvass Summary (canvass date Dec. 2, 2024), with the office's 2020, 2016 and 2008 canvass summaries",
+    "verdict": "Missing context",
+    "why": "Iowa's official canvass shows Trump won the state in 2016, 2020 and 2024, and his 2024 total of 927,019 votes is the most any presidential candidate has received there, about 98,000 more than Barack Obama's 828,940 in 2008. But the record belongs to his 2024 run and, narrowly, his 2020 total of 897,672; in 2016 he received 800,983 votes, fewer than Obama got in 2008. So the record claim holds for his latest win, not for all three.",
+    "what_would_change": "An official Iowa canvass showing a presidential candidate with more than 927,019 votes would move this toward Contradicted; if the remark is read only as claiming the current all-time record, rather than a record each time, it would move toward Matches record.",
+    "read": "Iowa's official canvass shows Trump won the state in 2016, 2020 and 2024, and his 2024 total of 927,019 votes is the most any presidential candidate has received there, about 98,000 more than Barack Obama's 828,940 in 2008. But the record belongs to his 2024 run and, narrowly, his 2020 total of 897,672; in 2016 he received 800,983 votes, fewer than Obama got in 2008. So the record claim holds for his latest win, not for all three.",
+    "sources": [
+      {
+        "title": "Roll Call Factba.se transcript, Trump rally in Dubuque, Iowa, November 1, 2026",
+        "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-speech-midterm-political-rally-dubuque-iowa-november-1-2026/"
+      },
+      {
+        "title": "Iowa Secretary of State, 2024 General Election Canvass Summary (canvass date Dec. 2, 2024), with the office's 2020, 2016 and 2008 canvass summaries",
+        "url": "https://sos.iowa.gov/elections/pdf/2024/general/canvsummary.pdf"
+      },
+      {
+        "title": "Iowa Secretary of State, 2020 General Election Canvass Summary",
+        "url": "https://sos.iowa.gov/elections/pdf/2020/general/canvsummary.pdf"
+      },
+      {
+        "title": "Iowa Secretary of State, 2016 General Election Canvass Summary",
+        "url": "https://sos.iowa.gov/elections/pdf/2016/general/canvsummary.pdf"
+      },
+      {
+        "title": "Iowa Secretary of State, 2008 Official Canvass Summary",
+        "url": "https://sos.iowa.gov/elections/pdf/2008/OfficialCanvass2008General.pdf"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. In Dubuque, President Trump said he won Iowa all three times with more votes than any candidate in the state's history. Iowa's official canvass shows his 2024 total, about 927,000 votes, is the state record. But in 2016 he got about 801,000, fewer than Barack Obama's 829,000 in 2008. Verdict: missing context.",
+    "corrections": []
+  },
+  {
+    "id": "20261101-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-01T23:05:00-06:00",
+    "headline": "Fox News says there are currently 26 Republican and 24 Democratic governors; the National Governors Association's roster shows the same split",
+    "claim": "“There are currently 26 Republican and 24 Democratic governors.” — Paul Steinhauser, Fox News, “What's at stake in the 2026 midterm elections for House and Senate,” Nov. 1, 2026",
+    "outlet": "Fox News, Paul Steinhauser, “What's at stake in the 2026 midterm elections for House and Senate,” November 1, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing",
+    "source_url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing",
+    "record_url": "https://www.nga.org/governors/",
+    "record_title": "National Governors Association, “America's Governors” current governors roster (accessed Nov. 1, 2026)",
+    "verdict": "Matches record",
+    "why": "The National Governors Association's current roster lists 24 Democratic governors among the 50 states, including Virginia's Abigail Spanberger and New Jersey's Mikie Sherrill, who took office this year, and 26 Republicans, matching Fox's count. The figure covers states only; the roster also lists governors of five territories, which Fox's number leaves out.",
+    "what_would_change": "A governor leaving office or switching parties before Election Day, or the NGA roster showing a different party for any state, would move this toward Contradicted.",
+    "read": "The National Governors Association's current roster lists 24 Democratic governors among the 50 states, including Virginia's Abigail Spanberger and New Jersey's Mikie Sherrill, who took office this year, and 26 Republicans, matching Fox's count. The figure covers states only; the roster also lists governors of five territories, which Fox's number leaves out.",
+    "sources": [
+      {
+        "title": "Fox News, Paul Steinhauser, “What's at stake in the 2026 midterm elections for House and Senate,” November 1, 2026",
+        "url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing"
+      },
+      {
+        "title": "National Governors Association, “America's Governors” current governors roster (accessed Nov. 1, 2026)",
+        "url": "https://www.nga.org/governors/"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. Fox News says there are 26 Republican and 24 Democratic governors heading into Tuesday. The National Governors Association's current roster shows exactly that split across the 50 states. Verdict: matches record.",
+    "corrections": []
+  },
+  {
+    "id": "20261101-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-01T23:05:00-06:00",
+    "headline": "CNN says Alaska has elected only four Democratic senators since 1959 and just one since 1980; the Senate's own list of Alaska senators agrees",
+    "claim": "“Alaska has elected only four Democratic senators since it entered the union in 1959 and just one since 1980.” — Ronald Brownstein, CNN analysis, “If a blue wave is coming, here are the races where it will start,” Nov. 1, 2026",
+    "outlet": "CNN, Ronald Brownstein, “If a blue wave is coming, here are the races where it will start,” November 1, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/01/politics/election-night-midterm-races",
+    "source_url": "https://www.cnn.com/2026/11/01/politics/election-night-midterm-races",
+    "record_url": "https://www.senate.gov/states/AK/senators.htm",
+    "record_title": "U.S. Senate, “States in the Senate: Alaska Senators”",
+    "verdict": "Matches record",
+    "why": "The Senate's list of Alaska senators shows four Democrats since statehood: Bob Bartlett and Ernest Gruening, who took office in 1959, Mike Gravel, who served from 1969 to 1981, and Mark Begich, who served from 2009 to 2015. Gravel's last election was in 1974, so Begich, elected in 2008, is the only Democrat Alaska has sent to the Senate since 1980.",
+    "what_would_change": "A Senate record showing another Democrat who represented Alaska, or a Democratic Alaska senator elected after 1980 besides Begich, would move this toward Contradicted.",
+    "read": "The Senate's list of Alaska senators shows four Democrats since statehood: Bob Bartlett and Ernest Gruening, who took office in 1959, Mike Gravel, who served from 1969 to 1981, and Mark Begich, who served from 2009 to 2015. Gravel's last election was in 1974, so Begich, elected in 2008, is the only Democrat Alaska has sent to the Senate since 1980.",
+    "sources": [
+      {
+        "title": "CNN, Ronald Brownstein, “If a blue wave is coming, here are the races where it will start,” November 1, 2026",
+        "url": "https://www.cnn.com/2026/11/01/politics/election-night-midterm-races"
+      },
+      {
+        "title": "U.S. Senate, “States in the Senate: Alaska Senators”",
+        "url": "https://www.senate.gov/states/AK/senators.htm"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. CNN says Alaska has elected only four Democratic senators since statehood, and just one since 1980. The Senate's own list shows Bartlett, Gruening, Gravel and Begich, with Begich the only one since 1980. Verdict: matches record.",
+    "corrections": []
+  },
+  {
     "id": "20261101-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-01T17:45:00-06:00",
