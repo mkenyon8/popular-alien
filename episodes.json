@@ -1,5 +1,92 @@
 [
   {
+    "id": "20261102-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-02T11:45:00-06:00",
+    "headline": "Trump says 17 months with 'zero people coming into our country illegally'; CBP's own release counts zero Border Patrol releases for 17 months but 98,708 southwest border apprehensions in fiscal 2026",
+    "claim": "“We’ve gone 17 months, think of it, with zero people coming into our country illegally.” — President Donald Trump at a rally in Salina, Kansas, Nov. 1, 2026, as quoted by the Kansas City Star",
+    "outlet": "Kansas City Star, Jack Harvel, “Live Fact Check: Here’s what Donald Trump got wrong in his second Kansas rally,” November 1, 2026",
+    "outlet_url": "https://www.kansascity.com/news/politics-government/election/article317852807.html",
+    "source_url": "https://www.kansascity.com/news/politics-government/election/article317852807.html",
+    "record_url": "https://www.cbp.gov/newsroom/national-media-release/under-president-trump-and-secretary-mullin-dhs-announces-lowest",
+    "record_title": "U.S. Customs and Border Protection, “Under President Trump and Secretary Mullin, DHS announces lowest fiscal year border crossings in American history,” October 16, 2026",
+    "verdict": "Missing context",
+    "why": "CBP's Oct. 16 release says September 2026 was the 17th consecutive month with zero Border Patrol releases, so the 17-month figure matches the government's count of people let go after being caught. The same release says the Border Patrol still recorded 98,708 southwest border apprehensions in fiscal 2026, people caught after crossing between ports of entry, so the record shows crossings fell sharply but did not stop. Zero releases is not the same as zero people trying to enter illegally.",
+    "what_would_change": "A CBP or DHS record showing zero illegal crossings or apprehensions over those 17 months would move this to Matches record; a statement from Trump or the White House saying he meant zero releases would leave the numbers unchanged but narrow the gap in wording.",
+    "read": "CBP's Oct. 16 release says September 2026 was the 17th consecutive month with zero Border Patrol releases, so the 17-month figure matches the government's count of people let go after being caught. The same release says the Border Patrol still recorded 98,708 southwest border apprehensions in fiscal 2026, people caught after crossing between ports of entry, so the record shows crossings fell sharply but did not stop. Zero releases is not the same as zero people trying to enter illegally.",
+    "sources": [
+      {
+        "title": "Kansas City Star, Jack Harvel, “Live Fact Check: Here’s what Donald Trump got wrong in his second Kansas rally,” November 1, 2026",
+        "url": "https://www.kansascity.com/news/politics-government/election/article317852807.html"
+      },
+      {
+        "title": "U.S. Customs and Border Protection, “Under President Trump and Secretary Mullin, DHS announces lowest fiscal year border crossings in American history,” October 16, 2026",
+        "url": "https://www.cbp.gov/newsroom/national-media-release/under-president-trump-and-secretary-mullin-dhs-announces-lowest"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. In Salina, Kansas, President Trump said 17 months have gone by with zero people coming into the country illegally. Border Protection's own release does count 17 straight months of zero releases, but it also counts 98,708 southwest border apprehensions in fiscal 2026. Verdict: missing context.",
+    "corrections": []
+  },
+  {
+    "id": "20261102-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-02T11:45:00-06:00",
+    "headline": "Fox News says Democrats haven't won a Kansas Senate race since 1932; the Senate's own roster shows George McGill, whose term ran to January 1939, was the last Kansas Democrat",
+    "claim": "“Kansas, where Democrats have not won a Senate race since 1932.” — Stephen Sorace, Fox News, “Poll flashes warning signs for Republicans in 7 battleground Senate races,” Nov. 2, 2026",
+    "outlet": "Fox News, Stephen Sorace, “Poll flashes warning signs for Republicans in 7 battleground Senate races,” November 2, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/poll-flashes-warning-signs-republicans-7-battleground-senate-races",
+    "source_url": "https://www.foxnews.com/politics/poll-flashes-warning-signs-republicans-7-battleground-senate-races",
+    "record_url": "https://www.senate.gov/states/KS/senators.htm",
+    "record_title": "U.S. Senate, “States in the Senate: Kansas Senators”",
+    "verdict": "Matches record",
+    "why": "The Senate's roster lists Democrat George McGill serving from Dec. 1, 1930, to Jan. 3, 1939, a span that covers the full term that began in 1933 and was decided in the 1932 election. Every Kansas senator listed after McGill in both seats, from Clyde Reed and Andrew Schoeppel through Bob Dole, Pat Roberts, Jerry Moran and Roger Marshall, is a Republican. That makes 1932 the last year a Kansas Democrat won a Senate race.",
+    "what_would_change": "A Senate record showing a Democrat elected from Kansas after 1932, or showing that McGill's 1933-1939 term came from something other than the 1932 election, would move this toward Contradicted.",
+    "read": "The Senate's roster lists Democrat George McGill serving from Dec. 1, 1930, to Jan. 3, 1939, a span that covers the full term that began in 1933 and was decided in the 1932 election. Every Kansas senator listed after McGill in both seats, from Clyde Reed and Andrew Schoeppel through Bob Dole, Pat Roberts, Jerry Moran and Roger Marshall, is a Republican. That makes 1932 the last year a Kansas Democrat won a Senate race.",
+    "sources": [
+      {
+        "title": "Fox News, Stephen Sorace, “Poll flashes warning signs for Republicans in 7 battleground Senate races,” November 2, 2026",
+        "url": "https://www.foxnews.com/politics/poll-flashes-warning-signs-republicans-7-battleground-senate-races"
+      },
+      {
+        "title": "U.S. Senate, “States in the Senate: Kansas Senators”",
+        "url": "https://www.senate.gov/states/KS/senators.htm"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. Fox News says Kansas Democrats haven't won a Senate race since 1932. The Senate's own list shows Democrat George McGill served until January 1939, and every Kansas senator since is a Republican. Verdict: matches the record.",
+    "corrections": []
+  },
+  {
+    "id": "20261102-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-02T11:45:00-06:00",
+    "headline": "CNN says the 22nd Amendment bars anyone from being elected president 'more than twice'; the Constitution's text says exactly that",
+    "claim": "“A clear restriction written in the 22nd Amendment bars a person from being elected ‘to the office of President more than twice.’” — Catherine Nicholls, CNN, “Midterm elections latest,” Nov. 2, 2026",
+    "outlet": "CNN, “Midterm elections latest: Trump asks Supreme Court to segregate California ballots before midterm election,” November 2, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/02/politics/live-news/midterm-election-congress",
+    "source_url": "https://www.cnn.com/2026/11/02/politics/live-news/midterm-election-congress",
+    "record_url": "https://constitution.congress.gov/constitution/amendment-22/",
+    "record_title": "Congress.gov, Constitution Annotated, “Twenty-Second Amendment”",
+    "verdict": "Matches record",
+    "why": "Section 1 of the 22nd Amendment reads, “No person shall be elected to the office of the President more than twice,” so CNN's description matches the text, apart from dropping the word “the.” CNN raised it after President Trump said in an interview released Monday that he'd love to run again if the Constitution allowed it. The amendment's grandfather clause applied only to whoever was president when Congress proposed it, so it doesn't apply to any current officeholder.",
+    "what_would_change": "A ratified amendment repealing or changing the 22nd Amendment, or a binding court ruling reading Section 1 differently, would move this toward Contradicted.",
+    "read": "Section 1 of the 22nd Amendment reads, “No person shall be elected to the office of the President more than twice,” so CNN's description matches the text, apart from dropping the word “the.” CNN raised it after President Trump said in an interview released Monday that he'd love to run again if the Constitution allowed it. The amendment's grandfather clause applied only to whoever was president when Congress proposed it, so it doesn't apply to any current officeholder.",
+    "sources": [
+      {
+        "title": "CNN, “Midterm elections latest: Trump asks Supreme Court to segregate California ballots before midterm election,” November 2, 2026",
+        "url": "https://www.cnn.com/2026/11/02/politics/live-news/midterm-election-congress"
+      },
+      {
+        "title": "Congress.gov, Constitution Annotated, “Twenty-Second Amendment”",
+        "url": "https://constitution.congress.gov/constitution/amendment-22/"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. CNN says the 22nd Amendment bars anyone from being elected president more than twice. The Constitution's text says no person shall be elected to the office of the President more than twice. Verdict: matches the record.",
+    "corrections": []
+  },
+  {
     "id": "20261102-reframe-stevens-endorses-rogers",
     "slot": "ReFrame",
     "lead": true,
