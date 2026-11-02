@@ -1524,6 +1524,50 @@
     "corrections": []
   },
   {
+    "id": "20261101-reframe-cnn-alaska-democratic-senators",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-02T08:33:39Z",
+    "label": "ReFrame",
+    "claim": "CNN says Alaska has elected four Democratic senators since 1959 and one since 1980; the Senate's list agrees",
+    "outlet": "CNN",
+    "outlet_url": "https://www.cnn.com/2026/11/01/politics/election-night-midterm-races",
+    "source_url": "https://www.cnn.com/2026/11/01/politics/election-night-midterm-races",
+    "record_url": "https://www.senate.gov/states/AK/senators.htm",
+    "record_title": "U.S. Senate, “States in the Senate: Alaska Senators”",
+    "read": "CNN's count of Alaska's Democratic senators matches the Senate's own list: Bartlett, Gruening, Gravel and Begich, with Begich the only one elected after 1980. Graded A overall across 1 argument. CNN's 'only four Democratic senators since 1959 and just one since 1980' line: A. Scorecard: 100% valid, 100% cogent, 100% supported, 100% fallacy-free.",
+    "grade": "A",
+    "scores": {
+      "valid": 100,
+      "cogent": 100,
+      "supported": 100,
+      "fallacy_free": 100
+    },
+    "why": "Both numbers check out against the Senate's own roster: Bob Bartlett, Ernest Gruening, Mike Gravel and Mark Begich are the four Democrats since statehood, and Begich, who served from 2009 to 2015, is the only one whose term began after 1980. CNN uses the history to show how rare a Democratic Senate win in Alaska would be, and the record backs that framing.",
+    "sources": [
+      {
+        "title": "CNN, Ronald Brownstein, “If a blue wave is coming, here are the races where it will start,” November 1, 2026",
+        "url": "https://www.cnn.com/2026/11/01/politics/election-night-midterm-races"
+      },
+      {
+        "title": "U.S. Senate, “States in the Senate: Alaska Senators”",
+        "url": "https://www.senate.gov/states/AK/senators.htm"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261101-late-cnn"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261101-late-cnn.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261101-late-cnn.mp4",
+    "popart_story": "20261101-late-cnn",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNN reports: CNN says Alaska has elected four Democratic senators since 1959 and one since 1980; the Senate's list agrees.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261030-reframe-iran-hormuz-tankers",
     "slot": "ReFrame",
     "lead": false,
