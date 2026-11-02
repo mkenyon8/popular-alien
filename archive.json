@@ -1480,6 +1480,50 @@
     }
   },
   {
+    "id": "20261101-reframe-trump-iowa-record-votes",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-02T02:03:48-06:00",
+    "label": "ReFrame",
+    "claim": "Trump says he won Iowa three times with record vote totals; Iowa's canvass backs that for 2024, not 2016",
+    "outlet": "Roll Call Factba.se transcript",
+    "outlet_url": "https://rollcall.com/factbase/trump/transcript/donald-trump-speech-midterm-political-rally-dubuque-iowa-november-1-2026/",
+    "source_url": "https://rollcall.com/factbase/trump/transcript/donald-trump-speech-midterm-political-rally-dubuque-iowa-november-1-2026/",
+    "record_url": "https://sos.iowa.gov/elections/pdf/2024/general/canvsummary.pdf",
+    "record_title": "Iowa Secretary of State, 2024 General Election Canvass Summary (canvass date Dec. 2, 2024), with the office's 2020, 2016 and 2008 canvass summaries",
+    "read": "The three wins and the 2024 record check out, but the record does not hold for all three runs: in 2016 he drew fewer votes than Obama did in 2008. Graded B- overall across 1 argument. President Trump's 'won all three times with more votes than any candidate' line: B-. Scorecard: 100% valid, 0% cogent, 50% supported, 100% fallacy-free.",
+    "grade": "B-",
+    "scores": {
+      "valid": 100,
+      "cogent": 0,
+      "supported": 50,
+      "fallacy_free": 100
+    },
+    "why": "The wins are real, and his 2024 total of 927,019 is the most any presidential candidate has received in Iowa. His 2020 total of 897,672 also beat the old mark. But in 2016 he received 800,983 votes, fewer than Obama's 828,940 in 2008, so the record holds for his latest runs, not all three.",
+    "sources": [
+      {
+        "title": "Roll Call Factba.se transcript, Trump rally in Dubuque, Iowa, November 1, 2026",
+        "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-speech-midterm-political-rally-dubuque-iowa-november-1-2026/"
+      },
+      {
+        "title": "Iowa Secretary of State, 2024 General Election Canvass Summary (canvass date Dec. 2, 2024), with the office's 2020, 2016 and 2008 canvass summaries",
+        "url": "https://sos.iowa.gov/elections/pdf/2024/general/canvsummary.pdf"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Missing context)",
+        "url": "https://popularalien.com/story/20261101-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261101-late.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261101-late.mp4",
+    "popart_story": "20261101-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Roll Call Factba.se transcript reports: Trump says he won Iowa three times with record vote totals; Iowa's canvass backs that for 2024, not 2016.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261030-reframe-iran-hormuz-tankers",
     "slot": "ReFrame",
     "lead": false,
