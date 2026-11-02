@@ -1,5 +1,100 @@
 [
   {
+    "id": "20261102-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-02T17:40:00-06:00",
+    "headline": "Democratic super PAC ad says Sen. Roger Marshall 'voted to keep the Epstein files sealed'; Congress's record shows he voted against a 2025 defense-bill amendment but the Senate then passed the Epstein Files Transparency Act by unanimous consent",
+    "claim": "“Marshall voted to keep the Epstein files sealed, ignoring pleas from victims.” — WinSenate super PAC ad against Sen. Roger Marshall (R-Kan.), as quoted by FactCheck.org, Nov. 2, 2026",
+    "outlet": "FactCheck.org, Paul Cuno-Booth, “In Kansas, Both Sides Twist the Facts in Accusations of Protecting Pedophiles,” November 2, 2026",
+    "outlet_url": "https://www.factcheck.org/2026/11/in-kansas-both-sides-twist-the-facts-in-accusations-of-protecting-pedophiles/",
+    "source_url": "https://www.factcheck.org/2026/11/in-kansas-both-sides-twist-the-facts-in-accusations-of-protecting-pedophiles/",
+    "record_url": "https://www.congress.gov/bill/119th-congress/house-bill/4405/all-actions",
+    "record_title": "Congress.gov, “Actions - H.R.4405 - 119th Congress (2025-2026): Epstein Files Transparency Act”",
+    "verdict": "Missing context",
+    "why": "Marshall did vote with most Republicans in September 2025 against a Democratic amendment to the defense bill that would have directed release of the Epstein files, so the ad points to a real vote. But Congress's record shows the standalone Epstein Files Transparency Act, H.R. 4405, passed the Senate on Nov. 19, 2025, by unanimous consent with no senator objecting, and became Public Law 119-38 that day. The ad leaves out that Marshall let the release law pass two months later.",
+    "what_would_change": "A Senate record showing Marshall objected to or voted against H.R. 4405, or worked to block the files' release after the law passed, would move this toward Matches record; a record showing the September 2025 amendment vote never happened would move it to Contradicted.",
+    "read": "Marshall did vote with most Republicans in September 2025 against a Democratic amendment to the defense bill that would have directed release of the Epstein files, so the ad points to a real vote. But Congress's record shows the standalone Epstein Files Transparency Act, H.R. 4405, passed the Senate on Nov. 19, 2025, by unanimous consent with no senator objecting, and became Public Law 119-38 that day. The ad leaves out that Marshall let the release law pass two months later.",
+    "sources": [
+      {
+        "title": "FactCheck.org, Paul Cuno-Booth, “In Kansas, Both Sides Twist the Facts in Accusations of Protecting Pedophiles,” November 2, 2026",
+        "url": "https://www.factcheck.org/2026/11/in-kansas-both-sides-twist-the-facts-in-accusations-of-protecting-pedophiles/"
+      },
+      {
+        "title": "Congress.gov, “Actions - H.R.4405 - 119th Congress (2025-2026): Epstein Files Transparency Act”",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/4405/all-actions"
+      },
+      {
+        "title": "U.S. Senate, “Senate Floor Activity - Wednesday, November 19, 2025”",
+        "url": "https://www.senate.gov/legislative/LIS/floor_activity/2025/11_19_2025_Senate_Floor.htm"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. A Democratic super PAC ad says Senator Roger Marshall voted to keep the Epstein files sealed. He did vote against a 2025 defense-bill amendment, but Congress's record shows the Senate passed the Epstein files release law by unanimous consent two months later. Verdict: missing context.",
+    "corrections": []
+  },
+  {
+    "id": "20261102-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-02T17:40:00-06:00",
+    "headline": "Fox News says Texas hasn't elected a Democrat to the Senate since Lloyd Bentsen in 1988; the Senate's own Texas roster shows every senator elected since is a Republican",
+    "claim": "“A state that has not elected a Democrat to the Senate since Lloyd Bentsen in 1988.” — Charles Creitz, Fox News, “How to watch 9 critical Election Day races in Texas, Ohio and other battleground states,” Nov. 2, 2026",
+    "outlet": "Fox News, Charles Creitz, “How to watch 9 critical Election Day races in Texas, Ohio and other battleground states,” November 2, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/how-watch-critical-2026-midterm-election-races-tx-oh-mi-wi-ga-ia-nv-me-fl",
+    "source_url": "https://www.foxnews.com/politics/how-watch-critical-2026-midterm-election-races-tx-oh-mi-wi-ga-ia-nv-me-fl",
+    "record_url": "https://www.senate.gov/states/TX/senators.htm",
+    "record_title": "U.S. Senate, “States in the Senate: Texas Senators”",
+    "verdict": "Matches record",
+    "why": "The Senate's Texas roster lists Democrat Lloyd Bentsen serving from Jan. 3, 1971, to Jan. 20, 1993, a span that includes the term he won in 1988. The only Democrat after him, Robert Krueger, is marked as appointed and served from January to June 1993, when Republican Kay Bailey Hutchison took the seat. Every Texas senator listed since, Hutchison, Ted Cruz, Phil Gramm and John Cornyn, is a Republican, so 1988 is the last time Texas elected a Democrat to the Senate.",
+    "what_would_change": "A Senate record showing a Democrat elected from Texas after 1988, including Krueger winning an election rather than an appointment, would move this to Contradicted.",
+    "read": "The Senate's Texas roster lists Democrat Lloyd Bentsen serving from Jan. 3, 1971, to Jan. 20, 1993, a span that includes the term he won in 1988. The only Democrat after him, Robert Krueger, is marked as appointed and served from January to June 1993, when Republican Kay Bailey Hutchison took the seat. Every Texas senator listed since, Hutchison, Ted Cruz, Phil Gramm and John Cornyn, is a Republican, so 1988 is the last time Texas elected a Democrat to the Senate.",
+    "sources": [
+      {
+        "title": "Fox News, Charles Creitz, “How to watch 9 critical Election Day races in Texas, Ohio and other battleground states,” November 2, 2026",
+        "url": "https://www.foxnews.com/politics/how-watch-critical-2026-midterm-election-races-tx-oh-mi-wi-ga-ia-nv-me-fl"
+      },
+      {
+        "title": "U.S. Senate, “States in the Senate: Texas Senators”",
+        "url": "https://www.senate.gov/states/TX/senators.htm"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. Fox News says Texas hasn't elected a Democratic senator since Lloyd Bentsen in 1988. The Senate's own roster shows Bentsen's successor Bob Krueger was appointed, not elected, and every Texas senator since is a Republican. Verdict: matches the record.",
+    "corrections": []
+  },
+  {
+    "id": "20261102-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-02T17:40:00-06:00",
+    "headline": "CNN says Democrats need to flip four Republican-held seats to win the Senate; the Senate's roster of 53 Republicans to 45 Democrats and two independents backs the math",
+    "claim": "“Democrats will need to flip four Republican-held seats while holding onto all their own to win the Senate majority this year.” — Arlette Saenz and David Wright, CNN, “The top 11 Senate seats most likely to flip, the day before the midterms,” Nov. 2, 2026",
+    "outlet": "CNN, Arlette Saenz and David Wright, “The top 11 Senate seats most likely to flip, the day before the midterms,” November 2, 2026",
+    "outlet_url": "https://edition.cnn.com/2026/11/02/politics/cnn-senate-seats-most-likely-to-flip",
+    "source_url": "https://edition.cnn.com/2026/11/02/politics/cnn-senate-seats-most-likely-to-flip",
+    "record_url": "https://www.senate.gov/senators/index.htm",
+    "record_title": "U.S. Senate, “Senators of the 119th Congress” (party division: Republicans 53, Democrats 45, Independents 2)",
+    "verdict": "Matches record",
+    "why": "The Senate's current roster lists 53 Republicans, 45 Democrats and two independents, who caucus with Democrats, giving Democrats 47 seats. Flipping three Republican seats would make it 50-50, and the Constitution gives the tie-breaking vote to the vice president, currently Republican JD Vance, so Democrats need a fourth flip to reach 51. That matches CNN's math, assuming Democrats hold every seat they already have.",
+    "what_would_change": "A change in the Senate's party count before Election Day, such as a resignation, party switch or appointment, or either independent ending their alliance with Democrats, would change how many flips are needed and could move this to Contradicted.",
+    "read": "The Senate's current roster lists 53 Republicans, 45 Democrats and two independents, who caucus with Democrats, giving Democrats 47 seats. Flipping three Republican seats would make it 50-50, and the Constitution gives the tie-breaking vote to the vice president, currently Republican JD Vance, so Democrats need a fourth flip to reach 51. That matches CNN's math, assuming Democrats hold every seat they already have.",
+    "sources": [
+      {
+        "title": "CNN, Arlette Saenz and David Wright, “The top 11 Senate seats most likely to flip, the day before the midterms,” November 2, 2026",
+        "url": "https://edition.cnn.com/2026/11/02/politics/cnn-senate-seats-most-likely-to-flip"
+      },
+      {
+        "title": "U.S. Senate, “Senators of the 119th Congress” (party division: Republicans 53, Democrats 45, Independents 2)",
+        "url": "https://www.senate.gov/senators/index.htm"
+      },
+      {
+        "title": "U.S. Constitution, Article I, Section 3 (Constitution Annotated)",
+        "url": "https://constitution.congress.gov/browse/article-1/section-3/"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. CNN says Democrats need to flip four Republican Senate seats to win the majority. The Senate's roster shows 53 Republicans to 47 Democrats and allied independents, and a 50-50 tie goes to Vice President Vance, so four is right. Verdict: matches the record.",
+    "corrections": []
+  },
+  {
     "id": "20261102-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-02T11:45:00-06:00",
