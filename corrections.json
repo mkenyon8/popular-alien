@@ -954,5 +954,95 @@
     "new": "Note: the aired line describes a single Truth Social post. The Muslim Brotherhood line and the “Fake Doctor” / “WORST CLINIC” line come from two separate posts on Oct. 25, 2026 (the “Heading to Michigan” post at 1:29 p.m. ET and the “Fake Doctor” post at 12:42 a.m. ET). The verdict is unchanged.",
     "reason": "The aired script is left unedited because it is the broadcast record.",
     "source_url": "https://truthsocial.com/@realDonaldTrump/117499714815544938"
+  },
+  {
+    "story_id": "20261101-late",
+    "date": "2026-11-02",
+    "field": "video_url",
+    "what_changed": "video_url cleared",
+    "old": "https://show.popularalien.com/talk/pa-20261101-late.mp4",
+    "new": "",
+    "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+    "source_url": ""
+  },
+  {
+    "story_id": "20261101-late-fox",
+    "date": "2026-11-02",
+    "field": "video_url",
+    "what_changed": "video_url cleared",
+    "old": "https://show.popularalien.com/talk/pa-20261101-late-fox.mp4",
+    "new": "",
+    "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+    "source_url": ""
+  },
+  {
+    "story_id": "20261101-late-cnn",
+    "date": "2026-11-02",
+    "field": "video_url",
+    "what_changed": "video_url cleared",
+    "old": "https://show.popularalien.com/talk/pa-20261101-late-cnn.mp4",
+    "new": "",
+    "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+    "source_url": ""
+  },
+  {
+    "story_id": "20261031-late",
+    "date": "2026-11-02",
+    "field": "video_url",
+    "what_changed": "video_url cleared",
+    "old": "https://show.popularalien.com/talk/pa-20261031-late.mp4",
+    "new": "",
+    "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+    "source_url": ""
+  },
+  {
+    "story_id": "20261031-late-fox",
+    "date": "2026-11-02",
+    "field": "video_url",
+    "what_changed": "video_url cleared",
+    "old": "https://show.popularalien.com/talk/pa-20261031-late-fox.mp4",
+    "new": "",
+    "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+    "source_url": ""
+  },
+  {
+    "story_id": "20261031-late-cnn",
+    "date": "2026-11-02",
+    "field": "video_url",
+    "what_changed": "video_url cleared",
+    "old": "https://show.popularalien.com/talk/pa-20261031-late-cnn.mp4",
+    "new": "",
+    "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+    "source_url": ""
+  },
+  {
+    "story_id": "20261031-midday",
+    "date": "2026-11-02",
+    "field": "video_url",
+    "what_changed": "video_url cleared",
+    "old": "https://show.popularalien.com/talk/fr-20261031-midday-diego.mp4",
+    "new": "",
+    "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+    "source_url": ""
+  },
+  {
+    "story_id": "20261031-midday-fox",
+    "date": "2026-11-02",
+    "field": "video_url",
+    "what_changed": "video_url cleared",
+    "old": "https://show.popularalien.com/talk/pa-20261031-midday-fox.mp4",
+    "new": "",
+    "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+    "source_url": ""
+  },
+  {
+    "story_id": "20261031-midday-cnn",
+    "date": "2026-11-02",
+    "field": "video_url",
+    "what_changed": "video_url cleared",
+    "old": "https://show.popularalien.com/talk/pa-20261031-midday-cnn.mp4",
+    "new": "",
+    "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+    "source_url": ""
   }
 ]
