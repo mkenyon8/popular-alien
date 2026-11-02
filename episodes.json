@@ -261,9 +261,18 @@
         "url": "https://sos.iowa.gov/elections/pdf/2008/OfficialCanvass2008General.pdf"
       }
     ],
-    "video_url": "https://show.popularalien.com/talk/pa-20261101-late.mp4",
+    "video_url": "",
     "script": "Late Check. In Dubuque, President Trump said he won Iowa all three times with more votes than any candidate in the state's history. Iowa's official canvass shows his 2024 total, about 927,000 votes, is the state record. But in 2016 he got about 801,000, fewer than Barack Obama's 829,000 in 2008. Verdict: missing context.",
-    "corrections": []
+    "corrections": [
+      {
+        "date": "2026-11-02",
+        "field": "video_url",
+        "old": "https://show.popularalien.com/talk/pa-20261101-late.mp4",
+        "new": "",
+        "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+        "source_url": ""
+      }
+    ]
   },
   {
     "id": "20261101-late-fox",
@@ -290,9 +299,18 @@
         "url": "https://www.nga.org/governors/"
       }
     ],
-    "video_url": "https://show.popularalien.com/talk/pa-20261101-late-fox.mp4",
+    "video_url": "",
     "script": "Late Check. Fox News says there are 26 Republican and 24 Democratic governors heading into Tuesday. The National Governors Association's current roster shows exactly that split across the 50 states. Verdict: matches record.",
-    "corrections": []
+    "corrections": [
+      {
+        "date": "2026-11-02",
+        "field": "video_url",
+        "old": "https://show.popularalien.com/talk/pa-20261101-late-fox.mp4",
+        "new": "",
+        "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+        "source_url": ""
+      }
+    ]
   },
   {
     "id": "20261101-late-cnn",
@@ -319,9 +337,18 @@
         "url": "https://www.senate.gov/states/AK/senators.htm"
       }
     ],
-    "video_url": "https://show.popularalien.com/talk/pa-20261101-late-cnn.mp4",
+    "video_url": "",
     "script": "Late Check. CNN says Alaska has elected only four Democratic senators since statehood, and just one since 1980. The Senate's own list shows Bartlett, Gruening, Gravel and Begich, with Begich the only one since 1980. Verdict: matches record.",
-    "corrections": []
+    "corrections": [
+      {
+        "date": "2026-11-02",
+        "field": "video_url",
+        "old": "https://show.popularalien.com/talk/pa-20261101-late-cnn.mp4",
+        "new": "",
+        "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+        "source_url": ""
+      }
+    ]
   },
   {
     "id": "20261101-evening",
@@ -708,9 +735,18 @@
         "url": "https://www.trumpstruth.org/statuses/42986"
       }
     ],
-    "video_url": "https://show.popularalien.com/talk/pa-20261031-late.mp4",
+    "video_url": "",
     "script": "Late Check. President Trump says federal prosecutor Bill Essayli caught twenty thousand illegal votes in California, and maybe millions. The government's own case, as described by the Ninth Circuit, is a list of about twenty thousand registered voters it calls likely noncitizens, which it wanted set aside so their citizenship could be checked. None has been shown to be an illegal vote, and a federal judge said the government's process wasn't credible. Verdict: contradicted.",
-    "corrections": []
+    "corrections": [
+      {
+        "date": "2026-11-02",
+        "field": "video_url",
+        "old": "https://show.popularalien.com/talk/pa-20261031-late.mp4",
+        "new": "",
+        "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+        "source_url": ""
+      }
+    ]
   },
   {
     "id": "20261031-late-fox",
@@ -741,9 +777,18 @@
         "url": "https://www.foxnews.com/politics/senate-control-coin-flip-democrats-path-runs-through-trump-country"
       }
     ],
-    "video_url": "https://show.popularalien.com/talk/pa-20261031-late-fox.mp4",
+    "video_url": "",
     "script": "Late Check. Fox News reports that Republicans hold a fifty-three to forty-seven lead in the Senate going into Tuesday. The Senate's own roster shows fifty-three Republicans, forty-five Democrats and two independents who caucus with Democrats. Verdict: matches the record.",
-    "corrections": []
+    "corrections": [
+      {
+        "date": "2026-11-02",
+        "field": "video_url",
+        "old": "https://show.popularalien.com/talk/pa-20261031-late-fox.mp4",
+        "new": "",
+        "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+        "source_url": ""
+      }
+    ]
   },
   {
     "id": "20261031-late-cnn",
@@ -774,9 +819,18 @@
         "url": "https://caselaw.findlaw.com/court/mn-supreme-court/1431369.html"
       }
     ],
-    "video_url": "https://show.popularalien.com/talk/pa-20261031-late-cnn.mp4",
+    "video_url": "",
     "script": "Late Check. CNN says the last time a contested Senate race delayed a senator's seating was the 2008 Minnesota race between Al Franken and Norm Coleman. The Senate's own list of contested elections ends with that case, and Franken wasn't sworn in until July 2009. Verdict: matches the record.",
-    "corrections": []
+    "corrections": [
+      {
+        "date": "2026-11-02",
+        "field": "video_url",
+        "old": "https://show.popularalien.com/talk/pa-20261031-late-cnn.mp4",
+        "new": "",
+        "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+        "source_url": ""
+      }
+    ]
   },
   {
     "id": "20261031-evening",
@@ -914,7 +968,7 @@
         "url": "https://show.popularalien.com/talk/fr-20261031-midday-diego.mp4"
       }
     ],
-    "video_url": "https://show.popularalien.com/talk/fr-20261031-midday-diego.mp4",
+    "video_url": "",
     "script": "Midday Check. A closing ad for Texas Senate candidate James Talarico says Crystal Mason got five years in prison because of Ken Paxton's crackdown on voters of color. The court record shows Tarrant County prosecuted her, not Paxton's office, and an appeals court acquitted her in 2024 because the state never proved she knew she couldn't vote. Verdict: missing context.",
     "field_report": {
       "reporter": "Diego Ramirez",
@@ -924,7 +978,17 @@
       "duration_s": 81.3,
       "published_at": "2026-11-01T01:40:00-05:00",
       "note": "Field reports state facts and show receipts; they never grade."
-    }
+    },
+    "corrections": [
+      {
+        "date": "2026-11-02",
+        "field": "video_url",
+        "old": "https://show.popularalien.com/talk/fr-20261031-midday-diego.mp4",
+        "new": "",
+        "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+        "source_url": ""
+      }
+    ]
   },
   {
     "id": "20261031-midday-fox",
@@ -951,7 +1015,7 @@
         "url": "https://constitution.congress.gov/browse/article-1/section-5/"
       }
     ],
-    "video_url": "https://show.popularalien.com/talk/pa-20261031-midday-fox.mp4",
+    "video_url": "",
     "script": "Midday Check. President Trump says Congresswoman Ilhan Omar will not be legally allowed to stay in Congress. Article One, Section Five of the Constitution gives that judgment to the House itself, and expulsion takes a two-thirds vote. The House hasn't acted, and the federal inquiry hasn't produced any legal finding against her. Verdict: contradicted.",
     "corrections": [
       {
@@ -993,6 +1057,14 @@
         "new": "Superseded: the aired verdict line is out of date. The current verdict is Unverifiable: Trump's statement predicts a legal outcome that hasn't happened, and the record has no finding either way while the inquiry is open.",
         "reason": "The verdict was corrected from Contradicted to Unverifiable on Nov. 2, 2026. The aired script is left unedited because it is the broadcast record.",
         "source_url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away"
+      },
+      {
+        "date": "2026-11-02",
+        "field": "video_url",
+        "old": "https://show.popularalien.com/talk/pa-20261031-midday-fox.mp4",
+        "new": "",
+        "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+        "source_url": ""
       }
     ]
   },
@@ -1025,8 +1097,18 @@
         "url": "https://www.elections.alaska.gov/doc/mp/2024/MediaPacket-2024-General.pdf"
       }
     ],
-    "video_url": "https://show.popularalien.com/talk/pa-20261031-midday-cnn.mp4",
-    "script": "Midday Check. CNN reports that Alaska gives mailed ballots ten days to arrive from inside the country and fifteen from overseas, one reason the Senate race could take two weeks to call. Alaska's election statute sets exactly those deadlines. Verdict: matches record."
+    "video_url": "",
+    "script": "Midday Check. CNN reports that Alaska gives mailed ballots ten days to arrive from inside the country and fifteen from overseas, one reason the Senate race could take two weeks to call. Alaska's election statute sets exactly those deadlines. Verdict: matches record.",
+    "corrections": [
+      {
+        "date": "2026-11-02",
+        "field": "video_url",
+        "old": "https://show.popularalien.com/talk/pa-20261031-midday-cnn.mp4",
+        "new": "",
+        "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
+        "source_url": ""
+      }
+    ]
   },
   {
     "id": "20261031-morning",
