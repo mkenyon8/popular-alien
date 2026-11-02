@@ -1524,6 +1524,50 @@
     "corrections": []
   },
   {
+    "id": "20261101-reframe-fox-governors-26-24",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-02T08:56:27Z",
+    "label": "ReFrame",
+    "claim": "Fox News says there are 26 Republican and 24 Democratic governors; the NGA roster shows the same split",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing",
+    "source_url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing",
+    "record_url": "https://www.nga.org/governors/",
+    "record_title": "National Governors Association, “America's Governors” current governors roster (accessed Nov. 1, 2026)",
+    "read": "Fox's 26-24 governor count matches the National Governors Association's current roster for the 50 states; it leaves out the five territories, which the roster lists separately. Graded A overall across 1 argument. Fox News' 'currently 26 Republican and 24 Democratic governors' line: A. Scorecard: 100% valid, 100% cogent, 100% supported, 100% fallacy-free.",
+    "grade": "A",
+    "scores": {
+      "valid": 100,
+      "cogent": 100,
+      "supported": 100,
+      "fallacy_free": 100
+    },
+    "why": "The count checks out against the governors' own association roster, which includes Virginia's Abigail Spanberger and New Jersey's Mikie Sherrill. It covers states only; the same article mentions governor races in three territories, so saying 'state governors' would have made it airtight.",
+    "sources": [
+      {
+        "title": "Fox News, Paul Steinhauser, “What's at stake in the 2026 midterm elections for House and Senate,” November 1, 2026",
+        "url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing"
+      },
+      {
+        "title": "National Governors Association, “America's Governors” current governors roster (accessed Nov. 1, 2026)",
+        "url": "https://www.nga.org/governors/"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261101-late-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261101-late-fox.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261101-late-fox.mp4",
+    "popart_story": "20261101-late-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News says there are 26 Republican and 24 Democratic governors; the NGA roster shows the same split.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261101-reframe-cnn-alaska-democratic-senators",
     "slot": "ReFrame",
     "lead": false,
