@@ -1,5 +1,92 @@
 [
   {
+    "id": "20261102-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-02T06:40:00-06:00",
+    "headline": "Trump says Biden's border let '25 million people' pour in; CBP's own enforcement tables count about 10.8 million encounters in fiscal 2021 through 2024, and encounters aren't the same as people who got in",
+    "claim": "“They allowed 25 million people to pour into our country from all over the world, including prisons.” — President Donald Trump at a rally in Salina, Kansas, Nov. 1, 2026, as quoted by the Kansas City Star",
+    "outlet": "Kansas City Star, “Live fact check: Trump’s second Kansas rally in Salina,” November 1, 2026",
+    "outlet_url": "https://www.kansascity.com/news/politics-government/election/article317852807.html",
+    "source_url": "https://www.kansascity.com/news/politics-government/election/article317852807.html",
+    "record_url": "https://www.cbp.gov/newsroom/stats/cbp-enforcement-statistics",
+    "record_title": "U.S. Customs and Border Protection, CBP Enforcement Statistics, Total CBP Enforcement Actions, FY2017 through FY2026",
+    "verdict": "Contradicted",
+    "why": "CBP's enforcement tables show 1,956,519 total encounters in fiscal 2021, 2,766,582 in 2022, 3,201,144 in 2023 and 2,901,142 in 2024, about 10.8 million combined, and even adding all 691,906 from fiscal 2025, which straddles the change of administration, gets only to about 11.5 million. Those are encounters, which count repeat crossings and people stopped or turned away at ports of entry, not people who entered and stayed. No federal count in the record approaches 25 million.",
+    "what_would_change": "A DHS or CBP record showing roughly 25 million unlawful entries or releases into the country between January 2021 and January 2025 would move this toward Matches record; an official estimate of gotaways large enough to close the gap would move it toward Missing context.",
+    "read": "CBP's enforcement tables show 1,956,519 total encounters in fiscal 2021, 2,766,582 in 2022, 3,201,144 in 2023 and 2,901,142 in 2024, about 10.8 million combined, and even adding all 691,906 from fiscal 2025, which straddles the change of administration, gets only to about 11.5 million. Those are encounters, which count repeat crossings and people stopped or turned away at ports of entry, not people who entered and stayed. No federal count in the record approaches 25 million.",
+    "sources": [
+      {
+        "title": "Kansas City Star, “Live fact check: Trump’s second Kansas rally in Salina,” November 1, 2026",
+        "url": "https://www.kansascity.com/news/politics-government/election/article317852807.html"
+      },
+      {
+        "title": "U.S. Customs and Border Protection, CBP Enforcement Statistics, Total CBP Enforcement Actions, FY2017 through FY2026",
+        "url": "https://www.cbp.gov/newsroom/stats/cbp-enforcement-statistics"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. In Salina, Kansas, President Trump said the Biden administration let 25 million people pour into the country. Border Protection's own tables count about 10.8 million encounters in fiscal 2021 through 2024, and encounters include repeat crossings and people turned away. Verdict: contradicted.",
+    "corrections": []
+  },
+  {
+    "id": "20261102-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-02T06:40:00-06:00",
+    "headline": "Fox News says Republicans control the Senate 53-47; the Senate's own roster lists 53 Republicans, 45 Democrats and two independents",
+    "claim": "“Republicans currently control the chamber 53-47.” — Paul Steinhauser, Fox News, “What's at stake in the 2026 midterm elections for House and Senate,” Nov. 1, 2026",
+    "outlet": "Fox News, Paul Steinhauser, “What's at stake in the 2026 midterm elections for House and Senate,” November 1, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing",
+    "source_url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing",
+    "record_url": "https://www.senate.gov/senators/senators-contact.htm",
+    "record_title": "U.S. Senate, senators contact roster with party labels",
+    "verdict": "Matches record",
+    "why": "The Senate's current roster labels 53 senators as Republicans, 45 as Democrats and two, Bernie Sanders of Vermont and Angus King of Maine, as independents. Both independents caucus with Democrats, so the working split is 53 to 47, and the roster already reflects the appointed Republicans Jon Husted of Ohio and Darline Graham of South Carolina.",
+    "what_would_change": "A Senate roster showing a different party count before Election Day, such as a vacancy, a party switch or an independent caucusing with Republicans, would move this toward Missing context or Contradicted.",
+    "read": "The Senate's current roster labels 53 senators as Republicans, 45 as Democrats and two, Bernie Sanders of Vermont and Angus King of Maine, as independents. Both independents caucus with Democrats, so the working split is 53 to 47, and the roster already reflects the appointed Republicans Jon Husted of Ohio and Darline Graham of South Carolina.",
+    "sources": [
+      {
+        "title": "Fox News, Paul Steinhauser, “What's at stake in the 2026 midterm elections for House and Senate,” November 1, 2026",
+        "url": "https://www.foxnews.com/politics/everything-know-house-senate-control-ballot-measures-2026-election-day-poll-closing"
+      },
+      {
+        "title": "U.S. Senate, senators contact roster with party labels",
+        "url": "https://www.senate.gov/senators/senators-contact.htm"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. Fox News says Republicans control the Senate 53 to 47. The Senate's own roster lists 53 Republicans, 45 Democrats and two independents who caucus with Democrats. Verdict: matches record.",
+    "corrections": []
+  },
+  {
+    "id": "20261102-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-02T06:40:00-06:00",
+    "headline": "CNN says Adam Hamilton hopes to be the first Kansas Democrat elected to the Senate 'since 1994'; the Senate's list of Kansas senators shows no Democrat since George McGill left in 1939",
+    "claim": "“Democrat Adam Hamilton, who is hoping to be the first Kansas Democrat elected to the US Senate since 1994.” — Arlette Saenz and David Wright, CNN, “The top 11 Senate seats most likely to flip, the day before the midterms,” Nov. 2, 2026",
+    "outlet": "CNN, Arlette Saenz and David Wright, “The top 11 Senate seats most likely to flip, the day before the midterms,” November 2, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/02/politics/cnn-senate-seats-most-likely-to-flip",
+    "source_url": "https://www.cnn.com/2026/11/02/politics/cnn-senate-seats-most-likely-to-flip",
+    "record_url": "https://www.senate.gov/states/KS/senators.htm",
+    "record_title": "U.S. Senate, “States in the Senate: Kansas Senators”",
+    "verdict": "Contradicted",
+    "why": "The Senate's list of Kansas senators shows the last Democrat was George McGill, who served from Dec. 1, 1930, to Jan. 3, 1939. Every senator Kansas has sent since then, including Bob Dole, Nancy Kassebaum, Sam Brownback, Pat Roberts, Jerry Moran and Roger Marshall, is listed as a Republican, so no Kansas Democrat won a Senate seat in 1994 or any year after McGill. A Hamilton win would end a drought of more than 85 years, not 32.",
+    "what_would_change": "A Senate record showing a Democrat elected to represent Kansas in or after 1994 would move this to Matches record; a CNN correction changing the year would not change the verdict on the published sentence but would be noted here.",
+    "read": "The Senate's list of Kansas senators shows the last Democrat was George McGill, who served from Dec. 1, 1930, to Jan. 3, 1939. Every senator Kansas has sent since then, including Bob Dole, Nancy Kassebaum, Sam Brownback, Pat Roberts, Jerry Moran and Roger Marshall, is listed as a Republican, so no Kansas Democrat won a Senate seat in 1994 or any year after McGill. A Hamilton win would end a drought of more than 85 years, not 32.",
+    "sources": [
+      {
+        "title": "CNN, Arlette Saenz and David Wright, “The top 11 Senate seats most likely to flip, the day before the midterms,” November 2, 2026",
+        "url": "https://www.cnn.com/2026/11/02/politics/cnn-senate-seats-most-likely-to-flip"
+      },
+      {
+        "title": "U.S. Senate, “States in the Senate: Kansas Senators”",
+        "url": "https://www.senate.gov/states/KS/senators.htm"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. CNN says Adam Hamilton hopes to be the first Kansas Democrat elected to the Senate since 1994. The Senate's own list shows the last Kansas Democrat, George McGill, left office in 1939, and every senator since has been a Republican. Verdict: contradicted.",
+    "corrections": []
+  },
+  {
     "id": "20261101-late",
     "slot": "Late Check",
     "aired_at": "2026-11-01T23:05:00-06:00",
