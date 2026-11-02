@@ -134,5 +134,825 @@
     "what_changed": "Aired script line marked superseded (script text not edited): Superseded: the aired verdict line is out of date. The current verdict is Matches record: the post accurately reports the Bulwark / Pablo Torre Finds Out / YouGov poll. The respondents' estimates are far from NCAA figures, but the claim reports the poll correctly.",
     "reason": "The verdict was corrected from Contradicted to Matches record on Oct. 30, 2026. The aired script is left unedited because it is the broadcast record.",
     "source_url": "https://www.thebulwark.com/p/new-poll-bulwark-pablo-torre-finds-out-survey-americans-politics-sports-masculinity-betting"
+  },
+  {
+    "story_id": "20261031-midday-fox",
+    "date": "2026-11-02",
+    "field": "verdict",
+    "what_changed": "verdict updated",
+    "old": "Contradicted",
+    "new": "Unverifiable",
+    "reason": "Trump's statement is a prediction about a legal outcome that hasn't happened. The record shows no finding either way, and the inquiry is still open, so it can't contradict the prediction. The story's own why says nothing in the record yet shows a legal finding.",
+    "source_url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away"
+  },
+  {
+    "story_id": "20261031-midday-fox",
+    "date": "2026-11-02",
+    "field": "why",
+    "what_changed": "why updated",
+    "old": "Article I, Section 5 makes each chamber the judge of its own members' elections, returns and qualifications, and expelling a member takes a two-thirds vote of that chamber, so the president has no power to bar Omar from her seat. Fox News' own report says the federal immigration-fraud inquiry is still under way, the House has taken no action on her qualifications, and Democrats have not conceded her seat. Nothing in the public record so far shows a legal finding that would disqualify her.",
+    "new": "Article I, Section 5 makes each chamber the judge of its own members' qualifications and requires a two-thirds vote to expel a member, so whether Omar may serve is up to the House, and to the courts in any naturalization case, not the president. Fox News' own report says the federal immigration-fraud inquiry is still under way and the House has taken no action on her qualifications. No legal finding exists yet either way, so the record can't confirm or rule out the prediction.",
+    "reason": "Rewritten to match the corrected verdict.",
+    "source_url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away"
+  },
+  {
+    "story_id": "20261031-midday-fox",
+    "date": "2026-11-02",
+    "field": "read",
+    "what_changed": "read updated",
+    "old": "Article I, Section 5 makes each chamber the judge of its own members' elections, returns and qualifications, and expelling a member takes a two-thirds vote of that chamber, so the president has no power to bar Omar from her seat. Fox News' own report says the federal immigration-fraud inquiry is still under way, the House has taken no action on her qualifications, and Democrats have not conceded her seat. Nothing in the public record so far shows a legal finding that would disqualify her.",
+    "new": "Article I, Section 5 makes each chamber the judge of its own members' qualifications and requires a two-thirds vote to expel a member, so whether Omar may serve is up to the House, and to the courts in any naturalization case, not the president. Fox News' own report says the federal immigration-fraud inquiry is still under way and the House has taken no action on her qualifications. No legal finding exists yet either way, so the record can't confirm or rule out the prediction.",
+    "reason": "Updated to match the corrected verdict and why.",
+    "source_url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away"
+  },
+  {
+    "story_id": "20261031-midday-fox",
+    "date": "2026-11-02",
+    "field": "what_would_change",
+    "what_changed": "what_would_change updated",
+    "old": "A House vote to exclude or expel Omar, or a court ruling that her naturalization was obtained by fraud, would move this toward Matches record.",
+    "new": "A House vote to exclude or expel Omar, or a court ruling that her naturalization was obtained by fraud, would move this toward Matches record; the inquiry closing with no finding against her, or the House seating her for the next term, would move it toward Contradicted.",
+    "reason": "Updated to match the corrected verdict.",
+    "source_url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away"
+  },
+  {
+    "story_id": "20261031-midday-fox",
+    "date": "2026-11-02",
+    "field": "script",
+    "what_changed": "Aired script line annotated (script text not edited)",
+    "old": "“Verdict: contradicted.”",
+    "new": "Superseded: the aired verdict line is out of date. The current verdict is Unverifiable: Trump's statement predicts a legal outcome that hasn't happened, and the record has no finding either way while the inquiry is open.",
+    "reason": "The verdict was corrected from Contradicted to Unverifiable on Nov. 2, 2026. The aired script is left unedited because it is the broadcast record.",
+    "source_url": "https://www.foxnews.com/politics/why-ilhan-omar-saga-isnt-going-away"
+  },
+  {
+    "story_id": "20261030-late-cnn",
+    "date": "2026-11-02",
+    "field": "sources",
+    "what_changed": "sources updated",
+    "old": [
+      {
+        "title": "CNN Politics fact check, October 13, 2026",
+        "url": "https://www.cnn.com/2026/10/13/politics/fact-check-trump-gas-prices-under-biden"
+      },
+      {
+        "title": "U.S. Energy Information Administration — U.S. All Grades All Formulations Retail Gasoline Prices (weekly)",
+        "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPM0_PTE_NUS_DPG&f=W"
+      },
+      {
+        "title": "CNN — Gas under Trump 2.0 is now more expensive than it was under Biden",
+        "url": "https://kesq.com/money/cnn-business-consumer/2026/10/26/gas-under-trump-2-0-is-now-more-expensive-than-it-was-under-biden/"
+      }
+    ],
+    "new": [
+      {
+        "title": "CNN Politics fact check, October 13, 2026",
+        "url": "https://www.cnn.com/2026/10/13/politics/fact-check-trump-gas-prices-under-biden"
+      },
+      {
+        "title": "U.S. Energy Information Administration — U.S. All Grades All Formulations Retail Gasoline Prices (weekly)",
+        "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPM0_PTE_NUS_DPG&f=W"
+      },
+      {
+        "title": "CNN — Gas under Trump 2.0 is now more expensive than it was under Biden",
+        "url": "https://www.cnn.com/2026/10/26/economy/gas-oil-trump-iran-election"
+      }
+    ],
+    "reason": "The KESQ copy of CNN's gas-price story returns 404. It was replaced with CNN's original article.",
+    "source_url": "https://www.cnn.com/2026/10/26/economy/gas-oil-trump-iran-election"
+  },
+  {
+    "story_id": "20261030-evening",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Alaska Gov. Mike Dunleavy says Senate certification could be 'stopped or changed' if the Peltola probe finds wrongdoing; state law has the elections director certify the winner, with no exception for an investigation",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/"
+  },
+  {
+    "story_id": "20261030-evening",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/"
+  },
+  {
+    "story_id": "20261030-evening",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "Alaska Gov. Mike Dunleavy says the state’s election certification could be stopped or changed if the investigation into the Peltola campaign finds wrongdoing.",
+    "new": "“If we find out there’s wrongdoing, and if that means that the certification then is stopped or changed, then that’s what happens.” — Alaska Gov. Mike Dunleavy on NewsNation’s “The Hill,” Oct. 29, 2026, as quoted by The Hill",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://thehill.com/homenews/campaign/6182999-alaska-election-verification-stopped-peltola-probe/"
+  },
+  {
+    "story_id": "20261030-evening-fox",
+    "date": "2026-11-02",
+    "field": "outlet_url",
+    "what_changed": "outlet_url updated",
+    "old": "https://x.com/foxandfriends/status/2116143739806576640",
+    "new": "https://x.com/foxandfriends/status/2116143993578824052",
+    "reason": "The linked Fox & Friends post (status 2116143739806576640) does not exist on X. This is the Fox & Friends post with the Trump quote, Oct. 30, 2026.",
+    "source_url": "https://x.com/foxandfriends/status/2116143993578824052"
+  },
+  {
+    "story_id": "20261030-evening-fox",
+    "date": "2026-11-02",
+    "field": "sources",
+    "what_changed": "sources updated",
+    "old": [
+      {
+        "title": "FOX & Friends post — Trump on Decoy Dan",
+        "url": "https://x.com/foxandfriends/status/2116143739806576640"
+      },
+      {
+        "title": "New York Times — Inside Democrats’ Secret Effort to Stack Alaska’s Ballot",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+      },
+      {
+        "title": "CourtListener — United States v. State of Alaska amended complaint",
+        "url": "https://www.courtlistener.com/docket/75009254/43/united-states-v-state-of-alaska/"
+      }
+    ],
+    "new": [
+      {
+        "title": "FOX & Friends post — Trump on Decoy Dan",
+        "url": "https://x.com/foxandfriends/status/2116143993578824052"
+      },
+      {
+        "title": "New York Times — Inside Democrats’ Secret Effort to Stack Alaska’s Ballot",
+        "url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+      },
+      {
+        "title": "CourtListener — United States v. State of Alaska amended complaint",
+        "url": "https://www.courtlistener.com/docket/75009254/43/united-states-v-state-of-alaska/"
+      }
+    ],
+    "reason": "Replaced the dead Fox & Friends link (status 2116143739806576640, not found on X) with the post that carries the quote.",
+    "source_url": "https://x.com/foxandfriends/status/2116143993578824052"
+  },
+  {
+    "story_id": "20261030-evening-fox",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Trump calls the 'second Dan Sullivan' effort in Alaska 'a criminal act' and 'a conspiracy'; the only federal case on file is a civil suit, and no criminal charge has been filed",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://x.com/foxandfriends/status/2116143993578824052"
+  },
+  {
+    "story_id": "20261030-evening-fox",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://x.com/foxandfriends/status/2116143993578824052",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://x.com/foxandfriends/status/2116143993578824052"
+  },
+  {
+    "story_id": "20261030-evening-fox",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "President Trump called the reported Democratic effort to place a second Dan Sullivan on the Alaska Senate ballot a “criminal act” and a “conspiracy.”",
+    "new": "“I think it's a criminal act what they did, because it was a conspiracy... It didn't just happen.” — President Donald Trump on the Alaska ballot effort, as posted by Fox & Friends on X, Oct. 30, 2026",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://x.com/foxandfriends/status/2116143993578824052"
+  },
+  {
+    "story_id": "20261030-evening-cnn",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "CNN reports Trump scrapped weekend rallies in Kansas and Iowa for tele-rallies; that was accurate when published, but the RNC put both in-person rallies back on the next day",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.cnn.com/2026/10/29/politics/live-news/midterm-election-congress"
+  },
+  {
+    "story_id": "20261030-evening-cnn",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.cnn.com/2026/10/29/politics/live-news/midterm-election-congress",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.cnn.com/2026/10/29/politics/live-news/midterm-election-congress"
+  },
+  {
+    "story_id": "20261030-evening-cnn",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "CNN reports President Trump scrapped planned in-person rallies in Kansas and Iowa as a strategy shift ahead of the midterms, with some Republicans expressing relief.",
+    "new": "“President Donald Trump has scrapped plans for weekend rallies in red states Iowa and Kansas. He’s instead planning as many as 20 telerallies in a strategy shift days ahead of the midterm elections.” — Xiaoqian Lin, CNN live coverage, Oct. 29, 2026",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://www.cnn.com/2026/10/29/politics/live-news/midterm-election-congress"
+  },
+  {
+    "story_id": "20261029-evening",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Trump calls the Alaska ballot effort 'Voter Fraud at the Highest Level' and says Peltola should be removed and prosecuted; courts upheld the second Sullivan's candidacy, and no charge or fraud finding has been made public",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.trumpstruth.org/statuses/42817"
+  },
+  {
+    "story_id": "20261029-evening",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.trumpstruth.org/statuses/42817",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.trumpstruth.org/statuses/42817"
+  },
+  {
+    "story_id": "20261029-evening",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "This is Voter Fraud at the Highest Level, and the Dumocrat Candidate, who was involved in the scheme, Mary Peltola, should be removed from the Ballot and prosecuted — So should the FAKE Dan Sullivan.",
+    "new": "“This is Voter Fraud at the Highest Level, and the Dumocrat Candidate, who was involved in the scheme, Mary Peltola, should be removed from the Ballot and prosecuted — So should the FAKE Dan Sullivan.” — President Donald Trump on Truth Social, Oct. 28, 2026",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://www.trumpstruth.org/statuses/42817"
+  },
+  {
+    "story_id": "20261029-evening",
+    "date": "2026-11-02",
+    "field": "verdict",
+    "what_changed": "verdict updated",
+    "old": "Contradicted",
+    "new": "Missing context",
+    "reason": "The record doesn't show the claim false: a criminal probe is still open and no court has ruled on whether a crime occurred. The same accusation from Trump two days later (20261030-evening-fox, “criminal act”) is rated Missing context on the same record, so the two verdicts are now consistent.",
+    "source_url": "https://www.newsnationnow.com/politics/2026-midterm-elections/alaska-election-mary-peltola-dan-sullivan/"
+  },
+  {
+    "story_id": "20261029-evening",
+    "date": "2026-11-02",
+    "field": "why",
+    "what_changed": "why updated",
+    "old": "The Alaska Supreme Court's June 29 order upheld a lower-court ruling putting Daniel J. Sullivan on the ballot and left only how his name is listed to the Division of Elections. The New York Times reported that Peltola aides and DSCC staff worked on recruiting him and other candidates, but described ballot-stacking as common and generally legal, and no charge or court finding of voter fraud has been made public.",
+    "new": "The Alaska Supreme Court's June 29 order upheld putting Daniel J. Sullivan on the ballot, and nothing in the record supports removing Peltola from it. The New York Times reported that Peltola aides and DSCC staff worked to recruit him, which backs the claim of a deliberate effort, though Peltola says she knew nothing about it and the Times described ballot-stacking as common and generally legal. The Justice Department's criminal probe is still open and no charge or court finding of voter fraud has been made public, so “Voter Fraud at the Highest Level” is an accusation, not an established fact.",
+    "reason": "Rewritten to match the corrected verdict, and to note Peltola's on-the-record denial that she knew of the effort.",
+    "source_url": "https://www.newsnationnow.com/politics/2026-midterm-elections/alaska-election-mary-peltola-dan-sullivan/"
+  },
+  {
+    "story_id": "20261029-evening",
+    "date": "2026-11-02",
+    "field": "read",
+    "what_changed": "read updated",
+    "old": "President Trump stated on Truth Social that Democrats put a second Dan Sullivan on the Alaska Senate ballot to confuse voters, calling it voter fraud at the highest level and demanding that Mary Peltola and the other Sullivan be removed from the ballot and prosecuted. The Alaska Supreme Court, in its June 29, 2026 order in State of Alaska, Division of Elections v. Daniel J. Sullivan, Jr., affirmed a lower-court ruling that the second candidate is eligible; the court found no statutory good-faith requirement and remanded only for ballot-listing details under existing design law. The New York Times reported recruitment activity that is generally considered legal ballot-stacking used by both parties. No public record establishes a completed crime of voter fraud. The claim does not match the cited record.",
+    "new": "The Alaska Supreme Court's June 29 order upheld putting Daniel J. Sullivan on the ballot, and nothing in the record supports removing Peltola from it. The New York Times reported that Peltola aides and DSCC staff worked to recruit him, which backs the claim of a deliberate effort, though Peltola says she knew nothing about it and the Times described ballot-stacking as common and generally legal. The Justice Department's criminal probe is still open and no charge or court finding of voter fraud has been made public, so “Voter Fraud at the Highest Level” is an accusation, not an established fact.",
+    "reason": "Updated to match the corrected verdict and why.",
+    "source_url": "https://www.newsnationnow.com/politics/2026-midterm-elections/alaska-election-mary-peltola-dan-sullivan/"
+  },
+  {
+    "story_id": "20261029-evening",
+    "date": "2026-11-02",
+    "field": "what_would_change",
+    "what_changed": "what_would_change updated",
+    "old": "Criminal charges, a court ruling that the recruitment broke election law, or evidence that ballots were cast or counted fraudulently would move this toward Matches record.",
+    "new": "Criminal charges or a court ruling that the recruitment broke election law would move this toward Matches record; the federal and state probes closing without charges would move it toward Contradicted.",
+    "reason": "Updated to match the corrected verdict.",
+    "source_url": "https://www.newsnationnow.com/politics/2026-midterm-elections/alaska-election-mary-peltola-dan-sullivan/"
+  },
+  {
+    "story_id": "20261029-evening",
+    "date": "2026-11-02",
+    "field": "script",
+    "what_changed": "Aired script line annotated (script text not edited)",
+    "old": "“Verdict: contradicted.”",
+    "new": "Superseded: the aired verdict line is out of date. The current verdict is Missing context: the Times reported a deliberate recruitment effort, but no charge or court finding of voter fraud exists and the criminal probe is still open.",
+    "reason": "The verdict was corrected from Contradicted to Missing context on Nov. 2, 2026. The aired script is left unedited because it is the broadcast record.",
+    "source_url": "https://www.newsnationnow.com/politics/2026-midterm-elections/alaska-election-mary-peltola-dan-sullivan/"
+  },
+  {
+    "story_id": "20261029-evening-fox",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Sen. Dan Sullivan says Peltola's team and the DSCC spent over a year 'scheming' to trick Alaskans; that tracks the Times' reporting, which both deny, but courts upheld the second candidacy and the Times called the tactic generally legal",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order"
+  },
+  {
+    "story_id": "20261029-evening-fox",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order"
+  },
+  {
+    "story_id": "20261029-evening-fox",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "This is a scandal at the highest order. She and her team, and at the highest levels of the DSCC, spent over a year scheming in a secret operation to trick Alaskans to get them to throw away their vote.",
+    "new": "“This is a scandal at the highest order. … She and her team, and at the highest levels of the DSCC, spent over a year scheming in a secret operation to trick Alaskans to get them to throw away their vote.” — Sen. Dan Sullivan, R-Alaska, on Fox News’ “Hannity,” Oct. 28, 2026",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://www.foxnews.com/media/sen-dan-sullivan-brands-peltola-alleged-ballot-scheme-scandal-highest-order"
+  },
+  {
+    "story_id": "20261029-evening-cnn",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "CNN analysis says Alaska Democrats 'just handed Trump a political gift'; that's a judgment about politics, not a checkable fact, and the piece itself says the effort doesn't appear to be illegal",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan"
+  },
+  {
+    "story_id": "20261029-evening-cnn",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan"
+  },
+  {
+    "story_id": "20261029-evening-cnn",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "Alaska Democrats just handed Trump a political gift.",
+    "new": "“Alaska Democrats just handed Trump a political gift.” — Stephen Collinson, CNN analysis, Oct. 29, 2026",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan"
+  },
+  {
+    "story_id": "20261029-evening-cnn",
+    "date": "2026-11-02",
+    "field": "verdict",
+    "what_changed": "verdict updated",
+    "old": "Missing context",
+    "new": "Unverifiable",
+    "reason": "The story's own why says “political gift” is an opinion, not a checkable fact; an opinion the record can't confirm or refute is Unverifiable, not Missing context.",
+    "source_url": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan"
+  },
+  {
+    "story_id": "20261029-evening-cnn",
+    "date": "2026-11-02",
+    "field": "why",
+    "what_changed": "why updated",
+    "old": "\"Political gift\" is CNN analyst Stephen Collinson's opinion, not a checkable fact; the reporting it rests on, the New York Times account of Peltola aides and DSCC staff recruiting spoiler candidates, is on the record and denied by the campaign and the DSCC. Collinson's own piece says the effort does not appear to be illegal based on current evidence, and that context matters for how far the story can help Trump.",
+    "new": "“Political gift” is CNN analyst Stephen Collinson's judgment about the story's political effect, not a factual claim the record can confirm or refute. The reporting it rests on, the New York Times account of Peltola aides and DSCC staff recruiting spoiler candidates, is on the record and denied by the campaign and the DSCC. Collinson's own piece says the effort “doesn't seem to be illegal based on current available evidence,” which limits how far the story can help Trump.",
+    "reason": "Rewritten to match the corrected verdict; the quoted line from the analysis was checked against the CNN page.",
+    "source_url": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan"
+  },
+  {
+    "story_id": "20261029-evening-cnn",
+    "date": "2026-11-02",
+    "field": "read",
+    "what_changed": "read updated",
+    "old": "CNN’s analysis stated that Alaska Democrats handed President Trump a political gift by the reported recruitment of a second Dan Sullivan. The New York Times reported that Peltola campaign aides and DSCC staff coordinated the effort and that the campaign and DSCC have continued to deny involvement, contradicting interviews, texts, and documents cited by the Times. The Alaska Supreme Court previously ruled the second candidate eligible. The gift framing treats the episode primarily as optics while the cited record shows a direct contradiction between the public denials and the reported coordination.",
+    "new": "“Political gift” is CNN analyst Stephen Collinson's judgment about the story's political effect, not a factual claim the record can confirm or refute. The reporting it rests on, the New York Times account of Peltola aides and DSCC staff recruiting spoiler candidates, is on the record and denied by the campaign and the DSCC. Collinson's own piece says the effort “doesn't seem to be illegal based on current available evidence,” which limits how far the story can help Trump.",
+    "reason": "Updated to match the corrected verdict and why.",
+    "source_url": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan"
+  },
+  {
+    "story_id": "20261029-evening-cnn",
+    "date": "2026-11-02",
+    "field": "script",
+    "what_changed": "Aired script line annotated (script text not edited)",
+    "old": "“Verdict: missing context.”",
+    "new": "Superseded: the aired verdict line is out of date. The current verdict is Unverifiable: “political gift” is an analyst's judgment about politics, which the record can't confirm or refute.",
+    "reason": "The verdict was corrected from Missing context to Unverifiable on Nov. 2, 2026. The aired script is left unedited because it is the broadcast record.",
+    "source_url": "https://www.cnn.com/2026/10/29/politics/trump-alaska-dan-sullivan"
+  },
+  {
+    "story_id": "20261029-morning",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "CBS reports Hegseth fired Lt. Gen. Brett Sylvia over leaks, citing one anonymous Pentagon official; two other Pentagon sources dispute it, and the department hasn't given a reason on the record",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+  },
+  {
+    "story_id": "20261029-morning",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.cbsnews.com/news/hegseth-fires-pentagons-top-military-planner/"
+  },
+  {
+    "story_id": "20261028-late",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Trump says Venezuela sent him a million barrels of oil 'as a gift'; the company that delivered it confirms the first cargo is free to taxpayers, but it came from a private firm under a purchase deal",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.pbs.org/newshour/politics/watch-trump-says-venezuela-sent-him-1-million-barrels-of-oil-as-a-gift"
+  },
+  {
+    "story_id": "20261028-late",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.pbs.org/newshour/politics/watch-trump-says-venezuela-sent-him-1-million-barrels-of-oil-as-a-gift",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.pbs.org/newshour/politics/watch-trump-says-venezuela-sent-him-1-million-barrels-of-oil-as-a-gift"
+  },
+  {
+    "story_id": "20261028-evening",
+    "date": "2026-11-02",
+    "field": "outlet_url",
+    "what_changed": "outlet_url updated",
+    "old": "https://www.epa.gov/newsreleases/epa-proposes-major-new-revisions-burdensome-unworkable-biden-era-oil-and-natural-gas",
+    "new": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983",
+    "reason": "Pointed to the page that carries Trump's quote; the EPA release stays as the record_url.",
+    "source_url": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983"
+  },
+  {
+    "story_id": "20261028-evening",
+    "date": "2026-11-02",
+    "field": "sources",
+    "what_changed": "sources updated",
+    "old": [
+      {
+        "title": "EPA — Proposes Major New Revisions to Burdensome, Unworkable Biden-era Oil and Natural Gas Regulations, October 27, 2026",
+        "url": "https://www.epa.gov/newsreleases/epa-proposes-major-new-revisions-burdensome-unworkable-biden-era-oil-and-natural-gas"
+      },
+      {
+        "title": "EPA prepublication proposed rule preamble (signed October 27, 2026)",
+        "url": "https://www.epa.gov/system/files/documents/2026-10/san-12726-ong-reconsideration-2-nprm-preamble-20261015-clean.admin_disclaimer.pdf"
+      }
+    ],
+    "new": [
+      {
+        "title": "NBC News report on Trump’s methane remarks at the Lubbock, Texas, rally, October 27, 2026",
+        "url": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983"
+      },
+      {
+        "title": "EPA — Proposes Major New Revisions to Burdensome, Unworkable Biden-era Oil and Natural Gas Regulations, October 27, 2026",
+        "url": "https://www.epa.gov/newsreleases/epa-proposes-major-new-revisions-burdensome-unworkable-biden-era-oil-and-natural-gas"
+      },
+      {
+        "title": "EPA prepublication proposed rule preamble (signed October 27, 2026)",
+        "url": "https://www.epa.gov/system/files/documents/2026-10/san-12726-ong-reconsideration-2-nprm-preamble-20261015-clean.admin_disclaimer.pdf"
+      }
+    ],
+    "reason": "Added NBC News, the source of the quote, to the sources list.",
+    "source_url": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983"
+  },
+  {
+    "story_id": "20261028-evening",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Trump says he's 'officially terminating' Biden's methane rules; EPA's own release that day describes a proposal to revise them, with public comment still ahead",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983"
+  },
+  {
+    "story_id": "20261028-evening",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983"
+  },
+  {
+    "story_id": "20261028-evening",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "Tonight, I'm officially terminating Biden's expensive and unnecessary methane regulations to save consumers and energy producers",
+    "new": "“Tonight, I’m officially terminating Biden’s expensive and unnecessary methane regulations to save consumers and energy producers.” — President Donald Trump at a campaign rally in Lubbock, Texas, Oct. 27, 2026, as reported by NBC News",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://www.nbcnews.com/science/climate-change/trump-methane-rules-leaks-emissions-oil-gas-rcna605983"
+  },
+  {
+    "story_id": "20261028-midday",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Peltola's campaign says it recruited no candidates into the Alaska Senate race; the New York Times, citing a dozen people, texts and documents, reports its aides worked with DSCC staff to recruit spoiler candidates",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+  },
+  {
+    "story_id": "20261028-midday",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.nytimes.com/2026/10/28/us/politics/alaska-dan-sullivan-conspiracy-peltola.html"
+  },
+  {
+    "story_id": "20261028-midday",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "The Alaskans for Mary campaign has no involvement with either Sullivan campaign and did not recruit any candidates into the race",
+    "new": "“The Alaskans for Mary campaign has no involvement with either Sullivan campaign and did not recruit any candidates into the race.” — Mary Peltola’s campaign, Alaskans for Mary, in a statement to the New York Times, Oct. 28, 2026",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://www.foxnews.com/politics/mary-peltola-campaign-dems-backed-covert-scheme-field-spoiler-candidates-alaska-senate-race-report"
+  },
+  {
+    "story_id": "20261027-evening",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "RFK Jr. says Arabs 'don't win the Nobel Prize' or the Wolf Prize and 'don't produce literature'; Nobel and Wolf Foundation records list Arab laureates in chemistry and literature",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.newsweek.com/rfk-jr-says-500m-arabs-dont-produce-science-at-michigan-rally-12622276"
+  },
+  {
+    "story_id": "20261027-evening",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.newsweek.com/rfk-jr-says-500m-arabs-dont-produce-science-at-michigan-rally-12622276",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.newsweek.com/rfk-jr-says-500m-arabs-dont-produce-science-at-michigan-rally-12622276"
+  },
+  {
+    "story_id": "20261027-evening",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "There's 500 million Arabs in the world. And yet they don't produce science. They don't win the Nobel Prize. They don't win the Fields Prize. They don't win the Wolf Prize. They don't produce literature.",
+    "new": "“There's 500 million Arabs in the world. And yet they don't produce science. They don't win the Nobel Prize. They don't win the Fields Prize. They don't win the Wolf Prize. They don't produce literature.” — Health and Human Services Secretary Robert F. Kennedy Jr. at a Republican campaign event in Grand Rapids, Mich., Oct. 26, 2026",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://apnews.com/article/trump-midterms-kennedy-arabs-michigan-2c91a731bb1b4dc5b7aeadf2fc6dff37"
+  },
+  {
+    "story_id": "20261027-midday",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Sam Stein shares a Bulwark/YouGov poll on how many NCAA athletes Americans think are transgender; the post matches the poll's published numbers, which are far above NCAA's own count",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://x.com/samstein/status/2115078660373745735"
+  },
+  {
+    "story_id": "20261027-midday",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://x.com/samstein/status/2115078660373745735",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://x.com/samstein/status/2115078660373745735"
+  },
+  {
+    "story_id": "20261027-morning",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Trump's Instagram touts a '40% drop in drug overdoses'; CDC data show a drop of about that size from the 2023 peak, but the decline began more than a year before he took office",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.instagram.com/p/De2HR7pvPG2/"
+  },
+  {
+    "story_id": "20261027-morning",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.instagram.com/p/De2HR7pvPG2/",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.instagram.com/p/De2HR7pvPG2/"
+  },
+  {
+    "story_id": "20261027-morning",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "40% drop in drug overdoses.",
+    "new": "“40% drop in drug overdoses.” — text on a post from President Donald Trump’s Instagram account (@realdonaldtrump), Oct. 23, 2026",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://www.instagram.com/p/De2HR7pvPG2/"
+  },
+  {
+    "story_id": "20261026-late",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "AG Todd Blanche says DOJ isn't trying to stop Alaska's certification; the department's own complaint asks the court to bar certifying any result 'impacted by voter confusion'",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://x.com/AGToddBlanche/status/2114072424815776119"
+  },
+  {
+    "story_id": "20261026-late",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://x.com/AGToddBlanche/status/2114072424815776119",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://x.com/AGToddBlanche/status/2114072424815776119"
+  },
+  {
+    "story_id": "20261026-late",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "The Department of Justice does not seek to stop any ballot from being cast or to stop the certification of Alaska's election.",
+    "new": "“The Department of Justice does not seek to stop any ballot from being cast or to stop the certification of Alaska's election.” — Attorney General Todd Blanche on X, Oct. 24, 2026",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://x.com/AGToddBlanche/status/2114072424815776119"
+  },
+  {
+    "story_id": "20261026-evening",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Trump says Brazil's election 'looked like another rigged election'; Brazil's electoral court shows Lula won by more than 4.4 million votes, and Trump offered no evidence",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.lbc.co.uk/article/trump-brazil-election-rigged-5HjdkT7_2/"
+  },
+  {
+    "story_id": "20261026-evening",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.lbc.co.uk/article/trump-brazil-election-rigged-5HjdkT7_2/",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.lbc.co.uk/article/trump-brazil-election-rigged-5HjdkT7_2/"
+  },
+  {
+    "story_id": "20261026-evening",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "It looked like another rigged election, frankly.",
+    "new": "“I didn't take sides, but it looked like another rigged election.” — President Donald Trump, speaking to reporters about Brazil's presidential runoff, Oct. 26, 2026, as quoted by LBC",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://www.lbc.co.uk/article/trump-brazil-election-rigged-5HjdkT7_2/"
+  },
+  {
+    "story_id": "20261026-midday",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Eric Daugherty posts that 'Ilhan Omar' on the ballot 'is not a real person'; the government's own court filing treats Ilhan Omar and her other legal name as the same congresswoman",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://x.com/EricLDaugh/status/2114712009132388412"
+  },
+  {
+    "story_id": "20261026-midday",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://x.com/EricLDaugh/status/2114712009132388412",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://x.com/EricLDaugh/status/2114712009132388412"
+  },
+  {
+    "story_id": "20261026-midday",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "Minnesota voters are choosing a GHOST CANDIDATE who is NOT REAL. \"Ilhan Omar\" as it appears on the ballot is not a real person!!",
+    "new": "“Minnesota voters are choosing a GHOST CANDIDATE who is NOT REAL. “Ilhan Omar” as it appears on the ballot is not a real person!!” — conservative commentator Eric Daugherty on X, Oct. 26, 2026",
+    "reason": "Rewrote the claim as a direct quote with the speaker named, as the story format requires; the wording was checked against the linked source.",
+    "source_url": "https://x.com/EricLDaugh/status/2114712009132388412"
+  },
+  {
+    "story_id": "20261026-morning",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Trump says Murkowski was thought to have 'came in second or third' before she 'won'; Alaska's official 2022 count shows she led on first-choice votes and in every round",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://www.trumpstruth.org/statuses/42712"
+  },
+  {
+    "story_id": "20261026-morning",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://www.trumpstruth.org/statuses/42712",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://www.trumpstruth.org/statuses/42712"
+  },
+  {
+    "story_id": "20261025-late",
+    "date": "2026-11-02",
+    "field": "outlet_url",
+    "what_changed": "outlet_url updated",
+    "old": "https://truthsocial.com/@realDonaldTrump",
+    "new": "https://truthsocial.com/@realDonaldTrump/117499714815544938",
+    "reason": "Pointed to the specific post instead of Trump's Truth Social profile page.",
+    "source_url": "https://truthsocial.com/@realDonaldTrump/117499714815544938"
+  },
+  {
+    "story_id": "20261025-late",
+    "date": "2026-11-02",
+    "field": "sources",
+    "what_changed": "sources updated",
+    "old": [
+      {
+        "title": "Bridge Michigan — Fact check: No evidence Abdul El-Sayed ‘pledged support’ to Muslim Brotherhood",
+        "url": "https://bridgemi.com/michigan-government/fact-check-no-evidence-abdul-el-sayed-pledged-support-to-muslim-brotherhood/"
+      },
+      {
+        "title": "Bridge Michigan — Fact check: Abdul El-Sayed not a ‘fake doctor’ or licensed physician",
+        "url": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-not-a-fake-doctor-or-licensed-physician/"
+      }
+    ],
+    "new": [
+      {
+        "title": "Donald J. Trump on Truth Social, Oct. 25, 2026, 12:42 a.m. ET (“Fake Doctor” post)",
+        "url": "https://truthsocial.com/@realDonaldTrump/117499714815544938"
+      },
+      {
+        "title": "Donald J. Trump on Truth Social, Oct. 25, 2026, 1:29 p.m. ET (“Heading to Michigan” post)",
+        "url": "https://truthsocial.com/@realDonaldTrump/117502729923088637"
+      },
+      {
+        "title": "Bridge Michigan — Fact check: No evidence Abdul El-Sayed ‘pledged support’ to Muslim Brotherhood",
+        "url": "https://bridgemi.com/michigan-government/fact-check-no-evidence-abdul-el-sayed-pledged-support-to-muslim-brotherhood/"
+      },
+      {
+        "title": "Bridge Michigan — Fact check: Abdul El-Sayed not a ‘fake doctor’ or licensed physician",
+        "url": "https://bridgemi.com/michigan-government/fact-check-abdul-el-sayed-not-a-fake-doctor-or-licensed-physician/"
+      }
+    ],
+    "reason": "Added both Truth Social posts the quoted words come from.",
+    "source_url": "https://truthsocial.com/@realDonaldTrump/117499714815544938"
+  },
+  {
+    "story_id": "20261025-late",
+    "date": "2026-11-02",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "",
+    "new": "Trump calls Abdul El-Sayed a 'Jihadist Member of the Muslim Brotherhood' and a 'Fake Doctor' who runs 'the WORST CLINIC IN AMERICA'; Bridge Michigan found no Brotherhood ties, a real Columbia medical degree, and no clinic",
+    "reason": "Added the required headline field, which was missing from this story.",
+    "source_url": "https://truthsocial.com/@realDonaldTrump/117499714815544938"
+  },
+  {
+    "story_id": "20261025-late",
+    "date": "2026-11-02",
+    "field": "source_url",
+    "what_changed": "source_url updated",
+    "old": "",
+    "new": "https://truthsocial.com/@realDonaldTrump/117499714815544938",
+    "reason": "Added the required source_url field, which was missing; it points to the page where the quoted claim was published.",
+    "source_url": "https://truthsocial.com/@realDonaldTrump/117499714815544938"
+  },
+  {
+    "story_id": "20261025-late",
+    "date": "2026-11-02",
+    "field": "claim",
+    "what_changed": "claim updated",
+    "old": "Heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood. Abdulrahman Mohamed El-Sayed is a Fake Doctor, who runs what is considered to be the WORST CLINIC IN AMERICA.",
+    "new": "“Heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood” and “He’s a Fake Doctor, who runs what is considered to be the WORST CLINIC IN AMERICA.” — President Donald Trump about Abdul El-Sayed in two Truth Social posts, Oct. 25, 2026",
+    "reason": "The old claim joined two separate Oct. 25 Truth Social posts into one quote and included a sentence (“Abdulrahman Mohamed El-Sayed is a Fake Doctor”) that appears in neither. It now quotes each post's exact words and names the speaker.",
+    "source_url": "https://truthsocial.com/@realDonaldTrump/117499714815544938"
+  },
+  {
+    "story_id": "20261025-late",
+    "date": "2026-11-02",
+    "field": "script",
+    "what_changed": "Aired script line annotated (script text not edited)",
+    "old": "“Late Check. A Truth Social post says the president is heading to Michigan to fight a Jihadist Member of the Muslim Brotherhood, a Fake Doctor who runs the worst clinic in America.”",
+    "new": "Note: the aired line describes a single Truth Social post. The Muslim Brotherhood line and the “Fake Doctor” / “WORST CLINIC” line come from two separate posts on Oct. 25, 2026 (the “Heading to Michigan” post at 1:29 p.m. ET and the “Fake Doctor” post at 12:42 a.m. ET). The verdict is unchanged.",
+    "reason": "The aired script is left unedited because it is the broadcast record.",
+    "source_url": "https://truthsocial.com/@realDonaldTrump/117499714815544938"
   }
 ]
