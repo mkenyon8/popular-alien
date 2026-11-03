@@ -1,5 +1,52 @@
 [
   {
+    "id": "20261103-reframe-qeshm-strikes-soft-war",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-03T12:00:00-06:00",
+    "label": "Story of the Day",
+    "claim": "US strikes Iran's Qeshm Island on midterm eve as Trump tells Fox 'this isn't a war'",
+    "outlet": "CNN",
+    "outlet_url": "https://www.cnn.com/2026/11/02/politics/us-strikes-iran-qeshm-island",
+    "source_url": "https://www.cnn.com/2026/11/02/politics/us-strikes-iran-qeshm-island",
+    "record_url": "https://apnews.com/article/iran-us-strikes-strait-hormuz-183b3d32d9bf5241f744abb917e6713e",
+    "record_title": "AP News coverage of the US strikes in the Strait of Hormuz (Nov 2026)",
+    "read": "CNN's report is careful and attributed. The claim that fails is the president's own: he said the US hadn't fired anything in months on the same day US forces struck Iran. Graded C overall across 4 arguments. President Donald Trump, 'this isn't a war': D. President Donald Trump, striking Pickaxe Mountain is 'not a big deal': D+. US officials, the strikes were defensive: C+. CNN: B+. Scorecard: 75% valid, 50% cogent, 38% supported, 80% fallacy-free.",
+    "grade": "C",
+    "scores": {
+      "valid": 75,
+      "cogent": 50,
+      "supported": 38,
+      "fallacy_free": 80
+    },
+    "why": "Trump told Fox News \"This isn't a war — it's a very soft war\" and asked when the US last fired anything, but three US officials told CNN that US forces struck Qeshm Island that same day, and the Wall Street Journal reports earlier strikes carried out in secret. Calling it not a war and then a 'soft war' in one breath is an equivocation. The key question: if US forces struck Qeshm Island that same day, how has there been no shooting for months? His claim that striking Pickaxe Mountain is 'not a big deal' ignores what follows a strike. The officials' 'defensive' label rests on unnamed sources. CNN attributes its claims, quotes Iran's side and flags unconfirmed reports, though it leans heavily on anonymous officials.",
+    "sources": [
+      {
+        "title": "CNN, Alayna Treene and Kevin Liptak, November 2, 2026",
+        "url": "https://www.cnn.com/2026/11/02/politics/us-strikes-iran-qeshm-island"
+      },
+      {
+        "title": "AP News coverage of the US strikes in the Strait of Hormuz (Nov 2026)",
+        "url": "https://apnews.com/article/iran-us-strikes-strait-hormuz-183b3d32d9bf5241f744abb917e6713e"
+      },
+      {
+        "title": "ABC News live updates on Iran (Nov 2026)",
+        "url": "https://abcnews.com/International/live-updates/iran-live-updates-trump-good-call-netanyahu/?id=137762456"
+      },
+      {
+        "title": "RFE/RL coverage (Nov 2026)",
+        "url": "https://www.rferl.org/a/33889371.html"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261103-qeshm-strikes-soft-war.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261103-qeshm-strikes-soft-war.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNN reports: US strikes Iran's Qeshm Island on midterm eve as Trump tells Fox 'this isn't a war'.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261103-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-03T11:45:00-06:00",
