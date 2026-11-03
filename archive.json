@@ -103,6 +103,54 @@
     "corrections": []
   },
   {
+    "id": "20261102-reframe-trump-25-trillion-investment",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-03T08:00:00-06:00",
+    "label": "ReFrame",
+    "claim": "Trump tells a Kansas rally the U.S. drew about $25 trillion in investment; the White House tracker shows $11.3 trillion",
+    "outlet": "Kansas City Star",
+    "outlet_url": "https://www.kansascity.com/news/politics-government/election/article317852807.html",
+    "source_url": "https://www.kansascity.com/news/politics-government/election/article317852807.html",
+    "record_url": "https://www.whitehouse.gov/investments/",
+    "record_title": "The White House, “The Trump Effect” investment tracker",
+    "read": "The Star's fact check holds up against the White House's own tracker, which totals about $11.3 trillion, less than half of the $22.5 trillion to $25 trillion Trump described. Graded C- overall across 2 arguments. President Trump's investment claim: D-. The Kansas City Star's fact check: A-. Scorecard: 100% valid, 50% cogent, 50% supported, 100% fallacy-free.",
+    "grade": "C-",
+    "scores": {
+      "valid": 100,
+      "cogent": 50,
+      "supported": 50,
+      "fallacy_free": 100
+    },
+    "why": "Trump told a rally in Salina, Kansas, that the U.S. has drawn about $25 trillion in investment since he took office, and that this is why plants are being built across the country. The reasoning would follow if the figure were right, but the White House's own tracker adds up to about $11.3 trillion, and that total includes domestic company pledges and country-level announcements, with roughly $5.2 trillion labeled as foreign government investment. The key question: if the tracker totals about $11.3 trillion, where does the rest of the $25 trillion come from? The Star's verdict rests on the administration's own record, with one small slip: it calls the whole $11.3 trillion foreign, which only widens the gap.",
+    "sources": [
+      {
+        "title": "Kansas City Star, Jack Harvel, “Live Fact Check: Here’s what Donald Trump got wrong in his second Kansas rally,” updated November 2, 2026",
+        "url": "https://www.kansascity.com/news/politics-government/election/article317852807.html"
+      },
+      {
+        "title": "The White House, “The Trump Effect” investment tracker",
+        "url": "https://www.whitehouse.gov/investments/"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261102-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261102-late.mp4"
+      },
+      {
+        "title": "ReFrame show page",
+        "url": "https://show.popularalien.com/"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261102-late.mp4",
+    "popart_story": "20261102-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Kansas City Star reports: Trump tells a Kansas rally the U.S. drew about 25 trillion dollars in investment; the White House tracker shows 11.3 trillion dollars.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261102-late",
     "slot": "Late Check",
     "aired_at": "2026-11-02T23:05:00-06:00",
