@@ -1,5 +1,45 @@
 [
   {
+    "id": "20261103-special-newsweek",
+    "slot": "Special",
+    "aired_at": "2026-11-03T13:24:53-06:00",
+    "headline": "Trump\u2019s closing pitch promises every adult $5,000 if the GOP wins, but no law authorizes or funds the checks",
+    "claim": "\u201cIf we win the election, everybody is going to get $5,000. Every adult is going to get $5,000, but you have to spend it in the United States of America.\u201d \u2014 President Donald Trump, remarks at the Lincoln Memorial Reflecting Pool, Nov. 2, 2026, as reported by Newsweek",
+    "outlet": "Newsweek, \u201cDonald Trump Dangles $5,000 Checks in Last Speech Before Midterms,\u201d November 3, 2026",
+    "outlet_url": "https://www.newsweek.com/donald-trump-dangles-5000-checks-midterms-12655322",
+    "source_url": "https://www.newsweek.com/donald-trump-dangles-5000-checks-midterms-12655322",
+    "record_url": "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/",
+    "record_title": "The White House, \u201cTrump Dividend: America Is Winning \u2014 and Americans Should Win With It,\u201d Sept. 10, 2026",
+    "verdict": "Missing context",
+    "why": "In the Roll Call Factba.se transcript of his Nov. 2 Reflecting Pool speech, Trump says \u201cif we win the election, everybody is going to get $5,000,\u201d but the only official document on the plan, the White House\u2019s Sept. 10 \u201cTrump Dividend\u201d release, names no funding source, administering agency, eligibility rules or payment date. No bill creating the payment has been introduced or passed; Sen. Bernie Moreno has said he will offer one only after the Nov. 3 election, and House Speaker Mike Johnson told the AP the payment needs congressional approval. So the pledge is a conditional campaign promise, not an authorized or funded program, and a Republican win alone would not put money in anyone\u2019s account.",
+    "what_would_change": "A bill authorizing and appropriating the $5,000 payments passing Congress and being signed, or Treasury/IRS publishing eligibility rules and a payment schedule, would make the promise a funded program; an enacted law or a court ruling showing the president can pay it without Congress would also change the verdict.",
+    "read": "In the Roll Call Factba.se transcript of his Nov. 2 Reflecting Pool speech, Trump says \u201cif we win the election, everybody is going to get $5,000,\u201d but the only official document on the plan, the White House\u2019s Sept. 10 \u201cTrump Dividend\u201d release, names no funding source, administering agency, eligibility rules or payment date. No bill creating the payment has been introduced or passed; Sen. Bernie Moreno has said he will offer one only after the Nov. 3 election, and House Speaker Mike Johnson told the AP the payment needs congressional approval. So the pledge is a conditional campaign promise, not an authorized or funded program, and a Republican win alone would not put money in anyone\u2019s account.",
+    "sources": [
+      {
+        "title": "Newsweek, \u201cDonald Trump Dangles $5,000 Checks in Last Speech Before Midterms,\u201d November 3, 2026",
+        "url": "https://www.newsweek.com/donald-trump-dangles-5000-checks-midterms-12655322"
+      },
+      {
+        "title": "The White House, \u201cTrump Dividend: America Is Winning \u2014 and Americans Should Win With It,\u201d Sept. 10, 2026",
+        "url": "https://www.whitehouse.gov/releases/2026/09/trump-dividend-america-is-winning-and-americans-should-win-with-it/"
+      },
+      {
+        "title": "Roll Call Factba.se, Speech: Donald Trump Delivers Midterm Remarks from the Lincoln Memorial, November 2, 2026",
+        "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-speech-midterm-lincoln-memorial-remarks-november-2-2026/"
+      },
+      {
+        "title": "AP News, \u201cJohnson says Trump's $5,000 'dividend' needs congressional approval\u201d",
+        "url": "https://apnews.com/article/trump-congress-5000-dividend-election-economy-437910454c66a3adbfd2f66dae20ad04"
+      },
+      {
+        "title": "WLWT, Sen. Bernie Moreno to \u201cget a bill ready\u201d for the Trump Dividend after Nov. 3",
+        "url": "https://www.wlwt.com/article/ohio-bernie-moreno-president-trump-divdend-midterm-promise/73667866"
+      }
+    ],
+    "video_url": "",
+    "corrections": []
+  },
+  {
     "id": "20261103-reframe-qeshm-strikes-soft-war",
     "slot": "ReFrame",
     "lead": true,
