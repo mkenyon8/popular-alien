@@ -1,7 +1,7 @@
 [
   {
     "id": "20261103-special-newsweek",
-    "slot": "Special",
+    "slot": "Midday Check",
     "aired_at": "2026-11-03T13:24:53-06:00",
     "headline": "Trump\u2019s closing pitch promises every adult $5,000 if the GOP wins, but no law authorizes or funds the checks",
     "claim": "\u201cIf we win the election, everybody is going to get $5,000. Every adult is going to get $5,000, but you have to spend it in the United States of America.\u201d \u2014 President Donald Trump, remarks at the Lincoln Memorial Reflecting Pool, Nov. 2, 2026, as reported by Newsweek",
@@ -37,6 +37,7 @@
       }
     ],
     "video_url": "",
+    "script": "Midday Check. In his last speech before the midterms, President Trump promised every adult five thousand dollars if Republicans win, as long as it's spent in America. The White House's own release on the Trump Dividend names no funding source, no agency and no payment date, and no bill creating the checks has passed Congress. Verdict: missing context.",
     "corrections": []
   },
   {
