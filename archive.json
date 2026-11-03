@@ -349,6 +349,50 @@
     "corrections": []
   },
   {
+    "id": "20261102-reframe-supreme-court-california-ballots-cnn",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-03T12:15:00-06:00",
+    "label": "ReFrame",
+    "claim": "CNN says the Supreme Court rejected Trump's California ballot request in a one-sentence order; the docket matches",
+    "outlet": "CNN",
+    "outlet_url": "https://www.cnn.com/2026/11/02/politics/trump-supreme-court-california-noncitizen-ballot",
+    "source_url": "https://www.cnn.com/2026/11/02/politics/trump-supreme-court-california-noncitizen-ballot",
+    "record_url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26A624.html",
+    "record_title": "Supreme Court of the United States, Docket No. 26A624, United States v. California, et al.",
+    "read": "CNN's core report matches the Supreme Court docket: the request was denied the day it was filed, in one sentence, with no noted dissents. Its reading of why the Court moved so fast is the reporters' inference, since the order gives no reasons. Graded B+ overall across 2 arguments. CNN's report of a one-sentence order with no noted dissents: A. CNN's framing that the fast decision showed the case was a reach: B-. Scorecard: 50% valid, 100% cogent, 75% supported, 100% fallacy-free.",
+    "grade": "B+",
+    "scores": {
+      "valid": 50,
+      "cogent": 100,
+      "supported": 75,
+      "fallacy_free": 100
+    },
+    "why": "CNN reported that the Supreme Court rejected the Trump administration's emergency request to set aside California ballots it says may have been cast by noncitizens, hours after it was filed, in a one-sentence order with no noted dissents. The Supreme Court's docket for No. 26A624 backs that up: it lists the application as filed, referred to the full Court and denied, all on Nov. 2, 2026, with no opinion, statement or noted dissent, and no response from California. CNN also wrote that the unusually fast decision underscored that the administration's case was a reach. The facts behind that are right, but the order gives no reasons, so that is the reporters' reading, not something the record says. The key question: if the order gives no reasons, how does its speed alone show the justices saw the case as a reach?",
+    "sources": [
+      {
+        "title": "CNN, John Fritze and Tierney Sneed, “Supreme Court rejects Trump’s attempt to segregate ballots in California,” November 2, 2026",
+        "url": "https://www.cnn.com/2026/11/02/politics/trump-supreme-court-california-noncitizen-ballot"
+      },
+      {
+        "title": "Supreme Court of the United States, Docket No. 26A624, United States v. California, et al.",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26A624.html"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261102-late-cnn"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261102-late-cnn.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261102-late-cnn.mp4",
+    "popart_story": "20261102-late-cnn",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNN reports: CNN says the Supreme Court rejected Trump's California ballot request in a one-sentence order; the docket matches.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261102-late",
     "slot": "Late Check",
     "aired_at": "2026-11-02T23:05:00-06:00",
