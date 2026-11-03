@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261103-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-03T11:45:00-06:00",
+    "headline": "FBI New Haven's official X account says Election Day is Wednesday; federal law sets it for Tuesday, Nov. 3",
+    "claim": "“Election day is Wednesday and the #FBI is working around the clock to ensure the midterms are safe.” — official X account of FBI New Haven (@FBINewHaven), Nov. 2, 2026, as documented by Lead Stories",
+    "outlet": "Lead Stories, Maarten Schenk, “Fact Check: U.S. Midterm Election Is NOT On Wednesday -- Despite What FBI New Haven Post Said,” November 3, 2026",
+    "outlet_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-fbi-new-haven-election-day-wednesday.html",
+    "source_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-fbi-new-haven-election-day-wednesday.html",
+    "record_url": "https://www.law.cornell.edu/uscode/text/2/7",
+    "record_title": "2 U.S. Code § 7, Time of election (Legal Information Institute, Cornell Law School)",
+    "verdict": "Contradicted",
+    "why": "Federal law, 2 U.S.C. 7, sets congressional Election Day as “the Tuesday next after the 1st Monday in November, in every even numbered year,” which in 2026 is Tuesday, Nov. 3, not Wednesday. The Congressional Research Service's Election Day FAQ likewise lists the next federal election as November 3, 2026. Lead Stories reports the post came from the FBI field office's official account, which the FBI website links to, and that it had asked the office for comment; the record shows the date was wrong, not why it was posted.",
+    "what_would_change": "Nothing in the record could make Wednesday correct for the federal election; a correction or deletion by FBI New Haven, or an FBI statement explaining the post, would be added as context but would not change the verdict.",
+    "read": "Federal law, 2 U.S.C. 7, sets congressional Election Day as “the Tuesday next after the 1st Monday in November, in every even numbered year,” which in 2026 is Tuesday, Nov. 3, not Wednesday. The Congressional Research Service's Election Day FAQ likewise lists the next federal election as November 3, 2026. Lead Stories reports the post came from the FBI field office's official account, which the FBI website links to, and that it had asked the office for comment; the record shows the date was wrong, not why it was posted.",
+    "sources": [
+      {
+        "title": "Lead Stories, Maarten Schenk, “Fact Check: U.S. Midterm Election Is NOT On Wednesday -- Despite What FBI New Haven Post Said,” November 3, 2026",
+        "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-fbi-new-haven-election-day-wednesday.html"
+      },
+      {
+        "title": "2 U.S. Code § 7, Time of election (Legal Information Institute, Cornell Law School)",
+        "url": "https://www.law.cornell.edu/uscode/text/2/7"
+      },
+      {
+        "title": "Congressional Research Service, Election Day: Frequently Asked Questions (R46413)",
+        "url": "https://www.everycrsreport.com/reports/R46413.html"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. The FBI's New Haven office posted on X that Election Day is Wednesday. Federal law sets it for the Tuesday after the first Monday in November, and that's today, Tuesday, November third. Verdict: contradicted.",
+    "corrections": []
+  },
+  {
+    "id": "20261103-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-03T11:45:00-06:00",
+    "headline": "Fox News says all but four states are holding legislative elections; NCSL's 2026 table shows races in 46 states",
+    "claim": "“Plus, all but four states are holding legislative elections. And voters will also weigh in on 145 statewide ballot measures in states from coast to coast.” — Fox News report by Paul Steinhauser, Nov. 3, 2026",
+    "outlet": "Fox News, Paul Steinhauser, “Election Day 2026 polls open with House and Senate control at stake,” November 3, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/battle-congress-just-beginning-heres-whats-stake-election-day",
+    "source_url": "https://www.foxnews.com/politics/battle-congress-just-beginning-heres-whats-stake-election-day",
+    "record_url": "https://www.ncsl.org/elections-and-campaigns/2026-legislative-races-by-state-and-chamber",
+    "record_title": "National Conference of State Legislatures, 2026 Legislative Races by State and Chamber",
+    "verdict": "Matches record",
+    "why": "The National Conference of State Legislatures says legislative races will be held in 46 states on Nov. 3, covering 88 of the nation's 99 chambers and 6,139 seats, and that Louisiana, Mississippi, New Jersey and Virginia hold no legislative races because they vote in odd-numbered years. That matches Fox's “all but four states.” On the secondary figure, NCSL's elections hub counts 146 statewide ballot measures in 39 states and the Northern Mariana Islands, one more than Fox's 145, a gap that likely reflects how each counts measures.",
+    "what_would_change": "An NCSL or state election office record showing a fifth state with no legislative races, or regular races in one of the four odd-year states, would move this to Contradicted; a final certified ballot-measure count well off 145 would add Missing context.",
+    "read": "The National Conference of State Legislatures says legislative races will be held in 46 states on Nov. 3, covering 88 of the nation's 99 chambers and 6,139 seats, and that Louisiana, Mississippi, New Jersey and Virginia hold no legislative races because they vote in odd-numbered years. That matches Fox's “all but four states.” On the secondary figure, NCSL's elections hub counts 146 statewide ballot measures in 39 states and the Northern Mariana Islands, one more than Fox's 145, a gap that likely reflects how each counts measures.",
+    "sources": [
+      {
+        "title": "Fox News, Paul Steinhauser, “Election Day 2026 polls open with House and Senate control at stake,” November 3, 2026",
+        "url": "https://www.foxnews.com/politics/battle-congress-just-beginning-heres-whats-stake-election-day"
+      },
+      {
+        "title": "National Conference of State Legislatures, 2026 Legislative Races by State and Chamber",
+        "url": "https://www.ncsl.org/elections-and-campaigns/2026-legislative-races-by-state-and-chamber"
+      },
+      {
+        "title": "NCSL State Elections 2026 hub (146 statewide ballot measures)",
+        "url": "https://www.ncsl.org/elections-and-campaigns/ncsl-state-elections-2026"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. Fox News says all but four states are holding legislative elections today. The National Conference of State Legislatures lists races in forty-six states, with Louisiana, Mississippi, New Jersey and Virginia sitting this year out. Verdict: matches the record.",
+    "corrections": []
+  },
+  {
+    "id": "20261103-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-03T11:45:00-06:00",
+    "headline": "CNN says 45 states are holding Senate or governor elections; the Senate roster, the special elections and the NGA list add up to 45",
+    "claim": "“The two sample sources combined will yield an in-depth look at the electorate nationally as well as in the 45 states holding US Senate or governor elections this midterm.” — CNN, Jennifer Agiesta and Ariel Edwards-Levy, Nov. 3, 2026",
+    "outlet": "CNN, Jennifer Agiesta and Ariel Edwards-Levy, “Exit polls have become the CNN Voter Poll. Here’s what that means,” November 3, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/03/politics/exit-polls-voter-poll",
+    "source_url": "https://www.cnn.com/2026/11/03/politics/exit-polls-voter-poll",
+    "record_url": "https://www.senate.gov/senators/Class_II.htm",
+    "record_title": "U.S. Senate, Class II — Senators Whose Terms of Service Expire in 2027",
+    "verdict": "Matches record",
+    "why": "The Senate's Class II roster lists 33 senators from 33 states whose terms expire in January 2027, and Ohio and Florida are also holding special Senate elections for the seats vacated by JD Vance and Marco Rubio, for 35 Senate states. The National Governors Association lists governor's races in 36 states, and 10 of them (Arizona, California, Connecticut, Hawaii, Maryland, Nevada, New York, Pennsylvania, Vermont and Wisconsin) have no Senate race, so the combined total is 45 states, as CNN says.",
+    "what_would_change": "A state election record showing a Senate or governor's race canceled or added for Nov. 3, 2026, would move this to Contradicted or Missing context.",
+    "read": "The Senate's Class II roster lists 33 senators from 33 states whose terms expire in January 2027, and Ohio and Florida are also holding special Senate elections for the seats vacated by JD Vance and Marco Rubio, for 35 Senate states. The National Governors Association lists governor's races in 36 states, and 10 of them (Arizona, California, Connecticut, Hawaii, Maryland, Nevada, New York, Pennsylvania, Vermont and Wisconsin) have no Senate race, so the combined total is 45 states, as CNN says.",
+    "sources": [
+      {
+        "title": "CNN, Jennifer Agiesta and Ariel Edwards-Levy, “Exit polls have become the CNN Voter Poll. Here’s what that means,” November 3, 2026",
+        "url": "https://www.cnn.com/2026/11/03/politics/exit-polls-voter-poll"
+      },
+      {
+        "title": "U.S. Senate, Class II — Senators Whose Terms of Service Expire in 2027",
+        "url": "https://www.senate.gov/senators/Class_II.htm"
+      },
+      {
+        "title": "National Governors Association, 2026 Gubernatorial Elections",
+        "url": "https://www.nga.org/governors/elections/"
+      },
+      {
+        "title": "Florida Division of Elections, 2026 General Election candidate listing, U.S. Senator",
+        "url": "https://dos.elections.myflorida.com/candidates/CanList.asp?OfficeCode=USS&elecID=20261103-GEN"
+      },
+      {
+        "title": "Ballotpedia, Special elections to the 119th United States Congress (2025-2026)",
+        "url": "https://ballotpedia.org/Special_elections_to_the_119th_United_States_Congress_(2025-2026)"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. CNN says forty-five states are holding Senate or governor elections today. Thirty-three regular Senate races, two special Senate races in Ohio and Florida, and ten more states with only a governor's race add up to forty-five. Verdict: matches the record.",
+    "corrections": []
+  },
+  {
     "id": "20261103-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-03T06:50:00-06:00",
