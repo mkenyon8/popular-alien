@@ -151,6 +151,50 @@
     "corrections": []
   },
   {
+    "id": "20261102-reframe-kagan-california-ballots",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-03T10:00:00-06:00",
+    "label": "ReFrame",
+    "claim": "Fox News says Justice Kagan denied the California ballot request alone; the docket says she referred it to the full Court",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/supreme-court-denies-trump-admin-request-reverse-block-segregating-20k-california-ballots",
+    "source_url": "https://www.foxnews.com/politics/supreme-court-denies-trump-admin-request-reverse-block-segregating-20k-california-ballots",
+    "record_url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26A624.html",
+    "record_title": "Supreme Court of the United States, Docket No. 26A624, United States v. California, et al.",
+    "read": "Fox gets the outcome right, a denial without explanation on the eve of the election, but its key detail is the opposite of the docket, which says Justice Kagan referred the application to the full Court and the Court denied it. Graded C- overall across 2 arguments. Fox News' claim that Kagan did not refer the request to the other justices: D. Fox News' report that the Supreme Court rejected the request: A-. Scorecard: 50% valid, 50% cogent, 50% supported, 100% fallacy-free.",
+    "grade": "C-",
+    "scores": {
+      "valid": 50,
+      "cogent": 50,
+      "supported": 50,
+      "fallacy_free": 100
+    },
+    "why": "Fox News reported that Justice Elena Kagan denied the Trump administration's request to segregate more than 20,000 California mail-in ballots without comment, and that she did not refer it to the other justices. A denial without comment does not tell us who decided it, and the Supreme Court's docket for No. 26A624 answers the question directly: it lists the application as \"referred to the Court\" and records that the application \"presented to Justice Kagan and by her referred to the Court is denied.\" The key question: if the docket says Justice Kagan referred the application to the Court, how was it denied without going to the other justices? Fox's opening line, that the Supreme Court rejected the request on Nov. 2, matches the record.",
+    "sources": [
+      {
+        "title": "Fox News, Eric Mack, Louis Casiano, Bill Mears and Shannon Bream, “SCOTUS rejects Trump administration bid to segregate California mail-in ballots,” November 2, 2026",
+        "url": "https://www.foxnews.com/politics/supreme-court-denies-trump-admin-request-reverse-block-segregating-20k-california-ballots"
+      },
+      {
+        "title": "Supreme Court of the United States, Docket No. 26A624, United States v. California, et al.",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26A624.html"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261102-late-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261102-late-fox.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261102-late-fox.mp4",
+    "popart_story": "20261102-late-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News says Justice Kagan denied the California ballot request alone; the docket says she referred it to the full Court.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261102-late",
     "slot": "Late Check",
     "aired_at": "2026-11-02T23:05:00-06:00",
