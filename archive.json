@@ -1,5 +1,57 @@
 [
   {
+    "id": "20261103-reframe-donalds-first-black-gop-governor-fox",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-04T05:56:00-06:00",
+    "label": "ReFrame",
+    "claim": "Fox News says Byron Donalds is Florida's first Black governor and the first Black Republican ever elected governor; Florida's results and the governors' records back that up",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/trump-backed-byron-donalds-make-history-floridas-first-black-governor",
+    "source_url": "https://www.foxnews.com/politics/trump-backed-byron-donalds-make-history-floridas-first-black-governor",
+    "record_url": "https://www.nga.org/governor/pinckney-benton-stewart-pinchback/",
+    "record_title": "National Governors Association, “Gov. Pinckney Benton Stewart Pinchback” (Louisiana, took office by succession, 1872)",
+    "read": "Fox News reports that Rep. Byron Donalds won Florida's governor race, becoming the state's first Black governor and the first Black Republican ever elected governor in the U.S. Florida's unofficial results and the AP call back the win, and the governors' record shows the only earlier Black Republican governor took office by succession, not election. Graded A- across 1 argument; the one caution is that 'made history' runs ahead of certification. Scorecard: 100% valid, 100% cogent, 100% supported, 100% fallacy-free.",
+    "grade": "A-",
+    "scores": {
+      "valid": 100,
+      "cogent": 100,
+      "supported": 100,
+      "fallacy_free": 100
+    },
+    "why": "Florida Election Watch shows Donalds ahead of Democrat David Jolly 4,126,452 votes to 4,015,316, and the AP also called the race for him. The National Governors Association record shows Louisiana Republican P.B.S. Pinchback became governor when Gov. Henry Warmoth was removed and served 36 days without being elected, so the 'first elected' wording holds. The only caution is timing: the results are unofficial until Florida certifies them, and the story says 'made history' on a projection.",
+    "sources": [
+      {
+        "title": "Fox News, Paul Steinhauser and Morgan Phillips, “Trump-backed Byron Donalds to make history as Florida’s first Black governor,” November 3, 2026",
+        "url": "https://www.foxnews.com/politics/trump-backed-byron-donalds-make-history-floridas-first-black-governor"
+      },
+      {
+        "title": "National Governors Association, “Gov. Pinckney Benton Stewart Pinchback” (Louisiana, took office by succession, 1872)",
+        "url": "https://www.nga.org/governor/pinckney-benton-stewart-pinchback/"
+      },
+      {
+        "title": "Florida Division of Elections, Florida Election Watch, Governor and Lieutenant Governor results",
+        "url": "https://floridaelectionwatch.gov/StateOffices"
+      },
+      {
+        "title": "AP News, “Republican Byron Donalds is elected Florida’s first Black governor,” November 3, 2026",
+        "url": "https://apnews.com/article/florida-governors-race-david-jolly-byron-donalds-48210ca332e8615a15c63c604f7f165e"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261103-late-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261103-late-fox.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261103-late-fox.mp4",
+    "popart_story": "20261103-late-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News says Byron Donalds is Florida's first Black governor and the first Black Republican ever elected governor; Florida's results and the governors' records back that up.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261103-reframe-sullivan-kidnapped-claim-irish-star",
     "slot": "ReFrame",
     "lead": false,
