@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261104-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-04T06:40:00-06:00",
+    "headline": "Trump tells Fox News his first two years were 'the greatest two years in the history of the presidency' for the economy; the government's own GDP figures show 2025 grew slower than 2021, 2023 or 2024",
+    "claim": "“We’ve had the greatest two years in the history of the presidency, in terms of the economy, in terms of all the things we have done.” — President Donald Trump, Fox News phone interview on election night, Nov. 3-4, 2026, as quoted by The Daily Beast",
+    "outlet": "The Daily Beast, “Defeated Trump’s Late-Night Call Devolves Into Breathless Tirade,” November 4, 2026",
+    "outlet_url": "https://www.thedailybeast.com/defeated-trumps-late-night-call-devolves-into-breathless-tirade",
+    "source_url": "https://www.thedailybeast.com/defeated-trumps-late-night-call-devolves-into-breathless-tirade",
+    "record_url": "https://fred.stlouisfed.org/series/A191RL1A225NBEA",
+    "record_title": "U.S. Bureau of Economic Analysis, Real Gross Domestic Product, percent change from preceding year (FRED series A191RL1A225NBEA)",
+    "verdict": "Contradicted",
+    "why": "The Bureau of Economic Analysis puts real GDP growth for 2025, Trump's first full year back in office, at 2.3 percent, below 2024 (3.0 percent), 2023 (2.9 percent) and 2021 (6.3 percent), and far below years like 1950 (8.7 percent) and 1984 (7.2 percent). Quarterly growth in 2026 has run at annual rates of 2.5, 2.2 and 3.4 percent, which is solid but not a record. On the most common yardstick for the economy, the record does not support 'greatest in history,' though the 'all the things we have done' part is a matter of opinion.",
+    "what_would_change": "A different economic measure on which 2025-2026 actually ranks first in the historical record, or large upward BEA revisions to 2025 and 2026 growth, would move this toward missing context.",
+    "read": "The Bureau of Economic Analysis puts real GDP growth for 2025, Trump's first full year back in office, at 2.3 percent, below 2024 (3.0 percent), 2023 (2.9 percent) and 2021 (6.3 percent), and far below years like 1950 (8.7 percent) and 1984 (7.2 percent). Quarterly growth in 2026 has run at annual rates of 2.5, 2.2 and 3.4 percent, which is solid but not a record. On the most common yardstick for the economy, the record does not support 'greatest in history,' though the 'all the things we have done' part is a matter of opinion.",
+    "sources": [
+      {
+        "title": "The Daily Beast, “Defeated Trump’s Late-Night Call Devolves Into Breathless Tirade,” November 4, 2026",
+        "url": "https://www.thedailybeast.com/defeated-trumps-late-night-call-devolves-into-breathless-tirade"
+      },
+      {
+        "title": "U.S. Bureau of Economic Analysis via FRED, Real GDP percent change from preceding year (annual)",
+        "url": "https://fred.stlouisfed.org/series/A191RL1A225NBEA"
+      },
+      {
+        "title": "U.S. Bureau of Economic Analysis, GDP (Advance Estimate), 3rd Quarter 2026, released October 29, 2026",
+        "url": "https://www.bea.gov/data/gdp/gross-domestic-product"
+      },
+      {
+        "title": "LiveNOW from FOX, “Trump claims GOP would have won ‘IN A LANDSLIDE’ if he were on ballot,” November 4, 2026",
+        "url": "https://www.livenowfox.com/news/donald-trump-reacts-election-2026"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. President Trump told Fox News his first two years were the greatest in presidential history for the economy. The government's own GDP numbers show 2025 grew 2.3 percent, slower than 2021, 2023 or 2024. Verdict: contradicted.",
+    "corrections": []
+  },
+  {
+    "id": "20261104-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-04T06:40:00-06:00",
+    "headline": "Fox News says Democrats flipped Senate seats in Kansas and South Carolina, two states Trump carried by double digits in 2024; the FEC's official 2024 results back that up, and Texas too",
+    "claim": "“Democrats’ sweeping gains extended beyond Texas, with Senate upsets in Kansas and South Carolina, two states Trump carried by double digits in 2024.” — Fox News, Amanda Macias, Nov. 4, 2026",
+    "outlet": "Fox News, Amanda Macias, “America saw the blue wave coming — but drastically underestimated the extent of the Dem tsunami,” November 4, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/america-saw-blue-wave-coming-drastically-underestimated-extent-dem-tsunami",
+    "source_url": "https://www.foxnews.com/politics/america-saw-blue-wave-coming-drastically-underestimated-extent-dem-tsunami",
+    "record_url": "https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf",
+    "record_title": "Federal Election Commission, “Official 2024 Presidential General Election Results” (source: state elections offices)",
+    "verdict": "Matches record",
+    "why": "The FEC's official 2024 tally shows Trump won Kansas 758,802 to 544,853, about 57.2 to 41.0 percent, a 16-point margin, and South Carolina 1,483,747 to 1,028,452, about 58.2 to 40.4 percent, an 18-point margin. The same record shows Texas at 6,393,597 to 4,835,250, about 13.7 points, so the story's 'double digits' line about Texas also holds. The 2026 Senate wins themselves are still unofficial projections until the states certify.",
+    "what_would_change": "Different certified 2024 totals from the Kansas, South Carolina or Texas election offices, or a canvass that reverses the 2026 Senate results in Kansas or South Carolina, would change this.",
+    "read": "The FEC's official 2024 tally shows Trump won Kansas 758,802 to 544,853, about 57.2 to 41.0 percent, a 16-point margin, and South Carolina 1,483,747 to 1,028,452, about 58.2 to 40.4 percent, an 18-point margin. The same record shows Texas at 6,393,597 to 4,835,250, about 13.7 points, so the story's 'double digits' line about Texas also holds. The 2026 Senate wins themselves are still unofficial projections until the states certify.",
+    "sources": [
+      {
+        "title": "Fox News, “America saw the blue wave coming — but drastically underestimated the extent of the Dem tsunami,” November 4, 2026",
+        "url": "https://www.foxnews.com/politics/america-saw-blue-wave-coming-drastically-underestimated-extent-dem-tsunami"
+      },
+      {
+        "title": "Federal Election Commission, Official 2024 Presidential General Election Results",
+        "url": "https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. Fox News says Democrats flipped Senate seats in Kansas and South Carolina, two states Trump carried by double digits in 2024. The FEC's official count shows margins of about 16 and 18 points. Verdict: matches record.",
+    "corrections": []
+  },
+  {
+    "id": "20261104-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-04T06:40:00-06:00",
+    "headline": "CNN says Democrats flipped seven Republican-held Senate seats and now hold 54 seats to the GOP's 44; the Senate's own roster shows all seven were Republican seats and the math adds up",
+    "claim": "“Flipped seats: Democrats flipped seven Republican-held Senate seats, as they are projected to win the races in Iowa, Kansas, Maine, North Carolina, Ohio, South Carolina and Texas.” — CNN, midterm election live coverage, Nov. 4, 2026",
+    "outlet": "CNN, “Voters deliver stunning rebuke of Trump as Democrats take control of House and Senate,” live coverage, November 4, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress",
+    "source_url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress",
+    "record_url": "https://www.senate.gov/senators/index.htm",
+    "record_title": "U.S. Senate, Senators of the 119th Congress (roster and official contact list: 53 Republicans, 45 Democrats, 2 independents)",
+    "verdict": "Matches record",
+    "why": "The Senate's current roster lists Republicans in every one of those seats: Ernst (Iowa), Marshall (Kansas), Collins (Maine), Tillis (North Carolina), Husted (Ohio, special election), Graham (South Carolina) and Cornyn (Texas). The roster shows 53 Republicans and 47 senators who are Democrats or caucus with them, so seven flips gives Democrats 54, and with Alaska and Mississippi still uncalled Republicans sit at 44, exactly CNN's count. The wins are network projections, not certified results.",
+    "what_would_change": "A recount or certified canvass that reverses any of the seven projected races, or a projection retraction by CNN's Decision Desk, would change this.",
+    "read": "The Senate's current roster lists Republicans in every one of those seats: Ernst (Iowa), Marshall (Kansas), Collins (Maine), Tillis (North Carolina), Husted (Ohio, special election), Graham (South Carolina) and Cornyn (Texas). The roster shows 53 Republicans and 47 senators who are Democrats or caucus with them, so seven flips gives Democrats 54, and with Alaska and Mississippi still uncalled Republicans sit at 44, exactly CNN's count. The wins are network projections, not certified results.",
+    "sources": [
+      {
+        "title": "CNN, midterm election live coverage, November 4, 2026",
+        "url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress"
+      },
+      {
+        "title": "U.S. Senate, Senators of the 119th Congress",
+        "url": "https://www.senate.gov/senators/index.htm"
+      },
+      {
+        "title": "U.S. Senate, senators contact information (XML roster with party and class)",
+        "url": "https://www.senate.gov/general/contact_information/senators_cfm.xml"
+      },
+      {
+        "title": "Fox News, “STATE OF PLAY: Blue wave sweeps Democrats into power,” November 4, 2026",
+        "url": "https://www.foxnews.com/politics/state-of-play-blue-wave-sweeps-democrats-into-power-key-races-still-hanging-balance"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. CNN says Democrats flipped seven Republican Senate seats and now hold 54 to the GOP's 44. The Senate's own roster shows all seven were Republican seats, and the count adds up. Verdict: matches record.",
+    "corrections": []
+  },
+  {
     "id": "20261103-reframe-donalds-first-black-gop-governor-fox",
     "slot": "ReFrame",
     "lead": false,
