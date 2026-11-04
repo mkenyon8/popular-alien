@@ -154,6 +154,50 @@
     "corrections": []
   },
   {
+    "id": "20261103-reframe-andrews-sc-senate-seat-cnn",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-04T09:50:00-06:00",
+    "label": "ReFrame",
+    "claim": "CNN says Annie Andrews flipped a South Carolina Senate seat Republicans held for 'nearly three decades'; the Senate's records show that seat has been Republican since Strom Thurmond switched parties in 1964",
+    "outlet": "CNN",
+    "outlet_url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/03/democrat-annie-andrews-will-unseat-gop-sen-darline-graham-in-south-carolina-cnn-projects/",
+    "source_url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/03/democrat-annie-andrews-will-unseat-gop-sen-darline-graham-in-south-carolina-cnn-projects/",
+    "record_url": "https://www.senate.gov/states/SC/senators.htm",
+    "record_title": "U.S. Senate, “States in the Senate: South Carolina Senators” (Class 2 roster)",
+    "read": "CNN projects Democrat Annie Andrews will defeat Sen. Darline Graham in South Carolina and says she is flipping a seat Republicans have held for nearly three decades. The Senate's roster shows the seat passed from Strom Thurmond, a Republican since 1964, to Lindsey Graham and then Darline Graham, so Republicans have held it for about 62 years; the 28-year figure fits the last Democratic Senate win, Fritz Hollings in 1998. The 'first woman elected' line checks out. Graded C+ across 2 arguments (C and A-), no fallacies found.",
+    "grade": "C+",
+    "scores": {
+      "valid": 100,
+      "cogent": 50,
+      "supported": 50,
+      "fallacy_free": 100
+    },
+    "why": "The projection and the 'first woman' line check out against the Senate roster, but the seat's Republican streak is about 62 years, not nearly three decades.",
+    "sources": [
+      {
+        "title": "CNN, Dianne Gallagher, “Democrat Annie Andrews will unseat GOP Sen. Darline Graham in South Carolina, CNN projects,” November 3, 2026 (via KESQ / CNN Newsource)",
+        "url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/03/democrat-annie-andrews-will-unseat-gop-sen-darline-graham-in-south-carolina-cnn-projects/"
+      },
+      {
+        "title": "U.S. Senate, “States in the Senate: South Carolina Senators” (Class 2 roster)",
+        "url": "https://www.senate.gov/states/SC/senators.htm"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261103-late-cnn"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261103-late-cnn.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261103-late-cnn.mp4",
+    "popart_story": "20261103-late-cnn",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNN reports: CNN says Annie Andrews flipped a South Carolina Senate seat Republicans held for 'nearly three decades'; the Senate's records show that seat has been Republican since Strom Thurmond switched parties in 1964.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261103-reframe-donalds-first-black-gop-governor-fox",
     "slot": "ReFrame",
     "lead": false,
