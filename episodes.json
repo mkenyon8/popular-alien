@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261103-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-03T23:10:00-06:00",
+    "headline": "Trump posts that Alaska Senate candidate Daniel J. Sullivan Jr. is a 'fake' who may have been 'kidnapped' by Democratic lawyers; the state lists him as a certified candidate and no record shows he is missing",
+    "claim": "“FAKE ALASKA CANDIDATE DANIAL J. SULLIVAN, JR., IS MISSING IN ACTION! HE HAS TOTALLY DISAPPEARED, GONE! NOBODY HAS BEEN ABLE TO FIND HIM. MAYBE HE HAS BEEN ‘KIDNAPPED’ BY THE CORRUPT DUMOCRAT LAWYERS???” — President Donald Trump, Truth Social post at 1:12 a.m., Nov. 3, 2026, as quoted by the Irish Star",
+    "outlet": "Irish Star, Reanna Smith, “Trump makes last-ditch ‘election fraud’ claim in 1am Truth Social midterms post,” November 3, 2026",
+    "outlet_url": "https://www.irishstar.com/news/us-news/trump-makes-last-ditch-election-37836920",
+    "source_url": "https://www.irishstar.com/news/us-news/trump-makes-last-ditch-election-37836920",
+    "record_url": "https://www.elections.alaska.gov/election-candidates/",
+    "record_title": "Alaska Division of Elections, “Election Candidates” list, United States Senator (2026)",
+    "verdict": "Unverifiable",
+    "why": "The Alaska Division of Elections lists “Sullivan, Daniel J. Jr.” of Petersburg as a certified U.S. Senate candidate, so he is a real, qualified candidate on the ballot, separate from Sen. Dan S. Sullivan. The New York Post reported he left Petersburg in late October, was seen on a flight to Anchorage and did not answer messages on Election Day, but no police agency or court record cited in coverage says he is missing, and no record supports the suggestion that Democratic lawyers took him. Whether his candidacy was recruited to split the vote, as the New York Post says the New York Times reported, is a separate question still under investigation.",
+    "what_would_change": "A police missing-person report, a court filing or a statement from Sullivan or his family about his whereabouts would settle the disappearance claim; a finding by investigators or a court about who recruited him would settle whether he was a plant.",
+    "read": "The Alaska Division of Elections lists “Sullivan, Daniel J. Jr.” of Petersburg as a certified U.S. Senate candidate, so he is a real, qualified candidate on the ballot, separate from Sen. Dan S. Sullivan. The New York Post reported he left Petersburg in late October, was seen on a flight to Anchorage and did not answer messages on Election Day, but no police agency or court record cited in coverage says he is missing, and no record supports the suggestion that Democratic lawyers took him. Whether his candidacy was recruited to split the vote, as the New York Post says the New York Times reported, is a separate question still under investigation.",
+    "sources": [
+      {
+        "title": "Irish Star, “Trump makes last-ditch ‘election fraud’ claim in 1am Truth Social midterms post,” November 3, 2026",
+        "url": "https://www.irishstar.com/news/us-news/trump-makes-last-ditch-election-37836920"
+      },
+      {
+        "title": "Alaska Division of Elections, “Election Candidates” list",
+        "url": "https://www.elections.alaska.gov/election-candidates/"
+      },
+      {
+        "title": "New York Post, “Alaska Senate candidate ‘Decoy’ Dan Sullivan missing on Election Day as Trump alleges ‘criminal act’,” November 3, 2026",
+        "url": "https://nypost.com/2026/11/03/us-news/alaska-senate-candidate-decoy-dan-sullivan-missing-on-election-day-as-trump-alleges-criminal-act/"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. President Trump posted that Alaska Senate candidate Daniel J. Sullivan Junior is a fake who may have been kidnapped by Democratic lawyers. The state lists him as a certified candidate, and no police or court record says he is missing. Verdict: unverifiable.",
+    "corrections": []
+  },
+  {
+    "id": "20261103-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-03T23:10:00-06:00",
+    "headline": "Fox News says Byron Donalds is Florida's first Black governor and the first Black Republican ever elected governor; Florida's results and the governors' records back that up",
+    "claim": "“Rep. Byron Donalds just made history as the first Black politician to win a gubernatorial election in Florida as Fox News Decision Desk projected the congressman winning Tuesday's election. He is also the first Black Republican in the nation's history elected governor.” — Fox News, Paul Steinhauser and Morgan Phillips, Nov. 3, 2026",
+    "outlet": "Fox News, “Trump-backed Byron Donalds to make history as Florida’s first Black governor,” November 3, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/trump-backed-byron-donalds-make-history-floridas-first-black-governor",
+    "source_url": "https://www.foxnews.com/politics/trump-backed-byron-donalds-make-history-floridas-first-black-governor",
+    "record_url": "https://www.nga.org/governor/pinckney-benton-stewart-pinchback/",
+    "record_title": "National Governors Association, “Gov. Pinckney Benton Stewart Pinchback” (Louisiana, Republican, Dec. 8, 1872 - Jan. 1873, status: succeeded)",
+    "verdict": "Matches record",
+    "why": "Florida's Election Watch results show Donalds leading Democrat David Jolly 4,126,452 votes to 4,015,316, about 50.0 percent to 48.7 percent, and the Associated Press also called the race for him. The National Governors Association's record shows the first Black governor of any state, Louisiana Republican P.B.S. Pinchback, took office by succession after Gov. Henry Warmoth was removed and served 36 days without being elected, so Donalds is the first Black Republican to win a governor's election. The results are unofficial until Florida certifies them.",
+    "what_would_change": "A certified Florida canvass reversing the result, or a record of an earlier Black Republican who won a governor's election in any state, would move this to Contradicted.",
+    "read": "Florida's Election Watch results show Donalds leading Democrat David Jolly 4,126,452 votes to 4,015,316, about 50.0 percent to 48.7 percent, and the Associated Press also called the race for him. The National Governors Association's record shows the first Black governor of any state, Louisiana Republican P.B.S. Pinchback, took office by succession after Gov. Henry Warmoth was removed and served 36 days without being elected, so Donalds is the first Black Republican to win a governor's election. The results are unofficial until Florida certifies them.",
+    "sources": [
+      {
+        "title": "Fox News, “Trump-backed Byron Donalds to make history as Florida’s first Black governor,” November 3, 2026",
+        "url": "https://www.foxnews.com/politics/trump-backed-byron-donalds-make-history-floridas-first-black-governor"
+      },
+      {
+        "title": "Florida Division of Elections, Florida Election Watch, Governor and Lieutenant Governor results",
+        "url": "https://floridaelectionwatch.gov/StateOffices"
+      },
+      {
+        "title": "National Governors Association, Gov. Pinckney Benton Stewart Pinchback",
+        "url": "https://www.nga.org/governor/pinckney-benton-stewart-pinchback/"
+      },
+      {
+        "title": "AP News, “Republican Byron Donalds is elected Florida’s first Black governor,” November 3, 2026",
+        "url": "https://apnews.com/article/florida-governors-race-david-jolly-byron-donalds-48210ca332e8615a15c63c604f7f165e"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. Fox News says Byron Donalds is Florida's first Black governor and the first Black Republican ever elected governor. Florida's results show him winning, and the only earlier Black Republican governor, Louisiana's P.B.S. Pinchback, took office by succession. Verdict: matches the record.",
+    "corrections": []
+  },
+  {
+    "id": "20261103-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-03T23:10:00-06:00",
+    "headline": "CNN says Annie Andrews flipped a South Carolina Senate seat Republicans held for 'nearly three decades'; the Senate's records show that seat has been Republican since Strom Thurmond switched parties in 1964",
+    "claim": "“Democrat Annie Andrews will win the U.S. Senate race in South Carolina, CNN’s Decision Desk projects, defeating Sen. Darline Graham and flipping a seat that Republicans have held for nearly three decades.” — CNN, Dianne Gallagher, Nov. 3, 2026 (CNN Newsource story as published by KESQ)",
+    "outlet": "CNN, Dianne Gallagher, “Democrat Annie Andrews will unseat GOP Sen. Darline Graham in South Carolina, CNN projects,” November 3, 2026 (via KESQ / CNN Newsource)",
+    "outlet_url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/03/democrat-annie-andrews-will-unseat-gop-sen-darline-graham-in-south-carolina-cnn-projects/",
+    "source_url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/03/democrat-annie-andrews-will-unseat-gop-sen-darline-graham-in-south-carolina-cnn-projects/",
+    "record_url": "https://www.senate.gov/states/SC/senators.htm",
+    "record_title": "U.S. Senate, “States in the Senate: South Carolina Senators” (Class 2 roster)",
+    "verdict": "Contradicted",
+    "why": "The Senate's South Carolina roster shows the Class 2 seat Andrews won passed from Strom Thurmond (1956-2003) to Lindsey Graham (2003-2026) to Darline Graham, and the Senate's party-switch list shows Thurmond became a Republican on Sept. 16, 1964, so Republicans have held the seat for about 62 years, not nearly three decades. The 28-year figure matches a different fact in the same story: the last Democrat to win a South Carolina Senate race was Fritz Hollings in 1998. The projection itself and Andrews being the state's first woman elected to the Senate are consistent with the roster.",
+    "what_would_change": "A Senate record showing the Class 2 seat was held by a Democrat at some point after 1964 would move this to Matches record; a CNN correction clarifying it meant the last Democratic Senate win would resolve the discrepancy.",
+    "read": "The Senate's South Carolina roster shows the Class 2 seat Andrews won passed from Strom Thurmond (1956-2003) to Lindsey Graham (2003-2026) to Darline Graham, and the Senate's party-switch list shows Thurmond became a Republican on Sept. 16, 1964, so Republicans have held the seat for about 62 years, not nearly three decades. The 28-year figure matches a different fact in the same story: the last Democrat to win a South Carolina Senate race was Fritz Hollings in 1998. The projection itself and Andrews being the state's first woman elected to the Senate are consistent with the roster.",
+    "sources": [
+      {
+        "title": "CNN, “Democrat Annie Andrews will unseat GOP Sen. Darline Graham in South Carolina, CNN projects,” November 3, 2026 (via KESQ)",
+        "url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/03/democrat-annie-andrews-will-unseat-gop-sen-darline-graham-in-south-carolina-cnn-projects/"
+      },
+      {
+        "title": "U.S. Senate, South Carolina Senators",
+        "url": "https://www.senate.gov/states/SC/senators.htm"
+      },
+      {
+        "title": "U.S. Senate, Senators Who Changed Parties During Senate Service (Since 1890)",
+        "url": "https://www.senate.gov/senators/SenatorsWhoChangedPartiesDuringSenateService.htm"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. CNN says Annie Andrews flipped a South Carolina Senate seat Republicans held for nearly three decades. The Senate's records show that seat has been Republican since Strom Thurmond switched parties in 1964, about 62 years. Verdict: contradicted by the record.",
+    "corrections": []
+  },
+  {
     "id": "20261103-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-03T17:45:00-06:00",
