@@ -1,5 +1,49 @@
 [
   {
+    "id": "20261103-reframe-sullivan-kidnapped-claim-irish-star",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-04T03:50:00-06:00",
+    "label": "ReFrame",
+    "claim": "Trump says Alaska Senate candidate Daniel J. Sullivan Jr. may have been 'kidnapped'; no record shows he is missing",
+    "outlet": "Irish Star",
+    "outlet_url": "https://www.irishstar.com/news/us-news/trump-makes-last-ditch-election-37836920",
+    "source_url": "https://www.irishstar.com/news/us-news/trump-makes-last-ditch-election-37836920",
+    "record_url": "https://www.elections.alaska.gov/election-candidates/",
+    "record_title": "Alaska Division of Elections, “Election Candidates” list, United States Senator (2026)",
+    "read": "Trump's Truth Social post suggests Alaska Senate candidate Daniel J. Sullivan Jr. may have been kidnapped by Democratic lawyers, but the state lists him as a certified candidate and no police or court record cited in coverage says he is missing. The Irish Star relays the post and the court ruling accurately, with some heated wording of its own. Graded C- overall across 2 arguments. Trump's suggestion that Sullivan was kidnapped: D. The Irish Star's report that Trump made a last-ditch election fraud claim: B-. Scorecard: 50% valid, 50% cogent, 25% supported, 80% fallacy-free.",
+    "grade": "C-",
+    "scores": {
+      "valid": 50,
+      "cogent": 50,
+      "supported": 25,
+      "fallacy_free": 80
+    },
+    "why": "In a Truth Social post at 1:12 a.m. on Election Day, President Trump called Alaska Senate candidate Daniel J. Sullivan Jr. a fake who had disappeared and suggested he may have been kidnapped by Democratic lawyers. The Alaska Division of Elections lists Sullivan, Daniel J. Jr. of Petersburg as a certified U.S. Senate candidate, separate from Sen. Dan S. Sullivan. The New York Post reported he left Petersburg in late October and did not answer messages on Election Day, but no police agency or court record cited in coverage says he is missing, and nothing supports the suggestion that anyone took him. The Irish Star quotes the post and the court ruling accurately, though words like 'meltdown' and 'ranted' are opinion, and it calls Sullivan an independent while the state list shows him as a registered Republican. The key question: if no police or court record says he is missing, what evidence shows that anyone took him?",
+    "sources": [
+      {
+        "title": "Irish Star, Reanna Smith, “Trump makes last-ditch ‘election fraud’ claim in 1am Truth Social midterms post,” November 3, 2026",
+        "url": "https://www.irishstar.com/news/us-news/trump-makes-last-ditch-election-37836920"
+      },
+      {
+        "title": "Alaska Division of Elections, “Election Candidates” list, United States Senator (2026)",
+        "url": "https://www.elections.alaska.gov/election-candidates/"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Unverifiable)",
+        "url": "https://popularalien.com/story/20261103-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261103-late.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261103-late.mp4",
+    "popart_story": "20261103-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Irish Star reports: Trump says Alaska Senate candidate Daniel J. Sullivan Jr. may have been 'kidnapped'; no record shows he is missing.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261103-late",
     "slot": "Late Check",
     "aired_at": "2026-11-03T23:10:00-06:00",
