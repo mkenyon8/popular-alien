@@ -1,5 +1,56 @@
 [
   {
+    "id": "20261104-reframe-trump-not-on-ballot",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-04T07:56:00-06:00",
+    "label": "Story of the Day",
+    "claim": "Trump says GOP lost because he wasn't on ballot, 'willing to accept' results",
+    "outlet": "Axios",
+    "outlet_url": "https://www.axios.com/2026/11/04/trump-republicans-midterms-2026-landslide-blue-wave",
+    "source_url": "https://www.axios.com/2026/11/04/trump-republicans-midterms-2026-landslide-blue-wave",
+    "record_url": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-live-updates-rcna607376",
+    "record_title": "NBC News election results live blog and exit polls (Nov 2026)",
+    "read": "Axios reports the reaction accurately and flags the unsupported part. The claims that fail are the president's own. Graded C- overall across 4 arguments. President Donald Trump, 'if I was on the ballot we would have won in a landslide': D. President Donald Trump, Fox News 'bears responsibility for these losses': F. President Donald Trump, 'I don't view it as a hit on me': D. Axios: B+. Scorecard: 25% valid, 25% cogent, 25% supported, 60% fallacy-free.",
+    "grade": "C-",
+    "scores": {
+      "valid": 25,
+      "cogent": 25,
+      "supported": 25,
+      "fallacy_free": 60
+    },
+    "why": "Trump wrote on Truth Social that he wasn't on the ballot and 'if I was, we would have won IN A LANDSLIDE!' A claim about an election that never happened can't be checked, and NBC News exit polls put his disapproval at 62%, with nearly half of voters saying they saw the election as a chance to rebuke him. The key question: if nearly half of voters saw this election as a chance to rebuke Trump, how would his name on the ballot have helped? Blaming Fox News for putting Democrats on the air is a false cause, made without evidence, as Axios notes. Saying the losses weren't 'a hit on me' because the candidates 'were not my friend' is special pleading, since several Trump-backed candidates lost too. Axios quotes him directly and labels the unsupported claim, though its early-night tallies were outdated by morning.",
+    "sources": [
+      {
+        "title": "Axios, Josephine Walker, November 4, 2026",
+        "url": "https://www.axios.com/2026/11/04/trump-republicans-midterms-2026-landslide-blue-wave"
+      },
+      {
+        "title": "NBC News election results live blog and exit polls (Nov 2026)",
+        "url": "https://www.nbcnews.com/politics/2026-election/live-blog/election-results-house-senate-trump-live-updates-rcna607376"
+      },
+      {
+        "title": "CBS News: Trump's election-night call with Democrats (Nov 2026)",
+        "url": "https://www.cbsnews.com/news/trump-congratulates-democrats-election-night-call/"
+      },
+      {
+        "title": "LAist: Trump reacts to 2026 election results",
+        "url": "https://laist.com/news/politics/voter-guides/2026-election-trump-reacts-results"
+      },
+      {
+        "title": "The New York Times: Trump on the midterm results (Nov 3, 2026)",
+        "url": "https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261104-trump-not-on-ballot.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261104-trump-not-on-ballot.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Axios reports: Trump says GOP lost because he wasn't on ballot, 'willing to accept' results.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261104-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-04T06:40:00-06:00",
