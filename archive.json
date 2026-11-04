@@ -1,5 +1,104 @@
 [
   {
+    "id": "20261104-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-04T17:40:00-06:00",
+    "headline": "A viral post claims Ken Paxton called Talarico's Texas Senate win unfair and demanded an investigation; Paxton conceded on election night and the quote has no record behind it",
+    "claim": "“It is simply not possible for somebody with the radical ideology of James Talarico to win an election in Texas fairly.” — statement attributed to Ken Paxton in a viral X image styled as an NBC News graphic, Nov. 4, 2026",
+    "outlet": "Viral X post (about 700,000 views, per DW), Nov. 4, 2026",
+    "outlet_url": "https://www.yahoo.com/news/politics/articles/supposed-ken-paxton-call-investigate-214927408.html",
+    "source_url": "https://www.yahoo.com/news/politics/articles/supposed-ken-paxton-call-investigate-214927408.html",
+    "record_url": "https://www.usatoday.com/videos/news/2026/11/04/paxton-concedes-talarico-texas-midterm-election/92605156007/",
+    "record_title": "USA Today video, “‘We've had a difficult night’: Paxton concedes to Talarico in Texas,” Nov. 4, 2026",
+    "verdict": "Contradicted",
+    "why": "Paxton's own election-night speech, on video, is a concession in which he congratulated Talarico and said “We've had a difficult night tonight across the country.” AFP found no legitimate report of the quoted statement, no such quote in NBC's election-night broadcast transcript, and a chyron that doesn't match NBC's “Decision 2026” design. The words in the image are not on the record as Paxton's.",
+    "what_would_change": "A statement released by Paxton or his campaign, or broadcast footage of him saying these words, would move this to matches record.",
+    "read": "Paxton's own election-night speech, on video, is a concession in which he congratulated Talarico and said “We've had a difficult night tonight across the country.” AFP found no legitimate report of the quoted statement, no such quote in NBC's election-night broadcast transcript, and a chyron that doesn't match NBC's “Decision 2026” design. The words in the image are not on the record as Paxton's.",
+    "sources": [
+      {
+        "title": "AFP Fact Check (via Yahoo News), “Supposed Ken Paxton call to investigate Senate defeat is fabricated,” Nov. 4, 2026",
+        "url": "https://www.yahoo.com/news/politics/articles/supposed-ken-paxton-call-investigate-214927408.html"
+      },
+      {
+        "title": "USA Today video, Paxton concedes to Talarico, Nov. 4, 2026",
+        "url": "https://www.usatoday.com/videos/news/2026/11/04/paxton-concedes-talarico-texas-midterm-election/92605156007/"
+      },
+      {
+        "title": "DW Fact check, “Examining viral narratives after the US midterm elections,” Nov. 4, 2026",
+        "url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. A viral image says Ken Paxton called Talarico's win unfair and demanded an investigation. On election night Paxton conceded and congratulated Talarico, and fact-checkers found no record of that quote. Verdict: contradicted.",
+    "corrections": []
+  },
+  {
+    "id": "20261104-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-04T17:40:00-06:00",
+    "headline": "Trump tells reporters, in remarks reported by Fox News, that the Iran war drove gasoline up 'a little bit short term'; EIA data show prices more than $1.10 a gallon above a year ago and above $4 for months",
+    "claim": "“I think it's largely true because it drove the gasoline up a little bit short term.” — President Donald Trump, remarks to reporters reported by Fox News, Nov. 4, 2026",
+    "outlet": "Fox News, “Trump 'couldn't transfer the love' of his supporters to other Republicans amid historic midterm loss,” Nov. 4, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/trump-couldnt-transfer-love-supporters-other-republicans-amid-historic-midterm-loss",
+    "source_url": "https://www.foxnews.com/politics/trump-couldnt-transfer-love-supporters-other-republicans-amid-historic-midterm-loss",
+    "record_url": "https://www.eia.gov/petroleum/gasdiesel/",
+    "record_title": "U.S. Energy Information Administration, Gasoline and Diesel Fuel Update, release of Nov. 3, 2026 (week of Nov. 2)",
+    "verdict": "Contradicted",
+    "why": "EIA's weekly survey puts the U.S. average for regular gas at $4.153 a gallon for the week of Nov. 2, which is $1.134 higher than a year ago and $1.084 higher than two years ago. EIA's October outlook says September gasoline averaged $4.35, and prices stayed above $4.15 every week through the election, so the rise was neither small nor brief. Trump is right that prices went up and that EIA ties them to higher crude prices, but “a little bit short term” does not match the size or length of the increase.",
+    "what_would_change": "EIA data showing that the national average had returned to roughly year-earlier levels before Election Day, or that the increase lasted only a few weeks, would move this toward matches record.",
+    "read": "EIA's weekly survey puts the U.S. average for regular gas at $4.153 a gallon for the week of Nov. 2, which is $1.134 higher than a year ago and $1.084 higher than two years ago. EIA's October outlook says September gasoline averaged $4.35, and prices stayed above $4.15 every week through the election, so the rise was neither small nor brief. Trump is right that prices went up and that EIA ties them to higher crude prices, but “a little bit short term” does not match the size or length of the increase.",
+    "sources": [
+      {
+        "title": "Fox News, Trump 'couldn't transfer the love', Nov. 4, 2026",
+        "url": "https://www.foxnews.com/politics/trump-couldnt-transfer-love-supporters-other-republicans-amid-historic-midterm-loss"
+      },
+      {
+        "title": "EIA, Gasoline and Diesel Fuel Update, Nov. 3, 2026",
+        "url": "https://www.eia.gov/petroleum/gasdiesel/"
+      },
+      {
+        "title": "EIA, Short-Term Energy Outlook, October 2026",
+        "url": "https://www.eia.gov/outlooks/steo/archives/Oct26.pdf"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. Trump says the Iran war drove gas up a little bit, short term. Government data show regular gas at four fifteen a gallon, more than a dollar ten above a year ago, and above four dollars for months. Verdict: contradicted.",
+    "corrections": []
+  },
+  {
+    "id": "20261104-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-04T17:40:00-06:00",
+    "headline": "CNN says Democrats won statewide in Texas for the first time since 1994; the Texas Secretary of State's 1994 results show Democrats won five statewide offices that year",
+    "claim": "“Democrats win statewide in Texas for the first time since 1994.” — CNN, midterm takeaways by Eric Bradner, Patrick Svitek and Kevin Liptak, Nov. 4, 2026",
+    "outlet": "CNN, “A historic blue wave, a stunning rejection of Trump and other takeaways from the midterms,” Nov. 4, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/03/politics/midterm-election-night-takeaways",
+    "source_url": "https://www.cnn.com/2026/11/03/politics/midterm-election-night-takeaways",
+    "record_url": "https://elections.sos.state.tx.us/elchist11_state.htm",
+    "record_title": "Texas Secretary of State, 1994 General Election results (Nov. 8, 1994)",
+    "verdict": "Matches record",
+    "why": "The Secretary of State's official 1994 canvass shows Democrats winning lieutenant governor (Bob Bullock, 61.48%), attorney general (Dan Morales, 53.70%), comptroller (John Sharp, 55.48%), state treasurer (Martha Whitehead, 50.30%) and land commissioner (Garry Mauro, 50.19%), even as Ann Richards lost the governor's race. That fits CNN's line that 1994 was the last year Democrats won statewide before Gina Hinojosa and James Talarico won on Nov. 3, 2026.",
+    "what_would_change": "An official Texas canvass showing a Democrat winning any statewide race, including a statewide judicial seat, between 1995 and 2025 would move this to contradicted.",
+    "read": "The Secretary of State's official 1994 canvass shows Democrats winning lieutenant governor (Bob Bullock, 61.48%), attorney general (Dan Morales, 53.70%), comptroller (John Sharp, 55.48%), state treasurer (Martha Whitehead, 50.30%) and land commissioner (Garry Mauro, 50.19%), even as Ann Richards lost the governor's race. That fits CNN's line that 1994 was the last year Democrats won statewide before Gina Hinojosa and James Talarico won on Nov. 3, 2026.",
+    "sources": [
+      {
+        "title": "CNN, midterm takeaways, Nov. 4, 2026",
+        "url": "https://www.cnn.com/2026/11/03/politics/midterm-election-night-takeaways"
+      },
+      {
+        "title": "Texas Secretary of State, 1994 General Election results",
+        "url": "https://elections.sos.state.tx.us/elchist11_state.htm"
+      },
+      {
+        "title": "Texas Tribune, 1994 General Election results",
+        "url": "https://elections.texastribune.org/texas-election-results/texas-1994-general-election/"
+      }
+    ],
+    "video_url": "",
+    "script": "Evening Check. CNN says Democrats won statewide in Texas for the first time since 1994. The state's official 1994 results show Democrats won five statewide offices that year, including lieutenant governor and attorney general. Verdict: matches record.",
+    "corrections": []
+  },
+  {
     "id": "20261104-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-04T11:40:00-06:00",
