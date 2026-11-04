@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261104-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-04T11:40:00-06:00",
+    "headline": "Vance says Trump himself blamed the Iran war for the GOP's midterm losses; on Fox, Trump said 'a part of it was Iran' but also 'I don't think it's the war, I think it's the gasoline price'",
+    "claim": "“The reason we lost is the war. The president himself said so last night.” — Vice President JD Vance, post on X, Nov. 4, 2026",
+    "outlet": "JD Vance on X, November 4, 2026 (about 11 million views)",
+    "outlet_url": "https://x.com/JDVance/status/2118004988433641835",
+    "source_url": "https://x.com/JDVance/status/2118004988433641835",
+    "record_url": "https://www.foxnews.com/politics/trump-pledges-veto-insane-dem-bills-pinpoints-issue-partially-blame-republican-losses",
+    "record_title": "Fox News, “Trump vows to veto ‘insane’ Democratic bills after midterm losses,” Nov. 4, 2026, quoting Trump's election-night remarks on Fox News Channel",
+    "verdict": "Missing context",
+    "why": "On Fox News on election night Trump did say “I think a part of it was Iran,” so Vance is right that the president tied the losses to the war in some way. But in the same coverage Trump told Bret Baier “I don't think it's the war, Bret, I think it's the gasoline price,” and said people “agree with what I'm doing on Iran.” Trump called the war one factor and pointed mainly to gas prices, which is not the same as saying the war was the reason.",
+    "what_would_change": "A recording or transcript of a different Trump remark on Nov. 3-4 in which he names the war itself as the main reason Republicans lost would move this to matches record.",
+    "read": "On Fox News on election night Trump did say “I think a part of it was Iran,” so Vance is right that the president tied the losses to the war in some way. But in the same coverage Trump told Bret Baier “I don't think it's the war, Bret, I think it's the gasoline price,” and said people “agree with what I'm doing on Iran.” Trump called the war one factor and pointed mainly to gas prices, which is not the same as saying the war was the reason.",
+    "sources": [
+      {
+        "title": "JD Vance, post on X, Nov. 4, 2026",
+        "url": "https://x.com/JDVance/status/2118004988433641835"
+      },
+      {
+        "title": "Fox News, “Trump vows to veto ‘insane’ Democratic bills after midterm losses,” Nov. 4, 2026",
+        "url": "https://www.foxnews.com/politics/trump-pledges-veto-insane-dem-bills-pinpoints-issue-partially-blame-republican-losses"
+      },
+      {
+        "title": "Mediaite, “Fox News Anchor Presses Trump On Iran Regrets After Midterm Thumping,” Nov. 4, 2026",
+        "url": "https://www.mediaite.com/media/tv/fox-news-anchor-presses-trump-on-iran-regrets-after-midterm-thumping/"
+      },
+      {
+        "title": "CNN, midterm election live coverage, Nov. 4, 2026",
+        "url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. JD Vance says the president himself blamed the Iran war for the midterm losses. On Fox, Trump said part of it was Iran, but also said, I don't think it's the war, it's the gasoline price. Verdict: missing context.",
+    "corrections": []
+  },
+  {
+    "id": "20261104-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-04T11:40:00-06:00",
+    "headline": "Fox News says Gina Hinojosa's win ended 36 years of Republican control of the Texas governor's office; the state's own records show Republicans have held it since January 1995, about 32 years",
+    "claim": "“Hinojosa framed the race as a fight against an affordability crisis … a message that carried her to victory and ended 36 years of Republican control of the governor’s office.” — Fox News, Elaine Mallon, Nov. 4, 2026",
+    "outlet": "Fox News, Elaine Mallon, “From Texas to Kansas, 6 stunning midterm results that upended the political map,” November 4, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/from-texas-kansas-6-stunning-midterm-results-upended-political-map",
+    "source_url": "https://www.foxnews.com/politics/from-texas-kansas-6-stunning-midterm-results-upended-political-map",
+    "record_url": "https://www.tsl.texas.gov/governors/modern/page3.html",
+    "record_title": "Texas State Library and Archives Commission, “Portraits of Texas Governors: Modern Texas Part 3, 1991-present”",
+    "verdict": "Contradicted",
+    "why": "The Texas State Library lists Democrat Ann Richards as governor from January 15, 1991, to January 17, 1995, followed by Republicans George W. Bush, Rick Perry and Greg Abbott. That makes the Republican hold about 32 years when Hinojosa takes office in January 2027, not 36. The 36-year figure matches the time since a Democrat last won the office, Richards in 1990, and CNN described it as 'more than three decades.'",
+    "what_would_change": "An official Texas record showing a Republican governor in office from 1991 to 1995, or a Fox correction explaining a different way of counting, would change this.",
+    "read": "The Texas State Library lists Democrat Ann Richards as governor from January 15, 1991, to January 17, 1995, followed by Republicans George W. Bush, Rick Perry and Greg Abbott. That makes the Republican hold about 32 years when Hinojosa takes office in January 2027, not 36. The 36-year figure matches the time since a Democrat last won the office, Richards in 1990, and CNN described it as 'more than three decades.'",
+    "sources": [
+      {
+        "title": "Fox News, “From Texas to Kansas, 6 stunning midterm results that upended the political map,” Nov. 4, 2026",
+        "url": "https://www.foxnews.com/politics/from-texas-kansas-6-stunning-midterm-results-upended-political-map"
+      },
+      {
+        "title": "Texas State Library and Archives, Portraits of Texas Governors, 1991-present",
+        "url": "https://www.tsl.texas.gov/governors/modern/page3.html"
+      },
+      {
+        "title": "Texas Legislative Reference Library, Governor Ann W. Richards",
+        "url": "https://lrl.texas.gov/legeLeaders/governors/govPage.cfm?governorID=42"
+      },
+      {
+        "title": "Texas Legislative Reference Library, Governor George W. Bush",
+        "url": "https://lrl.texas.gov/legeleaders/governors/govPage.cfm?governorID=43"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. Fox News says Gina Hinojosa's win ended 36 years of Republican control of the Texas governor's office. State records show Republicans took over in January 1995, about 32 years ago. Verdict: contradicted.",
+    "corrections": []
+  },
+  {
+    "id": "20261104-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-04T11:40:00-06:00",
+    "headline": "CNN says a 1978 law lets federal courts force compliance with Senate subpoenas as Democrats plan probes of the Trump administration; the law carves out executive branch officials who claim a government privilege",
+    "claim": "“The Senate has much more clearly defined legal power to sue in court to force compliance with its probes. A law passed in 1978 explicitly gives federal courts the authority to order compliance with subpoenas issued by the Senate that meet certain conditions.” — CNN, Maureen Chowdhury, Katelyn Polantz and Tierney Sneed, Nov. 4, 2026",
+    "outlet": "CNN, “What Democratic control of Congress could mean,” midterm election live coverage, November 4, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress",
+    "source_url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress",
+    "record_url": "https://www.law.cornell.edu/uscode/text/28/1365",
+    "record_title": "28 U.S. Code § 1365, Senate actions (added by Pub. L. 95-521, the Ethics in Government Act, Oct. 26, 1978)",
+    "verdict": "Missing context",
+    "why": "The statute is real: Public Law 95-521, signed Oct. 26, 1978, gives the federal court in Washington power to order people to comply with Senate subpoenas and to hold them in contempt. But the law says it does not apply to subpoenas sent to executive branch officers acting in their official capacity when they refuse on the basis of a government privilege the executive branch has authorized. CNN does say 'certain conditions,' but in a story about investigating the Trump administration, that carve-out matters most, since it covers the officials most likely to resist.",
+    "what_would_change": "A court ruling or a later amendment that applies Section 1365 to executive branch officials claiming government privilege would move this to matches record.",
+    "read": "The statute is real: Public Law 95-521, signed Oct. 26, 1978, gives the federal court in Washington power to order people to comply with Senate subpoenas and to hold them in contempt. But the law says it does not apply to subpoenas sent to executive branch officers acting in their official capacity when they refuse on the basis of a government privilege the executive branch has authorized. CNN does say 'certain conditions,' but in a story about investigating the Trump administration, that carve-out matters most, since it covers the officials most likely to resist.",
+    "sources": [
+      {
+        "title": "CNN, midterm election live coverage, Nov. 4, 2026",
+        "url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress"
+      },
+      {
+        "title": "28 U.S. Code § 1365, Senate actions (Cornell LII)",
+        "url": "https://www.law.cornell.edu/uscode/text/28/1365"
+      }
+    ],
+    "video_url": "",
+    "script": "Midday Check. CNN says a 1978 law lets courts force people to comply with Senate subpoenas. That's true, but the law leaves out executive branch officials who claim a government privilege. Verdict: missing context.",
+    "corrections": []
+  },
+  {
     "id": "20261104-reframe-trump-not-on-ballot",
     "slot": "ReFrame",
     "lead": true,
