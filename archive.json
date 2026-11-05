@@ -1,5 +1,100 @@
 [
   {
+    "id": "20261104-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-04T23:10:00-06:00",
+    "headline": "The Maine Wire posts Lewiston polling-place video as proof of 'a highly coordinated scheme to steal an election'; Maine law lets voters who can't read or mark a ballot get help from a person they choose",
+    "claim": "“A highly coordinated scheme to steal an election is happening in real time.” — The Maine Wire, in an X post with Lewiston, Maine, polling-place security video, viewed more than 700,000 times (per DW), Nov. 2026",
+    "outlet": "DW Fact check, Josh Axelrod, “Examining viral narratives after the US midterm elections,” Nov. 4, 2026",
+    "outlet_url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311",
+    "source_url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311",
+    "record_url": "https://legislature.maine.gov/statutes/21-A/title21-Asec672.html",
+    "record_title": "Maine Revised Statutes, Title 21-A, §672, “Assistance” (Office of the Revisor of Statutes)",
+    "verdict": "Missing context",
+    "why": "Maine's election code says a voter who can't read or mark the ballot because of physical disability, illiteracy or religious faith may ask another person, who need not even be a voter, to help read or mark it according to the voter's wishes, so a man helping voters at a booth is not by itself a violation. The video appears genuine, but DW reports the Secretary of State's office said it had no credible reports of interpreters committing fraud, and no record shown in the post ties the footage to a coordinated scheme. The law does bar the helper from telling voters how to vote, which the video alone can't establish either way.",
+    "what_would_change": "Evidence that the helper chose voters' candidates for them or marked ballots against their wishes, such as a finding by Maine's Secretary of State, the U.S. Attorney's review or a court, would move this toward Matches record; a closed review finding no violation would move it to Contradicted.",
+    "read": "Maine's election code says a voter who can't read or mark the ballot because of physical disability, illiteracy or religious faith may ask another person, who need not even be a voter, to help read or mark it according to the voter's wishes, so a man helping voters at a booth is not by itself a violation. The video appears genuine, but DW reports the Secretary of State's office said it had no credible reports of interpreters committing fraud, and no record shown in the post ties the footage to a coordinated scheme. The law does bar the helper from telling voters how to vote, which the video alone can't establish either way.",
+    "sources": [
+      {
+        "title": "DW Fact check, “Examining viral narratives after the US midterm elections,” Nov. 4, 2026",
+        "url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311"
+      },
+      {
+        "title": "Maine Revised Statutes, Title 21-A, §672, Assistance",
+        "url": "https://legislature.maine.gov/statutes/21-A/title21-Asec672.html"
+      },
+      {
+        "title": "Maine Revised Statutes, Title 21-A, §671, Voting procedure",
+        "url": "https://legislature.maine.gov/statutes/21-A/title21-Asec671.html"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. The Maine Wire says Lewiston polling-place video shows a coordinated scheme to steal the election. Maine law lets voters who can't read or mark a ballot get help from a person they choose, and the state reports no credible interpreter-fraud complaints. Verdict: missing context.",
+    "corrections": []
+  },
+  {
+    "id": "20261104-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-04T23:10:00-06:00",
+    "headline": "Fox News says Peggy Flanagan's Minnesota Senate win isn't a GOP loss because 'the seat was already blue'; the Senate's roster shows Democrat Tina Smith has held it since 2018 and Republicans last won it in 2002",
+    "claim": "“While her win over Tafoya, who was backed by President Donald Trump, is a positive for Democrats in their pursuit of power in the upper chamber, it's not necessarily a negative for Republicans, given that the seat was already blue.” — Fox News, Alex Miller, Nov. 4, 2026",
+    "outlet": "Fox News, Alex Miller, “Trump-backed ex-NFL reporter loses Senate race to progressive who vowed to 'rip ICE apart',” Nov. 4, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/trump-backed-ex-nfl-reporter-loses-senate-race-progressive-who-vowed-rip-ice-apart",
+    "source_url": "https://www.foxnews.com/politics/trump-backed-ex-nfl-reporter-loses-senate-race-progressive-who-vowed-rip-ice-apart",
+    "record_url": "https://www.senate.gov/states/MN/senators.htm",
+    "record_title": "U.S. Senate, “States in the Senate: Minnesota Senators” (Class 2 roster)",
+    "verdict": "Matches record",
+    "why": "The Senate's Minnesota roster lists Democrat Tina Smith in the Class 2 seat since Jan. 3, 2018, after Democrat Al Franken, so Flanagan's win keeps a Democratic seat rather than flipping one. The same roster shows the last Republican to hold it was Norm Coleman, who served 2003 to 2009 after winning in 2002. Fox's own story also notes Flanagan beat Michele Tafoya, which a Tafoya concession supports.",
+    "what_would_change": "A Senate record showing the seat was held by a Republican or independent going into the 2026 election, or certified Minnesota results showing Tafoya won, would move this verdict.",
+    "read": "The Senate's Minnesota roster lists Democrat Tina Smith in the Class 2 seat since Jan. 3, 2018, after Democrat Al Franken, so Flanagan's win keeps a Democratic seat rather than flipping one. The same roster shows the last Republican to hold it was Norm Coleman, who served 2003 to 2009 after winning in 2002. Fox's own story also notes Flanagan beat Michele Tafoya, which a Tafoya concession supports.",
+    "sources": [
+      {
+        "title": "Fox News, Flanagan defeats Tafoya in Minnesota Senate race, Nov. 4, 2026",
+        "url": "https://www.foxnews.com/politics/trump-backed-ex-nfl-reporter-loses-senate-race-progressive-who-vowed-rip-ice-apart"
+      },
+      {
+        "title": "U.S. Senate, Minnesota Senators",
+        "url": "https://www.senate.gov/states/MN/senators.htm"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. Fox News says Peggy Flanagan's Minnesota win wasn't a Republican loss because the seat was already blue. The Senate's roster shows Democrat Tina Smith has held it since 2018, and Republicans last won it in 2002. Verdict: matches the record.",
+    "corrections": []
+  },
+  {
+    "id": "20261104-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-04T23:10:00-06:00",
+    "headline": "CNN says Keisha Lance Bottoms will be Georgia's first woman and first African American governor; the state's governor roster back to 1776 lists no woman and no Black governor",
+    "claim": "“Democrat Keisha Lance Bottoms will win Georgia’s gubernatorial race and become the first Black female governor in U.S. history, CNN’s Decision Desk projects. The former Atlanta mayor also will make Georgia history as the first African American and the first woman elected to the role.” — CNN, Fredreka Schouten, Nov. 3, 2026 (CNN Newsource story as published by KEYT)",
+    "outlet": "CNN, Fredreka Schouten, “Democrat Keisha Lance Bottoms will win Georgia governor race, CNN projects,” Nov. 3, 2026 (via KEYT / CNN Newsource)",
+    "outlet_url": "https://keyt.com/news/national-world/cnn-national/2026/11/03/democrat-keisha-lance-bottoms-will-win-georgia-governor-race-cnn-projects/",
+    "source_url": "https://keyt.com/news/national-world/cnn-national/2026/11/03/democrat-keisha-lance-bottoms-will-win-georgia-governor-race-cnn-projects/",
+    "record_url": "https://www.nga.org/former-governors/georgia/",
+    "record_title": "National Governors Association, “Former Governors – Georgia” roster",
+    "verdict": "Matches record",
+    "why": "The National Governors Association's Georgia roster runs from Archibald Bulloch in 1776 through Nathan Deal, who left in 2019, and every governor on it is a man; incumbent Brian Kemp is also a man. The roster doesn't list race, but none of the Georgia governors on it appears among the handful of Black governors in U.S. history, all of them men, which is consistent with CNN's 'first Black female governor' line. The same roster shows the last Democrat, Roy Barnes, left office in 2003, matching CNN's note about years of Republican control.",
+    "what_would_change": "A record of a woman or Black person serving as Georgia governor before 2027, or certified results showing Bottoms did not win, would move this to Contradicted.",
+    "read": "The National Governors Association's Georgia roster runs from Archibald Bulloch in 1776 through Nathan Deal, who left in 2019, and every governor on it is a man; incumbent Brian Kemp is also a man. The roster doesn't list race, but none of the Georgia governors on it appears among the handful of Black governors in U.S. history, all of them men, which is consistent with CNN's 'first Black female governor' line. The same roster shows the last Democrat, Roy Barnes, left office in 2003, matching CNN's note about years of Republican control.",
+    "sources": [
+      {
+        "title": "CNN, “Democrat Keisha Lance Bottoms will win Georgia governor race, CNN projects,” Nov. 3, 2026 (via KEYT)",
+        "url": "https://keyt.com/news/national-world/cnn-national/2026/11/03/democrat-keisha-lance-bottoms-will-win-georgia-governor-race-cnn-projects/"
+      },
+      {
+        "title": "National Governors Association, Former Governors – Georgia",
+        "url": "https://www.nga.org/former-governors/georgia/"
+      },
+      {
+        "title": "AP, “Keisha Lance Bottoms makes history as the first Black woman ever elected governor,” Nov. 3, 2026",
+        "url": "https://apnews.com/article/georgia-governor-lance-bottom-jackson-midterm-election-67c22a38b9a6e4cad5584aa44acf106f"
+      }
+    ],
+    "video_url": "",
+    "script": "Late Check. CNN says Keisha Lance Bottoms will be Georgia's first woman and first African American governor. The governors' roster going back to 1776 lists no woman and no Black governor. Verdict: matches the record.",
+    "corrections": []
+  },
+  {
     "id": "20261104-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-04T17:40:00-06:00",
