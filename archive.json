@@ -33,6 +33,50 @@
     "corrections": []
   },
   {
+    "id": "20261105-reframe-maine-wire-lewiston-polling-video",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-05T04:05:00-06:00",
+    "label": "ReFrame",
+    "claim": "The Maine Wire calls Lewiston polling-place video proof of 'a highly coordinated scheme to steal an election'; Maine law allows ballot helpers",
+    "outlet": "DW Fact check",
+    "outlet_url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311",
+    "source_url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311",
+    "record_url": "https://legislature.maine.gov/statutes/21-A/title21-Asec672.html",
+    "record_title": "Maine Revised Statutes, Title 21-A, §672, Assistance",
+    "read": "DW Fact check examines a viral Maine Wire claim that a Lewiston polling-place video shows a highly coordinated scheme to steal an election and a blatant violation of state law. The footage appears genuine, but Maine Revised Statutes Title 21-A §672 lets a voter who can't read or mark a ballot ask another person to help mark it as the voter wishes. Nothing in the clip ties the helper to coordination or proves the helper told anyone how to vote. Graded D+ across 3 arguments (D, D, A-), with one hasty generalization.",
+    "grade": "D+",
+    "scores": {
+      "valid": 67,
+      "cogent": 33,
+      "supported": 33,
+      "fallacy_free": 80
+    },
+    "why": "The video appears genuine, but Maine law lets voters who can't read or mark a ballot get help, and nothing shown ties the footage to a coordinated scheme.",
+    "sources": [
+      {
+        "title": "DW Fact check, Josh Axelrod, “Fact check: Examining viral narratives after the US midterm elections,” November 4, 2026",
+        "url": "https://www.dw.com/en/fact-check-examining-viral-narratives-after-the-us-midterm-elections/a-79851311"
+      },
+      {
+        "title": "Maine Revised Statutes, Title 21-A, §672, Assistance",
+        "url": "https://legislature.maine.gov/statutes/21-A/title21-Asec672.html"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Missing context)",
+        "url": "https://popularalien.com/story/20261104-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261104-late.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261104-late.mp4",
+    "popart_story": "20261104-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... DW Fact check reports: The Maine Wire calls Lewiston polling-place video proof of 'a highly coordinated scheme to steal an election'; Maine law allows ballot helpers.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261104-late-fox",
     "slot": "Late Check",
     "aired_at": "2026-11-04T23:10:00-06:00",
