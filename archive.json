@@ -1,5 +1,104 @@
 [
   {
+    "id": "20261105-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-05T17:35:00-06:00",
+    "headline": "Viral posts claimed an FBI Houston raid found more than 20,000 fraudulent Democratic ballots; the FBI says no election-related operation occurred",
+    "claim": "\"OVER TWENTY THOUSAND FRAUDULENT BALLOTS UNCOVERED IN FBI RAID OF HOUSTON STORAGE LOCKER WAREHOUSE ALL FOR DEMOCRATS\" — viral posts on X and Facebook by accounts including Jonathan Gregory (@TrumpNews_Baby), Nov. 3, 2026",
+    "outlet": "Lead Stories / PolitiFact coverage of viral social posts",
+    "outlet_url": "https://leadstories.com/hoax-alert/2026/11/fbi-did-not-find-more-than-20000-fraudulent-ballots-in-houston-storage-locker-all-for-democrats.html",
+    "source_url": "https://leadstories.com/hoax-alert/2026/11/fbi-did-not-find-more-than-20000-fraudulent-ballots-in-houston-storage-locker-all-for-democrats.html",
+    "record_url": "https://leadstories.com/hoax-alert/2026/11/fbi-did-not-find-more-than-20000-fraudulent-ballots-in-houston-storage-locker-all-for-democrats.html",
+    "record_title": "FBI National Press Office statement (Nov. 3, 2026 email to Lead Stories): “That information is false and no election-related operation occurred.” Also Harris County Clerk Teneshia Hudspeth: circulating information is false (via PolitiFact)",
+    "verdict": "Contradicted",
+    "why": "The FBI’s National Press Office told Lead Stories that social-media claims of an FBI Houston election-related raid uncovering fraudulent ballots on Nov. 2, 2026, are false and that no election-related operation occurred. Harris County Clerk Teneshia Hudspeth likewise said the circulating information was false, and PolitiFact found the attached photos were unrelated (an older FBI Atlanta/Georgia scene, San Francisco ballots, and a Public Storage listing).",
+    "what_would_change": "An official FBI Houston incident report, affidavit, or court filing documenting a Nov. 2–3, 2026, election-related raid that seized more than 20,000 fraudulent Democratic ballots would move this toward Matches record.",
+    "video_url": "",
+    "script": "Evening Check. Viral posts claimed an FBI Houston raid found more than 20,000 fraudulent Democratic ballots. The FBI says no election-related operation occurred. Verdict: contradicted by the record.",
+    "read": "The FBI’s National Press Office told Lead Stories the Houston raid claim is false and that no election-related operation occurred. Harris County’s clerk called the posts false, and the images do not show a Houston election raid.",
+    "sources": [
+      {
+        "title": "Lead Stories, FBI Did NOT Find More Than 20,000 Fraudulent Ballots in Houston, Nov. 3, 2026",
+        "url": "https://leadstories.com/hoax-alert/2026/11/fbi-did-not-find-more-than-20000-fraudulent-ballots-in-houston-storage-locker-all-for-democrats.html"
+      },
+      {
+        "title": "PolitiFact, No evidence of an FBI raid that revealed ‘fraudulent ballots’ in Houston, Nov. 3, 2026",
+        "url": "https://politifact.com/factchecks/2026/nov/03/social-media/houston-fbi-raid-fraudulent-ballots-warehouse-false/"
+      },
+      {
+        "title": "KHOU, FBI: Social media claim that 20,000 fraudulent ballots were uncovered in Houston is false",
+        "url": "https://www.khou.com/article/news/politics/elections/houston-election-fraudulent-ballots-social-media-post-fake/285-84715680-f9c3-41dd-b0ac-7b7151ed40a8"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261105-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-05T17:35:00-06:00",
+    "headline": "Fox News reports Trump said he ‘couldn't transfer the love’ to other Republicans and that the Iran war largely cost the GOP by driving gasoline up; the Nov. 4 White House transcript matches those quotes",
+    "claim": "\"If I were on the ballot, we would have won… You couldn't transfer that love… we weren't able to transfer the love to candidates,\" and, asked if Vance was right that the Iran war cost Republicans the election, \"I think it's largely true because it drove the gasoline up a little bit short term\" — President Donald Trump, as reported by Fox News (Robert McGreevy), Nov. 4, 2026",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/trump-couldnt-transfer-love-supporters-other-republicans-amid-historic-midterm-loss",
+    "source_url": "https://www.foxnews.com/politics/trump-couldnt-transfer-love-supporters-other-republicans-amid-historic-midterm-loss",
+    "record_url": "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-white-house-ballroom-construction-november-4-2026/",
+    "record_title": "Roll Call Factba.se transcript: Remarks: Donald Trump Discusses the White House Ballroom Construction — November 4, 2026",
+    "verdict": "Matches record",
+    "why": "The Factba.se transcript of Trump’s Nov. 4, 2026, White House ballroom steel-beam remarks records him saying that if he were on the ballot “we would have won,” that “you couldn't transfer that love” to candidates, and — answering whether Vance was right that the Iran war cost Republicans — “I think it's largely true, because it drove the gasoline up a little bit, short term.” Fox’s quotation of those lines tracks the transcript.",
+    "what_would_change": "A corrected White House or pool transcript showing Trump did not say the Iran war “largely” cost Republicans via gasoline, or did not make the “transfer the love” remarks, would move this toward Contradicted.",
+    "video_url": "",
+    "script": "Evening Check. Fox News reports Trump said he couldn't transfer the love to other Republicans and that the Iran war largely cost the GOP by driving gas up. The Nov. 4 White House transcript matches those quotes. Verdict: matches the record.",
+    "read": "Factba.se’s Nov. 4 transcript has Trump saying supporters’ love couldn't transfer to other candidates and that Vance’s Iran-war explanation is largely true because gasoline rose short term. Fox’s reporting tracks those lines.",
+    "sources": [
+      {
+        "title": "Fox News, Trump couldn't transfer the love amid midterm loss, Nov. 4, 2026",
+        "url": "https://www.foxnews.com/politics/trump-couldnt-transfer-love-supporters-other-republicans-amid-historic-midterm-loss"
+      },
+      {
+        "title": "Roll Call Factba.se, Trump White House ballroom remarks transcript, Nov. 4, 2026",
+        "url": "https://rollcall.com/factbase/trump/transcript/donald-trump-remarks-white-house-ballroom-construction-november-4-2026/"
+      },
+      {
+        "title": "CBS News, Trump touts White House ballroom after GOP midterm losses",
+        "url": "https://www.cbsnews.com/news/trump-2026-midterms-republicans-white-house-ballroom/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261105-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-05T17:35:00-06:00",
+    "headline": "CNN says Tuesday’s midterms delivered the first Black woman governor in history, elected in Georgia; AP called the race for Democrat Keisha Lance Bottoms",
+    "claim": "Tuesday’s midterms “delivered once-unthinkable results like a Democratic senator from South Carolina, the first Black woman governor in history elected in Georgia” — CNN Politics, Edward-Isaac Dovere, Nov. 5, 2026",
+    "outlet": "CNN",
+    "outlet_url": "https://www.cnn.com/2026/11/05/politics/democrats-midterms-mandate-what-happens-2026-2028",
+    "source_url": "https://www.cnn.com/2026/11/05/politics/democrats-midterms-mandate-what-happens-2026-2028",
+    "record_url": "https://apnews.com/article/georgia-governor-lance-bottom-jackson-midterm-election-67c22a38b9a6e4cad5584aa44acf106f",
+    "record_title": "Associated Press, “Keisha Lance Bottoms becomes 1st Black woman elected Georgia governor,” Nov. 3, 2026",
+    "verdict": "Matches record",
+    "why": "AP called Georgia’s governor’s race for Democrat Keisha Lance Bottoms on election night and reported she became the first Black woman elected governor in the United States, defeating Republican Rick Jackson. That AP call matches CNN’s Nov. 5 characterization of the Georgia result as the first Black woman governor in history.",
+    "what_would_change": "A Georgia Secretary of State certification or AP call revision naming a different winner, or documentation of a prior Black woman elected U.S. governor, would move this toward Contradicted.",
+    "video_url": "",
+    "script": "Evening Check. CNN says Tuesday delivered the first Black woman governor in history, elected in Georgia. AP called the race for Democrat Keisha Lance Bottoms. Verdict: matches the record.",
+    "read": "AP called Georgia for Keisha Lance Bottoms and reported she is the first Black woman elected U.S. governor. That matches CNN’s Nov. 5 description of the Georgia result.",
+    "sources": [
+      {
+        "title": "CNN, Democrats debate midterm mandate, Nov. 5, 2026",
+        "url": "https://www.cnn.com/2026/11/05/politics/democrats-midterms-mandate-what-happens-2026-2028"
+      },
+      {
+        "title": "AP, Keisha Lance Bottoms becomes 1st Black woman elected Georgia governor",
+        "url": "https://apnews.com/article/georgia-governor-lance-bottom-jackson-midterm-election-67c22a38b9a6e4cad5584aa44acf106f"
+      },
+      {
+        "title": "NPR, Georgia elects Keisha Lance Bottoms the nation’s first Black female governor",
+        "url": "https://www.npr.org/2026/11/03/g-s1-151040/georgia-elects-the-nations-first-black-female-governor"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261105-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-05T11:35:00-06:00",
