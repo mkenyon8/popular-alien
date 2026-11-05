@@ -1,5 +1,96 @@
 [
   {
+    "id": "20261105-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-05T06:40:00-06:00",
+    "headline": "Laura Loomer calls Westchester's broken ballot scanners proof Democrats are 'trying to steal the election'; the county's bipartisan elections board said a paper-ballot problem stopped the machines and every ballot would be secured and counted",
+    "claim": "“Democrats are already trying to steal the election in New York today. What are the odds the ballot machines in Westchester County aren’t working? Democrats only know how to cheat.” — Laura Loomer, X post, Nov. 3, 2026, viewed 184,600 times in a day (per NewsGuard)",
+    "outlet": "NewsGuard Reality Check, “Even in Landslide, Voter Fraud Claims Abound,” Nov. 4, 2026",
+    "outlet_url": "https://www.newsguardrealitycheck.com/p/even-in-landslide-voter-fraud-claims",
+    "source_url": "https://www.newsguardrealitycheck.com/p/even-in-landslide-voter-fraud-claims",
+    "record_url": "https://mtpleasantny.gov/AlertCenter.aspx?AID=IMPORTANT-ELECTION-DAY-NOTICE-Voting-Con-5",
+    "record_title": "Statement from the Westchester County Board of Elections, “Voting Continues Despite Countywide Machine Issues,” Nov. 3, 2026 (as posted by the Town of Mount Pleasant)",
+    "verdict": "Missing context",
+    "why": "The scanners really did fail countywide, but the Board of Elections said the cause was an issue with the paper ballots, and that voters' ballots would go into secured, monitored orange emergency bags and be counted under state procedures. AP reports there was no sign the outage was engineered to hurt either party, and the Republican congressman on the ballot, Mike Lawler, said there were “no shenanigans.” No record shown in the post ties the malfunction to anyone trying to steal the election.",
+    "what_would_change": "An official finding, from the Board of Elections, the state, or a court, that someone deliberately caused the outage or that bagged ballots were lost or altered would move this toward Matches record; a final report confirming a vendor or ballot-stock fault with every bagged ballot counted would move it to Contradicted.",
+    "read": "The scanners really did fail countywide, but the Board of Elections said the cause was an issue with the paper ballots, and that voters' ballots would go into secured, monitored orange emergency bags and be counted under state procedures. AP reports there was no sign the outage was engineered to hurt either party, and the Republican congressman on the ballot, Mike Lawler, said there were “no shenanigans.” No record shown in the post ties the malfunction to anyone trying to steal the election.",
+    "sources": [
+      {
+        "title": "NewsGuard Reality Check, “Even in Landslide, Voter Fraud Claims Abound,” Nov. 4, 2026",
+        "url": "https://www.newsguardrealitycheck.com/p/even-in-landslide-voter-fraud-claims"
+      },
+      {
+        "title": "Westchester County Board of Elections statement, Nov. 3, 2026 (Town of Mount Pleasant alert)",
+        "url": "https://mtpleasantny.gov/AlertCenter.aspx?AID=IMPORTANT-ELECTION-DAY-NOTICE-Voting-Con-5"
+      },
+      {
+        "title": "AP Fact Focus, misinformation about Election Day voting, Nov. 2026",
+        "url": "https://apnews.com/article/fact-focus-election-day-voting-irregularities-rumors-4eb6dfe111fbddd615554ce36d4ed8f7"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. Laura Loomer says Westchester's broken ballot scanners show Democrats trying to steal the election. The county's elections board blamed a paper-ballot problem and said every ballot was bagged, secured and would be counted. Verdict: missing context.",
+    "corrections": []
+  },
+  {
+    "id": "20261105-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-05T06:40:00-06:00",
+    "headline": "Fox News says Republicans entered the midterms with a 'thin, 53-seat majority' in the Senate; the Senate's own party-division record shows 53 Republicans, 45 Democrats and 2 independents",
+    "claim": "“The Senate map, in particular, was at one point favorable for Republicans and viewed as an uphill battle for Senate Minority Leader Chuck Schumer, D-N.Y., and Democrats to put a dent in the GOP’s thin, 53-seat majority.” — Fox News Digital, Alex Miller and Elizabeth Elkind, Nov. 5, 2026",
+    "outlet": "Fox News, Alex Miller and Elizabeth Elkind, “Republicans turn on Trump after devastating midterm losses hand Democrats control of Congress,” Nov. 5, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/republicans-turn-trump-after-devastating-midterm-losses-hand-democrats-control-congress",
+    "source_url": "https://www.foxnews.com/politics/republicans-turn-trump-after-devastating-midterm-losses-hand-democrats-control-congress",
+    "record_url": "https://www.senate.gov/about/parties-leadership/party-division.htm",
+    "record_title": "U.S. Senate, Party Division (119th Congress)",
+    "verdict": "Matches record",
+    "why": "The Senate's party-division table lists 53 Republicans, 45 Democrats and 2 independents for both sessions of the 119th Congress, so Republicans held exactly 53 seats going into Election Day. Both independents caucus with Democrats, which makes the GOP's edge 53 to 47, a six-seat margin that fits Fox's word “thin.”",
+    "what_would_change": "A Senate record showing a different seat count for Republicans at any point in the 2nd session before the election, such as a vacancy or party switch, would move this to Missing context.",
+    "read": "The Senate's party-division table lists 53 Republicans, 45 Democrats and 2 independents for both sessions of the 119th Congress, so Republicans held exactly 53 seats going into Election Day. Both independents caucus with Democrats, which makes the GOP's edge 53 to 47, a six-seat margin that fits Fox's word “thin.”",
+    "sources": [
+      {
+        "title": "Fox News, Republicans turn on Trump after midterm losses, Nov. 5, 2026",
+        "url": "https://www.foxnews.com/politics/republicans-turn-trump-after-devastating-midterm-losses-hand-democrats-control-congress"
+      },
+      {
+        "title": "U.S. Senate, Party Division",
+        "url": "https://www.senate.gov/about/parties-leadership/party-division.htm"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. Fox News says Republicans went into the midterms with a thin, 53-seat Senate majority. The Senate's party-division record shows 53 Republicans, 45 Democrats and two independents. Verdict: matches the record.",
+    "corrections": []
+  },
+  {
+    "id": "20261105-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-05T06:40:00-06:00",
+    "headline": "CNN says Alaska counts absentee ballots postmarked by Election Day if they arrive within 10 days, or 15 days from overseas; Alaska's election statute sets exactly those deadlines",
+    "claim": "“Alaska allows absentee ballots postmarked by Election Day to arrive within 10 days after the election if mailed from within the US, or 15 days if mailed from overseas.” — CNN, Jeremy Herb and Hanna Park, midterm live coverage, Nov. 5, 2026",
+    "outlet": "CNN, Jeremy Herb and Hanna Park, “In Alaska, a Senate seat hangs on late ballots and a possible ranked-choice count,” live coverage, Nov. 5, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/05/politics/live-news/midterm-election-congress",
+    "source_url": "https://www.cnn.com/2026/11/05/politics/live-news/midterm-election-congress",
+    "record_url": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=15.20.081&secEnd=15.20.081",
+    "record_title": "Alaska Statutes, AS 15.20.081, Application for absentee ballot (Alaska Legislature)",
+    "verdict": "Matches record",
+    "why": "AS 15.20.081(e) says a mailed absentee ballot can't be counted unless it arrives by close of business on the 10th day after the election, and if postmarked it must be postmarked on or before Election Day. Subsection (h) gives ballots mailed from outside the United States, or from overseas voters, until the 15th day after a general election. That matches CNN's description, which helps explain why the Sullivan-Peltola race may stay uncalled for days.",
+    "what_would_change": "An amendment to AS 15.20.081 that took effect before the 2026 general election, or a court order changing the receipt deadlines for this election, would move this to Contradicted or Missing context.",
+    "read": "AS 15.20.081(e) says a mailed absentee ballot can't be counted unless it arrives by close of business on the 10th day after the election, and if postmarked it must be postmarked on or before Election Day. Subsection (h) gives ballots mailed from outside the United States, or from overseas voters, until the 15th day after a general election. That matches CNN's description, which helps explain why the Sullivan-Peltola race may stay uncalled for days.",
+    "sources": [
+      {
+        "title": "CNN, In Alaska, a Senate seat hangs on late ballots, Nov. 5, 2026",
+        "url": "https://www.cnn.com/2026/11/05/politics/live-news/midterm-election-congress"
+      },
+      {
+        "title": "Alaska Statutes, AS 15.20.081",
+        "url": "https://www.akleg.gov/basis/statutes.asp?media=print&secStart=15.20.081&secEnd=15.20.081"
+      }
+    ],
+    "video_url": "",
+    "script": "Morning Check. CNN says Alaska counts absentee ballots postmarked by Election Day that arrive within 10 days, or 15 from overseas. Alaska's election statute sets exactly those deadlines. Verdict: matches the record.",
+    "corrections": []
+  },
+  {
     "id": "20261104-late",
     "slot": "Late Check",
     "aired_at": "2026-11-04T23:10:00-06:00",
