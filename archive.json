@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261105-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-05T11:35:00-06:00",
+    "headline": "Lara Logan boosted a claim that a Michigan poll worker found foreign Wi-Fi on a ballot tabulator; Michigan election officials say tabulators aren't connected to the internet while votes are counted",
+    "claim": "\"An alert poll worker in Michigan has detected a Wi-Fi signal prior to closure of the polls that appears to be connected to a foreign Wi-Fi device inside a tabulator.\" — claim Lara Logan amplified on X on Nov. 3, 2026 (239,900 views in a day, per NewsGuard), adding, \"Here you go - thank the lord people are now savvy to the cheat.\"",
+    "outlet": "NewsGuard Reality Check, “Even in Landslide, Voter Fraud Claims Abound,” Nov. 4, 2026",
+    "outlet_url": "https://www.newsguardrealitycheck.com/p/even-in-landslide-voter-fraud-claims",
+    "source_url": "https://www.newsguardrealitycheck.com/p/even-in-landslide-voter-fraud-claims",
+    "record_url": "https://www.michigan.gov/sos/elections/security",
+    "record_title": "Michigan Secretary of State, “Inform yourself on Michigan elections” / election security page (Bureau of Elections guidance on tabulation security)",
+    "verdict": "Contradicted",
+    "why": "NewsGuard reports Michigan’s Bureau of Elections says ballot tabulators are not connected to the internet while votes are being tabulated, so they cannot link to a foreign Wi-Fi device during counting. The Michigan SOS election-security guidance stresses paper ballots, sealed containers, and bipartisan canvass checks of printed tabulator tapes; WKAR’s election-security FAQ, citing that same SOS page, states machines cannot be online during tabulation and may only connect afterward to send unofficial results alongside a hard-copy tally.",
+    "what_would_change": "A Bureau of Elections or county-clerk finding that a certified Michigan tabulator was online and receiving a foreign Wi-Fi signal during live tabulation on Nov. 3, 2026, would move this toward Matches record; a completed canvass or audit naming the claimed device as unrelated consumer Wi-Fi would keep it Contradicted.",
+    "video_url": "",
+    "script": "Midday Check. Lara Logan amplified a claim that a Michigan tabulator was tied to foreign Wi-Fi before polls closed. Michigan election officials say tabulators are not connected to the internet while votes are counted. Verdict: contradicted.",
+    "read": "NewsGuard reports Michigan’s Bureau of Elections says ballot tabulators are not connected to the internet while votes are being tabulated, so they cannot link to a foreign Wi-Fi device during counting. The Michigan SOS election-security guidance stresses paper ballots, sealed containers, and bipartisan canvass checks of printed tabulator tapes.",
+    "sources": [
+      {
+        "title": "NewsGuard Reality Check, Even in Landslide, Voter Fraud Claims Abound, Nov. 4, 2026",
+        "url": "https://www.newsguardrealitycheck.com/p/even-in-landslide-voter-fraud-claims"
+      },
+      {
+        "title": "Michigan Secretary of State election security page",
+        "url": "https://www.michigan.gov/sos/elections/security"
+      },
+      {
+        "title": "WKAR, Election security FAQ for Michigan (citing Michigan SOS)",
+        "url": "https://www.wkar.org/wkar-news/2024-11-01/election-security-faq-for-michigan"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261105-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-05T11:35:00-06:00",
+    "headline": "Fox News says Democrats scored seven Senate pickups on Election Night, with Alaska and Mississippi still outstanding; AP’s called flips match that seven-seat list",
+    "claim": "\"In the Senate, Democrats scored seven pickups on Election Night, with outstanding races in Alaska and Mississippi still waiting to be called.\" — Fox News Digital, Alex Miller and Elizabeth Elkind, Nov. 5, 2026",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/republicans-turn-trump-after-devastating-midterm-losses-hand-democrats-control-congress",
+    "source_url": "https://www.foxnews.com/politics/republicans-turn-trump-after-devastating-midterm-losses-hand-democrats-control-congress",
+    "record_url": "https://apnews.com/article/midterm-elections-house-senate-congress-trump-ef6199e25927a9ac9f4c18eae0e497cd",
+    "record_title": "Associated Press, “The Latest: Voters give Democrats control of Congress in rebuke to Trump,” Nov. 3–4, 2026",
+    "verdict": "Matches record",
+    "why": "AP reported Democrats flipped at least seven Senate seats and named the same wave of ruby-red and battleground pickups Fox cited in its post-election roundup—Kansas, Iowa, Texas, Ohio, Maine, North Carolina, and South Carolina—while noting other races were still being counted. Fox’s framing that seven seats had already flipped on Election Night, with Alaska and Mississippi outstanding, lines up with that AP balance-of-power reporting.",
+    "what_would_change": "An AP or Senate clerk revision showing fewer than seven partisan Senate flips once Alaska and Mississippi are resolved would move this toward Contradicted; additional called flips beyond seven would not change the Election Night seven-pickup claim.",
+    "video_url": "",
+    "script": "Midday Check. Fox News says Democrats scored seven Senate pickups on Election Night, with Alaska and Mississippi still out. AP’s called flips match that seven-seat wave. Verdict: matches the record.",
+    "read": "AP reported Democrats flipped at least seven Senate seats and named the same wave of ruby-red and battleground pickups Fox cited—Kansas, Iowa, Texas, Ohio, Maine, North Carolina, and South Carolina—while noting other races were still being counted.",
+    "sources": [
+      {
+        "title": "Fox News, Republicans turn on Trump after midterm losses, Nov. 5, 2026",
+        "url": "https://www.foxnews.com/politics/republicans-turn-trump-after-devastating-midterm-losses-hand-democrats-control-congress"
+      },
+      {
+        "title": "AP, Voters give Democrats control of Congress, Nov. 2026",
+        "url": "https://apnews.com/article/midterm-elections-house-senate-congress-trump-ef6199e25927a9ac9f4c18eae0e497cd"
+      },
+      {
+        "title": "AP, Democrats win the US House and Senate, Nov. 4, 2026",
+        "url": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261105-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-05T11:35:00-06:00",
+    "headline": "CNN quotes Josh Shapiro saying 9 of the 10 largest states will have Democratic governors; population ranks and the 2026 governor results leave only Florida Republican among the top ten",
+    "claim": "\"We now have the keys to the car…\" and, touting his win, Pennsylvania Gov. Josh Shapiro \"pointed out that now 9 of the 10 largest states will have Democratic governors\" — CNN Politics, Edward-Isaac Dovere, Nov. 5, 2026",
+    "outlet": "CNN",
+    "outlet_url": "https://www.cnn.com/2026/11/05/politics/democrats-midterms-mandate-what-happens-2026-2028",
+    "source_url": "https://www.cnn.com/2026/11/05/politics/democrats-midterms-mandate-what-happens-2026-2028",
+    "record_url": "https://www.multistate.us/resources/governors-2026-state-election-results",
+    "record_title": "MultiState, Governors | 2026 State Election Results (updated Nov. 4, 2026), with Census-based state population ranking",
+    "verdict": "Matches record",
+    "why": "Census-based 2026 state population rankings put California, Texas, Florida, New York, Pennsylvania, Illinois, Ohio, Georgia, North Carolina, and Michigan as the ten largest. After the midterms, MultiState’s governor results show Democratic winners or continuing Democratic governors in nine of those ten, including Gina Hinojosa’s AP-called flip in Texas; Republican Byron Donalds held Florida, the lone Republican among the top ten.",
+    "what_would_change": "A reversed call in Texas, Ohio, Georgia, or another top-ten state that left two or more of the ten largest with Republican governors would move this toward Contradicted; a Florida Democratic flip would make it 10 of 10 without changing the 9-of-10 claim.",
+    "video_url": "",
+    "script": "Midday Check. CNN quotes Josh Shapiro saying 9 of the 10 largest states will have Democratic governors. Population ranks and the 2026 results leave only Florida Republican among the top ten. Verdict: matches the record.",
+    "read": "Census-based rankings put California through Michigan as the ten largest states. MultiState’s governor results show Democrats in nine of those ten after the midterms, including Texas; Florida stayed Republican under Byron Donalds.",
+    "sources": [
+      {
+        "title": "CNN, Democrats debate midterm mandate, Nov. 5, 2026",
+        "url": "https://www.cnn.com/2026/11/05/politics/democrats-midterms-mandate-what-happens-2026-2028"
+      },
+      {
+        "title": "MultiState, 2026 governor election results",
+        "url": "https://www.multistate.us/resources/governors-2026-state-election-results"
+      },
+      {
+        "title": "World Population Review, US States Ranking by Population 2026 (Census-based)",
+        "url": "https://worldpopulationreview.com/states"
+      },
+      {
+        "title": "AP, Gina Hinojosa defeats Greg Abbott in Texas governor race",
+        "url": "https://apnews.com/article/texas-governor-election-hinojosa-abbott-c9a0ffa1ec3cd599f9bc304ae26268a2"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261105-reframe-trump-iran-war-gas-midterms",
     "slot": "ReFrame",
     "lead": true,
