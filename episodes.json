@@ -1,5 +1,104 @@
 [
   {
+    "id": "20261105-reframe-trump-iran-war-gas-midterms",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-05T07:57:00-06:00",
+    "label": "Story of the Day",
+    "claim": "Trump says Iran war 'largely' cost GOP the midterms but he'd 'do it again'",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/trump-couldnt-transfer-love-supporters-other-republicans-amid-historic-midterm-loss",
+    "source_url": "https://www.foxnews.com/politics/trump-couldnt-transfer-love-supporters-other-republicans-amid-historic-midterm-loss",
+    "record_url": "https://info.oregon.aaa.com/gas-prices-drop-but-national-average-is-highest-ever-on-a-congressional-election-day/",
+    "record_title": "AAA: national gas average highest ever on a congressional Election Day (Nov 2026)",
+    "read": "Fox News quotes the president accurately and fairly. The claims that fail are the president's own. Graded D+ overall across 4 arguments. President Donald Trump, the war 'drove the gasoline up a little bit short term': D-. President Donald Trump, 'you have no choice': D. Vice President JD Vance, 'the reason we lost is the war': C+. Fox News: B. Scorecard: 25% valid, 25% cogent, 50% supported, 40% fallacy-free.",
+    "grade": "D+",
+    "scores": {
+      "valid": 25,
+      "cogent": 25,
+      "supported": 50,
+      "fallacy_free": 40
+    },
+    "why": "Trump agreed with Vice President JD Vance that the Iran war cost Republicans the midterms, saying it was 'largely true because it drove the gasoline up a little bit short term.' AAA data show regular gas went from $2.98 on Feb. 28, when the war began, to $4.12 on Nov. 4, up 38%, and has been above $4 since April; diesel is up 71%. That is suppressed evidence, not a little bit short term. The key question: if gas has been above four dollars a gallon since April, how is that 'a little bit, short term'? 'You have no choice' is a false dilemma that skips sanctions, diplomacy and inspections. Vance's 'the reason we lost is the war' is closer to the evidence but oversimplifies a broad loss. Fox News quotes both men directly, though it doesn't give readers the gas-price numbers.",
+    "sources": [
+      {
+        "title": "Fox News, Robert McGreevy, November 4, 2026",
+        "url": "https://www.foxnews.com/politics/trump-couldnt-transfer-love-supporters-other-republicans-amid-historic-midterm-loss"
+      },
+      {
+        "title": "AAA: national gas average highest ever on a congressional Election Day (Nov 2026)",
+        "url": "https://info.oregon.aaa.com/gas-prices-drop-but-national-average-is-highest-ever-on-a-congressional-election-day/"
+      },
+      {
+        "title": "The Washington Post: Republicans wake up to a new reality (Nov 4, 2026)",
+        "url": "https://www.washingtonpost.com/politics/2026/11/04/republicans-wake-up-new-reality-brace-new-washington/"
+      },
+      {
+        "title": "The Hill: Trump on GOP losses in the 2026 midterms and the Iran war",
+        "url": "https://thehill.com/homenews/campaign/6197073-donald-trump-gop-losses-2026-midterms-iran-war/"
+      },
+      {
+        "title": "Arab News: Trump says 'largely true' Iran war caused midterms loss after Vance comments",
+        "url": "https://www.arabnews.com/middle-east/trump-says-largely-true-iran-war-caused-midterms-loss-after-vance-comments-3009798"
+      },
+      {
+        "title": "Brown University Watson School: Costs of the Iran war",
+        "url": "https://iranwarcost.watson.brown.edu/"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261105-iran-war-gas-little-bit.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261105-iran-war-gas-little-bit.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Trump says Iran war 'largely' cost GOP the midterms but he'd 'do it again'.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
+    "id": "20261105-reframe-fox-flanagan-minnesota-seat-already-blue",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-05T14:05:45Z",
+    "label": "ReFrame",
+    "claim": "Fox News says Peggy Flanagan's Minnesota Senate win isn't a GOP loss because 'the seat was already blue'",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/trump-backed-ex-nfl-reporter-loses-senate-race-progressive-who-vowed-rip-ice-apart",
+    "source_url": "https://www.foxnews.com/politics/trump-backed-ex-nfl-reporter-loses-senate-race-progressive-who-vowed-rip-ice-apart",
+    "record_url": "https://www.senate.gov/states/MN/senators.htm",
+    "record_title": "U.S. Senate, “States in the Senate: Minnesota Senators” (Class 2 roster)",
+    "read": "Fox News says Peggy Flanagan's win over Trump-backed Republican Michele Tafoya helps Democrats but is 'not necessarily a negative for Republicans, given that the seat was already blue.' The U.S. Senate's Minnesota roster backs that: Democrat Tina Smith has held the Class 2 seat since Jan. 3, 2018, after Democrat Al Franken, and the last Republican to hold it was Norm Coleman, 2003 to 2009. Graded B across 1 argument, with no fallacies. Scorecard: 100% valid, 100% cogent, 100% supported, 100% fallacy-free.",
+    "grade": "B",
+    "scores": {
+      "valid": 100,
+      "cogent": 100,
+      "supported": 100,
+      "fallacy_free": 100
+    },
+    "why": "The Senate's own roster backs Fox's point: Democrat Tina Smith has held this seat since 2018, so Flanagan's win keeps a blue seat blue. The conclusion is carefully hedged with 'not necessarily,' but the same story says the loss stifled 'the GOP's hopes of flipping' the state, so a missed pickup chance is still a cost for Republicans in the Senate count. That keeps it from an A.",
+    "sources": [
+      {
+        "title": "Fox News, Alex Miller, “Flanagan defeats Tafoya in Minnesota Senate race,” November 4, 2026",
+        "url": "https://www.foxnews.com/politics/trump-backed-ex-nfl-reporter-loses-senate-race-progressive-who-vowed-rip-ice-apart"
+      },
+      {
+        "title": "U.S. Senate, “States in the Senate: Minnesota Senators” (Class 2 roster)",
+        "url": "https://www.senate.gov/states/MN/senators.htm"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261104-late-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261104-late-fox.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261104-late-fox.mp4",
+    "popart_story": "20261104-late-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News says Peggy Flanagan's Minnesota Senate win isn't a GOP loss because 'the seat was already blue'.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261105-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-05T06:40:00-06:00",
