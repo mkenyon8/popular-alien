@@ -33,6 +33,50 @@
     "corrections": []
   },
   {
+    "id": "20261105-reframe-logan-michigan-foreign-wifi-tabulator",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-05T21:57:28Z",
+    "label": "ReFrame",
+    "claim": "Lara Logan boosted a claim of foreign Wi-Fi on a Michigan tabulator; state says tabulators are offline during counting",
+    "outlet": "NewsGuard Reality Check",
+    "outlet_url": "https://www.newsguardrealitycheck.com/p/even-in-landslide-voter-fraud-claims",
+    "source_url": "https://www.newsguardrealitycheck.com/p/even-in-landslide-voter-fraud-claims",
+    "record_url": "https://www.michigan.gov/sos/elections/security",
+    "record_title": "Michigan Secretary of State, “Inform yourself on Michigan elections” / election security page (Bureau of Elections guidance on tabulation security)",
+    "read": "Lara Logan boosted an unnamed Michigan poll worker's report of a Wi-Fi signal that appears connected to a foreign device inside a tabulator, treating it as proof the count is being rigged. NewsGuard Reality Check quotes Michigan's Bureau of Elections: tabulators are not connected to the internet while votes are tabulated, and paper ballots plus printed tapes leave a record canvassers check. Graded D across 2 arguments (Logan D- with hasty generalization; NewsGuard A-). Scorecard: 50% valid, 50% cogent, 50% supported, 80% fallacy-free.",
+    "grade": "D",
+    "scores": {
+      "valid": 50,
+      "cogent": 50,
+      "supported": 50,
+      "fallacy_free": 80
+    },
+    "why": "An unnamed, unverified report of a signal that only 'appears' to be connected was treated as proof of cheating, while Michigan's Bureau of Elections says tabulators are not connected to the internet while votes are counted.",
+    "sources": [
+      {
+        "title": "NewsGuard Reality Check, “Even in a Landslide, the Voter Fraud Claims Keep Coming,” November 2026",
+        "url": "https://www.newsguardrealitycheck.com/p/even-in-landslide-voter-fraud-claims"
+      },
+      {
+        "title": "Michigan Secretary of State, “Inform yourself on Michigan elections” / election security page (Bureau of Elections guidance on tabulation security)",
+        "url": "https://www.michigan.gov/sos/elections/security"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261105-midday"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261105-midday.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261105-midday.mp4",
+    "popart_story": "20261105-midday",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... NewsGuard Reality Check reports: Lara Logan boosted a claim of foreign Wi-Fi on a Michigan tabulator; state says tabulators are offline during counting.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261105-midday-fox",
     "slot": "Midday Check",
     "aired_at": "2026-11-05T11:35:00-06:00",
