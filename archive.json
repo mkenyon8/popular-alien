@@ -1,5 +1,96 @@
 [
   {
+    "id": "20261106-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-06T17:30:00-06:00",
+    "headline": "Trump names Stephen Miller White House chief of staff succeeding Susie Wiles; the White House posted the appointment Friday",
+    "claim": "\"Today, President Donald J. Trump announced the appointment of Stephen Miller as the 33rd White House Chief of Staff, succeeding Susie Wiles\" — White House release, Nov. 6, 2026; reported across major outlets including NBC News",
+    "outlet": "NBC News / White House",
+    "outlet_url": "https://www.nbcnews.com/politics/donald-trump/trump-stephen-miller-susie-wiles-white-house-chief-of-staff-rcna607892",
+    "source_url": "https://www.nbcnews.com/politics/donald-trump/trump-stephen-miller-susie-wiles-white-house-chief-of-staff-rcna607892",
+    "record_url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/",
+    "record_title": "White House release, Nov. 6, 2026 — \"President Trump Names Stephen Miller as 33rd White House Chief of Staff\"",
+    "verdict": "Matches record",
+    "why": "The White House release dated Nov. 6 states that President Trump appointed Stephen Miller as the 33rd White House chief of staff, succeeding Susie Wiles. NBC News and other outlets report the same personnel change, including that Miller takes over Monday and Wiles moves to Trump's political operation, which aligns with the official announcement.",
+    "what_would_change": "A corrected White House statement withdrawing the appointment, or evidence the Nov. 6 release was fabricated or misdated, would move this off Matches record.",
+    "video_url": "",
+    "script": "Evening Check. Trump named Stephen Miller White House chief of staff, succeeding Susie Wiles. The White House posted the appointment Friday. Verdict: matches record.",
+    "read": "The White House release dated Nov. 6 states that President Trump appointed Stephen Miller as the 33rd White House chief of staff, succeeding Susie Wiles. NBC News and other outlets report the same personnel change, including that Miller takes over Monday and Wiles moves to Trump's political operation, which aligns with the official announcement.",
+    "sources": [
+      {
+        "title": "NBC News — Trump names Stephen Miller his new chief of staff, replacing Susie Wiles, Nov. 6, 2026",
+        "url": "https://www.nbcnews.com/politics/donald-trump/trump-stephen-miller-susie-wiles-white-house-chief-of-staff-rcna607892"
+      },
+      {
+        "title": "White House release — President Trump Names Stephen Miller as 33rd White House Chief of Staff, Nov. 6, 2026",
+        "url": "https://www.whitehouse.gov/releases/2026/11/president-trump-names-stephen-miller-as-33rd-white-house-chief-of-staff/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261106-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-06T17:30:00-06:00",
+    "headline": "Fox News says Schumer told reporters \"I'll be re-elected as majority leader\" after Democrats swept the midterms; C-SPAN recorded the news conference",
+    "claim": "\"OK, again, to repeat the answer, the issue is not me. I'll be re-elected as majority leader. But the issue is focusing on the American people and what they want,\" Schumer said — Fox News, James Cirrone, Nov. 4, 2026",
+    "outlet": "Fox News, James Cirrone, Nov. 4, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/chuck-schumer-sweeping-democratic-midterm-victories-reelected-majority-leader",
+    "source_url": "https://www.foxnews.com/politics/chuck-schumer-sweeping-democratic-midterm-victories-reelected-majority-leader",
+    "record_url": "https://www.c-span.org/program/campaign-2026/senate-minority-leader-schumer-holds-news-conference-on-election-results/687427",
+    "record_title": "C-SPAN — Senate Minority Leader Schumer Holds News Conference on Election Results, Nov. 4, 2026",
+    "verdict": "Matches record",
+    "why": "Fox quotes Schumer saying he will be re-elected as majority leader at his post-election news conference. C-SPAN archived that Nov. 4 conference, and independent write-ups from Roll Call, The Guardian, and TIME report the same line, so the quoted claim matches the recorded event.",
+    "what_would_change": "A full C-SPAN transcript or video showing Schumer never said he would be re-elected as majority leader, or a clarification that Fox misquoted him, would move this off Matches record.",
+    "video_url": "",
+    "script": "Evening Check. Fox News says Schumer told reporters he'll be re-elected as majority leader after Democrats swept the midterms. C-SPAN recorded the news conference. Verdict: matches record.",
+    "read": "Fox quotes Schumer saying he will be re-elected as majority leader at his post-election news conference. C-SPAN archived that Nov. 4 conference, and independent write-ups from Roll Call, The Guardian, and TIME report the same line, so the quoted claim matches the recorded event.",
+    "sources": [
+      {
+        "title": "Fox News — Chuck Schumer after sweeping Democratic midterm victories: 'I'll be re-elected as majority leader,' Nov. 4, 2026",
+        "url": "https://www.foxnews.com/politics/chuck-schumer-sweeping-democratic-midterm-victories-reelected-majority-leader"
+      },
+      {
+        "title": "C-SPAN — Senate Minority Leader Schumer Holds News Conference on Election Results, Nov. 4, 2026",
+        "url": "https://www.c-span.org/program/campaign-2026/senate-minority-leader-schumer-holds-news-conference-on-election-results/687427"
+      },
+      {
+        "title": "Roll Call — 'I'll be reelected as majority leader,' Schumer says, Nov. 4, 2026",
+        "url": "https://rollcall.com/2026/11/04/will-be-reelected-as-majority-leader-schumer-says/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261106-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-06T17:30:00-06:00",
+    "headline": "CNN says Trump teased a \"big, beautiful\" European security deal after meeting Putin envoy Dmitriev; the White House pool recorded nearly identical remarks",
+    "claim": "\"It's going to be a big agreement…It's going to involve more than Ukraine, and I could even say it might involve all of Europe. It's going to be a big, beautiful agreement, and everyone's going to be thrilled,\" Trump told reporters — CNN, Ivana Kottasová, Nov. 6, 2026",
+    "outlet": "CNN Politics, Ivana Kottasová, Nov. 6, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/06/politics/europe-shrugs-astrump-teases-big-beautiful-europe-security-deal-after-meeting-putin-envoy",
+    "source_url": "https://www.cnn.com/2026/11/06/politics/europe-shrugs-astrump-teases-big-beautiful-europe-security-deal-after-meeting-putin-envoy",
+    "record_url": "https://pool.pp.tools/reports/10190",
+    "record_title": "White House pool report 11 — quotes (Shirish Date), Nov. 5, 2026 — Trump on prospect of end to Russia's war on Ukraine",
+    "verdict": "Matches record",
+    "why": "CNN attributes to Trump a promise of a \"big, beautiful\" agreement that might involve all of Europe after he met Putin envoy Kirill Dmitriev. The Nov. 5 White House pool report records Trump saying there will be a big agreement involving more than Ukraine that \"might involve all of Europe\" and calling it a \"big, beautiful agreement,\" matching CNN's quotation of the remarks.",
+    "what_would_change": "A corrected pool transcript showing different wording, or evidence Trump never made those remarks after the Dmitriev visit, would move this off Matches record. A published U.S.-Europe security text would also clarify whether the tease became a concrete deal.",
+    "video_url": "",
+    "script": "Evening Check. CNN says Trump teased a big, beautiful European security deal after meeting Putin envoy Dmitriev. The White House pool recorded nearly identical remarks. Verdict: matches record.",
+    "read": "CNN attributes to Trump a promise of a \"big, beautiful\" agreement that might involve all of Europe after he met Putin envoy Kirill Dmitriev. The Nov. 5 White House pool report records Trump saying there will be a big agreement involving more than Ukraine that \"might involve all of Europe\" and calling it a \"big, beautiful agreement,\" matching CNN's quotation of the remarks.",
+    "sources": [
+      {
+        "title": "CNN — Trump teases 'big, beautiful' European security deal after meeting Putin envoy, Nov. 6, 2026",
+        "url": "https://www.cnn.com/2026/11/06/politics/europe-shrugs-astrump-teases-big-beautiful-europe-security-deal-after-meeting-putin-envoy"
+      },
+      {
+        "title": "White House pool report 11 — quotes, Nov. 5, 2026",
+        "url": "https://pool.pp.tools/reports/10190"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261106-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-06T11:30:00-06:00",
