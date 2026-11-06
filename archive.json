@@ -35,6 +35,50 @@
   "corrections": []
  },
  {
+  "id": "20261105-reframe-fox-massie-hegseth-impeachment-articles",
+  "slot": "ReFrame",
+  "lead": false,
+  "aired_at": "2026-11-06T08:27:41-06:00",
+  "label": "ReFrame",
+  "claim": "Fox News says Rep. Thomas Massie introduced eight impeachment articles against War Secretary Pete Hegseth in September",
+  "outlet": "Fox News",
+  "outlet_url": "https://www.foxnews.com/politics/hegseth-demands-350b-military-fires-back-dem-impeachment-push",
+  "source_url": "https://www.foxnews.com/politics/hegseth-demands-350b-military-fires-back-dem-impeachment-push",
+  "record_url": "https://massie.house.gov/uploadedfiles/articles_of_impeachment_sec._hegseth.pdf",
+  "record_title": "Rep. Thomas Massie: Articles of Impeachment vs. Sec. Hegseth (PDF)",
+  "read": "Fox News correctly reports Massie's eight impeachment articles against Hegseth. Graded A- overall across 1 argument. Fox News: A-. Scorecard: 100% valid, 100% cogent, 100% supported, 100% fallacy-free.",
+  "grade": "A-",
+  "scores": {
+   "valid": 100,
+   "cogent": 100,
+   "supported": 100,
+   "fallacy_free": 100
+  },
+  "why": "Fox's count and war-powers framing of Massie's Hegseth articles match Massie's own eight-article resolution and press release.",
+  "pa_story_url": "https://popularalien.com/story/20261105-late-fox",
+  "sources": [
+   {
+    "title": "Fox News, November 5, 2026",
+    "url": "https://www.foxnews.com/politics/hegseth-demands-350b-military-fires-back-dem-impeachment-push"
+   },
+   {
+    "title": "Rep. Thomas Massie: Articles of Impeachment vs. Sec. Hegseth (PDF)",
+    "url": "https://massie.house.gov/uploadedfiles/articles_of_impeachment_sec._hegseth.pdf"
+   },
+   {
+    "title": "PopArticles Late Check — Fox (Matches record)",
+    "url": "https://popularalien.com/story/20261105-late-fox"
+   },
+   {
+    "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+    "url": "https://show.popularalien.com/talk/pa-20261105-late-fox.mp4"
+   }
+  ],
+  "video_url": "https://show.popularalien.com/talk/pa-20261105-late-fox.mp4",
+  "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News says Rep. Thomas Massie introduced eight impeachment articles against War Secretary Pete Hegseth in September.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+  "corrections": []
+ },
+ {
   "id": "20261106-morning",
   "slot": "Morning Check",
   "aired_at": "2026-11-06T06:32:00-06:00",
