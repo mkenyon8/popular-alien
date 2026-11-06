@@ -203,6 +203,50 @@
     "corrections": []
   },
   {
+    "id": "20261106-reframe-afp-houston-fbi-ballots-raid",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-06T18:14:16Z",
+    "label": "ReFrame",
+    "claim": "Viral posts claimed an FBI Houston raid seized 20,000 fraudulent Democratic ballots; the FBI said the claim is false",
+    "outlet": "AFP Fact Check",
+    "outlet_url": "https://factcheck.afp.com/doc.afp.com.D6BQ4G3",
+    "source_url": "https://factcheck.afp.com/doc.afp.com.D6BQ4G3",
+    "record_url": "https://factcheck.afp.com/doc.afp.com.D6BQ4G3",
+    "record_title": "AFP Fact Check, “Viral posts falsely claim FBI seized 20,000 Democratic ballots in Houston,” Nov. 4, 2026 (citing FBI Houston PAO Connor Hagan denial; reverse-image work on San Francisco ballots and FBI Atlanta / Fulton County photos)",
+    "read": "Viral posts claimed an FBI Houston raid seized 20,000 fraudulent Democratic ballots; AFP Fact Check reported the FBI said the claim is false. FBI Houston told AFP and KHOU no election-related operation took place, and AFP tied the post's images to unrelated San Francisco and Atlanta/Fulton County photos. Graded B+ across 2 arguments (The viral \"Jonathan Gregory\" / TrumpNews.Baby post F with false cause / fabricated evidence; AFP Fact Check A-). Scorecard: 50% valid, 50% cogent, 50% supported, 50% fallacy-free.",
+    "grade": "B+",
+    "scores": {
+      "valid": 50,
+      "cogent": 50,
+      "supported": 50,
+      "fallacy_free": 50
+    },
+    "why": "Viral posts sold a Houston FBI ballot seizure as fact; FBI Houston denied any election-related raid, and the photos traced to other cities.",
+    "sources": [
+      {
+        "title": "AFP Fact Check, “Viral posts falsely claim FBI seized 20,000 Democratic ballots in Houston,” Nov. 4, 2026",
+        "url": "https://factcheck.afp.com/doc.afp.com.D6BQ4G3"
+      },
+      {
+        "title": "AFP Fact Check, “Viral posts falsely claim FBI seized 20,000 Democratic ballots in Houston,” Nov. 4, 2026 (citing FBI Houston PAO Connor Hagan denial; reverse-image work on San Francisco ballots and FBI Atlanta / Fulton County photos)",
+        "url": "https://factcheck.afp.com/doc.afp.com.D6BQ4G3"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261106-morning"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261106-morning.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261106-morning.mp4",
+    "popart_story": "20261106-morning",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... AFP Fact Check reports: Viral posts claimed an FBI Houston raid seized 20,000 fraudulent Democratic ballots; the FBI said the claim is false.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261106-morning-fox",
     "slot": "Morning Check",
     "aired_at": "2026-11-06T06:32:00-06:00",
