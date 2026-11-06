@@ -1,5 +1,96 @@
 [
   {
+    "id": "20261106-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-06T06:32:00-06:00",
+    "headline": "Viral posts claimed an FBI Houston raid seized 20,000 fraudulent Democratic ballots; the FBI said the claim is false and no election-related operation occurred",
+    "claim": "\"OVER TWENTY THOUSAND FRAUDULENT BALLOTS UNCOVERED IN FBI RAID OF HOUSTON STORAGE LOCKER WAREHOUSE ALL FOR DEMOCRATS.\" — viral X/Facebook posts attributed to \"Jonathan Gregory\" / TrumpNews.Baby account, Nov. 3, 2026 (documented by AFP Fact Check; shared thousands of times)",
+    "outlet": "AFP Fact Check, “Claims of FBI raid uncovering 'fraudulent ballots' in Texas are fabricated,” Nov. 4, 2026",
+    "outlet_url": "https://factcheck.afp.com/doc.afp.com.D6BQ4G3",
+    "source_url": "https://factcheck.afp.com/doc.afp.com.D6BQ4G3",
+    "record_url": "https://www.khou.com/article/news/politics/elections/houston-election-fraudulent-ballots-social-media-post-fake/285-84715680-f9c3-41dd-b0ac-7b7151ed40a8",
+    "record_title": "KHOU 11, “FBI: Social media claim that 20,000 fraudulent ballots were uncovered in Houston is false,” Nov. 4, 2026 (FBI Houston confirmation to Jeremy Rogalski); AFP also quotes FBI Houston PAO Connor Hagan, Nov. 3 email: “That information is false and no election-related operation occurred.”",
+    "verdict": "Contradicted",
+    "why": "FBI Houston told both AFP and KHOU that the raid claim is false and that no election-related operation took place. AFP also found the post's images were unrelated: ballots from a San Francisco elections photo, an \"FBI Atlanta\" vehicle from a Georgia Recorder photo of a Fulton County raid, and a Houston storage exterior that does not prove a ballot seizure.",
+    "what_would_change": "An official FBI Houston or DOJ record confirming an Election Day storage-locker raid that seized thousands of fraudulent Democratic ballots in Houston would move this toward Matches record.",
+    "video_url": "",
+    "script": "Morning Check. Viral posts said an FBI Houston raid found 20,000 fraudulent Democratic ballots. The FBI told reporters the claim is false and no election-related operation occurred. Verdict: contradicted.",
+    "read": "FBI Houston told both AFP and KHOU that the raid claim is false and that no election-related operation took place. AFP also found the post's images were unrelated: ballots from a San Francisco elections photo, an \"FBI Atlanta\" vehicle from a Georgia Recorder photo of a Fulton County raid, and a Houston storage exterior that does not prove a ballot seizure.",
+    "sources": [
+      {
+        "title": "AFP Fact Check, Claims of FBI raid uncovering fraudulent ballots in Texas are fabricated, Nov. 4, 2026",
+        "url": "https://factcheck.afp.com/doc.afp.com.D6BQ4G3"
+      },
+      {
+        "title": "KHOU 11, FBI says Houston fraudulent ballots social media claim is false, Nov. 4, 2026",
+        "url": "https://www.khou.com/article/news/politics/elections/houston-election-fraudulent-ballots-social-media-post-fake/285-84715680-f9c3-41dd-b0ac-7b7151ed40a8"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261106-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-06T06:32:00-06:00",
+    "headline": "Fox News says Kansas, Alaska, Arkansas, South Dakota and West Virginia each passed noncitizen-voting bans with more than 60% support; AP tallies show yes shares from 61.5% to 79.6%",
+    "claim": "\"Kansas, Alaska, Arkansas, South Dakota and West Virginia each passed noncitizen voting bans with more than 60% support\" — Fox News Digital dek/lede, Elaine Mallon, Nov. 5, 2026",
+    "outlet": "Fox News, Elaine Mallon, “Democrats ‘divorced from voters’ as 5 states back citizen-only voting, bolstering GOP push,” Nov. 5, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/democrats-divorced-voters-5-states-back-citizen-only-voting-bolstering-gop-push",
+    "source_url": "https://www.foxnews.com/politics/democrats-divorced-voters-5-states-back-citizen-only-voting-bolstering-gop-push",
+    "record_url": "https://www.nbcnews.com/politics/2026-elections/ballot-measures",
+    "record_title": "NBC News / Associated Press, 2026 Ballot Measure Results — Elections & Voting citizenship measures (Alaska Measure 3, Arkansas Issue 1, Kansas Amendment 1, South Dakota Amendment J, West Virginia Amendment 1)",
+    "verdict": "Matches record",
+    "why": "AP-fed NBC tallies show yes (or \"for\") shares of 69.6% in Alaska, 69.1% in Arkansas, 63.6% in Kansas, 61.5% in South Dakota, and 79.6% in West Virginia — each above 60%. Ballotpedia News also reported all five of those citizenship measures approved on Nov. 3, with Arizona's broader Proposition 144 defeated, matching Fox's five-state list.",
+    "what_would_change": "Final certified state canvass numbers putting any of the five below 60% yes, or showing one of the five failed, would move this to Contradicted or Missing context.",
+    "video_url": "",
+    "script": "Morning Check. Fox News says five states passed noncitizen-voting bans with more than 60% support. AP tallies put every yes share between 61.5% and 79.6%. Verdict: matches record.",
+    "read": "AP-fed NBC tallies show yes (or \"for\") shares of 69.6% in Alaska, 69.1% in Arkansas, 63.6% in Kansas, 61.5% in South Dakota, and 79.6% in West Virginia — each above 60%. Ballotpedia News also reported all five of those citizenship measures approved on Nov. 3, with Arizona's broader Proposition 144 defeated, matching Fox's five-state list.",
+    "sources": [
+      {
+        "title": "Fox News, 5 states back citizen-only voting, Nov. 5, 2026",
+        "url": "https://www.foxnews.com/politics/democrats-divorced-voters-5-states-back-citizen-only-voting-bolstering-gop-push"
+      },
+      {
+        "title": "NBC News / AP, 2026 Ballot Measure Results",
+        "url": "https://www.nbcnews.com/politics/2026-elections/ballot-measures"
+      },
+      {
+        "title": "Ballotpedia News, Voters approved five of six citizenship voting measures, Nov. 4, 2026",
+        "url": "https://news.ballotpedia.org/2026/11/04/voters-approved-five-of-six-measures-to-explicitly-limit-voting-in-state-and-local-elections-to-u-s-citizens/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261106-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-06T06:32:00-06:00",
+    "headline": "CNN says Defense Secretary Pete Hegseth vowed \"We Stand, We Fight\" in a Thursday social media video; his War Department account posted that line with the video",
+    "claim": "\"In an ardent social media video Thursday, Hegseth vowed, 'We Stand, We Fight'\" — CNN, Stephen Collinson, Nov. 6, 2026",
+    "outlet": "CNN, Stephen Collinson, “Hegseth’s ‘fight, fight, fight’ video pours fuel on impeachment flames,” Nov. 6, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/06/politics/iran-pete-hegseth-impeachment-midterms",
+    "source_url": "https://www.cnn.com/2026/11/06/politics/iran-pete-hegseth-impeachment-midterms",
+    "record_url": "https://x.com/SecWar/status/2118433945746366605",
+    "record_title": "@SecWar post, Nov. 5, 2026, 3:03 p.m. ET: “At the War Department: We Stand. We Fight. We Defend the Republic.” (video attached)",
+    "verdict": "Matches record",
+    "why": "The official @SecWar account posted the video on Nov. 5 with the caption “At the War Department: We Stand. We Fight. We Defend the Republic,” which matches CNN’s quoted vow. The same clip circulated with the five-word caption “Stand. Fight. Defend the Republic” from White House and Pentagon aides the same day.",
+    "what_would_change": "Evidence that CNN was describing a different video, or that the @SecWar post was edited after publication to add those lines, would move this to Missing context or Contradicted.",
+    "video_url": "",
+    "script": "Morning Check. CNN says Pete Hegseth vowed We Stand, We Fight in a Thursday video. His War Department account posted exactly that line with the clip. Verdict: matches record.",
+    "read": "The official @SecWar account posted the video on Nov. 5 with the caption “At the War Department: We Stand. We Fight. We Defend the Republic,” which matches CNN’s quoted vow. The same clip circulated with the five-word caption “Stand. Fight. Defend the Republic” from White House and Pentagon aides the same day.",
+    "sources": [
+      {
+        "title": "CNN, Hegseth’s ‘fight, fight, fight’ video, Nov. 6, 2026",
+        "url": "https://www.cnn.com/2026/11/06/politics/iran-pete-hegseth-impeachment-midterms"
+      },
+      {
+        "title": "@SecWar, We Stand. We Fight. We Defend the Republic., Nov. 5, 2026",
+        "url": "https://x.com/SecWar/status/2118433945746366605"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261105-late",
     "slot": "Late Check",
     "aired_at": "2026-11-05T23:09:00-06:00",
