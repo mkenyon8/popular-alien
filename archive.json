@@ -29,6 +29,50 @@
     "corrections": []
   },
   {
+    "id": "20261105-reframe-viral-map-democrats-64-senate",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-06T10:01:05Z",
+    "label": "ReFrame",
+    "claim": "Viral map claimed Democrats hold 64 Senate seats; tallies put them at 54 with two races out",
+    "outlet": "AFP Fact Check",
+    "outlet_url": "https://factcheck.afp.com/doc.afp.com.D6KA9G3",
+    "source_url": "https://factcheck.afp.com/doc.afp.com.D6KA9G3",
+    "record_url": "https://factcheck.afp.com/doc.afp.com.D6KA9G3",
+    "record_title": "AFP Fact Check, “AI map misrepresents Democratic Party's majority in US Senate,” Nov. 5, 2026 (citing Nov. 5 tallies: Democrats 54 seats after seven flips, Republicans 44, Alaska and Mississippi uncalled; maximum 56 if both outstanding races go Democratic; veraAI found strong evidence the map is AI-generated)",
+    "read": "Viral social posts circulated a map ascribing 64 Senate seats to Democrats after the Nov. 3, 2026, midterms. AFP Fact Check's Nov. 5 tally put Democrats at 54 seats after seven flips (including independents who caucus with them), Republicans at 44, with Alaska and Mississippi still uncalled — a ceiling of 56 if both outstanding seats flipped, not 64 — and reported the veraAI detector found very strong evidence the graphic is AI-generated. Graded D across 2 arguments (viral posts F with hasty conclusion; AFP A-). Scorecard: 100% valid, 50% cogent, 50% supported, 80% fallacy-free.",
+    "grade": "D",
+    "scores": {
+      "valid": 100,
+      "cogent": 50,
+      "supported": 50,
+      "fallacy_free": 80
+    },
+    "why": "A viral map sold a 64-seat Democratic Senate as election results; Nov. 5 tallies had Democrats at 54 with two races uncalled — a ceiling of 56 — and a detector flagged the graphic as AI-generated.",
+    "sources": [
+      {
+        "title": "AFP Fact Check, “AI map misrepresents Democratic Party's majority in US Senate,” Nov. 5, 2026",
+        "url": "https://factcheck.afp.com/doc.afp.com.D6KA9G3"
+      },
+      {
+        "title": "AFP Fact Check, “AI map misrepresents Democratic Party's majority in US Senate,” Nov. 5, 2026 (citing Nov. 5 tallies: Democrats 54 seats after seven flips, Republicans 44, Alaska and Mississippi uncalled; maximum 56 if both outstanding races go Democratic; veraAI found strong evidence the map is AI-generated)",
+        "url": "https://factcheck.afp.com/doc.afp.com.D6KA9G3"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261105-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261105-late.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261105-late.mp4",
+    "popart_story": "20261105-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... AFP Fact Check reports: Viral map claimed Democrats hold 64 Senate seats; tallies put them at 54 with two races out.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261105-late-fox",
     "slot": "Late Check",
     "aired_at": "2026-11-05T23:09:00-06:00",
