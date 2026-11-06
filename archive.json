@@ -1,5 +1,96 @@
 [
   {
+    "id": "20261105-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-05T23:09:00-06:00",
+    "headline": "Viral map claimed Democrats hold 64 Senate seats after the midterms; election tallies put them at 54 with two races uncalled",
+    "claim": "\"Democrats dominate the Senate\" with a map ascribing 64 Senate seats to Democrats — viral social posts circulating a graphic after the Nov. 3, 2026, midterms (documented by AFP Fact Check)",
+    "outlet": "Viral social posts (Facebook and other platforms), documented by AFP Fact Check",
+    "outlet_url": "https://factcheck.afp.com/doc.afp.com.D6KA9G3",
+    "source_url": "https://factcheck.afp.com/doc.afp.com.D6KA9G3",
+    "record_url": "https://factcheck.afp.com/doc.afp.com.D6KA9G3",
+    "record_title": "AFP Fact Check, “AI map misrepresents Democratic Party's majority in US Senate,” Nov. 5, 2026 (citing Nov. 5 tallies: Democrats 54 seats after seven flips, Republicans 44, Alaska and Mississippi uncalled; maximum 56 if both outstanding races go Democratic; veraAI found strong evidence the map is AI-generated)",
+    "verdict": "Contradicted",
+    "why": "AFP’s Nov. 5, 2026, fact check documents a widely shared map claiming Democrats hold 64 Senate seats. The same report’s election tally as of that day puts Democrats at 54 seats after seven flips (including independents who caucus with them), Republicans at 44, with Alaska and Mississippi still uncalled — a ceiling of 56 if both outstanding seats flipped, not 64. AFP also reported the veraAI detector found very strong evidence the graphic is AI-generated.",
+    "what_would_change": "An official Senate clerk or state certification showing Democrats at 64 seats, or documentation that the viral map depicted a different chamber or a projection labeled as hypothetical rather than current results, would move this toward Matches record or Missing context.",
+    "video_url": "",
+    "script": "Late Check. Viral map claimed Democrats hold 64 Senate seats after the midterms. Election tallies put them at 54 with two races uncalled, and AFP says the graphic shows strong AI evidence. Verdict: contradicted by the record.",
+    "read": "AFP checked a viral “Democrats dominate the Senate” map that showed 64 seats. Nov. 5 tallies have Democrats at 54 after seven flips, with Alaska and Mississippi still out — max 56, not 64 — and detectors flagged the image as AI-generated.",
+    "sources": [
+      {
+        "title": "AFP Fact Check, AI map misrepresents Democratic Party's majority in US Senate, Nov. 5, 2026",
+        "url": "https://factcheck.afp.com/doc.afp.com.D6KA9G3"
+      },
+      {
+        "title": "AP, Democrats win US House and Senate, taking full control of Congress",
+        "url": "https://apnews.com/article/midterm-election-house-senate-democrats-republicans-trump-f126e12e05b579a327b98481c0ae2226"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261105-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-05T23:09:00-06:00",
+    "headline": "Fox News says Rep. Thomas Massie introduced eight impeachment articles against War Secretary Pete Hegseth in September",
+    "claim": "\"The impeachment effort is being led by Rep. Thomas Massie, R-Ky., who introduced eight articles against Hegseth in September, accusing him of violating congressional war powers during the Iran conflict and abusing his authority in other military operations.\" — Fox News, Brittany Miller, Nov. 5, 2026",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/hegseth-demands-350b-military-fires-back-dem-impeachment-push",
+    "source_url": "https://www.foxnews.com/politics/hegseth-demands-350b-military-fires-back-dem-impeachment-push",
+    "record_url": "https://massie.house.gov/uploadedfiles/articles_of_impeachment_sec._hegseth.pdf",
+    "record_title": "U.S. Rep. Thomas Massie, draft H. Res. articles of impeachment against Peter Brian Hegseth (eight articles); also Massie press release “Rep. Massie Forces Vote to Impeach Secretary of Defense Peter Hegseth”",
+    "verdict": "Matches record",
+    "why": "Fox’s Nov. 5 report states that Massie introduced eight impeachment articles against Hegseth in September over Iran war powers and other military actions. Massie’s House office posted a press release summarizing eight articles and published a PDF resolution titled “Impeaching Peter Brian Hegseth…,” with Articles I–VIII covering War Powers violations in Iran, civilian-casualty rules, extrajudicial killings, free-speech retaliation, the Venezuela operation, and Yemen — matching the count and the war-powers focus Fox described.",
+    "what_would_change": "A clerk’s record showing Massie filed a different number of articles, that the resolution was never introduced, or that Fox misstated the charges (for example, no Iran war-powers articles) would move this toward Contradicted or Missing context.",
+    "video_url": "",
+    "script": "Late Check. Fox News says Rep. Thomas Massie introduced eight impeachment articles against War Secretary Pete Hegseth in September. Massie’s House PDF and press release list eight articles, including Iran war-powers charges. Verdict: matches the record.",
+    "read": "Fox reported Massie filed eight impeachment articles against Hegseth in September over Iran war powers and other operations. Massie’s posted resolution and press release spell out Articles I through VIII, matching that count and focus.",
+    "sources": [
+      {
+        "title": "Fox News, Hegseth demands $350B for military, fires back at Dem impeachment push, Nov. 5, 2026",
+        "url": "https://www.foxnews.com/politics/hegseth-demands-350b-military-fires-back-dem-impeachment-push"
+      },
+      {
+        "title": "Rep. Thomas Massie, Articles of Impeachment against Sec. Hegseth (PDF)",
+        "url": "https://massie.house.gov/uploadedfiles/articles_of_impeachment_sec._hegseth.pdf"
+      },
+      {
+        "title": "Rep. Thomas Massie press release, Forces Vote to Impeach Secretary of Defense Peter Hegseth",
+        "url": "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395853"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261105-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-05T23:09:00-06:00",
+    "headline": "CNN Voter Poll finds about 7% of 2024 Trump voters who turned out backed a Democratic House candidate this midterm",
+    "claim": "\"Nationally, about 7% of self-reported Trump voters who turned out in this year’s election said they were backing a Democratic congressional candidate in their district.\" — CNN, Ariel Edwards-Levy, Nov. 5, 2026, citing the CNN Voter Poll",
+    "outlet": "CNN",
+    "outlet_url": "https://www.cnn.com/2026/11/05/politics/trump-voters-2026-midterms-poll",
+    "source_url": "https://www.cnn.com/2026/11/05/politics/trump-voters-2026-midterms-poll",
+    "record_url": "https://www.cnn.com/election/2026/voter-polls",
+    "record_title": "CNN Election Center, Voter polls: Election 2026 (CNN Voter Poll conducted by SSRS, Oct. 19–Nov. 3, 2026; ~100,000 voters; national MOE ±0.5 points), as detailed in CNN’s Nov. 5 analysis by Ariel Edwards-Levy",
+    "verdict": "Matches record",
+    "why": "CNN’s Nov. 5 analysis attributes the 7% figure to the CNN Voter Poll, a SSRS survey of roughly 100,000 voters from Oct. 19–Nov. 3 that mixes verified online/phone interviews with in-person Election Day interviews in 15 states. The article’s methodology block and CNN’s Election Center voter-polls hub present that same poll as the source for national and subgroup midterm findings, including the reported share of 2024 Trump voters who backed a Democratic congressional candidate.",
+    "what_would_change": "Published CNN/SSRS crosstabs showing a materially different national share of Trump-to-Democratic congressional crossover (or a correction notice revising the 7% figure) would move this toward Contradicted or Missing context.",
+    "video_url": "",
+    "script": "Late Check. CNN Voter Poll finds about 7% of 2024 Trump voters who turned out backed a Democratic House candidate this midterm. CNN’s SSRS voter-poll methodology backs that national figure. Verdict: matches the record.",
+    "read": "CNN reports its Voter Poll found about 7% of self-reported 2024 Trump voters who cast midterm ballots backed a Democratic congressional candidate. That figure is tied to the SSRS CNN Voter Poll described in the story and on CNN’s Election Center hub.",
+    "sources": [
+      {
+        "title": "CNN, The MAGA coalition is beginning to fracture, data shows, Nov. 5, 2026",
+        "url": "https://www.cnn.com/2026/11/05/politics/trump-voters-2026-midterms-poll"
+      },
+      {
+        "title": "CNN Election Center, Voter polls: Election 2026",
+        "url": "https://www.cnn.com/election/2026/voter-polls"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261105-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-05T17:35:00-06:00",
