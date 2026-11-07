@@ -1,5 +1,100 @@
 [
  {
+  "id": "20261107-evening",
+  "slot": "Evening Check",
+  "aired_at": "2026-11-07T17:30:00-06:00",
+  "headline": "Viral video claimed to show Trump smashing up his office after the GOP's midterm losses; the earliest upload, from Iran's embassy in Lebanon, carries an 'AI Generated' label",
+  "video_url": "",
+  "claim": "\"Visuals showing US President Trump vandalizing his office after the Republican Party's defeat in the midterm elections of 2026.\" — claim attached to a video widely shared on social media after Nov. 4, 2026 (as documented by Factly, Nov. 7, 2026)",
+  "source_url": "https://factly.in/the-viral-video-claiming-that-trump-vandalised-his-office-following-the-republican-partys-defeat-in-2026-midterms-is-ai-generated/",
+  "record_url": "https://x.com/IranEmbassyLB/status/2117996123852038404",
+  "record_title": "X post by the Iranian Embassy in Lebanon (@IranEmbassyLB), Nov. 4, 2026, 9:03 AM CT — earliest known upload of the video, captioned in Arabic that Trump's first decision after his election loss was turning the White House into a \"smashed house\"",
+  "verdict": "Contradicted",
+  "why": "Factly traced the viral clip back to a Nov. 4, 2026 post by the Iranian Embassy in Lebanon on X, and that video carries an “AI Generated” label in the upper-right corner and credits a creator named Iman Rus at the end. Factly says the same clip is on the Iman Rus YouTube channel with a title and YouTube AI disclosure identifying it as AI-made, and two detection tools (Hive AI and SynthID) flagged it as generated. No credible report shows Trump damaging his office.",
+  "what_would_change": "Authentic, verifiable footage or a credible news report of Trump damaging his office, or evidence that the “AI Generated” label was added to real footage, would move this verdict.",
+  "outlet": "Factly, Sushmitha Ponnala, “The viral video claiming that Trump vandalised his office following the Republican Party’s defeat in 2026 Midterms is AI-generated,” Nov. 7, 2026",
+  "outlet_url": "https://factly.in/the-viral-video-claiming-that-trump-vandalised-his-office-following-the-republican-partys-defeat-in-2026-midterms-is-ai-generated/",
+  "script": "Evening Check. A viral video claims to show Trump smashing up his office after the Republican midterm losses. The earliest upload, posted by Iran's embassy in Lebanon, is labeled AI generated and credits an AI creator. Verdict: contradicted.",
+  "read": "Factly traced the viral clip back to a Nov. 4, 2026 post by the Iranian Embassy in Lebanon on X, and that video carries an “AI Generated” label in the upper-right corner and credits a creator named Iman Rus at the end. Factly says the same clip is on the Iman Rus YouTube channel with a title and YouTube AI disclosure identifying it as AI-made, and two detection tools (Hive AI and SynthID) flagged it as generated. No credible report shows Trump damaging his office.",
+  "sources": [
+   {
+    "title": "Factly, viral Trump office video is AI-generated, Nov. 7, 2026",
+    "url": "https://factly.in/the-viral-video-claiming-that-trump-vandalised-his-office-following-the-republican-partys-defeat-in-2026-midterms-is-ai-generated/"
+   },
+   {
+    "title": "@IranEmbassyLB X post with the original video, Nov. 4, 2026",
+    "url": "https://x.com/IranEmbassyLB/status/2117996123852038404"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261107-evening-fox",
+  "slot": "Evening Check",
+  "aired_at": "2026-11-07T17:30:00-06:00",
+  "headline": "Fox News says DeSantis accused the Washington Post of 'fabricating' a report that he's preparing a 2028 run; his Nov. 6 X post matches Fox's quotes word for word",
+  "video_url": "",
+  "claim": "\"'The Washington Post is fabricating this out of whole cloth,' DeSantis wrote on X. 'I have not reached out to anybody about running for anything.'\" — Fox News Digital, Michael Sinkewicz, Nov. 7, 2026",
+  "source_url": "https://www.foxnews.com/politics/desantis-blasts-washington-post-report-preparing-2028-presidential-bid",
+  "record_url": "https://x.com/RonDeSantis/status/2118833696522543373",
+  "record_title": "X post by Ron DeSantis (@RonDeSantis), Nov. 6, 2026, 4:31 PM CT",
+  "verdict": "Matches record",
+  "why": "DeSantis’s Nov. 6 post on his @RonDeSantis account reads “The Washington Post is fabricating this out of whole cloth. I have not reached out to anybody about running for anything. Just another pathetic attempt to garner clicks. Using anonymous sources of course!”, matching Fox’s quotes and its Friday timing. His replies “Ha, well, sorry to disappoint” and “Probably the case. But maybe just made up by WaPo” also match Fox. The record confirms what DeSantis said, not who is right: the Post’s report rests on three unnamed people, and neither side has published documents settling it.",
+  "what_would_change": "A deleted or different DeSantis post, or a Fox correction to the quotes, would change this verdict on Fox’s reporting; separately, an FEC filing, a hired consultant on record, or a campaign announcement would bear on whether the Post or DeSantis is right about a 2028 bid.",
+  "outlet": "Fox News Digital, Michael Sinkewicz, “DeSantis blasts Washington Post over report he's preparing 2028 presidential bid,” Nov. 7, 2026",
+  "outlet_url": "https://www.foxnews.com/politics/desantis-blasts-washington-post-report-preparing-2028-presidential-bid",
+  "script": "Evening Check. Fox News says Ron DeSantis accused the Washington Post of fabricating a report that he's preparing a 2028 presidential run. His own post on X matches Fox's quotes word for word. Whether the Post's anonymous sources are right is still open. Verdict: matches record.",
+  "read": "DeSantis’s Nov. 6 post on his @RonDeSantis account reads “The Washington Post is fabricating this out of whole cloth. I have not reached out to anybody about running for anything. Just another pathetic attempt to garner clicks. Using anonymous sources of course!”, matching Fox’s quotes and its Friday timing. His replies “Ha, well, sorry to disappoint” and “Probably the case. But maybe just made up by WaPo” also match Fox. The record confirms what DeSantis said, not who is right: the Post’s report rests on three unnamed people, and neither side has published documents settling it.",
+  "sources": [
+   {
+    "title": "Fox News Digital, DeSantis blasts Washington Post over 2028 report, Nov. 7, 2026",
+    "url": "https://www.foxnews.com/politics/desantis-blasts-washington-post-report-preparing-2028-presidential-bid"
+   },
+   {
+    "title": "Ron DeSantis X post, Nov. 6, 2026",
+    "url": "https://x.com/RonDeSantis/status/2118833696522543373"
+   },
+   {
+    "title": "Ron DeSantis X reply, “Probably the case. But maybe just made up by WaPo,” Nov. 6, 2026",
+    "url": "https://x.com/RonDeSantis/status/2118835705719742518"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261107-evening-cnn",
+  "slot": "Evening Check",
+  "aired_at": "2026-11-07T17:30:00-06:00",
+  "headline": "CNN says Trump offered UFC CEO Dana White the White House press secretary job on Truth Social; his post matches CNN's quotes, while White's reported refusal rests on one unnamed source",
+  "video_url": "",
+  "claim": "\"'I am pleased to announce that the Great Dana White, a violent Fighter and Warrior, has been offered the job of Press Secretary of the United States,' Trump posted Saturday on Truth Social.\" — CNN, Kaitlan Collins and Isabelle D'Antonio, Nov. 7, 2026",
+  "source_url": "https://www.cnn.com/2026/11/07/politics/dana-white-trump-press-secretary",
+  "record_url": "https://truthsocial.com/@realDonaldTrump/117576618491350292",
+  "record_title": "Donald J. Trump (@realDonaldTrump), Truth Social post, Nov. 7, 2026, 12:40 PM CT (preserved in the Trump's Truth archive, status 43508)",
+  "verdict": "Matches record",
+  "why": "Trump’s Nov. 7 Truth Social post says Dana White “has been offered the job of Press Secretary of the United States,” names six UFC figures as “assistants,” and ends “Dana, please take the job!”, matching every quote CNN uses. CNN’s added report that White declined comes from one unnamed source, and CNN also notes an aide said Trump was joking; neither White nor the White House had confirmed either point on the record.",
+  "what_would_change": "A statement from White, the UFC or the White House saying White accepted the job, or that the post was deleted or altered, would move this verdict; an on-record confirmation of the refusal would firm up CNN's second claim.",
+  "outlet": "CNN, Kaitlan Collins and Isabelle D'Antonio, “UFC CEO Dana White declines Trump’s offer to become press secretary, source says,” Nov. 7, 2026",
+  "outlet_url": "https://www.cnn.com/2026/11/07/politics/dana-white-trump-press-secretary",
+  "script": "Evening Check. CNN says Trump offered UFC boss Dana White the White House press secretary job. Trump's Truth Social post says exactly that. CNN's report that White said no rests on one unnamed source. Verdict: matches record.",
+  "read": "Trump’s Nov. 7 Truth Social post says Dana White “has been offered the job of Press Secretary of the United States,” names six UFC figures as “assistants,” and ends “Dana, please take the job!”, matching every quote CNN uses. CNN’s added report that White declined comes from one unnamed source, and CNN also notes an aide said Trump was joking; neither White nor the White House had confirmed either point on the record.",
+  "sources": [
+   {
+    "title": "CNN, Dana White declines Trump's press secretary offer, Nov. 7, 2026",
+    "url": "https://www.cnn.com/2026/11/07/politics/dana-white-trump-press-secretary"
+   },
+   {
+    "title": "Trump Truth Social post, Nov. 7, 2026",
+    "url": "https://truthsocial.com/@realDonaldTrump/117576618491350292"
+   },
+   {
+    "title": "Trump's Truth archive copy, status 43508",
+    "url": "https://www.trumpstruth.org/statuses/43508"
+   }
+  ],
+  "corrections": []
+ },
+ {
   "id": "20261107-midday",
   "slot": "Midday Check",
   "aired_at": "2026-11-07T11:30:00-06:00",
