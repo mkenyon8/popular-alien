@@ -29,6 +29,50 @@
   "corrections": []
  },
  {
+  "id": "20261107-reframe-lead-stories-clarity-bitcoin-reserve",
+  "slot": "ReFrame",
+  "lead": false,
+  "aired_at": "2026-11-07T13:50:48-06:00",
+  "label": "ReFrame",
+  "claim": "Viral post claimed Trump 'cancelled' the CLARITY Act and Bitcoin Reserve; Lead Stories found no such Truth Social post",
+  "outlet": "Lead Stories",
+  "outlet_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-trump-did-not-post-clarity-act-canceled-strategic-bitcoin-reserve.html",
+  "source_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-trump-did-not-post-clarity-act-canceled-strategic-bitcoin-reserve.html",
+  "record_url": "https://www.federalregister.gov/documents/2025/03/11/2025-03992/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile",
+  "record_title": "Executive Order 14233, “Establishment of the Strategic Bitcoin Reserve and United States Digital Asset Stockpile,” Federal Register — no revocation or amendment noted as of Nov. 7, 2026",
+  "read": "A viral X post by @Defi_Warhol passed off text as a Trump Truth Social post declaring the CLARITY Act and the Strategic Bitcoin Reserve \"CANCELLED.\" Lead Stories searched Trump's Truth Social account and the Trump's Truth archive and found no such post, and no established outlet reported it. The CLARITY Act stalled in a 49-50 Senate vote and was never law, and the Federal Register lists Executive Order 14233, which created the reserve, with no revoking order. Graded D across 2 arguments (viral post F with fabricated evidence; Lead Stories A-). Scorecard: 50% valid, 50% cogent, 50% supported, 80% fallacy-free.",
+  "grade": "D",
+  "scores": {
+   "valid": 50,
+   "cogent": 50,
+   "supported": 50,
+   "fallacy_free": 80
+  },
+  "why": "A viral X post passes off invented text as a Trump Truth Social post; Lead Stories found no such post, the CLARITY Act was never law to cancel, and the Federal Register shows the reserve order still in force.",
+  "sources": [
+   {
+    "title": "Lead Stories, Ed Payne, “Fact Check: Trump Did NOT Post On Truth Social The ‘CLARITY Act’ Is Canceled Alongside The Strategic Bitcoin Reserve,” Nov. 6, 2026",
+    "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-trump-did-not-post-clarity-act-canceled-strategic-bitcoin-reserve.html"
+   },
+   {
+    "title": "Executive Order 14233, “Establishment of the Strategic Bitcoin Reserve and United States Digital Asset Stockpile,” Federal Register — no revocation or amendment noted as of Nov. 7, 2026",
+    "url": "https://www.federalregister.gov/documents/2025/03/11/2025-03992/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile"
+   },
+   {
+    "title": "PopArticles — original story (verdict: Contradicted)",
+    "url": "https://popularalien.com/story/20261107-midday"
+   },
+   {
+    "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+    "url": "https://show.popularalien.com/talk/pa-20261107-midday.mp4"
+   }
+  ],
+  "video_url": "https://show.popularalien.com/talk/pa-20261107-midday.mp4",
+  "popart_story": "20261107-midday",
+  "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Lead Stories reports: Viral post claimed Trump 'cancelled' the CLARITY Act and Bitcoin Reserve; Lead Stories found no such Truth Social post.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+  "corrections": []
+ },
+ {
   "id": "20261107-midday-fox",
   "slot": "Midday Check",
   "aired_at": "2026-11-07T11:30:00-06:00",
