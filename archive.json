@@ -1,5 +1,45 @@
 [
  {
+  "id": "20261106-reframe-fox-eisenberg-blanche-resignation",
+  "slot": "ReFrame",
+  "lead": false,
+  "aired_at": "2026-11-07T10:27:55-06:00",
+  "label": "ReFrame",
+  "claim": "Fox News says DOJ national security chief John Eisenberg resigned; Blanche's X post matches",
+  "outlet": "Fox News",
+  "outlet_url": "https://www.foxnews.com/politics/doj-shake-up-continues-head-national-security-division-us-attorney-miami-resigning",
+  "source_url": "https://www.foxnews.com/politics/doj-shake-up-continues-head-national-security-division-us-attorney-miami-resigning",
+  "record_url": "https://www.foxnews.com/politics/doj-shake-up-continues-head-national-security-division-us-attorney-miami-resigning",
+  "record_title": "Fox News: DOJ national security chief John Eisenberg resigning",
+  "read": "Fox's account of Eisenberg's resignation and Blanche's praise matches Blanche's own Nov. 6 X post word for word. Graded A- overall: Fox A-; Fox B+. Scorecard: 100% valid, 100% cogent, 100% supported, 100% fallacy-free.",
+  "grade": "A-",
+  "scores": {
+   "valid": 100,
+   "cogent": 100,
+   "supported": 100,
+   "fallacy_free": 100
+  },
+  "why": "Fox's account of Eisenberg's resignation and Blanche's praise matches Blanche's own Nov. 6 X post word for word; the shake-up framing rests on other DOJ departures Fox also reports that day.",
+  "sources": [
+   {
+    "title": "Fox News, November 6, 2026",
+    "url": "https://www.foxnews.com/politics/doj-shake-up-continues-head-national-security-division-us-attorney-miami-resigning"
+   },
+   {
+    "title": "PopArticles — original story (verdict: Matches record)",
+    "url": "https://popularalien.com/story/20261106-late-fox"
+   },
+   {
+    "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+    "url": "https://show.popularalien.com/talk/pa-20261106-late-fox.mp4"
+   }
+  ],
+  "video_url": "https://show.popularalien.com/talk/pa-20261106-late-fox.mp4",
+  "popart_story": "20261106-late-fox",
+  "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News says DOJ national security chief John Eisenberg resigned; Blanche's X post matches.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+  "corrections": []
+ },
+ {
   "id": "20261107-reframe-axios-wiles-miller-chief",
   "slot": "ReFrame",
   "lead": true,
