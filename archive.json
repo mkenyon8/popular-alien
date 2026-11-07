@@ -25,6 +25,54 @@
     "corrections": []
   },
   {
+    "id": "20261106-reframe-snopes-space-force-faa",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-07T09:52:30Z",
+    "label": "ReFrame",
+    "claim": "Viral posts claimed Space Force took over FAA air traffic control; FAA and Space Force told Snopes the claim is false",
+    "outlet": "Snopes",
+    "outlet_url": "https://www.snopes.com/fact-check/space-force-take-over-faa/",
+    "source_url": "https://www.snopes.com/fact-check/space-force-take-over-faa/",
+    "record_url": "https://www.snopes.com/fact-check/space-force-take-over-faa/",
+    "record_title": "Snopes, Nov. 6, 2026 — FAA and Space Force spokesperson statements: \"There is absolutely no truth to this rumor\" and \"These claims are false\"",
+    "read": "Viral Facebook and X posts claimed the FAA's air traffic control system was transferred to the U.S. Space Force overnight, with no hearing or announcement. Snopes reported that an FAA spokesperson said there is \"absolutely no truth to this rumor\" and a Space Force spokesperson said the claims are false; Snopes found no credible outlet reporting any transfer, and the posts cite no order, filing, or announcement. Graded D across 2 arguments (viral posts F with fabricated evidence; Snopes A-). Scorecard: 100% valid, 50% cogent, 50% supported, 80% fallacy-free.",
+    "grade": "D",
+    "scores": {
+      "valid": 100,
+      "cogent": 50,
+      "supported": 50,
+      "fallacy_free": 80
+    },
+    "why": "Viral posts invent an overnight Space Force takeover of FAA air traffic control; FAA and Space Force both told Snopes the rumor is false, and no credible outlet reported any transfer.",
+    "sources": [
+      {
+        "title": "Snopes, “Did US Space Force take over FAA's air traffic control systems?,” Nov. 6, 2026",
+        "url": "https://www.snopes.com/fact-check/space-force-take-over-faa/"
+      },
+      {
+        "title": "Snopes, Nov. 6, 2026 — FAA and Space Force spokesperson statements: \"There is absolutely no truth to this rumor\" and \"These claims are false\"",
+        "url": "https://www.snopes.com/fact-check/space-force-take-over-faa/"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261106-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261106-late.mp4"
+      },
+      {
+        "title": "ReFrame show page",
+        "url": "https://show.popularalien.com/"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261106-late.mp4",
+    "popart_story": "20261106-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Snopes reports: Viral posts claimed Space Force took over FAA air traffic control; FAA and Space Force told Snopes the claim is false.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261106-late-fox",
     "slot": "Late Check",
     "aired_at": "2026-11-06T23:10:00-06:00",
