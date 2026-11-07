@@ -1,5 +1,96 @@
 [
  {
+  "id": "20261107-midday",
+  "slot": "Midday Check",
+  "aired_at": "2026-11-07T11:30:00-06:00",
+  "headline": "Viral post claimed Trump declared the CLARITY Act and Strategic Bitcoin Reserve 'CANCELLED' on Truth Social; Lead Stories found no such post and the Federal Register shows the reserve order still in force",
+  "video_url": "",
+  "claim": "\"The CLARITY Act is CANCELLED! The Strategic Bitcoin Reserve is CANCELLED! No more deals, no more meme coins. The crypto people wanted this, and now they have it. SAD!\" — text presented as a @realDonaldTrump Truth Social post in an X post by @Defi_Warhol, Nov. 5, 2026 (documented by Lead Stories, Nov. 6, 2026)",
+  "source_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-trump-did-not-post-clarity-act-canceled-strategic-bitcoin-reserve.html",
+  "record_url": "https://www.federalregister.gov/documents/2025/03/11/2025-03992/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile",
+  "record_title": "Executive Order 14233, “Establishment of the Strategic Bitcoin Reserve and United States Digital Asset Stockpile,” signed March 6, 2025, 90 FR (FR Doc. 2025-03992), Federal Register — no revocation or amendment noted as of Nov. 7, 2026",
+  "verdict": "Contradicted",
+  "why": "The Strategic Bitcoin Reserve exists by Executive Order 14233, and the Federal Register lists no revoking or amending order as of Nov. 7, 2026, so nothing in the record shows it was “CANCELLED.” Lead Stories searched Trump’s Truth Social account and the Trump’s Truth archive and found no post containing the quoted text. The CLARITY Act was never law to cancel; per Lead Stories it passed the House in July 2025 and stalled in a 49-50 Senate procedural vote on Sept. 15, 2026.",
+  "what_would_change": "An authentic @realDonaldTrump Truth Social status with this text and a verifiable status ID, or a new executive order in the Federal Register revoking EO 14233, would move this verdict.",
+  "outlet": "Lead Stories, Ed Payne, “Fact Check: Trump Did NOT Post On Truth Social The ‘CLARITY Act’ Is Canceled Alongside The Strategic Bitcoin Reserve,” Nov. 6, 2026",
+  "outlet_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-trump-did-not-post-clarity-act-canceled-strategic-bitcoin-reserve.html",
+  "script": "Midday Check. A viral post claims Trump announced on Truth Social that the CLARITY Act and the Strategic Bitcoin Reserve are cancelled. No such post appears in his account or archives, and the Federal Register shows the reserve order still in force. Verdict: contradicted.",
+  "read": "The Strategic Bitcoin Reserve exists by Executive Order 14233, and the Federal Register lists no revoking or amending order as of Nov. 7, 2026, so nothing in the record shows it was “CANCELLED.” Lead Stories searched Trump’s Truth Social account and the Trump’s Truth archive and found no post containing the quoted text. The CLARITY Act was never law to cancel; per Lead Stories it passed the House in July 2025 and stalled in a 49-50 Senate procedural vote on Sept. 15, 2026.",
+  "sources": [
+   {
+    "title": "Lead Stories, fake Trump post on CLARITY Act and Strategic Bitcoin Reserve, Nov. 6, 2026",
+    "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-trump-did-not-post-clarity-act-canceled-strategic-bitcoin-reserve.html"
+   },
+   {
+    "title": "Federal Register, Executive Order 14233, Establishment of the Strategic Bitcoin Reserve, March 11, 2025",
+    "url": "https://www.federalregister.gov/documents/2025/03/11/2025-03992/establishment-of-the-strategic-bitcoin-reserve-and-united-states-digital-asset-stockpile"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261107-midday-fox",
+  "slot": "Midday Check",
+  "aired_at": "2026-11-07T11:30:00-06:00",
+  "headline": "Fox News says CENTCOM launched a task force to stop Iran from moving weapons over land; CENTCOM's Nov. 7 release confirms Task Force Iron Gate, about 20 staff based in Tampa",
+  "video_url": "",
+  "claim": "\"U.S. Central Command announced Saturday that it launched a task force 'that will support ongoing U.S. government efforts to prevent Iran from using ground routes to transport advanced weapons and other materials.'\" — Fox News Digital, Iran war live updates, Nov. 7, 2026",
+  "source_url": "https://www.foxnews.com/live-news/iran-war-news-trump-speaks-strait-hormuz-11-07-26",
+  "record_url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644250/centcom-launches-task-force-to-disrupt-iranian-ground-transit-routes-supporting/",
+  "record_title": "U.S. Central Command, “CENTCOM Launches Task Force to Disrupt Iranian Ground Transit Routes Supporting Illegal Shipments,” Tampa, Nov. 7, 2026",
+  "verdict": "Matches record",
+  "why": "CENTCOM’s Nov. 7 release says Adm. Brad Cooper directed the formation of Task Force Iron Gate to “support ongoing U.S. government efforts to prevent Iran from using ground routes to transport advanced weapons and other materials,” the exact language Fox quotes. Fox’s added details, an internal staff of about 20 civilian and military personnel in Tampa covering Iran’s land borders and the Caspian Sea, also match the release. The release is CENTCOM’s own description; it does not show what the task force has done yet.",
+  "what_would_change": "A CENTCOM correction or withdrawal of the Nov. 7 release, or a later official statement describing a different mission, size or launch date for Task Force Iron Gate, would move this verdict.",
+  "outlet": "Fox News Digital, “Trump says US military carried out ‘minor strikes’ as Iran reports attack on Qeshm Island” (live updates), Nov. 7, 2026",
+  "outlet_url": "https://www.foxnews.com/live-news/iran-war-news-trump-speaks-strait-hormuz-11-07-26",
+  "script": "Midday Check. Fox News says Central Command launched a task force to stop Iran from moving weapons over land. CENTCOM's own Nov. 7 release confirms Task Force Iron Gate, about 20 staff in Tampa, with that mission. Verdict: matches record.",
+  "read": "CENTCOM’s Nov. 7 release says Adm. Brad Cooper directed the formation of Task Force Iron Gate to “support ongoing U.S. government efforts to prevent Iran from using ground routes to transport advanced weapons and other materials,” the exact language Fox quotes. Fox’s added details, an internal staff of about 20 civilian and military personnel in Tampa covering Iran’s land borders and the Caspian Sea, also match the release. The release is CENTCOM’s own description; it does not show what the task force has done yet.",
+  "sources": [
+   {
+    "title": "Fox News Digital, Iran war live updates, Nov. 7, 2026",
+    "url": "https://www.foxnews.com/live-news/iran-war-news-trump-speaks-strait-hormuz-11-07-26"
+   },
+   {
+    "title": "CENTCOM, CENTCOM Launches Task Force to Disrupt Iranian Ground Transit Routes, Nov. 7, 2026",
+    "url": "https://www.centcom.mil/MEDIA/PUBLIC-RELEASES/Article/4644250/centcom-launches-task-force-to-disrupt-iranian-ground-transit-routes-supporting/"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261107-midday-cnn",
+  "slot": "Midday Check",
+  "aired_at": "2026-11-07T11:30:00-06:00",
+  "headline": "CNN says a US-Saudi nuclear deal under congressional review gives the kingdom a conditional path to enrich uranium at home; the agreement Trump sent to Congress (H. Doc. 119-191) matches",
+  "video_url": "",
+  "claim": "\"A nuclear deal between the US and the Saudis currently under congressional review would provide a pathway for the kingdom to enrich uranium on its own soil if specific conditions, including US approval, are met.\" — CNN, Davis Winkie, Nov. 7, 2026",
+  "source_url": "https://www.cnn.com/2026/11/07/politics/israels-nuclear-weapons-program",
+  "record_url": "https://www.govinfo.gov/content/pkg/CDOC-119hdoc191/html/CDOC-119hdoc191.htm",
+  "record_title": "House Document 119-191, Communication from the President transmitting the U.S.-Saudi Arabia Agreement for Cooperation Concerning Peaceful Uses of Nuclear Energy (Sec. 123, Atomic Energy Act), referred to House Foreign Affairs Aug. 27, 2026",
+  "verdict": "Matches record",
+  "why": "House Document 119-191 shows the agreement was formally transmitted to Congress and referred to the House Foreign Affairs Committee on Aug. 27, 2026, starting the Atomic Energy Act's 90-day continuous-session review, which had not run out by Nov. 7. The transmittal says the deal would permit sensitive nuclear technology transfers to support a joint enrichment and conversion study or upon written agreement of the parties, and the Arms Control Association's review of the text says enrichment may occur only if the parties agree in writing after that study, starting at 5 percent. That is a conditional pathway requiring U.S. consent, as CNN says.",
+  "what_would_change": "A passed joint resolution of disapproval, the review period ending so the deal enters into force, or a release of the classified side letters showing enrichment without U.S. consent would move this verdict.",
+  "outlet": "CNN, Davis Winkie, “60 years of denial about Israel’s nuclear weapons program confronts a new reality,” Nov. 7, 2026",
+  "outlet_url": "https://www.cnn.com/2026/11/07/politics/israels-nuclear-weapons-program",
+  "script": "Midday Check. CNN says a US-Saudi nuclear deal under congressional review would give the kingdom a path to enrich uranium at home if conditions, including US approval, are met. The agreement Trump sent to Congress in August permits that only by written agreement after a joint study. Verdict: matches record.",
+  "read": "House Document 119-191 shows the agreement was formally transmitted to Congress and referred to the House Foreign Affairs Committee on Aug. 27, 2026, starting the Atomic Energy Act's 90-day continuous-session review, which had not run out by Nov. 7. The transmittal says the deal would permit sensitive nuclear technology transfers to support a joint enrichment and conversion study or upon written agreement of the parties, and the Arms Control Association's review of the text says enrichment may occur only if the parties agree in writing after that study, starting at 5 percent. That is a conditional pathway requiring U.S. consent, as CNN says.",
+  "sources": [
+   {
+    "title": "CNN, 60 years of denial about Israel's nuclear weapons program, Nov. 7, 2026",
+    "url": "https://www.cnn.com/2026/11/07/politics/israels-nuclear-weapons-program"
+   },
+   {
+    "title": "GovInfo, House Document 119-191, U.S.-Saudi Arabia nuclear cooperation agreement, Aug. 27, 2026",
+    "url": "https://www.govinfo.gov/content/pkg/CDOC-119hdoc191/html/CDOC-119hdoc191.htm"
+   },
+   {
+    "title": "Arms Control Association, U.S.-Saudi Agreement for Civil Nuclear Cooperation FAQ, updated Sept. 1, 2026",
+    "url": "https://www.armscontrol.org/blog/2026-09-01/us-saudi-agreement-civil-nuclear-cooperation-answers-frequently-asked-questions"
+   }
+  ],
+  "corrections": []
+ },
+ {
   "id": "20261107-reframe-axios-wiles-miller-chief",
   "slot": "ReFrame",
   "lead": true,
