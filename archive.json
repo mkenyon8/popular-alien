@@ -37,6 +37,50 @@
     "corrections": []
   },
   {
+    "id": "20261108-reframe-tagesschau-cook-county-voting-machines",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-08T06:10:19-06:00",
+    "label": "ReFrame",
+    "claim": "Viral video claims Cook County voting machines warn voters off Republican picks; clerk says they only flag undervotes",
+    "outlet": "tagesschau faktenfinder",
+    "outlet_url": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html",
+    "source_url": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html",
+    "record_url": "https://www.facebook.com/reel/2547766592377857",
+    "record_title": "Cook County Clerk Monica Gordon, “Misinformation Alert!” Facebook statement, October 2026",
+    "read": "A Streamwood, Ill., TikTok user said a Cook County voting machine told her \"People are not typically choosing this person!\" after she picked Republican judicial candidates, and the video was reposted on X as proof voting is \"rigged.\" Cook County Clerk Monica Gordon says the equipment does not tell voters which candidates are more popular and only displays a notice when a contest is left blank or under-voted. The clerk's office told Snopes and PolitiFact this was the only such report among nearly 1.8 million registered voters, there were no Republican judicial candidates on the Cook County ballot, and Streamwood's Republican village clerk could not reproduce the message. Graded D across 2 arguments (TikTok user D with hasty generalization; tagesschau faktenfinder A-). Scorecard: 100% valid, 50% cogent, 50% supported, 80% fallacy-free.",
+    "grade": "D",
+    "scores": {
+      "valid": 100,
+      "cogent": 50,
+      "supported": 50,
+      "fallacy_free": 80
+    },
+    "why": "A viral video is offered as proof voting is rigged, but Cook County's clerk says the machines only flag undervotes, there were no Republican judicial candidates on the ballot, and officials from both parties found no popularity message.",
+    "sources": [
+      {
+        "title": "tagesschau faktenfinder, “Welche Fakes rund um die Midterms kursieren,” Nov. 7, 2026",
+        "url": "https://www.tagesschau.de/faktenfinder/midterms-desinformation-100.html"
+      },
+      {
+        "title": "Cook County Clerk Monica Gordon, “Misinformation Alert!” Facebook statement, October 2026",
+        "url": "https://www.facebook.com/reel/2547766592377857"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261107-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261107-late.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261107-late.mp4",
+    "popart_story": "20261107-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... tagesschau faktenfinder reports: Viral video claims Cook County voting machines warn voters off Republican picks; clerk says they only flag undervotes.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261107-late-fox",
     "slot": "Late Check",
     "aired_at": "2026-11-07T23:00:00-06:00",
