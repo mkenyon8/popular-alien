@@ -1,5 +1,100 @@
 [
  {
+  "id": "20261108-evening",
+  "slot": "Evening Check",
+  "aired_at": "2026-11-08T17:30:00-06:00",
+  "headline": "Viral video of tanks on a Texas train was framed as a troubling post-election military move; the Army documented that rail shipment from Fort Cavazos in May 2025 for its 250th Birthday Parade",
+  "video_url": "",
+  "claim": "\"Troubling scene in Texas… this is what I feared after the election! Be prepared people!\" — X post by the account \"William Munny\" (@Willy_Munny), Nov. 5, 2026, with a video of tanks and armored vehicles on rail cars (about 101,000 views; the same text was reposted by @EBSAlertNetwork and others)",
+  "source_url": "https://www.misbar.com/en/factcheck/2026/11/08/video-does-not-show-military-deployment-texas-following-us-midterm-elections",
+  "record_url": "https://www.army.mil/article/285729/texas_tanks_bound_for_armys_250th_birthday_parade_in_dc",
+  "record_title": "U.S. Army (III Armored Corps Public Affairs), \"Texas tanks bound for Army's 250th Birthday Parade in DC,\" May 22, 2025",
+  "verdict": "Contradicted",
+  "why": "The U.S. Army's own May 22, 2025, release from Fort Cavazos, Texas, documents M1A2 Abrams tanks and dozens of other armored vehicles being loaded onto rail cars starting May 21, 2025, to travel by train to Washington for the Army's 250th Birthday Parade on June 14, 2025. Misbar traced the clip in the viral posts to a YouTube video titled \"U.S. Army: Transporting Tanks and Armored Vehicles by Rail from Texas to Washington, DC.\", which it says was uploaded June 6, 2025, months before the Nov. 3, 2026, midterms. The footage therefore shows a documented parade shipment from 2025, not a military movement in response to this month's election, contradicting the post's framing.",
+  "what_would_change": "Evidence that the specific footage was recorded after the Nov. 3, 2026, election, such as original metadata, a dated first upload later than the June 2025 YouTube video, or an official Army or Defense Department record of a new rail deployment in Texas this month, would move this verdict.",
+  "outlet": "Misbar's Editorial Team, \"Video Does Not Show Military Deployment in Texas Following U.S. Midterm Elections,\" Nov. 8, 2026",
+  "outlet_url": "https://www.misbar.com/en/factcheck/2026/11/08/video-does-not-show-military-deployment-texas-following-us-midterm-elections",
+  "script": "Evening Check. A viral video of tanks loaded on a train was shared as a troubling scene in Texas after the election. The Army documented that rail shipment from Fort Cavazos in May 2025, for its 250th Birthday Parade in Washington, and the clip traces to a June 2025 upload. Verdict: contradicted.",
+  "read": "The U.S. Army's own May 22, 2025, release from Fort Cavazos, Texas, documents M1A2 Abrams tanks and dozens of other armored vehicles being loaded onto rail cars starting May 21, 2025, to travel by train to Washington for the Army's 250th Birthday Parade on June 14, 2025. Misbar traced the clip in the viral posts to a YouTube video titled \"U.S. Army: Transporting Tanks and Armored Vehicles by Rail from Texas to Washington, DC.\", which it says was uploaded June 6, 2025, months before the Nov. 3, 2026, midterms. The footage therefore shows a documented parade shipment from 2025, not a military movement in response to this month's election, contradicting the post's framing.",
+  "sources": [
+   {
+    "title": "X post by @Willy_Munny, Nov. 5, 2026",
+    "url": "https://x.com/Willy_Munny/status/2118518197443867016"
+   },
+   {
+    "title": "Misbar, Video Does Not Show Military Deployment in Texas Following U.S. Midterm Elections, Nov. 8, 2026",
+    "url": "https://www.misbar.com/en/factcheck/2026/11/08/video-does-not-show-military-deployment-texas-following-us-midterm-elections"
+   },
+   {
+    "title": "U.S. Army, Texas tanks bound for Army's 250th Birthday Parade in DC, May 22, 2025",
+    "url": "https://www.army.mil/article/285729/texas_tanks_bound_for_armys_250th_birthday_parade_in_dc"
+   },
+   {
+    "title": "YouTube (MIL3010), U.S. Army: Transporting Tanks and Armored Vehicles by Rail from Texas to Washington, DC.",
+    "url": "https://www.youtube.com/watch?v=DqRf3cPfbbw"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261108-evening-fox",
+  "slot": "Evening Check",
+  "aired_at": "2026-11-08T17:30:00-06:00",
+  "headline": "Fox News quotes Iran's foreign minister warning Iran's forces will 'rain down hell' if Washington chooses war over its proposal; his Nov. 8 X post matches Fox's quotes word for word",
+  "video_url": "",
+  "claim": "\"Iran's foreign minister issued a stark ultimatum to the White House on Sunday, warning that Tehran's forces would 'rain down hell' if Washington chooses war over a diplomatic proposal aimed at ending the war. 'American voters have made their choice. Time for the White House to make its own,' Abbas Araghchi said ... 'Our 2-day proposal stands: meet the requirements, including end to war on all fronts, and you will see results,' he said on X. 'Or choose war, and see our alert and battle-hardened Warriors rain down hell,' he warned.\" — Fox News Digital live updates, Nov. 8, 2026",
+  "source_url": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8",
+  "record_url": "https://x.com/araghchi/status/2119476334250373250",
+  "record_title": "Seyed Abbas Araghchi (@araghchi), post on X, Nov. 8, 2026, 11:05 a.m. CT",
+  "verdict": "Matches record",
+  "why": "Abbas Araghchi's X post from 11:05 a.m. Central on Nov. 8, 2026, reads: \"American voters have made their choice. Time for the White House to make its own. Our 2-day proposal stands: meet the requirements, including end to war on all fronts, and you will see results. Or choose war, and see our alert and battle-hardened Warriors rain down hell.\" Fox's three quoted passages match the post word for word, and its timing (Sunday) and description of a warning tied to a diplomatic proposal match. Fox's paraphrase of \"Tehran's forces\" stands in for the post's \"our alert and battle-hardened Warriors,\" which is a fair reading.",
+  "what_would_change": "Evidence that the post was edited after Fox quoted it, that the account is not Araghchi's, or a later Iranian Foreign Ministry statement retracting or recasting the warning would move this verdict.",
+  "outlet": "Fox News Digital, \"Trump orders blockade on Iranian ground transport as Houthis say Saudis killed dozens in air strikes\" (live updates), Nov. 8, 2026",
+  "outlet_url": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8",
+  "script": "Evening Check. Fox News says Iran's foreign minister warned the White House that Iran's forces would rain down hell if Washington chooses war over Tehran's two-day proposal. Abbas Araghchi's Sunday post on X matches Fox's quotes word for word. Verdict: matches record.",
+  "read": "Abbas Araghchi's X post from 11:05 a.m. Central on Nov. 8, 2026, reads: \"American voters have made their choice. Time for the White House to make its own. Our 2-day proposal stands: meet the requirements, including end to war on all fronts, and you will see results. Or choose war, and see our alert and battle-hardened Warriors rain down hell.\" Fox's three quoted passages match the post word for word, and its timing (Sunday) and description of a warning tied to a diplomatic proposal match. Fox's paraphrase of \"Tehran's forces\" stands in for the post's \"our alert and battle-hardened Warriors,\" which is a fair reading.",
+  "sources": [
+   {
+    "title": "Fox News Digital live updates, Nov. 8, 2026",
+    "url": "https://www.foxnews.com/live-news/iran-war-news-trump-saudi-houthi-november-8"
+   },
+   {
+    "title": "Abbas Araghchi on X, Nov. 8, 2026",
+    "url": "https://x.com/araghchi/status/2119476334250373250"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261108-evening-cnn",
+  "slot": "Evening Check",
+  "aired_at": "2026-11-08T17:30:00-06:00",
+  "headline": "CNN says Kansas Sen.-elect Adam Hamilton is the first Democrat elected to the Senate from Kansas since 1932; the Senate's own roster shows George McGill was the last, elected in 1930 and 1932",
+  "video_url": "",
+  "claim": "\"Last week, Hamilton became the first Democrat elected to the U.S. Senate from Kansas since 1932.\" — CNN, Jordan Budney, Nov. 8, 2026 (CNN en Español live coverage; translated from the Spanish \"La semana pasada, Hamilton se convirtió en el primer demócrata elegido al Senado de EE.UU. por Kansas desde 1932\")",
+  "source_url": "https://cnnespanol.cnn.com/2026/11/08/eeuu/live-news/resultados-elecciones-intermedias-senado-en-vivo-trax",
+  "record_url": "https://www.senate.gov/states/KS/senators.htm",
+  "record_title": "U.S. Senate Historical Office, States in the Senate: Kansas Senators",
+  "verdict": "Matches record",
+  "why": "The Senate Historical Office's list of Kansas senators shows Democrat George McGill serving from Dec. 1, 1930, to Jan. 3, 1939, a span that covers his 1930 special election and his election to a full term in 1932. Every senator listed for either Kansas seat after McGill's term ended in 1939 is a Republican, through current Sens. Roger Marshall and Jerry Moran. That record supports CNN's statement that no Democrat had been elected to the Senate from Kansas since 1932; certification of Hamilton's own Nov. 3 win is still pending, as is normal this soon after the election.",
+  "what_would_change": "A Senate record showing a Democrat elected from Kansas after 1932, or official canvass results showing Hamilton did not win the Nov. 3, 2026, race, would move this verdict.",
+  "outlet": "CNN, Jordan Budney, \"Senador electo de Kansas dice que Trump 'redobla su apuesta' con el ascenso de Stephen Miller\" (live updates), Nov. 8, 2026",
+  "outlet_url": "https://cnnespanol.cnn.com/2026/11/08/eeuu/live-news/resultados-elecciones-intermedias-senado-en-vivo-trax",
+  "script": "Evening Check. CNN says Kansas Senator-elect Adam Hamilton is the first Democrat elected to the Senate from Kansas since 1932. The Senate's own roster shows Democrat George McGill served from 1930 to 1939 after winning in 1930 and 1932, and only Republicans have held either seat since. Verdict: matches record.",
+  "read": "The Senate Historical Office's list of Kansas senators shows Democrat George McGill serving from Dec. 1, 1930, to Jan. 3, 1939, a span that covers his 1930 special election and his election to a full term in 1932. Every senator listed for either Kansas seat after McGill's term ended in 1939 is a Republican, through current Sens. Roger Marshall and Jerry Moran. That record supports CNN's statement that no Democrat had been elected to the Senate from Kansas since 1932; certification of Hamilton's own Nov. 3 win is still pending, as is normal this soon after the election.",
+  "sources": [
+   {
+    "title": "CNN live updates (CNN en Español), Nov. 8, 2026",
+    "url": "https://cnnespanol.cnn.com/2026/11/08/eeuu/live-news/resultados-elecciones-intermedias-senado-en-vivo-trax"
+   },
+   {
+    "title": "U.S. Senate, Kansas Senators",
+    "url": "https://www.senate.gov/states/KS/senators.htm"
+   }
+  ],
+  "corrections": []
+ },
+ {
   "id": "20261108-reframe-cnn-dana-white-press-secretary",
   "slot": "ReFrame",
   "lead": true,
