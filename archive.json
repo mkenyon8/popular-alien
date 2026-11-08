@@ -1,5 +1,124 @@
 [
   {
+    "id": "20261108-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-08T11:30:00-06:00",
+    "headline": "A viral post claimed one formula mapped Trump's 2024 share onto every 2026 Senate race as a uniform 15% Republican drop; official totals show large state-by-state variation, and in Maine the GOP share was higher than Trump's",
+    "video_url": "",
+    "claim": "\"One formula fits all of it: Republican 2026 = 0.85 × Trump 2024 ... What makes it strange: It didn't matter how red the state was. Wyoming, Ohio, Illinois, Massachusetts: same 15% ... Two sets of races, different candidates, different campaigns, and the same 15% decrease almost everywhere. A pattern this even demands answers at the ballot level\" — viral X post by the account \"Truth is Freedom\" (@TruthAnswersAll), Nov. 6, 2026 (documented by Lead Stories, Nov. 8, 2026)",
+    "source_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-truth-is-freedom-on-twitter.html",
+    "record_url": "https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf",
+    "record_title": "Federal Election Commission, Official 2024 Presidential General Election Results (compiled Jan. 16, 2025)",
+    "verdict": "Contradicted",
+    "why": "The Federal Election Commission's official 2024 presidential results put Donald Trump at 45.5 percent in Maine (377,977 of 831,375 votes), 71.6 percent in Wyoming (192,633 of 269,048), and 56.1 percent in Texas (6,393,597 of 11,388,674). Multiplying those shares by 0.85 would predict Republican Senate totals of about 38.6 percent in Maine, 60.9 percent in Wyoming, and 47.7 percent in Texas. Instead, unofficial official-count compilations show Sen. Susan Collins at about 47.0 percent in Maine (332,803 of 708,873) — higher than Trump's 2024 share, not 15 points lower — Harriet Hageman at 64.9 percent in Wyoming (122,157 of 188,293, matching the Wyoming secretary of state's unofficial statewide summary), and Ken Paxton at 43.0 percent in Texas (4,249,373 of 9,889,704). Those gaps, in both directions, contradict the claim that one 15 percent formula fit \"all of it\" or produced the \"same 15% decrease almost everywhere.\"",
+    "what_would_change": "Certified 2026 Senate canvasses showing Republican vote shares equal to 85 percent of Trump's official 2024 share in those states, including a Maine Republican share near 38.6 percent rather than above Trump's 2024 total, would move this verdict.",
+    "outlet": "Lead Stories, Maarten Schenk, “Fact Check: NO Uniform '15% Band' Formula Mapping Trump's 2024 Result Exactly Onto 2026 Senate Race -- Results Show Variations,” Nov. 8, 2026",
+    "outlet_url": "https://leadstories.com/hoax-alert/2026/11/fact-check-truth-is-freedom-on-twitter.html",
+    "script": "Midday Check. A viral post claimed one formula mapped Trump's 2024 share onto every 2026 Senate race as a uniform 15 percent Republican drop. Official 2024 totals and the latest 2026 counts show large variation: in Maine the Republican share was higher than Trump's, not 15 points lower. Verdict: contradicted.",
+    "read": "The Federal Election Commission's official 2024 presidential results put Donald Trump at 45.5 percent in Maine (377,977 of 831,375 votes), 71.6 percent in Wyoming (192,633 of 269,048), and 56.1 percent in Texas (6,393,597 of 11,388,674). Multiplying those shares by 0.85 would predict Republican Senate totals of about 38.6 percent in Maine, 60.9 percent in Wyoming, and 47.7 percent in Texas. Instead, unofficial official-count compilations show Sen. Susan Collins at about 47.0 percent in Maine (332,803 of 708,873) — higher than Trump's 2024 share, not 15 points lower — Harriet Hageman at 64.9 percent in Wyoming (122,157 of 188,293, matching the Wyoming secretary of state's unofficial statewide summary), and Ken Paxton at 43.0 percent in Texas (4,249,373 of 9,889,704). Those gaps, in both directions, contradict the claim that one 15 percent formula fit \"all of it\" or produced the \"same 15% decrease almost everywhere.\"",
+    "sources": [
+      {
+        "title": "Lead Stories, Maarten Schenk, Fact Check: NO Uniform '15% Band' Formula, Nov. 8, 2026",
+        "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-truth-is-freedom-on-twitter.html"
+      },
+      {
+        "title": "Federal Election Commission, Official 2024 Presidential General Election Results",
+        "url": "https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf"
+      },
+      {
+        "title": "Wyoming Secretary of State, 2026 General Election Statewide Candidates Unofficial Summary",
+        "url": "https://sos.wyo.gov/Elections/Docs/2026/Results/General/2026_General_Statewide_Candidates_Summary.pdf"
+      },
+      {
+        "title": "Call the Map, Texas Senate election results 2026 (official Texas Secretary of State count)",
+        "url": "https://www.callthemap.com/results/senate/texas"
+      },
+      {
+        "title": "Call the Map, Maine Senate election results 2026 (official state and county counts)",
+        "url": "https://www.callthemap.com/results/senate/maine"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261108-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-08T11:30:00-06:00",
+    "headline": "Fox News correctly tallies the National Popular Vote compact at 222 electoral votes, 48 short of 270, but it treated Arizona's legislative control as still hypothetical after the AP had already called both chambers",
+    "video_url": "",
+    "claim": "\"Democrats now control the governor’s office and both chambers of the state legislature in Michigan, Pennsylvania, Wisconsin and Nevada. The National Popular Vote Interstate Compact, already enacted by 18 states and Washington, D.C., has 222 electoral votes pledged to it — 48 short of the 270 needed to take effect. If the four states join, their combined 50 electoral votes would push the compact to 272 and activate it. Arizona could push the total to 283 if Democrats ultimately gain control of both chambers there.\" — Fox News, Alec Schemmel, Nov. 8, 2026",
+    "source_url": "https://www.foxnews.com/politics/democrats-midterm-sweep-opens-path-bypassing-electoral-college-2028",
+    "record_url": "https://www.ncsl.org/elections-and-campaigns/national-popular-vote",
+    "record_title": "National Conference of State Legislatures, National Popular Vote (updated April 16, 2026)",
+    "verdict": "Missing context",
+    "why": "The National Conference of State Legislatures lists the same 18 states plus D.C. and the same 222 pledged electoral votes, 48 short of the 270 needed for the compact to take effect. The National Archives' current allocation, used for the 2024 and 2028 presidential elections, assigns Michigan 15 votes, Pennsylvania 19, Wisconsin 10, and Nevada 6, which add to 50, and Arizona 11, which would bring a 222-plus-50 total to 283. NBC News, citing the Associated Press, reported Democrats won trifectas in those four states. The missing piece is Arizona: Fox's Nov. 8 story still treated control of \"both chambers there\" as unsettled, but the AP had already called the Arizona House on Friday, Nov. 6, after calling the Senate earlier in the week, and KTAR reported Democrats were on track for a 20-10 Senate supermajority and a 37-23 House majority.",
+    "what_would_change": "An official Arizona canvass reversing Democratic control of either legislative chamber, or a correction showing the compact's pledged electoral-vote total is not 222, would move this verdict.",
+    "outlet": "Fox News, Alec Schemmel, “Democrats’ midterm sweep opens path to bypassing Electoral College by 2028,” Nov. 8, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/democrats-midterm-sweep-opens-path-bypassing-electoral-college-2028",
+    "script": "Midday Check. Fox News says Democrats now have trifectas in Michigan, Pennsylvania, Wisconsin, and Nevada, and that if those states join the National Popular Vote compact its pledged electoral votes would rise from 222 to 272. Those numbers match the official tally, but Fox treated Arizona's legislative control as still hypothetical after the Associated Press had already called both chambers. Verdict: missing context.",
+    "read": "The National Conference of State Legislatures lists the same 18 states plus D.C. and the same 222 pledged electoral votes, 48 short of the 270 needed for the compact to take effect. The National Archives' current allocation, used for the 2024 and 2028 presidential elections, assigns Michigan 15 votes, Pennsylvania 19, Wisconsin 10, and Nevada 6, which add to 50, and Arizona 11, which would bring a 222-plus-50 total to 283. NBC News, citing the Associated Press, reported Democrats won trifectas in those four states. The missing piece is Arizona: Fox's Nov. 8 story still treated control of \"both chambers there\" as unsettled, but the AP had already called the Arizona House on Friday, Nov. 6, after calling the Senate earlier in the week, and KTAR reported Democrats were on track for a 20-10 Senate supermajority and a 37-23 House majority.",
+    "sources": [
+      {
+        "title": "Fox News, Alec Schemmel, Democrats’ midterm sweep opens path to bypassing Electoral College by 2028, Nov. 8, 2026",
+        "url": "https://www.foxnews.com/politics/democrats-midterm-sweep-opens-path-bypassing-electoral-college-2028"
+      },
+      {
+        "title": "National Conference of State Legislatures, National Popular Vote",
+        "url": "https://www.ncsl.org/elections-and-campaigns/national-popular-vote"
+      },
+      {
+        "title": "National Archives, Distribution of Electoral Votes (2020 Census allocation for 2024 and 2028)",
+        "url": "https://www.archives.gov/electoral-college/allocation"
+      },
+      {
+        "title": "NBC News, Adam Edelman, Democrats gain full control of five state governments, Nov. 4, 2026",
+        "url": "https://www.nbcnews.com/politics/2026-election/democrats-gain-full-control-five-state-governments-expand-power-rcna607433"
+      },
+      {
+        "title": "KTAR, Kevin Stone, Democrats win both chambers of Arizona Legislature, Nov. 6, 2026 (citing Associated Press calls)",
+        "url": "https://ktar.com/arizona-politics-news/election/legislature-2026-democrats-win-control"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261108-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-08T11:30:00-06:00",
+    "headline": "CNN says a bipartisan housing bill became law in July after President Trump let it take effect without his signature; Congress.gov shows it was sent to the Archivist unsigned and became Public Law 119-101",
+    "video_url": "",
+    "claim": "\"Jeffries told CNN he wants to use as a model this summer's housing bill, which passed with bipartisan support and became law in July after the president let enough days go by without action.\" — CNN, Edward-Isaac Dovere, Nov. 8, 2026",
+    "source_url": "https://cnnespanol.cnn.com/2026/11/08/eeuu/hakeem-jeffries-plan-trump-trax",
+    "record_url": "https://www.congress.gov/bill/119th-congress/house-bill/6644/all-actions",
+    "record_title": "Congress.gov, H.R. 6644, 21st Century ROAD to Housing Act, all actions (Became Public Law No: 119-101, July 11, 2026; sent to Archivist unsigned)",
+    "verdict": "Matches record",
+    "why": "Congress.gov's official actions list for H.R. 6644, the 21st Century ROAD to Housing Act, shows the bill was presented to the president on June 29, 2026, \"Sent to Archivist of the United States unsigned\" on July 11, 2026, and \"Became Public Law No: 119-101\" the same day. The public-law text carries that July 11, 2026, enactment date. The House's final vote sending the bicameral package to the president was 358 to 32, and the Senate had passed the measure 89 to 10 and later concurred 85 to 5, matching CNN's description of a bipartisan bill that became law in July without the president's signature.",
+    "what_would_change": "A Congress.gov or Government Publishing Office correction showing the bill was signed or vetoed rather than sent to the Archivist unsigned, or that it did not become law in July 2026, would move this verdict.",
+    "outlet": "CNN, Edward-Isaac Dovere, “Hakeem Jeffries has a plan for Donald Trump and for his Democratic critics,” Nov. 8, 2026",
+    "outlet_url": "https://cnnespanol.cnn.com/2026/11/08/eeuu/hakeem-jeffries-plan-trump-trax",
+    "script": "Midday Check. CNN says Hakeem Jeffries pointed to this summer's housing bill, which passed with bipartisan support and became law in July after the president let enough days go by without action. Congress.gov shows H.R. 6644 was presented June 29, sent to the Archivist unsigned on July 11, and became Public Law 119-101 that day. Verdict: matches record.",
+    "read": "Congress.gov's official actions list for H.R. 6644, the 21st Century ROAD to Housing Act, shows the bill was presented to the president on June 29, 2026, \"Sent to Archivist of the United States unsigned\" on July 11, 2026, and \"Became Public Law No: 119-101\" the same day. The public-law text carries that July 11, 2026, enactment date. The House's final vote sending the bicameral package to the president was 358 to 32, and the Senate had passed the measure 89 to 10 and later concurred 85 to 5, matching CNN's description of a bipartisan bill that became law in July without the president's signature.",
+    "sources": [
+      {
+        "title": "CNN, Edward-Isaac Dovere, Hakeem Jeffries has a plan for Donald Trump and for his Democratic critics, Nov. 8, 2026",
+        "url": "https://cnnespanol.cnn.com/2026/11/08/eeuu/hakeem-jeffries-plan-trump-trax"
+      },
+      {
+        "title": "Congress.gov, H.R. 6644 all actions",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/6644/all-actions"
+      },
+      {
+        "title": "Public Law 119-101, 21st Century ROAD to Housing Act, July 11, 2026",
+        "url": "https://www.congress.gov/119/plaws/publ101/PLAW-119publ101.htm"
+      },
+      {
+        "title": "U.S. House Committee on Financial Services, 21st Century ROAD to Housing Act Becomes Law",
+        "url": "https://financialservices.house.gov/news/documentsingle.aspx?DocumentID=411189"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261108-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-08T06:30:00-06:00",
