@@ -225,6 +225,50 @@
     "corrections": []
   },
   {
+    "id": "20261108-reframe-fox-trump-doj-probe-democrats-impeachment",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-08T09:57:35-06:00",
+    "label": "ReFrame",
+    "claim": "Fox News says Trump ordered a DOJ probe of Democrats over 'threatening' to impeach AG Blanche",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials",
+    "source_url": "https://www.foxnews.com/politics/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials",
+    "record_url": "https://truthsocial.com/@realDonaldTrump/117576401180733840",
+    "record_title": "Donald J. Trump (@realDonaldTrump), Truth Social post, Nov. 7, 2026, 11:45 AM CT (preserved in the Trump's Truth archive, status 43507)",
+    "read": "Fox News reports that President Trump ordered the Justice Department to investigate Democrats he says are \"threatening\" officials, including the attorney general, with impeachment. Trump's Nov. 7 Truth Social post matches every quote Fox uses and ends \"I am ordering the Department of Justice to look into this criminal act, immediately!\" Fox adds that Reps. Hank Johnson and Deborah Ross said they would support impeaching Attorney General Todd Blanche, notes the post names neither them nor any threatened donors, and no Justice Department statement confirming an investigation was found. Graded B+ across 2 arguments (Trump's post C with equivocation; Fox News A-). Scorecard: 50% valid, 50% cogent, 75% supported, 80% fallacy-free.",
+    "grade": "B+",
+    "scores": {
+      "valid": 50,
+      "cogent": 50,
+      "supported": 75,
+      "fallacy_free": 80
+    },
+    "why": "Fox's quotes match Trump's Nov. 7 Truth Social post ordering DOJ to investigate Democratic impeachment 'threats'; calling that talk a criminal act does not follow from the record Fox itself reports.",
+    "sources": [
+      {
+        "title": "Fox News, James Cirrone, “Trump orders DOJ probe into Democrats over alleged threats against administration officials,” Nov. 7, 2026",
+        "url": "https://www.foxnews.com/politics/trump-orders-doj-probe-democrats-over-alleged-threats-against-admin-officials"
+      },
+      {
+        "title": "Donald J. Trump (@realDonaldTrump), Truth Social post, Nov. 7, 2026, 11:45 AM CT (preserved in the Trump's Truth archive, status 43507)",
+        "url": "https://truthsocial.com/@realDonaldTrump/117576401180733840"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261107-late-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261107-late-fox.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261107-late-fox.mp4",
+    "popart_story": "20261107-late-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News says Trump ordered a DOJ probe of Democrats over 'threatening' to impeach AG Blanche.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261107-late-cnn",
     "slot": "Late Check",
     "aired_at": "2026-11-07T23:00:00-06:00",
