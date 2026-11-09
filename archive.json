@@ -1,5 +1,96 @@
 [
   {
+    "id": "20261109-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-09T06:30:00-06:00",
+    "headline": "A viral graphic shows Ilhan Omar winning her district with 99 percent of the vote as proof of '100 percent election fraud'; Minnesota's official count gives her 76.5 percent",
+    "video_url": "",
+    "claim": "\"100 percent election fraud\" — caption on an X post shared Nov. 4, 2026, alongside a news-style graphic showing Rep. Ilhan Omar winning Minnesota's 5th District with 99 percent of the vote, as documented by AFP Fact Check",
+    "source_url": "https://factcheck.afp.com/doc.afp.com.D6NW4T3",
+    "record_url": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt",
+    "record_title": "Minnesota Secretary of State, 2026 State General Election results file, U.S. Representative (ushouse.txt), District 5",
+    "verdict": "Contradicted",
+    "why": "The Minnesota Secretary of State's results file for the Nov. 3 election shows Omar with 262,702 of 343,507 votes in the 5th District, or 76.48 percent, against 16.23 percent for Republican John Nagel and 7.02 percent for independent DeVelle L. Jackson, so the 99 percent figure in the graphic is not in the official count. AFP reports the graphic carries an AI watermark, and the real result is a lopsided but ordinary margin of about 60 points, in line with Omar's past wins. Nothing in the state's count supports the post's fraud claim, which rests entirely on a number the record doesn't contain.",
+    "what_would_change": "A certified canvass from the Minnesota State Canvassing Board showing a result near 99 percent, or a court or election-official finding of fraud in the 5th District count, would move this verdict.",
+    "outlet": "AFP Fact Check, \"AI graphic amplifies US election conspiracies, inflates support for Ilhan Omar,\" Nov. 9, 2026",
+    "outlet_url": "https://factcheck.afp.com/doc.afp.com.D6NW4T3",
+    "script": "Morning Check. A viral post used a graphic showing Ilhan Omar winning her district with 99 percent of the vote as proof of election fraud. Minnesota's official count shows she won with about 76 and a half percent, and fact-checkers found the graphic was AI-generated. Verdict: contradicted.",
+    "read": "The Minnesota Secretary of State's results file for the Nov. 3 election shows Omar with 262,702 of 343,507 votes in the 5th District, or 76.48 percent, against 16.23 percent for Republican John Nagel and 7.02 percent for independent DeVelle L. Jackson, so the 99 percent figure in the graphic is not in the official count. AFP reports the graphic carries an AI watermark, and the real result is a lopsided but ordinary margin of about 60 points, in line with Omar's past wins. Nothing in the state's count supports the post's fraud claim, which rests entirely on a number the record doesn't contain.",
+    "sources": [
+      {
+        "title": "Minnesota Secretary of State, 2026 general election U.S. House results",
+        "url": "https://electionresultsfiles.sos.mn.gov/20261103/ushouse.txt"
+      },
+      {
+        "title": "AFP Fact Check, Nov. 9, 2026",
+        "url": "https://factcheck.afp.com/doc.afp.com.D6NW4T3"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261109-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-09T06:30:00-06:00",
+    "headline": "Fox News says current federal funding runs out Dec. 11, setting up a lame-duck shutdown fight; the stopgap law Trump signed in September sets that exact expiration date",
+    "video_url": "",
+    "claim": "\"Current federal funding levels run out on Dec. 11, and without another deal in place, Congress risks plunging the government into another shutdown.\" — Elizabeth Elkind and Alex Miller, Fox News Digital, Nov. 9, 2026",
+    "source_url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
+    "record_url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/html/PLAW-119publ103.htm",
+    "record_title": "Public Law 119-103, Continuing Appropriations and Extensions Act, 2027 (H.R. 6500), enacted Sept. 2, 2026, Sec. 106",
+    "verdict": "Matches record",
+    "why": "Section 106 of Public Law 119-103, signed Sept. 2, 2026, makes the stopgap funding available until whichever comes first: enactment of the relevant full-year bill or Dec. 11, 2026. Congress.gov's summary says the law funds most programs at fiscal 2026 levels, which matches Fox's description of \"current federal funding levels.\" Whether a lapse actually leads to a shutdown depends on what Congress passes in the next month, which the law itself can't show.",
+    "what_would_change": "Enactment of a new continuing resolution or full-year appropriations bills that extend funding past Dec. 11, or a published correction to the law's expiration date, would move this verdict.",
+    "outlet": "Fox News Digital, \"Congress returns to brutal lame-duck stretch with shutdown deadline, leadership races,\" Nov. 9, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
+    "script": "Morning Check. Fox News says current federal funding runs out December 11, setting up a possible shutdown during the lame-duck session. The stopgap law signed in September sets that exact expiration date, at last year's funding levels. Verdict: matches record.",
+    "read": "Section 106 of Public Law 119-103, signed Sept. 2, 2026, makes the stopgap funding available until whichever comes first: enactment of the relevant full-year bill or Dec. 11, 2026. Congress.gov's summary says the law funds most programs at fiscal 2026 levels, which matches Fox's description of \"current federal funding levels.\" Whether a lapse actually leads to a shutdown depends on what Congress passes in the next month, which the law itself can't show.",
+    "sources": [
+      {
+        "title": "Public Law 119-103 (govinfo)",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ103/html/PLAW-119publ103.htm"
+      },
+      {
+        "title": "Congress.gov, H.R. 6500 all actions and summary",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/6500/all-info"
+      },
+      {
+        "title": "Fox News Digital, Nov. 9, 2026",
+        "url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261109-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-09T06:30:00-06:00",
+    "headline": "CNN says a record 159 women will serve in the next Congress, seven more than serve now; Rutgers' Center for American Women and Politics counts at least 159 against 152 today",
+    "video_url": "",
+    "claim": "\"The new record — 159 women from both parties — is seven more women than currently serve in the House and Senate, according to data from the Center for American Women and Politics at Rutgers University and CNN election projections.\" — Aleena Fayaz, Renée Rigdon and Amy O'Kruk, CNN, Nov. 9, 2026",
+    "source_url": "https://edition.cnn.com/2026/11/09/politics/record-women-congress-midterm-election-vis",
+    "record_url": "https://cawp.rutgers.edu/blog/results-women-congressional-and-statewide-executive-candidates-election-2026",
+    "record_title": "Center for American Women and Politics, Rutgers University, \"Results for Women Congressional and Statewide Executive Candidates in Election 2026,\" updated Nov. 7, 2026",
+    "verdict": "Matches record",
+    "why": "CAWP's tally, last updated Nov. 7, says at least 159 women will serve in the 120th Congress, counting 141 winners, two undecided races with women on both sides and 16 Senate holdovers, against 152 serving now, the previous record. CAWP also backs CNN's other details: at least 136 women in the House, a new record, while the Senate drops from 27 women to at least 23. CNN rounds the share to 30 percent where CAWP says at least 29.7 percent, and 15 races with women in them were still uncalled, so the final number could rise.",
+    "what_would_change": "A CAWP update or certified results showing fewer than 159 women elected, or a revised count of women currently serving other than 152, would move this verdict.",
+    "outlet": "CNN, \"A record number of women will serve in the next Congress,\" Nov. 9, 2026",
+    "outlet_url": "https://edition.cnn.com/2026/11/09/politics/record-women-congress-midterm-election-vis",
+    "script": "Morning Check. CNN says a record 159 women will serve in the next Congress, seven more than today. Rutgers' Center for American Women and Politics counts at least 159, up from 152, with the House setting a record while the Senate loses women. Verdict: matches record.",
+    "read": "CAWP's tally, last updated Nov. 7, says at least 159 women will serve in the 120th Congress, counting 141 winners, two undecided races with women on both sides and 16 Senate holdovers, against 152 serving now, the previous record. CAWP also backs CNN's other details: at least 136 women in the House, a new record, while the Senate drops from 27 women to at least 23. CNN rounds the share to 30 percent where CAWP says at least 29.7 percent, and 15 races with women in them were still uncalled, so the final number could rise.",
+    "sources": [
+      {
+        "title": "CAWP, Results for Women Candidates in Election 2026",
+        "url": "https://cawp.rutgers.edu/blog/results-women-congressional-and-statewide-executive-candidates-election-2026"
+      },
+      {
+        "title": "CNN, Nov. 9, 2026",
+        "url": "https://edition.cnn.com/2026/11/09/politics/record-women-congress-midterm-election-vis"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261108-late",
     "slot": "Late Check",
     "aired_at": "2026-11-08T23:00:00-06:00",
