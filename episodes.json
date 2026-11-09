@@ -286,6 +286,50 @@
   "corrections": []
  },
  {
+  "id": "20261108-reframe-nypost-trump-alaska-senate-race-over",
+  "slot": "ReFrame",
+  "lead": false,
+  "aired_at": "2026-11-08T19:54:03-06:00",
+  "label": "ReFrame",
+  "claim": "Trump declared the Alaska Senate race 'OVER' for Dan Sullivan; results are unofficial and ranked-choice tabulation is not until Nov. 18",
+  "outlet": "New York Post",
+  "outlet_url": "https://nypost.com/2026/11/07/us-news/trump-declares-alaska-senate-race-over/",
+  "source_url": "https://nypost.com/2026/11/07/us-news/trump-declares-alaska-senate-race-over/",
+  "record_url": "https://www.elections.alaska.gov/election-results/e/",
+  "record_title": "Alaska Division of Elections, 2026 General Election results page (results status: unofficial; ranked-choice voting tabulation scheduled November 18, 2026)",
+  "read": "Alaska's official results page still lists the November 3 general election as unofficial and says ranked-choice results \"will not be available until November 18, 2026 once all eligible ballots are reviewed and counted.\" That contradicts Trump's Nov. 7 Truth Social declaration that the Alaska Senate race is \"OVER\" and that Sen. Dan Sullivan \"WON, BY A LOT.\" The New York Post reports Sullivan trailing Democrat Mary Peltola by fewer than 700 votes with 74% of precincts in, and notes that Alaska's ranked-choice ballots transfer by each voter's next ranking, not automatically to Sullivan. Graded D across 2 arguments (Trump's post F: unwarranted assumption and jumping to conclusions; New York Post A-). Scorecard: 0% valid, 50% cogent, 50% supported, 60% fallacy-free.",
+  "grade": "D",
+  "scores": {
+   "valid": 0,
+   "cogent": 50,
+   "supported": 50,
+   "fallacy_free": 60
+  },
+  "why": "Alaska's results page lists the race as unofficial with ranked-choice tabulation on Nov. 18; Trump's declaration adds other candidates' first-choice votes to Sullivan, which is not how ranked-choice transfers work.",
+  "sources": [
+   {
+    "title": "New York Post, Geoff Earle, “Trump declares Alaska Senate race ‘over’ in favor of GOP candidate following ‘Decoy Dan’ scandal,” Nov. 7, 2026",
+    "url": "https://nypost.com/2026/11/07/us-news/trump-declares-alaska-senate-race-over/"
+   },
+   {
+    "title": "Alaska Division of Elections, 2026 General Election results page (results status: unofficial; ranked-choice voting tabulation scheduled November 18, 2026)",
+    "url": "https://www.elections.alaska.gov/election-results/e/"
+   },
+   {
+    "title": "PopArticles — original story (verdict: Contradicted)",
+    "url": "https://popularalien.com/story/20261108-morning"
+   },
+   {
+    "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+    "url": "https://show.popularalien.com/talk/pa-20261108-morning.mp4"
+   }
+  ],
+  "video_url": "https://show.popularalien.com/talk/pa-20261108-morning.mp4",
+  "popart_story": "20261108-morning",
+  "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... New York Post reports: Trump declared the Alaska Senate race 'OVER' for Dan Sullivan; results are unofficial and ranked-choice tabulation is not until Nov. 18.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+  "corrections": []
+ },
+ {
   "id": "20261108-morning-fox",
   "slot": "Morning Check",
   "aired_at": "2026-11-08T06:30:00-06:00",
