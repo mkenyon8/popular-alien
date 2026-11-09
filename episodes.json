@@ -1,5 +1,100 @@
 [
   {
+    "id": "20261109-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-09T17:30:00-06:00",
+    "headline": "A viral post calls NBC's brief 91.9 percent Talarico number in Tarrant County proof of a 'steal'; the county's own count gives him 58.72 percent",
+    "video_url": "",
+    "claim": "\"WHEN THE STEAL IS TOO OBVIOUS AND YOU SCRAMBLE TO FIX IT!\" — anonymous user on the forum \"The Donald\" (patriots.win), Nov. 5, 2026, sharing screenshots of an NBC News board briefly showing James Talarico at 91.9 percent in Tarrant County",
+    "source_url": "https://factcheck.afp.com/doc.afp.com.D6PV8KH",
+    "record_url": "https://www.tarrantcountytx.gov/content/dam/main/elections/2026/1126/reports/cumulative.pdf",
+    "record_title": "Tarrant County Elections, Nov. 3, 2026 Joint General and Special Election cumulative report, U.S. Senator race (run Nov. 4, 2026, 2:37 AM)",
+    "verdict": "Contradicted",
+    "why": "Tarrant County's own cumulative report lists Talarico with 427,879 votes, or 58.72 percent, to Ken Paxton's 287,783, or 39.50 percent, in the U.S. Senate race, close to the 59.8 percent NBC showed after the fix and nowhere near 91.9 percent. The Associated Press told AFP that a data-entry error briefly showed Paxton with 22,403 votes in the county instead of 202,403 and was corrected within three minutes, and NBC's Steve Kornacki flagged the number as out of whack on air. A mistyped figure in a media feed that was corrected minutes later does not change any ballots, so it is not evidence that votes were stolen.",
+    "what_would_change": "A county or state canvass, audit, recount or court finding showing that the Tarrant County tally itself was wrong, or that ballots were added or removed, would move this verdict.",
+    "outlet": "AFP Fact Check, \"Temporary data-entry error misrepresented online as Texas election fraud,\" Nov. 9, 2026",
+    "outlet_url": "https://factcheck.afp.com/doc.afp.com.D6PV8KH",
+    "script": "Evening Check. A viral post called a 91.9 percent number for James Talarico on NBC's election-night board proof of a steal in Tarrant County, Texas. The AP says it was a data-entry error fixed within three minutes, and the county's own count gives Talarico 58.72 percent. Verdict: contradicted.",
+    "read": "Tarrant County's own cumulative report lists Talarico with 427,879 votes, or 58.72 percent, to Ken Paxton's 287,783, or 39.50 percent, in the U.S. Senate race, close to the 59.8 percent NBC showed after the fix and nowhere near 91.9 percent. The Associated Press told AFP that a data-entry error briefly showed Paxton with 22,403 votes in the county instead of 202,403 and was corrected within three minutes, and NBC's Steve Kornacki flagged the number as out of whack on air. A mistyped figure in a media feed that was corrected minutes later does not change any ballots, so it is not evidence that votes were stolen.",
+    "sources": [
+      {
+        "title": "Tarrant County Elections cumulative report, Nov. 3, 2026",
+        "url": "https://www.tarrantcountytx.gov/content/dam/main/elections/2026/1126/reports/cumulative.pdf"
+      },
+      {
+        "title": "Tarrant County, Nov. 3, 2026 Joint General and Special Election Results",
+        "url": "https://www.tarrantcountytx.gov/en/elections/past-election-information/2026-archives/november-3--2026--joint-general-and-special-election-results.html"
+      },
+      {
+        "title": "AFP Fact Check, Nov. 9, 2026",
+        "url": "https://factcheck.afp.com/doc.afp.com.D6PV8KH"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261109-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-09T17:30:00-06:00",
+    "headline": "Fox News says the Supreme Court let Big Bend border wall work resume, with only Justice Jackson noting she would deny; the Court's docket and order say exactly that",
+    "video_url": "",
+    "claim": "\"The justices' ruling stays a preliminary injunction issued last month by a federal district judge in El Paso, who had temporarily halted border wall construction in the region designated by U.S. Customs and Border Protection as the Big Bend Sector while litigation proceeds. Justice Ketanji Brown Jackson indicated she would have denied the stay request but did not file a written dissent.\" — Louis Casiano, Fox News, Nov. 9, 2026",
+    "source_url": "https://www.foxnews.com/politics/scotus-allows-trump-admin-temporarily-resume-border-construction-texas-big-bend",
+    "record_url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26A560.html",
+    "record_title": "Supreme Court of the United States, Docket No. 26A560, Mullin v. Friends of the Ruidosa Church, checked with the Nov. 9, 2026 per curiam opinion",
+    "verdict": "Matches record",
+    "why": "The Court's Nov. 9 docket entry says the government's stay application was granted, the Western District of Texas injunction in case No. 3:26-cv-01099 is stayed while the government seeks review, and \"Justice Jackson would deny the application for stay,\" with no dissenting opinion listed. The per curiam opinion confirms the injunction was entered on Oct. 2, 2026, halting construction in the area CBP designates the Big Bend Sector. Fox's description of a temporary stay pending litigation matches the order, which ends automatically if certiorari is denied.",
+    "what_would_change": "A corrected Supreme Court order or docket showing another justice noted a dissent, a written dissent by Justice Jackson, or a different date or court for the injunction would move this verdict.",
+    "outlet": "Fox News, \"SCOTUS allows Trump admin to temporarily resume border construction in Texas' Big Bend,\" Nov. 9, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/scotus-allows-trump-admin-temporarily-resume-border-construction-texas-big-bend",
+    "script": "Evening Check. Fox News says the Supreme Court let border wall construction resume in Texas' Big Bend while the case goes on, with only Justice Jackson saying she would have denied it. The Court's own docket and opinion show exactly that, staying an October 2nd injunction from the Western District of Texas. Verdict: matches record.",
+    "read": "The Court's Nov. 9 docket entry says the government's stay application was granted, the Western District of Texas injunction in case No. 3:26-cv-01099 is stayed while the government seeks review, and \"Justice Jackson would deny the application for stay,\" with no dissenting opinion listed. The per curiam opinion confirms the injunction was entered on Oct. 2, 2026, halting construction in the area CBP designates the Big Bend Sector. Fox's description of a temporary stay pending litigation matches the order, which ends automatically if certiorari is denied.",
+    "sources": [
+      {
+        "title": "Supreme Court Docket No. 26A560",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26A560.html"
+      },
+      {
+        "title": "Mullin v. Friends of the Ruidosa Church, per curiam, Nov. 9, 2026",
+        "url": "https://www.supremecourt.gov/opinions/26pdf/26a560_onkq.pdf"
+      },
+      {
+        "title": "Fox News, Nov. 9, 2026",
+        "url": "https://www.foxnews.com/politics/scotus-allows-trump-admin-temporarily-resume-border-construction-texas-big-bend"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261109-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-09T17:30:00-06:00",
+    "headline": "CNN says an impeached Pete Hegseth would be only the third Cabinet secretary ever impeached; the House's official impeachment list shows two before him, Belknap and Mayorkas",
+    "video_url": "",
+    "claim": "\"If the impeachment vote in the House is successful, Hegseth would be the third Cabinet secretary to be impeached.\" — Lauren Chadwick and Michael Williams, CNN, Nov. 9, 2026",
+    "source_url": "https://edition.cnn.com/2026/11/09/politics/pete-hegseth-impeachment-congress",
+    "record_url": "https://history.house.gov/Institution/Impeachment/Impeachment-List/",
+    "record_title": "U.S. House of Representatives, Office of the Historian, \"List of Individuals Impeached by the House of Representatives\"",
+    "verdict": "Matches record",
+    "why": "The House Historian's list of every person the House has impeached includes exactly two Cabinet secretaries: Secretary of War William W. Belknap, impeached March 2, 1876, and acquitted, and Homeland Security Secretary Alejandro N. Mayorkas, impeached Feb. 13, 2024, whose charges were dismissed without a trial. Everyone else on the list is a president, a senator or a judge, so a House vote to impeach Hegseth would make him the third. CNN's description of the Senate failing to convict Belknap and voting to end the Mayorkas case also matches the list.",
+    "what_would_change": "An official House record showing another Cabinet secretary was impeached, or the House voting down or tabling Massie's resolution, which would leave the comparison hypothetical, would change how this is graded.",
+    "outlet": "CNN, \"How impeachment of a Cabinet secretary like Hegseth works,\" Nov. 9, 2026",
+    "outlet_url": "https://edition.cnn.com/2026/11/09/politics/pete-hegseth-impeachment-congress",
+    "script": "Evening Check. CNN says that if the House impeaches Defense Secretary Pete Hegseth, he'd be just the third Cabinet secretary ever impeached. The House's official list shows only two before him, William Belknap in 1876 and Alejandro Mayorkas in 2024. Verdict: matches record.",
+    "read": "The House Historian's list of every person the House has impeached includes exactly two Cabinet secretaries: Secretary of War William W. Belknap, impeached March 2, 1876, and acquitted, and Homeland Security Secretary Alejandro N. Mayorkas, impeached Feb. 13, 2024, whose charges were dismissed without a trial. Everyone else on the list is a president, a senator or a judge, so a House vote to impeach Hegseth would make him the third. CNN's description of the Senate failing to convict Belknap and voting to end the Mayorkas case also matches the list.",
+    "sources": [
+      {
+        "title": "House Historian, List of Individuals Impeached by the House",
+        "url": "https://history.house.gov/Institution/Impeachment/Impeachment-List/"
+      },
+      {
+        "title": "CNN, Nov. 9, 2026",
+        "url": "https://edition.cnn.com/2026/11/09/politics/pete-hegseth-impeachment-congress"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261109-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-09T11:30:00-06:00",
