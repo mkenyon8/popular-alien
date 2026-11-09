@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261109-reframe-cbs-trump-deportations-too-tough",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-09T10:20:00-06:00",
+    "label": "Story of the Day",
+    "claim": "Trump says his deportation policy might have been \"too tough\" in 60 Minutes interview",
+    "outlet": "CBS News",
+    "outlet_url": "https://www.cbsnews.com/news/trump-says-some-of-his-immigration-policies-may-have-been-too-tough-60-minutes/",
+    "source_url": "https://www.cbsnews.com/news/trump-says-some-of-his-immigration-policies-may-have-been-too-tough-60-minutes/",
+    "record_url": "https://www.cbsnews.com/news/trump-says-some-of-his-immigration-policies-may-have-been-too-tough-60-minutes/",
+    "record_title": "CBS News, “Trump says his deportation policy might have been ‘too tough’ in 60 Minutes interview,” Nov. 8, 2026",
+    "read": "CBS reports that President Trump told \"60 Minutes\" his deportation policy might have been \"too tough,\" and CBS's quotes match what he said, with context: exit polls, the Miller promotion and DHS saying nothing is changing. The weak link is Trump's own case. He claims the crackdown removed \"the bad ones\" while admitting it also took workers whose only offense was crossing illegally, and the same day he promoted Stephen Miller, the policy's architect, to chief of staff. Graded C+ across 3 arguments (President Donald Trump C- and C+; CBS News A-). Scorecard: 33% valid, 67% cogent, 67% supported, 100% fallacy-free.",
+    "grade": "C+",
+    "scores": {
+      "valid": 33,
+      "cogent": 67,
+      "supported": 67,
+      "fallacy_free": 100
+    },
+    "why": "CBS quotes Trump accurately and adds the context that matters. The weak link is Trump's own case: he claims the crackdown caught 'the bad ones' while admitting it also swept up working people. Key question: If deportations were \"too tough,\" why make Stephen Miller, their architect, chief of staff the same day?",
+    "sources": [
+      {
+        "title": "CBS News, “Trump says his deportation policy might have been ‘too tough’ in 60 Minutes interview,” Nov. 8, 2026",
+        "url": "https://www.cbsnews.com/news/trump-says-some-of-his-immigration-policies-may-have-been-too-tough-60-minutes/"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261109-trump-deportations-too-tough.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261109-trump-deportations-too-tough.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CBS News reports: Trump says his deportation policy might have been \"too tough\" in 60 Minutes interview.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261109-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-09T06:30:00-06:00",
