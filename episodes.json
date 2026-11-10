@@ -1,5 +1,100 @@
 [
   {
+    "id": "20261110-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-10T17:30:00-06:00",
+    "headline": "A viral Facebook video says the Learjet that crashed in Greenacres, Florida, was really 'a drone or a missile'; the NTSB's investigation file documents a Learjet 60 and recovered wings, engines and its cockpit voice recorder",
+    "video_url": "",
+    "claim": "\"So it can't be a Learjet. A Learjet would take up half the bloody road. That's not taking up half the road. It is a drone or a missile.\" — unnamed Facebook user in a Nov. 2, 2026 video, as quoted by AAP FactCheck; the post had been viewed more than 920,000 times",
+    "source_url": "https://aap.com.au/factcheck/flight-data-debunks-baseless-florida-jet-crash-conspiracy/",
+    "record_url": "https://www.ntsb.gov/investigations/Pages/ERA27MA026.aspx",
+    "record_title": "National Transportation Safety Board, investigation ERA27MA026, Learjet 60 crash near Greenacres, Fla., Nov. 1, 2026 (updates through Nov. 9, 2026)",
+    "verdict": "Contradicted",
+    "why": "The NTSB's investigation page identifies the aircraft as a Learjet 60 operated by Aurora Aviation (Upper Jet), lost from radar and radio contact en route from Austin to North Eleuthera, Bahamas. Its updates list recovered components from both wings, both engines, the flight deck and tail surfaces, and say the cockpit voice recorder was found at the initial impact site on Nov. 9. Nothing in the federal record points to a drone or missile; the cause is still under investigation.",
+    "what_would_change": "An NTSB preliminary or final report, or recovered wreckage, showing the object was not the registered Learjet 60, or showing a weapon struck it, would move this verdict.",
+    "outlet": "AAP FactCheck, \"Flight data debunks baseless Florida jet crash conspiracy,\" by William Summers, Nov. 10, 2026",
+    "outlet_url": "https://aap.com.au/factcheck/flight-data-debunks-baseless-florida-jet-crash-conspiracy/",
+    "script": "Evening Check. A viral Facebook video claims the jet that crashed in Greenacres, Florida, on November first was really a drone or a missile. The NTSB's own investigation file identifies a Learjet 60, lists recovered pieces of both wings and both engines, and says the cockpit voice recorder was found at the impact site. The cause is still under investigation, but nothing in the record supports a drone or missile. Verdict: contradicted.",
+    "read": "The NTSB's investigation page identifies the aircraft as a Learjet 60 operated by Aurora Aviation (Upper Jet), lost from radar and radio contact en route from Austin to North Eleuthera, Bahamas. Its updates list recovered components from both wings, both engines, the flight deck and tail surfaces, and say the cockpit voice recorder was found at the initial impact site on Nov. 9. Nothing in the federal record points to a drone or missile; the cause is still under investigation.",
+    "sources": [
+      {
+        "title": "NTSB investigation ERA27MA026, Learjet 60, Greenacres, Fla.",
+        "url": "https://www.ntsb.gov/investigations/Pages/ERA27MA026.aspx"
+      },
+      {
+        "title": "AAP FactCheck, Nov. 10, 2026",
+        "url": "https://aap.com.au/factcheck/flight-data-debunks-baseless-florida-jet-crash-conspiracy/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261110-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-10T17:30:00-06:00",
+    "headline": "Fox News says the Supreme Court's 2024 immunity ruling gives presidents absolute immunity for core constitutional acts, presumptive immunity for other official acts and none for unofficial acts; the opinion says exactly that",
+    "video_url": "",
+    "claim": "\"In Trump v. United States, the case in question, the court ruled that former presidents have absolute immunity from criminal prosecution for actions within their core constitutional powers and at least presumptive immunity for other official acts. The justices ruled that former presidents have no immunity from prosecution for unofficial conduct.\" — Robert Schmad, Fox News, Nov. 10, 2026, reporting Justice Sonia Sotomayor's wish to see the ruling overturned",
+    "source_url": "https://www.foxnews.com/politics/sotomayor-lets-loose-conservative-supreme-court-revealing-wish-crazy-things",
+    "record_url": "https://www.supremecourt.gov/opinions/23pdf/23-939_e2pg.pdf",
+    "record_title": "Supreme Court of the United States, Trump v. United States, No. 23-939, opinion and dissents (July 1, 2024)",
+    "verdict": "Matches record",
+    "why": "The Court's syllabus holds that a former president is entitled to \"absolute immunity from criminal prosecution for actions within his conclusive and preclusive constitutional authority,\" \"at least presumptive immunity from prosecution for all his official acts,\" and that \"There is no immunity for unofficial acts.\" Fox's line that Sotomayor's dissent said the president is now a \"king above the law\" also matches her written dissent. Her new remarks at Mount Vernon are quoted from the event and are not checked against a transcript here.",
+    "what_would_change": "A corrected opinion, a later Supreme Court ruling narrowing or overruling Trump v. United States, or a transcript showing Fox misdescribed the holding would move this verdict.",
+    "outlet": "Fox News, \"Sotomayor lets loose on conservative Supreme Court with revealing wish: 'Crazy things',\" by Robert Schmad, Nov. 10, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/sotomayor-lets-loose-conservative-supreme-court-revealing-wish-crazy-things",
+    "script": "Evening Check. Fox News, reporting Justice Sotomayor's wish to see the presidential immunity ruling overturned, says the Court gave presidents absolute immunity for core constitutional acts, presumptive immunity for other official acts, and none for unofficial acts. The Supreme Court's opinion in Trump versus United States says exactly that, and her dissent did warn the president is now a king above the law. Verdict: matches record.",
+    "read": "The Court's syllabus holds that a former president is entitled to \"absolute immunity from criminal prosecution for actions within his conclusive and preclusive constitutional authority,\" \"at least presumptive immunity from prosecution for all his official acts,\" and that \"There is no immunity for unofficial acts.\" Fox's line that Sotomayor's dissent said the president is now a \"king above the law\" also matches her written dissent. Her new remarks at Mount Vernon are quoted from the event and are not checked against a transcript here.",
+    "sources": [
+      {
+        "title": "Trump v. United States, No. 23-939 (2024), opinion (PDF)",
+        "url": "https://www.supremecourt.gov/opinions/23pdf/23-939_e2pg.pdf"
+      },
+      {
+        "title": "Fox News, Nov. 10, 2026",
+        "url": "https://www.foxnews.com/politics/sotomayor-lets-loose-conservative-supreme-court-revealing-wish-crazy-things"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261110-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-10T17:30:00-06:00",
+    "headline": "CNN says Jim Jordan topped out at 200 votes in his 2023 speaker bid, shy of 218; House roll calls confirm the 200, but the majority needed was 217, then 215",
+    "video_url": "",
+    "claim": "\"He failed to win the speakership when he topped out at 200 votes – shy of the 218 required – and the conference removed him as its nominee, eventually landing on now-Speaker Mike Johnson.\" — Aaron Blake, CNN analysis, \"Jim Jordan's long, fraught path to lead the House GOP,\" live updates, Nov. 10, 2026",
+    "source_url": "https://www.cnn.com/2026/11/10/politics/live-news/hegseth-impeachment-congress?post-id=cmwb5vqeb00003b6uoby6mnut",
+    "record_url": "https://clerk.house.gov/evs/2023/roll521.xml",
+    "record_title": "Office of the Clerk, U.S. House of Representatives, Roll Call 521 (Election of the Speaker, Oct. 17, 2023), with Roll Calls 523 (Oct. 18) and 525 (Oct. 20)",
+    "verdict": "Missing context",
+    "why": "The Clerk's roll calls show Jordan received 200 votes on the first speaker ballot on Oct. 17, 2023, then 199 and 194, so \"topped out at 200\" is right. But with vacancies and absences, a majority of votes cast for a named candidate was 217 on the first two ballots (432 and 433 votes) and 215 on the third (429), not a fixed 218. Jordan fell short either way, so the error does not change CNN's point.",
+    "what_would_change": "A House roll call showing 436 or more votes cast for named candidates on any of Jordan's ballots, which would make 218 the threshold, would move this verdict to Matches record.",
+    "outlet": "CNN, live updates, \"Jim Jordan's long, fraught path to lead the House GOP,\" analysis by Aaron Blake, Nov. 10, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/10/politics/live-news/hegseth-impeachment-congress?post-id=cmwb5vqeb00003b6uoby6mnut",
+    "script": "Evening Check. CNN says Jim Jordan topped out at 200 votes in his 2023 run for speaker, shy of the 218 required. The House Clerk's roll calls confirm he peaked at 200, but with vacant seats the majority he needed was 217 on the first two ballots and 215 on the third. He fell short either way. Verdict: missing context.",
+    "read": "The Clerk's roll calls show Jordan received 200 votes on the first speaker ballot on Oct. 17, 2023, then 199 and 194, so \"topped out at 200\" is right. But with vacancies and absences, a majority of votes cast for a named candidate was 217 on the first two ballots (432 and 433 votes) and 215 on the third (429), not a fixed 218. Jordan fell short either way, so the error does not change CNN's point.",
+    "sources": [
+      {
+        "title": "House Clerk, Roll Call 521, Oct. 17, 2023",
+        "url": "https://clerk.house.gov/evs/2023/roll521.xml"
+      },
+      {
+        "title": "House Clerk, Roll Call 523, Oct. 18, 2023",
+        "url": "https://clerk.house.gov/evs/2023/roll523.xml"
+      },
+      {
+        "title": "House Clerk, Roll Call 525, Oct. 20, 2023",
+        "url": "https://clerk.house.gov/evs/2023/roll525.xml"
+      },
+      {
+        "title": "CNN live updates, Nov. 10, 2026",
+        "url": "https://www.cnn.com/2026/11/10/politics/live-news/hegseth-impeachment-congress?post-id=cmwb5vqeb00003b6uoby6mnut"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261110-reframe-aljazeera-iran-war-effectively-over",
     "slot": "ReFrame",
     "lead": true,
