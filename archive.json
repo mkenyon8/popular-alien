@@ -1,5 +1,100 @@
 [
   {
+    "id": "20261110-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-10T06:30:00-06:00",
+    "headline": "NBC News says gas is still up more than 30% since the Iran war began and about 40% this year; EIA's weekly price series backs both figures",
+    "video_url": "",
+    "claim": "\"Still, gas prices remain up by more than 30% since the war with Iran started on February 28, and around 40% since the beginning of the year.\" — Elizabeth Robinson, NBC News, \"Morning Rundown,\" Nov. 10, 2026",
+    "source_url": "https://www.nbcnews.com/news/us-news/trump-nvidia-jensen-huang-republican-congress-leaders-morning-rundown-rcna608496",
+    "record_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPMR_PTE_NUS_DPG&f=W",
+    "record_title": "U.S. Energy Information Administration, Weekly U.S. Regular All Formulations Retail Gasoline Prices (series EMM_EPMR_PTE_NUS_DPG), dollars per gallon",
+    "verdict": "Matches record",
+    "why": "EIA's weekly series puts regular gasoline at $2.937 on Feb. 23, the last reading before the war began Feb. 28, and $2.796 on Jan. 5, the first reading of 2026. Against AAA's Nov. 10 national average of $3.98, that is a rise of about 36% since the war began and about 42% since January; EIA's own latest reading, $4.153 on Nov. 2, shows even larger gains of about 41% and 49%. Either way, NBC's \"more than 30%\" and \"around 40%\" are consistent with the government record.",
+    "what_would_change": "An EIA weekly reading that falls below about $3.82 a gallon (30% above the pre-war $2.937) would make the \"more than 30%\" figure outdated, and a revision to EIA's January or February readings would change the comparison.",
+    "outlet": "NBC News, \"Trump backs Nvidia's Jensen Huang and Republicans select new congressional leaders: Morning Rundown,\" Nov. 10, 2026",
+    "outlet_url": "https://www.nbcnews.com/news/us-news/trump-nvidia-jensen-huang-republican-congress-leaders-morning-rundown-rcna608496",
+    "script": "Morning Check. NBC News says gas prices are still up more than 30 percent since the Iran war began February 28, and around 40 percent since January. The Energy Information Administration's weekly data shows regular gas at about $2.94 just before the war and $2.80 in early January, against roughly $3.98 today. Verdict: matches record.",
+    "read": "EIA's weekly series puts regular gasoline at $2.937 on Feb. 23, the last reading before the war began Feb. 28, and $2.796 on Jan. 5, the first reading of 2026. Against AAA's Nov. 10 national average of $3.98, that is a rise of about 36% since the war began and about 42% since January; EIA's own latest reading, $4.153 on Nov. 2, shows even larger gains of about 41% and 49%. Either way, NBC's \"more than 30%\" and \"around 40%\" are consistent with the government record.",
+    "sources": [
+      {
+        "title": "NBC News, Morning Rundown, Nov. 10, 2026",
+        "url": "https://www.nbcnews.com/news/us-news/trump-nvidia-jensen-huang-republican-congress-leaders-morning-rundown-rcna608496"
+      },
+      {
+        "title": "EIA, Weekly U.S. Regular Retail Gasoline Prices",
+        "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPMR_PTE_NUS_DPG&f=W"
+      },
+      {
+        "title": "Fox News Digital live updates citing AAA's $3.98 national average, Nov. 10, 2026",
+        "url": "https://www.foxnews.com/live-news/iran-war-news-trump-speaks-strait-hormuz-11-10-26"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261110-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-10T06:30:00-06:00",
+    "headline": "Fox News says the Supreme Court stayed last month's El Paso injunction on Big Bend border wall work over Justice Jackson's objection; the court's order says the same",
+    "video_url": "",
+    "claim": "\"The justices' ruling stays a preliminary injunction issued last month by a federal district judge in El Paso, who had temporarily halted border wall construction in the region designated by U.S. Customs and Border Protection as the Big Bend Sector while litigation proceeds. Justice Ketanji Brown Jackson indicated she would have denied the stay request but did not file a written dissent.\" — Louis Casiano, Fox News, Nov. 9, 2026",
+    "source_url": "https://www.foxnews.com/politics/scotus-allows-trump-admin-temporarily-resume-border-construction-texas-big-bend",
+    "record_url": "https://www.supremecourt.gov/opinions/26pdf/26a560_onkq.pdf",
+    "record_title": "Supreme Court of the United States, Mullin v. Friends of the Ruidosa Church, No. 26A560, per curiam order on application for stay, Nov. 9, 2026",
+    "verdict": "Matches record",
+    "why": "The Nov. 9 per curiam order grants the government's stay of the preliminary injunction that the U.S. District Court for the Western District of Texas entered on Oct. 2, 2026, which had blocked the Homeland Security secretary's waivers and halted all construction in the Big Bend Sector. It notes only that \"Justice Jackson would deny the application for stay,\" with no written dissent. The stay is temporary while the case continues, though the court said the government is \"exceedingly likely\" to win its argument that the district court lacked jurisdiction.",
+    "what_would_change": "A later Supreme Court or district court order lifting the stay, or a docket record showing the injunction came from a different court or date, would move this verdict.",
+    "outlet": "Fox News, \"SCOTUS allows Trump admin to temporarily resume border construction in Texas' Big Bend,\" Nov. 9, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/scotus-allows-trump-admin-temporarily-resume-border-construction-texas-big-bend",
+    "script": "Morning Check. Fox News says the Supreme Court let border wall work resume in Texas' Big Bend region by staying a judge's injunction from last month, with Justice Jackson objecting. The court's November 9 order stays the October 2 injunction and notes Justice Jackson would deny the request. Verdict: matches record.",
+    "read": "The Nov. 9 per curiam order grants the government's stay of the preliminary injunction that the U.S. District Court for the Western District of Texas entered on Oct. 2, 2026, which had blocked the Homeland Security secretary's waivers and halted all construction in the Big Bend Sector. It notes only that \"Justice Jackson would deny the application for stay,\" with no written dissent. The stay is temporary while the case continues, though the court said the government is \"exceedingly likely\" to win its argument that the district court lacked jurisdiction.",
+    "sources": [
+      {
+        "title": "Fox News, Nov. 9, 2026",
+        "url": "https://www.foxnews.com/politics/scotus-allows-trump-admin-temporarily-resume-border-construction-texas-big-bend"
+      },
+      {
+        "title": "Supreme Court, No. 26A560, order of Nov. 9, 2026",
+        "url": "https://www.supremecourt.gov/opinions/26pdf/26a560_onkq.pdf"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261110-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-10T06:30:00-06:00",
+    "headline": "CNN says Tuesday is the ID deadline for Mississippi's no-ID affidavit voters and counties must certify by Friday; state election law sets both dates",
+    "video_url": "",
+    "claim": "\"Tuesday is the deadline for voters who cast provisional ballots because they did not have proper identification to provide the needed documentation to election officials.\" and \"County election officials have until Friday to vet and count all provisional ballots and certify their county-level results.\" — Annie Grayer and Fredreka Schouten, CNN, Nov. 10, 2026",
+    "source_url": "https://www.cnn.com/2026/11/10/politics/mississippi-senate-voter-rolls-provisional-ballots",
+    "record_url": "https://www.sos.ms.gov/sites/default/files/elections/MSCODE_Elections.pdf",
+    "record_title": "Mississippi Secretary of State, Mississippi Election Code (Miss. Code Ann. Title 23, Chapter 15), including § 23-15-573 (affidavit ballots) and § 23-15-603 (delivery of returns)",
+    "verdict": "Matches record",
+    "why": "Miss. Code § 23-15-573 says an affidavit ballot cast without acceptable photo ID is not rejected for that reason if the voter returns to the circuit clerk within five business days after the election; counting from the Nov. 3 election, the fifth business day is Tuesday, Nov. 10. § 23-15-603 gives county election commissioners ten days after a general election to send their certified statement to the secretary of state, which lands on Friday, Nov. 13. CNN's separate Dec. 3 state certification date was not checked against this record.",
+    "what_would_change": "An amendment to § 23-15-573 or § 23-15-603, a court order extending the cure or certification window, or a Secretary of State notice setting different 2026 dates would move this verdict.",
+    "outlet": "CNN, \"Thousands of voters in Mississippi Senate race are trying to make their ballots count after state's voter roll changes,\" Nov. 10, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/10/politics/mississippi-senate-voter-rolls-provisional-ballots",
+    "script": "Morning Check. CNN says Tuesday is the deadline for Mississippi voters who cast affidavit ballots without photo ID to bring it in, and that counties have until Friday to certify. State law gives those voters five business days after the November 3 election and counties ten days, which works out to November 10 and November 13. Verdict: matches record.",
+    "read": "Miss. Code § 23-15-573 says an affidavit ballot cast without acceptable photo ID is not rejected for that reason if the voter returns to the circuit clerk within five business days after the election; counting from the Nov. 3 election, the fifth business day is Tuesday, Nov. 10. § 23-15-603 gives county election commissioners ten days after a general election to send their certified statement to the secretary of state, which lands on Friday, Nov. 13. CNN's separate Dec. 3 state certification date was not checked against this record.",
+    "sources": [
+      {
+        "title": "CNN, Nov. 10, 2026",
+        "url": "https://www.cnn.com/2026/11/10/politics/mississippi-senate-voter-rolls-provisional-ballots"
+      },
+      {
+        "title": "Mississippi Election Code (Secretary of State PDF)",
+        "url": "https://www.sos.ms.gov/sites/default/files/elections/MSCODE_Elections.pdf"
+      },
+      {
+        "title": "Miss. Code § 23-15-603 (Justia)",
+        "url": "https://law.justia.com/codes/mississippi/title-23/chapter-15/article-17/subarticle-c/section-23-15-603/"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261109-late",
     "slot": "Late Check",
     "aired_at": "2026-11-09T23:00:00-06:00",
