@@ -1,5 +1,104 @@
 [
   {
+    "id": "20261110-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-10T11:30:00-06:00",
+    "headline": "A viral X dispatch says Sen.-elect Abdul El-Sayed failed the background check for classified Senate briefings; federal law exempts members of Congress from that clearance process by name",
+    "video_url": "",
+    "claim": "\"Abdul El Sayed has failed the background check required for classified Senate briefings. The denial blocks him from any session that involves sensitive national security information.\" — X account @TrumpNews_Baby (posting as \"Jonathan Gregory\"), Nov. 8, 2026, in a wire-style post viewed about 2.7 million times",
+    "source_url": "https://smokescreennews.com/story/el-sayed-background-check-claim",
+    "record_url": "https://www.law.cornell.edu/uscode/text/50/3163",
+    "record_title": "50 U.S. Code § 3163, \"Exceptions\" (access to classified information subchapter), via Cornell Legal Information Institute",
+    "verdict": "Contradicted",
+    "why": "Section 3163 says the classified-access subchapter \"shall not apply to the President and Vice President, Members of the Congress, Justices of the Supreme Court, and Federal judges,\" and the Congressional Research Service's clearance FAQ (R43216) says security clearances \"are not mandated\" for members of Congress, who are deemed eligible by virtue of their office. There is no background check a senator-elect sits for, so there is none to fail. The post cites only unnamed \"officials who conduct the clearances,\" and no Senate, agency or press record shows any denial.",
+    "what_would_change": "A Senate, Office of Senate Security or intelligence-agency document showing El-Sayed was reviewed and barred from classified briefings, or a change in law requiring clearances for members of Congress, would move this verdict.",
+    "outlet": "SmokeScreen, \"The post said he failed a background check for classified briefings. The law names members of Congress as exempt from that process,\" Nov. 9, 2026 (reproducing the @TrumpNews_Baby post on X)",
+    "outlet_url": "https://smokescreennews.com/story/el-sayed-background-check-claim",
+    "script": "Midday Check. A viral post styled as a wire dispatch says Michigan Senator-elect Abdul El-Sayed failed the background check required for classified Senate briefings. Federal law exempts members of Congress from that clearance process by name, and the Congressional Research Service says clearances are not required for them. No record shows any denial. Verdict: contradicted.",
+    "read": "Section 3163 says the classified-access subchapter \"shall not apply to the President and Vice President, Members of the Congress, Justices of the Supreme Court, and Federal judges,\" and the Congressional Research Service's clearance FAQ (R43216) says security clearances \"are not mandated\" for members of Congress, who are deemed eligible by virtue of their office. There is no background check a senator-elect sits for, so there is none to fail. The post cites only unnamed \"officials who conduct the clearances,\" and no Senate, agency or press record shows any denial.",
+    "sources": [
+      {
+        "title": "50 U.S. Code § 3163, Exceptions (Cornell LII)",
+        "url": "https://www.law.cornell.edu/uscode/text/50/3163"
+      },
+      {
+        "title": "Congressional Research Service, R43216, Security Clearance Process: FAQs",
+        "url": "https://www.congress.gov/crs-product/R43216"
+      },
+      {
+        "title": "SmokeScreen, Nov. 9, 2026",
+        "url": "https://smokescreennews.com/story/el-sayed-background-check-claim"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261110-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-10T11:30:00-06:00",
+    "headline": "Fox News says France blamed an Iranian Revolutionary Guard cyber unit for sabotaging refrigeration at more than 700 French stores and will summon Iran's ambassador; France's own statement says the same",
+    "video_url": "",
+    "claim": "\"Following investigations, France is now in a position to attribute these destructive actions to Iran: they were carried out by SHAHID KAVEH, an offensive cyber unit affiliated with the Electronic Warfare and Cyber Defense Organization of the Islamic Revolutionary Guard Corps,\" the ministry continued. — Greg Norman-Diamond, Fox News Digital live updates, Nov. 10, 2026, reporting that France's foreign ministry said Oct. 11-12 attacks hit the refrigeration controls of more than 700 retail sites",
+    "source_url": "https://www.foxnews.com/live-news/iran-war-news-trump-speaks-strait-hormuz-11-10-26",
+    "record_url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/declaration-d-attribution-a-l-iran-de-cyberattaques-visant-la-france",
+    "record_title": "France Diplomatie (Ministry for Europe and Foreign Affairs), \"Declaration of attribution to Iran of cyber attacks against France,\" statement, Nov. 10, 2026",
+    "verdict": "Matches record",
+    "why": "The ministry's Nov. 10 statement says that in the night of Oct. 11 to 12 attacks hit the supermarket refrigeration controls of more than 700 retail sites, causing fires and food losses worth tens of millions of euros, and attributes them to SHAHID KAVEH, an IRGC-affiliated cyber unit, in the words Fox quotes. It says France \"is going to summon\" Iran's ambassador and will propose further EU sanctions. Fox's lead says the ministry \"summoned\" the ambassador, while the statement itself announces the summons as a coming step; the attribution is France's finding, and Iran has rejected it.",
+    "what_would_change": "A French government correction or withdrawal of the attribution, or a published investigation tying the Oct. 11-12 attacks to a different actor, would move this verdict.",
+    "outlet": "Fox News Digital, live updates, \"France summons Iranian ambassador after accusing Tehran of cyberattacks on supermarkets,\" Nov. 10, 2026",
+    "outlet_url": "https://www.foxnews.com/live-news/iran-war-news-trump-speaks-strait-hormuz-11-10-26",
+    "script": "Midday Check. Fox News reports France has blamed an Iranian Revolutionary Guard cyber unit for an October attack on refrigeration systems at more than 700 French stores and will summon Iran's ambassador. France's November 10 statement says exactly that, and announces the summons as its next step. Verdict: matches record.",
+    "read": "The ministry's Nov. 10 statement says that in the night of Oct. 11 to 12 attacks hit the supermarket refrigeration controls of more than 700 retail sites, causing fires and food losses worth tens of millions of euros, and attributes them to SHAHID KAVEH, an IRGC-affiliated cyber unit, in the words Fox quotes. It says France \"is going to summon\" Iran's ambassador and will propose further EU sanctions. Fox's lead says the ministry \"summoned\" the ambassador, while the statement itself announces the summons as a coming step; the attribution is France's finding, and Iran has rejected it.",
+    "sources": [
+      {
+        "title": "Fox News Digital live updates, Nov. 10, 2026",
+        "url": "https://www.foxnews.com/live-news/iran-war-news-trump-speaks-strait-hormuz-11-10-26"
+      },
+      {
+        "title": "France Diplomatie, Declaration of attribution to Iran of cyber attacks against France, Nov. 10, 2026",
+        "url": "https://www.diplomatie.gouv.fr/en/presse-et-ressources/decouvrir-et-informer/actualites/declaration-d-attribution-a-l-iran-de-cyberattaques-visant-la-france"
+      },
+      {
+        "title": "CERT-FR / ANSSI, CERTFR-2026-CTI-009, offensive cyber activities by IRGC-linked actors",
+        "url": "https://www.cert.cyber.gouv.fr/uploads/CERTFR-2026-CTI-009.pdf"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261110-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-10T11:30:00-06:00",
+    "headline": "CNN says a new Reuters/Ipsos poll finds 71% of Americans, and 51% of Republicans, want Congress to end the Iran war; the poll's own topline shows exactly those numbers",
+    "video_url": "",
+    "claim": "\"A new poll released as Defense Secretary Pete Hegseth faces possible impeachment shows 7 in 10 Americans — and even about half of Republicans — want Congress to vote to end the Iran war. ... The survey also showed that 62% of Americans — including 32% of Republicans — want Congress to pass legislation ending Trump's tariffs.\" — Aaron Blake, CNN analysis, live updates, Nov. 10, 2026",
+    "source_url": "https://www.cnn.com/2026/11/10/politics/live-news/hegseth-impeachment-congress",
+    "record_url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2026-11/Reuters%20Ipsos%20Post%20Election%20November%20Survey%20Topline.pdf",
+    "record_title": "Ipsos, Reuters/Ipsos Post-Election November Survey, topline and methodology (fielded Nov. 6-9, 2026; 1,705 U.S. adults; margin of error ±2.4 points)",
+    "verdict": "Matches record",
+    "why": "The topline shows 71% of all adults support the new Congress \"passing legislation to end the conflict with Iran,\" including 51% of Republicans and 93% of Democrats, and 62% support legislation to eliminate the Trump administration's tariffs, including 32% of Republicans. It also shows 33% say impeachment efforts against Trump would be good for the country and 42% bad, as CNN reports. The question asked about passing legislation, not about any specific method such as cutting funds or impeaching Hegseth, which CNN itself notes.",
+    "what_would_change": "A corrected Ipsos topline with different figures, or evidence that CNN's numbers came from a different subgroup or question than the all-adults legislation question, would move this verdict.",
+    "outlet": "CNN, live updates, \"Poll shows 71% of Americans — and 51% of Republicans — want Congress to end Iran war,\" analysis by Aaron Blake, Nov. 10, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/10/politics/live-news/hegseth-impeachment-congress",
+    "script": "Midday Check. CNN says a new Reuters Ipsos poll finds seven in ten Americans, and about half of Republicans, want Congress to end the Iran war. The poll's topline shows 71 percent overall and 51 percent of Republicans support legislation to end the conflict, and 62 percent back ending the tariffs. Verdict: matches record.",
+    "read": "The topline shows 71% of all adults support the new Congress \"passing legislation to end the conflict with Iran,\" including 51% of Republicans and 93% of Democrats, and 62% support legislation to eliminate the Trump administration's tariffs, including 32% of Republicans. It also shows 33% say impeachment efforts against Trump would be good for the country and 42% bad, as CNN reports. The question asked about passing legislation, not about any specific method such as cutting funds or impeaching Hegseth, which CNN itself notes.",
+    "sources": [
+      {
+        "title": "CNN live updates, Nov. 10, 2026",
+        "url": "https://www.cnn.com/2026/11/10/politics/live-news/hegseth-impeachment-congress"
+      },
+      {
+        "title": "Ipsos, Reuters/Ipsos Post-Election Survey, topline (PDF)",
+        "url": "https://www.ipsos.com/sites/default/files/ct/news/documents/2026-11/Reuters%20Ipsos%20Post%20Election%20November%20Survey%20Topline.pdf"
+      },
+      {
+        "title": "Ipsos, Reuters/Ipsos Post-Election Survey release, Nov. 9, 2026",
+        "url": "https://www.ipsos.com/en-us/reutersipsos-post-election-survey"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261110-reframe-massie-hegseth-hconres-86",
     "slot": "ReFrame",
     "lead": false,
