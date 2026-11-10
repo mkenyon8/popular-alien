@@ -1,5 +1,49 @@
 [
   {
+    "id": "20261110-reframe-massie-hegseth-hconres-86",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-10T08:04:37-06:00",
+    "label": "ReFrame",
+    "claim": "Massie says both chambers directed U.S. forces out of Iran war via H.Con.Res. 86; congress.gov shows both adopted it",
+    "outlet": "Rep. Thomas Massie",
+    "outlet_url": "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395863",
+    "source_url": "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395863",
+    "record_url": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/86",
+    "record_title": "Congress.gov, H.Con.Res.86 (119th Congress), \"Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran,\" actions and roll call votes",
+    "read": "Rep. Thomas Massie's Nov. 9 press release says both Houses of Congress directed the removal of U.S. forces from the Iran hostilities through H.Con.Res. 86, and Congress.gov confirms it: the House agreed 215 to 208 on June 3 and the Senate agreed 50 to 48 on June 23. The step that carries the weight is the unstated one, that a concurrent resolution, which is never sent to the president, legally binds Secretary Hegseth so that continuing the war is an impeachable offense. The Supreme Court's 1983 ruling in INS v. Chadha casts doubt on that, and the record does not settle it. Graded B on 1 argument (Rep. Massie B: valid, not cogent, partly supported, no fallacies). Scorecard: 100% valid, 0% cogent, 50% supported, 100% fallacy-free.",
+    "grade": "B",
+    "scores": {
+      "valid": 100,
+      "cogent": 0,
+      "supported": 50,
+      "fallacy_free": 100
+    },
+    "why": "The votes are real and match the record, but whether ignoring a concurrent resolution is impeachable is a legal question the record does not settle. Key question: If a concurrent resolution is never sent to the president, what makes ignoring it an impeachable offense?",
+    "sources": [
+      {
+        "title": "Congress.gov, H.Con.Res.86 (119th Congress), \"Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran,\" actions and roll call votes",
+        "url": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/86"
+      },
+      {
+        "title": "Rep. Thomas Massie, press release, Nov. 9, 2026",
+        "url": "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395863"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261109-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261109-late.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261109-late.mp4",
+    "popart_story": "20261109-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Rep. Thomas Massie reports: Massie says both chambers directed U.S. forces out of Iran war via H.Con.Res. 86; congress.gov shows both adopted it.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261110-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-10T06:30:00-06:00",
