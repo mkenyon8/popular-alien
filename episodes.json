@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261110-reframe-aljazeera-iran-war-effectively-over",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-10T15:50:26-06:00",
+    "label": "Story of the Day",
+    "claim": "Trump calls Iran war 'effectively over' militarily after meeting Qatar's prime minister",
+    "outlet": "Al Jazeera",
+    "outlet_url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+    "source_url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+    "record_url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm",
+    "record_title": "Al Jazeera, “Trump calls Iran war ‘effectively over’ militarily after meeting Qatar’s prime minister,” Nov. 9, 2026",
+    "read": "Al Jazeera reports that President Trump called the Iran war \"effectively over\" militarily after meeting Qatar's prime minister, and its quotes match what he said, with his qualifier \"militarily\" kept and the expanding blockade and Iran's response set beside it. The weak link is the claim itself. A war is called over while the blockade grows to land routes and forces stay \"locked and loaded,\" so \"over\" holds only by narrowing the word. Graded C across 3 arguments (President Donald Trump D+ and C-; Al Jazeera B+). Scorecard: 33% valid, 33% cogent, 33% supported, 80% fallacy-free.",
+    "grade": "C",
+    "scores": {
+      "valid": 33,
+      "cogent": 33,
+      "supported": 33,
+      "fallacy_free": 80
+    },
+    "why": "Al Jazeera quotes Trump accurately, keeps his qualifier 'militarily,' and sets it next to the blockade he is expanding. The weak link is the claim itself: a war is called over while its blockade grows. Key question: If the war is effectively over, why did the U.S. just form a task force to cut off Iran's land trade?",
+    "sources": [
+      {
+        "title": "Al Jazeera, “Trump calls Iran war ‘effectively over’ militarily after meeting Qatar’s prime minister,” Nov. 9, 2026",
+        "url": "https://www.aljazeera.com/news/2026/11/9/trump-calls-iran-war-effectively-over-after-talks-with-qatar-pm"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261110-iran-war-effectively-over.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261110-iran-war-effectively-over.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Al Jazeera reports: Trump calls Iran war 'effectively over' militarily after meeting Qatar's prime minister.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261110-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-10T11:30:00-06:00",
