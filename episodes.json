@@ -1,5 +1,100 @@
 [
   {
+    "id": "20261109-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-09T23:00:00-06:00",
+    "headline": "Massie says both chambers of Congress directed U.S. forces out of the Iran war through H.Con.Res. 86; congress.gov shows the House and Senate both adopted it",
+    "video_url": "",
+    "claim": "\"Charges Secretary Hegseth with continuing the Iran war after both Houses of Congress directed the removal of U.S. forces through H. Con. Res. 86.\" — Rep. Thomas Massie (R-Ky.), press release announcing articles of impeachment against Defense Secretary Pete Hegseth, Nov. 9, 2026",
+    "source_url": "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395863",
+    "record_url": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/86",
+    "record_title": "Congress.gov, H.Con.Res.86 (119th Congress), \"Directing the President, pursuant to section 5(c) of the War Powers Resolution, to remove United States Armed Forces from hostilities with Iran,\" actions and roll call votes",
+    "verdict": "Matches record",
+    "why": "Congress.gov shows the House adopted H.Con.Res. 86 on June 3, 2026, by 215 to 208 (Roll no. 199), and the Senate agreed to it without amendment on June 23 by 50 to 48 (Record Vote 184); its text directs the president to remove U.S. forces from hostilities with Iran unless Congress declares war or authorizes force. That matches Massie's description that both chambers directed the removal. A concurrent resolution is never sent to the president, and the Supreme Court's 1983 ruling in INS v. Chadha casts doubt on whether one can legally bind the executive, so whether ignoring it is an impeachable offense is a legal argument the record itself does not settle.",
+    "what_would_change": "A congress.gov record showing either chamber did not adopt H.Con.Res. 86, or adopted a different text than the one directing removal of forces, would move this verdict; a court ruling on the resolution's legal force would bear on Massie's impeachment theory but not on the votes themselves.",
+    "outlet": "Rep. Thomas Massie, \"Rep. Massie Forcing House of Representatives to Vote on Impeaching Secretary Hegseth,\" press release, Nov. 9, 2026",
+    "outlet_url": "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395863",
+    "script": "Late Check. Congressman Thomas Massie's impeachment articles say Defense Secretary Pete Hegseth kept fighting in Iran after both chambers of Congress directed U.S. forces out through House Concurrent Resolution 86. Congress.gov shows the House passed it 215 to 208 in June and the Senate 50 to 48. Whether that kind of resolution legally binds the president is still disputed. Verdict: matches record.",
+    "read": "Congress.gov shows the House adopted H.Con.Res. 86 on June 3, 2026, by 215 to 208 (Roll no. 199), and the Senate agreed to it without amendment on June 23 by 50 to 48 (Record Vote 184); its text directs the president to remove U.S. forces from hostilities with Iran unless Congress declares war or authorizes force. That matches Massie's description that both chambers directed the removal. A concurrent resolution is never sent to the president, and the Supreme Court's 1983 ruling in INS v. Chadha casts doubt on whether one can legally bind the executive, so whether ignoring it is an impeachable offense is a legal argument the record itself does not settle.",
+    "sources": [
+      {
+        "title": "Rep. Thomas Massie press release, Nov. 9, 2026",
+        "url": "https://massie.house.gov/news/documentsingle.aspx?DocumentID=395863"
+      },
+      {
+        "title": "Massie's articles of impeachment against Pete Hegseth (text)",
+        "url": "https://massie.house.gov/uploadedfiles/hegseth_impeachment_articles_11.9.26.pdf"
+      },
+      {
+        "title": "Congress.gov, H.Con.Res.86, 119th Congress",
+        "url": "https://www.congress.gov/bill/119th-congress/house-concurrent-resolution/86"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261109-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-09T23:00:00-06:00",
+    "headline": "Fox News says federal funding runs out Dec. 11 as Congress returns for the lame duck; the stopgap law Trump signed in September sets exactly that date",
+    "video_url": "",
+    "claim": "\"Current federal funding levels run out on Dec. 11, and without another deal in place, Congress risks plunging the government into another shutdown.\" — Elizabeth Elkind and Alex Miller, Fox News Digital, \"Congress returns to brutal lame-duck stretch with shutdown deadline, leadership races,\" Nov. 9, 2026",
+    "source_url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
+    "record_url": "https://www.congress.gov/bill/119th-congress/house-bill/6500",
+    "record_title": "Congress.gov, H.R.6500 (119th Congress), Continuing Appropriations and Extensions Act, 2027, Public Law 119-103, signed Sept. 2, 2026",
+    "verdict": "Matches record",
+    "why": "Congress.gov shows H.R. 6500 became Public Law 119-103 on Sept. 2, 2026, and its CRS summary says it funds federal agencies through the earlier of Dec. 11, 2026, or enactment of the regular appropriations bills. The White House's signing statement gives the same Dec. 11 end date. Fox's deadline matches the law; whether a shutdown actually follows depends on what Congress passes before then.",
+    "what_would_change": "Enactment of a new continuing resolution or full-year appropriations bills before Dec. 11, or a congress.gov record showing a different expiration date in P.L. 119-103, would move this verdict.",
+    "outlet": "Fox News Digital, \"Congress returns to brutal lame-duck stretch with shutdown deadline, leadership races,\" Nov. 9, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
+    "script": "Late Check. Fox News says current federal funding runs out December 11, setting up a possible shutdown as Congress returns for the lame duck. The stopgap law President Trump signed September 2 funds the government through exactly that date. Verdict: matches record.",
+    "read": "Congress.gov shows H.R. 6500 became Public Law 119-103 on Sept. 2, 2026, and its CRS summary says it funds federal agencies through the earlier of Dec. 11, 2026, or enactment of the regular appropriations bills. The White House's signing statement gives the same Dec. 11 end date. Fox's deadline matches the law; whether a shutdown actually follows depends on what Congress passes before then.",
+    "sources": [
+      {
+        "title": "Fox News Digital, Nov. 9, 2026",
+        "url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s"
+      },
+      {
+        "title": "Congress.gov, H.R.6500 / P.L. 119-103",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/6500"
+      },
+      {
+        "title": "White House, Congressional Bill H.R. 6500 Signed into Law, Sept. 2, 2026",
+        "url": "https://www.whitehouse.gov/briefings-statements/2026/09/congressional-bill-h-r-6500-signed-into-law/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261109-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-09T23:00:00-06:00",
+    "headline": "CNN says a record 159 women will serve in the next Congress, seven more than today; Rutgers' Center for American Women and Politics counts at least 159 against 152 now",
+    "video_url": "",
+    "claim": "\"The new record — 159 women from both parties — is seven more women than currently serve in the House and Senate, according to data from the Center for American Women and Politics at Rutgers University and CNN election projections.\" — Aleena Fayaz, Renée Rigdon and Amy O'Kruk, CNN, \"A record number of women will serve in the next Congress,\" Nov. 9, 2026",
+    "source_url": "https://edition.cnn.com/2026/11/09/politics/record-women-congress-midterm-election-vis",
+    "record_url": "https://cawp.rutgers.edu/blog/results-women-congressional-and-statewide-executive-candidates-election-2026",
+    "record_title": "Center for American Women and Politics (Rutgers), \"Results for Women Congressional and Statewide Executive Candidates in Election 2026,\" toplines last updated Nov. 9, 2026, 1:00 p.m. ET",
+    "verdict": "Matches record",
+    "why": "CAWP's Nov. 9 toplines say at least 159 women will serve in the 120th Congress, a new record over the 152 first set in 2024, and that 152 women serve now, so CNN's seven-seat gain matches. CAWP also says at least 136 women will serve in the House, a record, while Senate women will fall from 27 to at least 23, as CNN reports. Fifteen races with women are still too close to call, so 159 is a floor that could rise, and CNN's own figure of 116 House Democratic women runs one above CAWP's 115 because it adds CNN projections.",
+    "what_would_change": "Final certified results or an updated CAWP count showing fewer than 159 women elected, or a different current total than 152, would move this verdict.",
+    "outlet": "CNN, \"A record number of women will serve in the next Congress,\" Nov. 9, 2026",
+    "outlet_url": "https://edition.cnn.com/2026/11/09/politics/record-women-congress-midterm-election-vis",
+    "script": "Late Check. CNN says a record 159 women will serve in the next Congress, seven more than serve now. The Center for American Women and Politics at Rutgers counts at least 159, against 152 today, with some races still uncalled, while the number of women senators will drop. Verdict: matches record.",
+    "read": "CAWP's Nov. 9 toplines say at least 159 women will serve in the 120th Congress, a new record over the 152 first set in 2024, and that 152 women serve now, so CNN's seven-seat gain matches. CAWP also says at least 136 women will serve in the House, a record, while Senate women will fall from 27 to at least 23, as CNN reports. Fifteen races with women are still too close to call, so 159 is a floor that could rise, and CNN's own figure of 116 House Democratic women runs one above CAWP's 115 because it adds CNN projections.",
+    "sources": [
+      {
+        "title": "CNN, Nov. 9, 2026",
+        "url": "https://edition.cnn.com/2026/11/09/politics/record-women-congress-midterm-election-vis"
+      },
+      {
+        "title": "CAWP, Results for Women Candidates in Election 2026",
+        "url": "https://cawp.rutgers.edu/blog/results-women-congressional-and-statewide-executive-candidates-election-2026"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261109-reframe-guardian-trump-early-voting-dumps-machines",
     "slot": "ReFrame",
     "lead": false,
