@@ -1,5 +1,49 @@
 [
   {
+    "id": "20261109-reframe-guardian-trump-early-voting-dumps-machines",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-09T19:55:00-06:00",
+    "label": "ReFrame",
+    "claim": "Trump says early-voting 'dumps' and machines made the midterms dishonest, naming no state, race or count",
+    "outlet": "The Guardian",
+    "outlet_url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+    "source_url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates",
+    "record_url": "https://www.trumpstruth.org/statuses/43533",
+    "record_title": "Donald J. Trump, Truth Social post, Nov. 9, 2026, 10:07 AM, as archived by Trump's Truth (Defending Democracy Together)",
+    "read": "The archived Truth Social post confirms Trump wrote that early-voting 'dumps' and voting machines made the midterms dishonest, but it names no state, county, race, ballot batch, vote total or machine, so there is nothing in it that can be checked against an official count. Results are still being certified (Mississippi counties have until Nov. 13; Virginia certifies in early December), and no certified result or official finding shows early votes or machines changing an outcome. The Guardian relays the post without adopting it and notes that last week Trump told The New York Times he was \"absolutely willing\" to accept the midterm results. Graded D+ on 1 argument (President Trump's post D: loaded question). Scorecard: 0% valid, 0% cogent, 0% supported, 80% fallacy-free.",
+    "grade": "D+",
+    "scores": {
+      "valid": 0,
+      "cogent": 0,
+      "supported": 0,
+      "fallacy_free": 80
+    },
+    "why": "The post asserts fraud-like outcomes but names nothing checkable, and no official finding shows early votes or machines changing an outcome. Key question: Which state, county or ballot batch had an early-vote count so large that no turnout could have changed the result?",
+    "sources": [
+      {
+        "title": "Donald J. Trump, Truth Social post, Nov. 9, 2026, 10:07 AM, as archived by Trump's Truth (Defending Democracy Together)",
+        "url": "https://www.trumpstruth.org/statuses/43533"
+      },
+      {
+        "title": "The Guardian live blog, Nov. 9, 2026",
+        "url": "https://www.theguardian.com/us-news/live/2026/nov/09/donald-trump-stephen-miller-immigration-midterms-iran-qatar-economy-latest-news-updates"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Unverifiable)",
+        "url": "https://popularalien.com/story/20261109-midday"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261109-midday.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261109-midday.mp4",
+    "popart_story": "20261109-midday",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... The Guardian reports: Trump says early-voting 'dumps' and machines made the midterms dishonest, naming no state, race or count.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261109-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-09T17:30:00-06:00",
