@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261111-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-11T17:30:00-06:00",
+    "headline": "A viral post quotes Rep. Tim Burchett saying Democrats had long tried to block the Major Richard Star Act; on Wednesday's House discharge vote, every Democrat voting backed it and 175 Republicans voted no",
+    "video_url": "",
+    "claim": "\"The Democrats had tried to block the Major Richard Star Act for a long time and had been fairly successful at it.\" — Rep. Tim Burchett (R-Tenn.), as quoted in a Nov. 11, 2026 X post by Eric Daugherty (@EricLDaugh) that had drawn about 10,000 views and 120 reposts within an hour",
+    "source_url": "https://x.com/EricLDaugh/status/2120657016611832278",
+    "record_url": "https://clerk.house.gov/Votes/2026320",
+    "record_title": "Office of the Clerk, U.S. House of Representatives, Roll Call 320 (Nov. 11, 2026): On Motion to Discharge, H.Res. 1247, providing for consideration of H.R. 2102, the Major Richard Star Act",
+    "verdict": "Contradicted",
+    "why": "The House Clerk's record of Roll Call 320 shows the motion to discharge the rule for H.R. 2102, the standalone Major Richard Star Act, passed 245-175 on Nov. 11: Democrats voted 210-0 for it, with four not voting, while Republicans split 34 for and 175 against. That is the opposite of Democrats blocking the bill on the most recent recorded vote. The roll call does not cover every earlier action on the bill or the separate voice vote on the Take Care of America's Veterans Act, so it does not settle the post's other claims about how that package passed.",
+    "what_would_change": "A recorded House or committee vote, or a documented procedural move, in which Democrats as a bloc opposed or stopped the Major Richard Star Act itself would move this verdict.",
+    "outlet": "X post by @EricLDaugh quoting a video from Rep. Tim Burchett, Nov. 11, 2026",
+    "outlet_url": "https://x.com/EricLDaugh/status/2120657016611832278",
+    "script": "Evening Check. A viral post quotes Congressman Tim Burchett saying Democrats had tried to block the Major Richard Star Act for a long time. The House Clerk's roll call from Wednesday shows the motion to force the standalone Star Act to the floor passed 245 to 175, with Democrats voting 210 to nothing in favor and 175 Republicans voting no. Verdict: contradicted.",
+    "read": "The House Clerk's record of Roll Call 320 shows the motion to discharge the rule for H.R. 2102, the standalone Major Richard Star Act, passed 245-175 on Nov. 11: Democrats voted 210-0 for it, with four not voting, while Republicans split 34 for and 175 against. That is the opposite of Democrats blocking the bill on the most recent recorded vote. The roll call does not cover every earlier action on the bill or the separate voice vote on the Take Care of America's Veterans Act, so it does not settle the post's other claims about how that package passed.",
+    "sources": [
+      {
+        "title": "House Clerk, Roll Call 320, Nov. 11, 2026",
+        "url": "https://clerk.house.gov/Votes/2026320"
+      },
+      {
+        "title": "House Clerk, Roll Call 320 (XML)",
+        "url": "https://clerk.house.gov/evs/2026/roll320.xml"
+      },
+      {
+        "title": "@EricLDaugh on X, Nov. 11, 2026",
+        "url": "https://x.com/EricLDaugh/status/2120657016611832278"
+      },
+      {
+        "title": "@timburchett on X (video), Nov. 11, 2026",
+        "url": "https://x.com/timburchett/status/2120644438561026430"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261111-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-11T17:30:00-06:00",
+    "headline": "Fox News says a Senate GOP resolution counts 54 days left with congressional majorities before Jan. 3; the 20th Amendment's Jan. 3 start date makes that count exact from Tuesday",
+    "video_url": "",
+    "claim": "\"Lawmakers plan to 'maximize the 54 days we have with congressional majorities ... and to do everything humanly possible to pass a reconciliation bill before Jan. 3.'\" — Alex Miller, Fox News, Nov. 11, 2026, quoting a resolution adopted by Senate Republicans on Nov. 10",
+    "source_url": "https://www.foxnews.com/politics/senate-republicans-plan-54-day-blitz-push-trumps-agenda-before-democrats-seize-power",
+    "record_url": "https://www.archives.gov/founding-docs/amendments-11-27",
+    "record_title": "U.S. Constitution, 20th Amendment, Section 1 and 2 (National Archives, Amendments 11-27)",
+    "verdict": "Matches record",
+    "why": "The 20th Amendment ends senators' and representatives' terms at noon on Jan. 3 and sets Congress to meet that day, so the current majorities run until Jan. 3, 2027. Counting from Tuesday, Nov. 10, 2026, when Fox says the resolution was adopted, to Jan. 3, 2027 is exactly 54 days. Fox also notes the Senate had been scheduled to be in session only about 20 of those days, which is a scheduling detail not checked here.",
+    "what_would_change": "A change to the date the new Congress convenes, or evidence the resolution was adopted on a different day or used a different end date, would move this verdict.",
+    "outlet": "Fox News, \"Senate Republicans plan 54-day blitz to push Trump's agenda before Democrats seize power,\" by Alex Miller, Nov. 11, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/senate-republicans-plan-54-day-blitz-push-trumps-agenda-before-democrats-seize-power",
+    "script": "Evening Check. Fox News reports Senate Republicans adopted a resolution to maximize the 54 days they have left with congressional majorities before January 3. The 20th Amendment sets noon on January 3 as the end of the current terms, and from Tuesday, November 10, that is exactly 54 days. Verdict: matches record.",
+    "read": "The 20th Amendment ends senators' and representatives' terms at noon on Jan. 3 and sets Congress to meet that day, so the current majorities run until Jan. 3, 2027. Counting from Tuesday, Nov. 10, 2026, when Fox says the resolution was adopted, to Jan. 3, 2027 is exactly 54 days. Fox also notes the Senate had been scheduled to be in session only about 20 of those days, which is a scheduling detail not checked here.",
+    "sources": [
+      {
+        "title": "National Archives, The Constitution: Amendments 11-27 (20th Amendment)",
+        "url": "https://www.archives.gov/founding-docs/amendments-11-27"
+      },
+      {
+        "title": "Fox News, Nov. 11, 2026",
+        "url": "https://www.foxnews.com/politics/senate-republicans-plan-54-day-blitz-push-trumps-agenda-before-democrats-seize-power"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261111-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-11T17:30:00-06:00",
+    "headline": "CNN calls the Biden-Trump debate that led to Biden's exit 'the July 2024 debate'; the debate transcript dates it June 27, 2024, though CNN's 107-day count to Election Day checks out",
+    "video_url": "",
+    "claim": "\"The July 2024 debate, in which Biden appeared confused and had difficulty articulating his case for another term, eventually led to the president dropping out of the race and endorsing his vice president, Kamala Harris, just 107 days before the 2024 election.\" — Michael Williams, CNN, Nov. 11, 2026",
+    "source_url": "https://www.cnn.com/2026/11/11/politics/joe-biden-cancer-book-interview",
+    "record_url": "https://www.presidency.ucsb.edu/documents/presidential-debate-atlanta-georgia",
+    "record_title": "The American Presidency Project (UC Santa Barbara), \"Presidential Debate in Atlanta, Georgia,\" June 27, 2024 transcript",
+    "verdict": "Contradicted",
+    "why": "The American Presidency Project's transcript, like CNN's own 2024 transcript of the debate it hosted, dates the Biden-Trump debate in Atlanta to June 27, 2024, not July. The rest of the sentence holds up: Biden announced he was leaving the race in a letter posted July 21, 2024, which was 107 days before the Nov. 5 election. The verdict is about the date error only.",
+    "what_would_change": "A correction from CNN changing \"July\" to \"June,\" or a record showing a separate Biden-Trump debate in July 2024, would move this verdict.",
+    "outlet": "CNN, \"Biden says he would not have proceeded with campaign had he known he had cancer,\" by Michael Williams, Nov. 11, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/11/politics/joe-biden-cancer-book-interview",
+    "script": "Evening Check. In a story on Joe Biden's new interview, CNN calls the debate that ended his campaign the July 2024 debate. The official transcripts date that Atlanta debate to June 27, 2024. CNN does get the 107 days right: Biden dropped out July 21, 107 days before the election. Verdict: contradicted, on the date.",
+    "read": "The American Presidency Project's transcript, like CNN's own 2024 transcript of the debate it hosted, dates the Biden-Trump debate in Atlanta to June 27, 2024, not July. The rest of the sentence holds up: Biden announced he was leaving the race in a letter posted July 21, 2024, which was 107 days before the Nov. 5 election. The verdict is about the date error only.",
+    "sources": [
+      {
+        "title": "American Presidency Project, Presidential Debate in Atlanta, Georgia (June 27, 2024)",
+        "url": "https://www.presidency.ucsb.edu/documents/presidential-debate-atlanta-georgia"
+      },
+      {
+        "title": "CNN, READ: Biden-Trump debate transcript (June 27, 2024)",
+        "url": "https://www.cnn.com/2024/06/27/politics/read-biden-trump-debate-rush-transcript/index.html"
+      },
+      {
+        "title": "@JoeBiden on X, July 21, 2024 withdrawal letter",
+        "url": "https://x.com/JoeBiden/status/1815080881981190320"
+      },
+      {
+        "title": "CNN, Nov. 11, 2026",
+        "url": "https://www.cnn.com/2026/11/11/politics/joe-biden-cancer-book-interview"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261111-reframe-time-hegseth-impeachment-blocked",
     "slot": "ReFrame",
     "lead": true,
