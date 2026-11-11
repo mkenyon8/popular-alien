@@ -525,6 +525,50 @@
     "corrections": []
   },
   {
+    "id": "20261111-reframe-fox-federal-funding-runs-out-dec-11",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-11T03:47:51-06:00",
+    "label": "ReFrame",
+    "claim": "Fox News says federal funding runs out Dec. 11 as Congress returns for the lame duck; the stopgap law Trump signed in September sets exactly that date",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
+    "source_url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s",
+    "record_url": "https://www.congress.gov/bill/119th-congress/house-bill/6500",
+    "record_title": "Congress.gov, H.R.6500 (119th Congress), Continuing Appropriations and Extensions Act, 2027, Public Law 119-103, signed Sept. 2, 2026",
+    "read": "Fox News Digital reports that current federal funding runs out Dec. 11 and that Congress risks another shutdown without a new deal. Congress.gov shows H.R. 6500 became Public Law 119-103 on Sept. 2, 2026, funding agencies through the earlier of Dec. 11, 2026, or enactment of the regular appropriations bills, and the White House signing statement gives the same date. The weak link is an anonymous House Republican's prediction that Congress will pass another stopgap because \"no one wants a shutdown\"; the record shows no new extension enacted. Graded B+ across 2 arguments (Fox News Digital reporters A-; anonymous House Republican C with appeal to common belief). Scorecard: 50% valid, 50% cogent, 50% supported, 80% fallacy-free.",
+    "grade": "B+",
+    "scores": {
+      "valid": 50,
+      "cogent": 50,
+      "supported": 50,
+      "fallacy_free": 80
+    },
+    "why": "Congress.gov shows P.L. 119-103 funds agencies through Dec. 11, 2026, matching Fox's deadline; the claim that nobody wants a shutdown, offered as a reason Congress will extend again, is only an anonymous opinion.",
+    "sources": [
+      {
+        "title": "Fox News Digital, Elizabeth Elkind and Alex Miller, “Congress returns to brutal lame-duck stretch with shutdown deadline, leadership races,” Nov. 9, 2026",
+        "url": "https://www.foxnews.com/politics/congress-returns-brutal-lame-duck-stretch-shutdown-deadline-leadership-races-closet-full-s"
+      },
+      {
+        "title": "Congress.gov, H.R.6500 (119th Congress), Continuing Appropriations and Extensions Act, 2027, Public Law 119-103, signed Sept. 2, 2026",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/6500"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261109-late-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261109-late-fox.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261109-late-fox.mp4",
+    "popart_story": "20261109-late-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News Digital reports: Fox News says federal funding runs out Dec. 11 as Congress returns for the lame duck; the stopgap law Trump signed in September sets exactly that date.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261109-late-cnn",
     "slot": "Late Check",
     "aired_at": "2026-11-09T23:00:00-06:00",
