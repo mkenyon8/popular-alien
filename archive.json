@@ -1,5 +1,96 @@
 [
   {
+    "id": "20261110-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-10T23:00:00-06:00",
+    "headline": "Viral videos say Trump 'confirms no power for 90 days' and is selling a crypto reserve; the White House video of the Nov. 2 Reflecting Pool speech they were cut from contains no such announcement",
+    "video_url": "",
+    "claim": "\"Power in America will be down for 90 days. The only Americans who will have electricity during that time will be those who hold the United States Asset Reserve.\" — words put in Trump's mouth in an AI-altered video posted Nov. 6, 2026, by the Facebook and Instagram account Shythechosen under the caption \"TRUMP CONFIRMS NO POWER FOR 90 DAYS\"",
+    "source_url": "https://www.snopes.com/fact-check/90-day-blackout-trump/",
+    "record_url": "https://www.whitehouse.gov/videos/president-trump-gives-remarks-at-the-lincoln-memorial-reflecting-pool/",
+    "record_title": "The White House, \"President Trump Gives Remarks at the Lincoln Memorial Reflecting Pool\" (full video, Nov. 2, 2026)",
+    "verdict": "Contradicted",
+    "why": "The clip's footage comes from Trump's Nov. 2 remarks at the Lincoln Memorial Reflecting Pool, and in the White House's full video of that speech the matching moment, just after 23:21, shows him criticizing Democratic candidates before the midterms, not announcing a blackout or promoting a crypto token. The same posts push tokens called the United States Power Reserve and United States Asset Reserve, and no White House or Energy Department record announces a nationwide 90-day outage. The rumor appears to borrow from the Pentagon's separate FORTRESS initiative to let military bases run off-grid for 90 days, which is not a civilian blackout.",
+    "what_would_change": "Unedited official video or a White House or Energy Department statement in which Trump announces a nationwide 90-day power outage or endorses those tokens would overturn this verdict.",
+    "outlet": "Snopes, \"Are videos showing Trump announcing 90-day blackout real? Don't be fooled,\" Jordan Liles, Nov. 10, 2026 (documenting the viral Facebook and Instagram posts)",
+    "outlet_url": "https://www.snopes.com/fact-check/90-day-blackout-trump/",
+    "script": "Late Check. Viral videos claim Trump confirmed there will be no power for 90 days and that only holders of a crypto reserve will have electricity. The footage was lifted from his Nov. 2 speech at the Reflecting Pool, and the White House's full video shows him talking about Democratic candidates at that moment, not a blackout or crypto. Verdict: contradicted.",
+    "read": "The clip's footage comes from Trump's Nov. 2 remarks at the Lincoln Memorial Reflecting Pool, and in the White House's full video of that speech the matching moment, just after 23:21, shows him criticizing Democratic candidates before the midterms, not announcing a blackout or promoting a crypto token. The same posts push tokens called the United States Power Reserve and United States Asset Reserve, and no White House or Energy Department record announces a nationwide 90-day outage. The rumor appears to borrow from the Pentagon's separate FORTRESS initiative to let military bases run off-grid for 90 days, which is not a civilian blackout.",
+    "sources": [
+      {
+        "title": "White House video, Trump remarks at the Lincoln Memorial Reflecting Pool, Nov. 2, 2026",
+        "url": "https://www.whitehouse.gov/videos/president-trump-gives-remarks-at-the-lincoln-memorial-reflecting-pool/"
+      },
+      {
+        "title": "Snopes, 90-day blackout videos, Nov. 10, 2026",
+        "url": "https://www.snopes.com/fact-check/90-day-blackout-trump/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261110-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-10T23:00:00-06:00",
+    "headline": "Fox News says a federal indictment accuses three Iran-backed operatives of plotting to hit a British air base housing U.S. troops with vans carrying barrels of fuel; the Justice Department's own release lays out the same allegations",
+    "video_url": "",
+    "claim": "\"Three suspected Iran-backed terrorists plotted an attack on a British air base housing American troops using vans carrying barrels of fuel, according to a federal indictment unsealed Tuesday by the Justice Department (DOJ).\" — Fox News, Brittany Miller, Nov. 10, 2026",
+    "source_url": "https://www.foxnews.com/us/iran-backed-terror-suspects-plotted-attack-us-troops-vans-packed-fuel-doj-says",
+    "record_url": "https://www.justice.gov/opa/pr/three-iranian-backed-operatives-indicted-their-roles-nearly-20-terrorist-attacks-and",
+    "record_title": "U.S. Department of Justice, Office of Public Affairs, \"Three Iranian-Backed Operatives Indicted for Their Roles in Nearly 20 Terrorist Attacks and Attempted Attacks Across Europe and the United States\" (Nov. 10, 2026)",
+    "verdict": "Matches record",
+    "why": "The Justice Department says an eight-count superseding indictment unsealed Nov. 10 charges al-Saadi, Mohajeri and al-Hassani with terrorism offenses tied to the IRGC and Kata'ib Hizballah, including a September 2026 plot at RAF Fairford, where U.S. forces were stationed. It alleges al-Hassani had three vans, some later found to hold barrels of fuel, driven toward the base on Sept. 26 and that two were turned back at a roadblock. These are allegations, and the department notes the defendants are presumed innocent; Fox attributes them to the indictment.",
+    "what_would_change": "The indictment text or a court record describing different targets, defendants or vehicle contents, or a dismissal or acquittal on the Fairford counts, would change how this account should be read.",
+    "outlet": "Fox News, \"Iran-backed terror suspects plotted attack on US troops using vans packed with fuel, DOJ says,\" Brittany Miller, Nov. 10, 2026",
+    "outlet_url": "https://www.foxnews.com/us/iran-backed-terror-suspects-plotted-attack-us-troops-vans-packed-fuel-doj-says",
+    "script": "Late Check. Fox News says three Iran-backed suspects plotted to attack a British air base housing American troops using vans carrying fuel. The Justice Department's release on the unsealed indictment describes exactly that plot at RAF Fairford, as allegations against defendants presumed innocent. Verdict: matches the record.",
+    "read": "The Justice Department says an eight-count superseding indictment unsealed Nov. 10 charges al-Saadi, Mohajeri and al-Hassani with terrorism offenses tied to the IRGC and Kata'ib Hizballah, including a September 2026 plot at RAF Fairford, where U.S. forces were stationed. It alleges al-Hassani had three vans, some later found to hold barrels of fuel, driven toward the base on Sept. 26 and that two were turned back at a roadblock. These are allegations, and the department notes the defendants are presumed innocent; Fox attributes them to the indictment.",
+    "sources": [
+      {
+        "title": "DOJ press release, Nov. 10, 2026",
+        "url": "https://www.justice.gov/opa/pr/three-iranian-backed-operatives-indicted-their-roles-nearly-20-terrorist-attacks-and"
+      },
+      {
+        "title": "Fox News, Nov. 10, 2026",
+        "url": "https://www.foxnews.com/us/iran-backed-terror-suspects-plotted-attack-us-troops-vans-packed-fuel-doj-says"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261110-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-10T23:00:00-06:00",
+    "headline": "CNN says the Park Service acknowledged in August that Trump's arch would have 'adverse' effects on as many as 42 historic sites; the agency's revised Assessment of Effects backs the 42",
+    "video_url": "",
+    "claim": "\"In a review released by the National Park Service in August, the administration acknowledged that the arch would have 'adverse' effects on as many as 42 historic sites.\" — CNN, Aleena Fayaz, \"Kennedy family sues to block Trump's arch,\" Nov. 10, 2026",
+    "source_url": "https://edition.cnn.com/2026/11/10/politics/kennedy-family-moves-to-block-trumps-arch",
+    "record_url": "https://parkplanning.nps.gov/document.cfm?documentID=153235",
+    "record_title": "National Park Service, Triumphal Arch at Memorial Circle, Assessment of Effects (Revised), Aug. 28, 2026",
+    "verdict": "Matches record",
+    "why": "The Park Service's revised Assessment of Effects, dated Aug. 28, 2026, found the 250-foot arch would have an adverse effect on historic properties, and the Advisory Council on Historic Preservation's summary of that assessment counts 42: six National Historic Landmarks, eight historic districts, eight cultural landscapes and 20 other properties. An earlier August draft listed 37, so the 42 comes from the revised version, which fits CNN's \"as many as\" wording.",
+    "what_would_change": "A later Park Service revision or the final Section 106 record giving a different count of adversely affected properties would change this verdict.",
+    "outlet": "CNN, \"Kennedy family sues to block Trump's arch,\" Aleena Fayaz, Nov. 10, 2026",
+    "outlet_url": "https://edition.cnn.com/2026/11/10/politics/kennedy-family-moves-to-block-trumps-arch",
+    "script": "Late Check. CNN says the Park Service admitted in August that Trump's arch would have adverse effects on as many as 42 historic sites. The agency's revised assessment from Aug. 28 found adverse effects, and the federal preservation council's summary counts 42 properties. Verdict: matches the record.",
+    "read": "The Park Service's revised Assessment of Effects, dated Aug. 28, 2026, found the 250-foot arch would have an adverse effect on historic properties, and the Advisory Council on Historic Preservation's summary of that assessment counts 42: six National Historic Landmarks, eight historic districts, eight cultural landscapes and 20 other properties. An earlier August draft listed 37, so the 42 comes from the revised version, which fits CNN's \"as many as\" wording.",
+    "sources": [
+      {
+        "title": "NPS Assessment of Effects (Revised), Aug. 28, 2026",
+        "url": "https://parkplanning.nps.gov/document.cfm?documentID=153235"
+      },
+      {
+        "title": "ACHP, termination of Section 106 consultation on Triumphal Arch",
+        "url": "https://www.achp.gov/news/achp-announces-termination-section-106-consultation-triumphal-arch-project"
+      },
+      {
+        "title": "CNN, Nov. 10, 2026",
+        "url": "https://edition.cnn.com/2026/11/10/politics/kennedy-family-moves-to-block-trumps-arch"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261110-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-10T17:30:00-06:00",
