@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261111-reframe-time-hegseth-impeachment-blocked",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-11T13:55:00-06:00",
+    "label": "Story of the Day",
+    "claim": "House Republicans block Hegseth impeachment, but Democrats could revive effort in January",
+    "outlet": "TIME",
+    "outlet_url": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/",
+    "source_url": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/",
+    "record_url": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/",
+    "record_title": "TIME, “House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January,” Nov. 10, 2026",
+    "read": "TIME reports that the House voted 211-204 to send Rep. Thomas Massie's Hegseth impeachment resolution to the Judiciary Committee, and its account matches the roll call, Massie's filing and the White House statement. The weak arguments come from the defense. Hegseth and Trump answer a charge of unauthorized war-making by saying he is being attacked for winning, and the White House leans on the fact that no defense secretary has been impeached before. Graded C across 4 arguments (Hegseth and Trump D; White House D+; Rep. Thomas Massie B-; TIME B+). Scorecard: 50% valid, 25% cogent, 25% supported, 60% fallacy-free.",
+    "grade": "C",
+    "scores": {
+      "valid": 50,
+      "cogent": 25,
+      "supported": 25,
+      "fallacy_free": 60
+    },
+    "why": "TIME reports the vote accurately. The weak arguments come from the defense, which answers charges of unlawful war-making by recasting them as an attack on winning. Key question: If the operations were lawful, which congressional vote authorized the Iran war?",
+    "sources": [
+      {
+        "title": "TIME, “House Republicans Block Hegseth Impeachment, but Democrats Could Revive Effort in January,” Nov. 10, 2026",
+        "url": "https://time.com/article/2026/11/10/hegseth-impeachment-procedural-vote-house/"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261111-hegseth-impeachment-blocked.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261111-hegseth-impeachment-blocked.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... TIME reports: House Republicans block Hegseth impeachment, but Democrats could revive effort in January.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261111-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-11T11:30:00-06:00",
