@@ -1,5 +1,92 @@
 [
   {
+    "id": "20261111-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-11T06:30:00-06:00",
+    "headline": "A viral anti-amnesty post says Trump won the 2024 popular vote with about 77 million votes to Harris's 75 million, a roughly 2 million margin; the FEC's official count backs those numbers",
+    "video_url": "",
+    "claim": "\"Trump won the 2024 popular vote with about 77 million votes to Kamala's 75 million. A margin of roughly 2 million.\" — Gunther Eagleman (@GuntherEagleman) on X, Nov. 10, 2026, in a post arguing against amnesty that had drawn more than 10,000 views",
+    "source_url": "https://x.com/GuntherEagleman/status/2120196787990315290",
+    "record_url": "https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf",
+    "record_title": "Federal Election Commission, Official 2024 Presidential General Election Results",
+    "verdict": "Matches record",
+    "why": "The FEC's official tally lists 77,302,580 votes for Donald J. Trump and 75,017,613 for Kamala D. Harris, out of 155,238,302 cast, a margin of 2,284,967 votes. That fits \"about 77 million,\" \"75 million\" and \"roughly 2 million.\" The post's larger argument, that legalizing immigrants would erase that margin, is a prediction the vote record cannot test.",
+    "what_would_change": "A corrected FEC tally or certified state results showing materially different totals for Trump or Harris would move this verdict.",
+    "outlet": "X post by @GuntherEagleman, Nov. 10, 2026",
+    "outlet_url": "https://x.com/GuntherEagleman/status/2120196787990315290",
+    "script": "Morning Check. A viral post arguing against amnesty says Trump won the 2024 popular vote with about 77 million votes to Kamala Harris's 75 million, a margin of roughly 2 million. The Federal Election Commission's official results show 77.3 million for Trump and 75.0 million for Harris, a gap of about 2.3 million. The post's prediction about what amnesty would do is opinion, but the numbers check out. Verdict: matches record.",
+    "read": "The FEC's official tally lists 77,302,580 votes for Donald J. Trump and 75,017,613 for Kamala D. Harris, out of 155,238,302 cast, a margin of 2,284,967 votes. That fits \"about 77 million,\" \"75 million\" and \"roughly 2 million.\" The post's larger argument, that legalizing immigrants would erase that margin, is a prediction the vote record cannot test.",
+    "sources": [
+      {
+        "title": "FEC, Official 2024 Presidential General Election Results (PDF)",
+        "url": "https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf"
+      },
+      {
+        "title": "@GuntherEagleman on X, Nov. 10, 2026",
+        "url": "https://x.com/GuntherEagleman/status/2120196787990315290"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261111-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-11T06:30:00-06:00",
+    "headline": "Fox News says Epstein served about 13 months of an 18-month sentence and could leave jail 12 hours a day on work release; the Justice Department's 2020 OPR report backs the core numbers",
+    "video_url": "",
+    "claim": "\"Epstein served approximately 13 months of an 18-month sentence and was permitted to leave jail for up to 12 hours daily, six days a week.\" — Pedro Rodriguez-Aparicio, Fox News, Nov. 10, 2026, reporting on a House Oversight Committee report on the Epstein investigation",
+    "source_url": "https://www.foxnews.com/politics/explosive-house-report-exposes-failures-says-allowed-epsteins-abuse-continue-years",
+    "record_url": "https://www.justice.gov/opr/page/file/1336471/download",
+    "record_title": "U.S. Department of Justice, Office of Professional Responsibility, Executive Summary of Report on the Southern District of Florida's 2006–2008 Investigation of Jeffrey Epstein (November 2020)",
+    "verdict": "Matches record",
+    "why": "OPR's report says that although the non-prosecution agreement specified 18 months of incarceration, Epstein got \"gain time\" and \"actually served less than 13 months,\" and that from October 2008 he spent \"12 hours a day\" on work release at the \"Florida Science Foundation.\" That matches Fox's core figures. The six-days-a-week detail does not appear in OPR's executive summary and was not checked against the House committee's report here.",
+    "what_would_change": "Jail or sheriff's records showing a different release date or work-release schedule, or the House Oversight report itself giving different figures, would move this verdict.",
+    "outlet": "Fox News, \"Explosive House report exposes failures it says allowed Epstein's abuse to continue for years,\" by Pedro Rodriguez-Aparicio, Nov. 10, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/explosive-house-report-exposes-failures-says-allowed-epsteins-abuse-continue-years",
+    "script": "Morning Check. Fox News, reporting on a new House Oversight report on Jeffrey Epstein, says he served about 13 months of an 18-month sentence and could leave jail up to 12 hours a day on work release. The Justice Department's own 2020 review says the deal called for 18 months, that Epstein actually served less than 13, and that he spent 12 hours a day at a so-called science foundation. Verdict: matches record.",
+    "read": "OPR's report says that although the non-prosecution agreement specified 18 months of incarceration, Epstein got \"gain time\" and \"actually served less than 13 months,\" and that from October 2008 he spent \"12 hours a day\" on work release at the \"Florida Science Foundation.\" That matches Fox's core figures. The six-days-a-week detail does not appear in OPR's executive summary and was not checked against the House committee's report here.",
+    "sources": [
+      {
+        "title": "DOJ Office of Professional Responsibility, Epstein report executive summary (Nov. 2020)",
+        "url": "https://www.justice.gov/opr/page/file/1336471/download"
+      },
+      {
+        "title": "Fox News, Nov. 10, 2026",
+        "url": "https://www.foxnews.com/politics/explosive-house-report-exposes-failures-says-allowed-epsteins-abuse-continue-years"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261111-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-11T06:30:00-06:00",
+    "headline": "CNN says a USDA proposal would cut about 6.3 million people, nearly one in five, from food stamps by fiscal 2029; the proposed rule in the Federal Register says exactly that",
+    "video_url": "",
+    "claim": "\"Roughly 6.3 million low-income Americans could lose their food stamp benefits in fiscal year 2029 under a US Department of Agriculture proposed rule released Tuesday. That's nearly one in five enrollees in the safety net program.\" — Tami Luhby, CNN, Nov. 10, 2026",
+    "source_url": "https://www.cnn.com/2026/11/10/politics/food-stamps-snap-benefits-proposed-rule",
+    "record_url": "https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility",
+    "record_title": "Federal Register, 91 FR 72454, USDA Food and Nutrition Service proposed rule, \"Supplemental Nutrition Assistance Program: Reforming Categorical Eligibility\" (Nov. 10, 2026)",
+    "verdict": "Matches record",
+    "why": "USDA's proposed rule estimates that 17.6 percent of SNAP participants, 6.3 million people in 3.2 million households, would lose benefits in fiscal 2029 because their income or resources exceed federal limits. It also estimates 1.78 million children would lose automatic free school meals, with about 97 percent still eligible by applying, and a $44.6 billion cut in federal SNAP benefits over five years, all consistent with CNN's figures. These are the agency's projections for a rule that is not final; comments are due Dec. 10, 2026.",
+    "what_would_change": "A final rule with different impact estimates, a withdrawal of the proposal, or a correction to USDA's regulatory impact analysis would move this verdict.",
+    "outlet": "CNN, \"Nearly one in five food stamp recipients could lose benefits under Trump proposal,\" by Tami Luhby, Nov. 10, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/10/politics/food-stamps-snap-benefits-proposed-rule",
+    "script": "Morning Check. CNN says a new USDA proposal would knock about 6.3 million people, nearly one in five recipients, off food stamps by fiscal 2029. The proposed rule published in the Federal Register estimates 17.6 percent of participants, 6.3 million people, would lose benefits, along with 1.78 million kids losing automatic free school meals. It is a proposal, with comments open until December 10. Verdict: matches record.",
+    "read": "USDA's proposed rule estimates that 17.6 percent of SNAP participants, 6.3 million people in 3.2 million households, would lose benefits in fiscal 2029 because their income or resources exceed federal limits. It also estimates 1.78 million children would lose automatic free school meals, with about 97 percent still eligible by applying, and a $44.6 billion cut in federal SNAP benefits over five years, all consistent with CNN's figures. These are the agency's projections for a rule that is not final; comments are due Dec. 10, 2026.",
+    "sources": [
+      {
+        "title": "Federal Register, 91 FR 72454, SNAP: Reforming Categorical Eligibility (proposed rule)",
+        "url": "https://www.federalregister.gov/documents/2026/11/10/2026-22936/supplemental-nutrition-assistance-program-reforming-categorical-eligibility"
+      },
+      {
+        "title": "CNN, Nov. 10, 2026",
+        "url": "https://www.cnn.com/2026/11/10/politics/food-stamps-snap-benefits-proposed-rule"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261110-late",
     "slot": "Late Check",
     "aired_at": "2026-11-10T23:00:00-06:00",
