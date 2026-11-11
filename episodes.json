@@ -1,5 +1,96 @@
 [
   {
+    "id": "20261111-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-11T11:30:00-06:00",
+    "headline": "A viral post says the 11 Democrats who missed the Hegseth impeachment vote 'would have made the difference'; the House roll call shows that holds only if the seven absent Republicans also stayed away",
+    "video_url": "",
+    "claim": "\"Tonight the House voted 211-204 to shelve Hegseth's impeachment. And 11 Democrats didn't show up to vote. They would have made the difference.\" — Paul Rieckhoff (@PaulRieckhoff) on X, Nov. 10, 2026, in a post that had drawn more than 18,000 views and 700 likes",
+    "source_url": "https://x.com/PaulRieckhoff/status/2120342587538108471",
+    "record_url": "https://clerk.house.gov/votes/2026317",
+    "record_title": "Office of the Clerk, U.S. House of Representatives, Roll Call 317, H. Res. 1655, On Motion to Refer (Nov. 10, 2026)",
+    "verdict": "Missing context",
+    "why": "The Clerk's record confirms the 211-204 tally on Roll Call 317, with 11 Democrats not voting, and seven Republicans also not voting; Rep. Thomas Massie was the only Republican to vote no. Eleven more Democratic no votes would have flipped the result to 211-215, but if the seven absent Republicans had also voted yes, the motion would still have carried 218-215. The vote was also on a motion to refer the articles to the Judiciary Committee, not on impeachment itself.",
+    "what_would_change": "Records showing that some of the seven absent Republicans had announced they would vote no, or a corrected Clerk tally with different absences, would move this verdict.",
+    "outlet": "X post by @PaulRieckhoff, Nov. 10, 2026",
+    "outlet_url": "https://x.com/PaulRieckhoff/status/2120342587538108471",
+    "script": "Midday Check. A viral post says the 11 Democrats who skipped Tuesday's Hegseth impeachment vote would have made the difference. The House Clerk's roll call shows the motion to send the articles to committee passed 211 to 204, with 11 Democrats and seven Republicans not voting. Eleven more no votes would have flipped it, but only if those seven Republicans also stayed home; with everyone present along party lines it still passes 218 to 215. And the vote was on referral, not on impeaching him. Verdict: missing context.",
+    "read": "The Clerk's record confirms the 211-204 tally on Roll Call 317, with 11 Democrats not voting, and seven Republicans also not voting; Rep. Thomas Massie was the only Republican to vote no. Eleven more Democratic no votes would have flipped the result to 211-215, but if the seven absent Republicans had also voted yes, the motion would still have carried 218-215. The vote was also on a motion to refer the articles to the Judiciary Committee, not on impeachment itself.",
+    "sources": [
+      {
+        "title": "House Clerk, Roll Call 317 (Nov. 10, 2026)",
+        "url": "https://clerk.house.gov/votes/2026317"
+      },
+      {
+        "title": "@PaulRieckhoff on X, Nov. 10, 2026",
+        "url": "https://x.com/PaulRieckhoff/status/2120342587538108471"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261111-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-11T11:30:00-06:00",
+    "headline": "Fox News says a South Carolina drug bust netted 36 arrests and seized 17 properties; the Justice Department says 36 were charged and it filed notices of lawsuits on the properties, not seizures",
+    "video_url": "",
+    "claim": "\"A Homeland Security Task Force investigation netted 36 arrests — and nine of the suspects are in the country illegally... Investigators seized $2.8 million in cash and jewelry, 15 luxury vehicles... and 17 properties, which the DOJ said is worth $4 million.\" — Peter D'Abrosca, Fox News Digital, Nov. 11, 2026",
+    "source_url": "https://www.foxnews.com/politics/drug-ring-busted-illegal-aliens-cuffed-homeland-security-task-force-south-carolina-doj",
+    "record_url": "https://www.justice.gov/opa/pr/multi-state-homeland-security-task-force-investigation-leads-36-indicted-drug-trafficking",
+    "record_title": "U.S. Department of Justice, Office of Public Affairs, \"Multi-State Homeland Security Task Force Investigation Leads to 36 Indicted for Drug Trafficking and Money Laundering\" (Nov. 10, 2026)",
+    "verdict": "Missing context",
+    "why": "The Justice Department's release backs the 36 defendants, the nine it calls illegal aliens, and the 346 kilograms of fentanyl, 15 luxury vehicles and over $2.8 million seized. But it says the 36 were charged across three indictments, with six already having pleaded guilty, not that 36 arrests were made, and it says DEA secured notices of lawsuits on 17 properties worth nearly $4 million rather than seizing them. Fox also says the operation ran since at least 2021, while DOJ says the group has operated in South Carolina since at least 2011 and supplied fentanyl and cocaine since at least 2021.",
+    "what_would_change": "Court filings or a DOJ statement showing all 36 defendants were arrested in this operation, or forfeiture orders showing the 17 properties were actually seized, would move this verdict.",
+    "outlet": "Fox News, \"South Carolina drug bust nets 36 arrests including 9 illegal aliens,\" by Peter D'Abrosca, Nov. 11, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/drug-ring-busted-illegal-aliens-cuffed-homeland-security-task-force-south-carolina-doj",
+    "script": "Midday Check. Fox News says a Homeland Security Task Force drug bust in South Carolina netted 36 arrests, nine of them people in the country illegally, and seized 17 properties. The Justice Department's own release confirms 36 people charged, nine illegal aliens, and 346 kilos of fentanyl. But it says charged, not arrested, across three indictments since 2025, and it says the government filed notices of lawsuits on 17 properties worth nearly 4 million dollars, not that it seized them. Verdict: missing context.",
+    "read": "The Justice Department's release backs the 36 defendants, the nine it calls illegal aliens, and the 346 kilograms of fentanyl, 15 luxury vehicles and over $2.8 million seized. But it says the 36 were charged across three indictments, with six already having pleaded guilty, not that 36 arrests were made, and it says DEA secured notices of lawsuits on 17 properties worth nearly $4 million rather than seizing them. Fox also says the operation ran since at least 2021, while DOJ says the group has operated in South Carolina since at least 2011 and supplied fentanyl and cocaine since at least 2021.",
+    "sources": [
+      {
+        "title": "DOJ Office of Public Affairs press release, Nov. 10, 2026",
+        "url": "https://www.justice.gov/opa/pr/multi-state-homeland-security-task-force-investigation-leads-36-indicted-drug-trafficking"
+      },
+      {
+        "title": "Fox News, Nov. 11, 2026",
+        "url": "https://www.foxnews.com/politics/drug-ring-busted-illegal-aliens-cuffed-homeland-security-task-force-south-carolina-doj"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261111-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-11T11:30:00-06:00",
+    "headline": "CNN says California voters rejected a one-time 5% wealth tax on billionaires; the Secretary of State's count shows Prop. 40 losing 52.6% to 47.4%",
+    "video_url": "",
+    "claim": "\"Voters in California have rejected a measure to impose a one-time 5% wealth tax on residents with a net worth of over $1 billion.\" — Kaanita Iyer, CNN, Nov. 10, 2026",
+    "source_url": "https://www.cnn.com/2026/11/10/politics/california-voters-wealth-tax-billionaires",
+    "record_url": "https://electionresults.sos.ca.gov/returns/ballot-measures",
+    "record_title": "California Secretary of State, Statewide Ballot Measure Results, Nov. 3, 2026 General Election (Proposition 40), as of Nov. 10, 2026, 5:31 p.m. PT",
+    "verdict": "Matches record",
+    "why": "The Secretary of State's statewide returns show Proposition 40, \"Imposes One-Time Tax On Certain Taxpayers,\" failing with 5,593,408 yes votes (47.4%) to 6,205,615 no votes (52.6%). The Legislative Analyst's Office analysis confirms the measure would have imposed a one-time tax equal to 5% of net worth on billionaires who were California residents on Jan. 1, 2026, with real estate, pensions and retirement accounts generally excluded. The count is unofficial until the state certifies results.",
+    "what_would_change": "A materially different certified result from the Secretary of State, or a large late-ballot shift reversing the outcome, would move this verdict.",
+    "outlet": "CNN, \"California voters reject one-time wealth tax on billionaires,\" by Kaanita Iyer, Nov. 10, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/10/politics/california-voters-wealth-tax-billionaires",
+    "script": "Midday Check. CNN says California voters rejected a one-time 5 percent wealth tax on billionaires. The Secretary of State's count shows Proposition 40 losing, 52.6 percent no to 47.4 percent yes, a margin of about 600,000 votes. The state's nonpartisan analyst confirms the measure was a one-time tax of 5 percent of net worth on billionaire residents. The results are still unofficial until certification. Verdict: matches record.",
+    "read": "The Secretary of State's statewide returns show Proposition 40, \"Imposes One-Time Tax On Certain Taxpayers,\" failing with 5,593,408 yes votes (47.4%) to 6,205,615 no votes (52.6%). The Legislative Analyst's Office analysis confirms the measure would have imposed a one-time tax equal to 5% of net worth on billionaires who were California residents on Jan. 1, 2026, with real estate, pensions and retirement accounts generally excluded. The count is unofficial until the state certifies results.",
+    "sources": [
+      {
+        "title": "California Secretary of State, statewide ballot measure results",
+        "url": "https://electionresults.sos.ca.gov/returns/ballot-measures"
+      },
+      {
+        "title": "Legislative Analyst's Office, Proposition 40 analysis",
+        "url": "https://lao.ca.gov/BallotAnalysis/Proposition?number=40&year=2026"
+      },
+      {
+        "title": "CNN, Nov. 10, 2026",
+        "url": "https://www.cnn.com/2026/11/10/politics/california-voters-wealth-tax-billionaires"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261111-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-11T06:30:00-06:00",
