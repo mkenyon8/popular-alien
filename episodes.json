@@ -144,6 +144,50 @@
     "corrections": []
   },
   {
+    "id": "20261111-reframe-x-burchett-star-act",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-11T23:56:06-06:00",
+    "label": "ReFrame",
+    "claim": "Viral post quotes Rep. Burchett saying Democrats long tried to block the Major Richard Star Act; on the House discharge vote, no Democrat voted no",
+    "outlet": "X post by @EricLDaugh quoting a video from Rep. Tim Burchett",
+    "outlet_url": "https://x.com/EricLDaugh/status/2120657016611832278",
+    "source_url": "https://x.com/EricLDaugh/status/2120657016611832278",
+    "record_url": "https://clerk.house.gov/Votes/2026320",
+    "record_title": "Office of the Clerk, U.S. House of Representatives, Roll Call 320 (Nov. 11, 2026): On Motion to Discharge, H.Res. 1247, providing for consideration of H.R. 2102, the Major Richard Star Act",
+    "read": "An X post by Eric Daugherty quotes Rep. Tim Burchett saying Democrats had tried to block the Major Richard Star Act for a long time and had been fairly successful at it. The House Clerk's Roll Call 320 (Nov. 11, 2026) shows the motion to discharge the rule for H.R. 2102 passed 245-175: Democrats voted 210-0 in favor, with four not voting, while 175 Republicans voted no. The record cited does not cover earlier actions on the bill, but it shows no Democratic blocking. Graded D on 1 argument (Rep. Tim Burchett D). Scorecard: 100% valid, 0% cogent, 0% supported, 100% fallacy-free.",
+    "grade": "D",
+    "scores": {
+      "valid": 100,
+      "cogent": 0,
+      "supported": 0,
+      "fallacy_free": 100
+    },
+    "why": "Roll Call 320 shows Democrats voting 210-0 for the Star Act discharge motion, with 175 Republicans voting no. Key question: Which recorded vote shows Democrats as a bloc opposing the Major Richard Star Act, when Roll Call 320 shows them voting 210-0 for it?",
+    "sources": [
+      {
+        "title": "@EricLDaugh on X, Nov. 11, 2026 (quoting a video from Rep. Tim Burchett)",
+        "url": "https://x.com/EricLDaugh/status/2120657016611832278"
+      },
+      {
+        "title": "Office of the Clerk, U.S. House of Representatives, Roll Call 320 (Nov. 11, 2026): On Motion to Discharge, H.Res. 1247, providing for consideration of H.R. 2102, the Major Richard Star Act",
+        "url": "https://clerk.house.gov/Votes/2026320"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261111-evening"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261111-evening.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261111-evening.mp4",
+    "popart_story": "20261111-evening",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... X post by @EricLDaugh quoting a video from Rep. Tim Burchett reports: Viral post quotes Rep. Burchett saying Democrats long tried to block the Major Richard Star Act; on the House discharge vote, no Democrat voted no.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261111-evening-fox",
     "slot": "Evening Check",
     "aired_at": "2026-11-11T17:30:00-06:00",
