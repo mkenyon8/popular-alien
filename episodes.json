@@ -1,5 +1,96 @@
 [
   {
+    "id": "20261112-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-12T06:30:00-06:00",
+    "headline": "A viral post says the U.S. poverty rate is 'at an all-time low of 10.2%'; the Census Bureau reports 10.2% for 2025 but calls it one of the lowest on record, not statistically different from 2019's 10.5%",
+    "video_url": "",
+    "claim": "\"The poverty rate is at an all-time low of 10.2%. Per capita family income hit a record $87,000.\" — David J Harris Jr (@DavidJHarrisJr), X post, Nov. 10, 2026, which had drawn more than 310,000 views",
+    "source_url": "https://x.com/DavidJHarrisJr/status/2120245115419570528",
+    "record_url": "https://www2.census.gov/library/publications/2026/demo/p60-290.pdf",
+    "record_title": "U.S. Census Bureau, \"Poverty in the United States: 2025\" (P60-290), Sept. 15, 2026",
+    "verdict": "Missing context",
+    "why": "The Census Bureau's report confirms the official poverty rate fell 0.5 points to 10.2% in 2025, but it describes that as \"one of the lowest rates on record\" and notes it \"was not statistically different from the 2019 poverty rate of 10.5 percent,\" so the survey cannot show it is an all-time low. The records the Bureau did declare were for children (13.4%) and Hispanic individuals (13.9%). The post's \"$87,000\" income record matches real median household income of $87,460, not a per capita family figure.",
+    "what_would_change": "A Census Bureau statement or revised table showing 2025's rate statistically below every prior year, including 2019, would move this to Matches record.",
+    "outlet": "X post by @DavidJHarrisJr, Nov. 10, 2026",
+    "outlet_url": "https://x.com/DavidJHarrisJr/status/2120245115419570528",
+    "script": "Morning Check. A viral post says the poverty rate is at an all-time low of 10.2 percent. The Census Bureau does report 10.2 percent for 2025, but calls it one of the lowest on record and says it is not statistically different from 2019's 10.5 percent. The record lows it declared were for children and Hispanic Americans. Verdict: missing context.",
+    "read": "The Census Bureau's report confirms the official poverty rate fell 0.5 points to 10.2% in 2025, but it describes that as \"one of the lowest rates on record\" and notes it \"was not statistically different from the 2019 poverty rate of 10.5 percent,\" so the survey cannot show it is an all-time low. The records the Bureau did declare were for children (13.4%) and Hispanic individuals (13.9%). The post's \"$87,000\" income record matches real median household income of $87,460, not a per capita family figure.",
+    "sources": [
+      {
+        "title": "U.S. Census Bureau, Poverty in the United States: 2025 (P60-290)",
+        "url": "https://www2.census.gov/library/publications/2026/demo/p60-290.pdf"
+      },
+      {
+        "title": "U.S. Census Bureau press release, Income, Poverty and Health Insurance Coverage: 2025",
+        "url": "https://www.census.gov/newsroom/press-releases/2026/income-poverty-health-insurance-coverage.html"
+      },
+      {
+        "title": "@DavidJHarrisJr on X, Nov. 10, 2026",
+        "url": "https://x.com/DavidJHarrisJr/status/2120245115419570528"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261112-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-12T06:30:00-06:00",
+    "headline": "Fox News quotes Sen. John Thune calling the GOP's 55-seat Senate majority in 2005 'the high watermark for Republicans in the Senate, historically'; Senate records show larger GOP majorities, including 60 seats in 1907 and 59 in 1921",
+    "video_url": "",
+    "claim": "\"Thune shared the anecdote of how when he first arrived in the Senate in 2005, Republicans had clinched a 55-seat majority — 'the high watermark for Republicans in the Senate, historically,' he told Fox News Digital.\" — Sen. John Thune, quoted by Alex Miller, Fox News Digital, Nov. 12, 2026",
+    "source_url": "https://www.foxnews.com/politics/senate-republicans-fear-brutal-2028-map-could-keep-dems-power-years-come",
+    "record_url": "https://www.senate.gov/about/parties-leadership/party-division.htm",
+    "record_title": "U.S. Senate, \"Party Division\" (party breakdown for every Congress)",
+    "verdict": "Missing context",
+    "why": "The Senate's party-division table confirms Republicans held 55 seats at the start of the 109th Congress in 2005, and that Democrats organized the chamber in 2007, as Thune said. But the same table shows bigger Republican majorities in earlier eras: 60 seats in 1907, 59 in 1921, 58 in 1909 and 57 in 1903. Fifty-five is the highest GOP total in modern times, matched in 1997 and 1999, so the remark holds for recent decades but not for Senate history as a whole.",
+    "what_would_change": "A clarification from Thune or Fox that he meant the modern era, or a Senate record showing no Republican majority above 55 seats, would move this to Matches record.",
+    "outlet": "Fox News, \"Senate Republicans fear 'brutal' 2028 map could keep Dems in power for years to come,\" by Alex Miller, Nov. 12, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/senate-republicans-fear-brutal-2028-map-could-keep-dems-power-years-come",
+    "script": "Morning Check. Fox News quotes Senate Republican leader John Thune calling the GOP's 55-seat majority in 2005 the high watermark for Republicans in the Senate, historically. The Senate's own party-division records show larger Republican majorities a century ago, including 60 seats in 1907 and 59 in 1921. Fifty-five is the modern high, also reached in 1997 and 1999. Verdict: missing context.",
+    "read": "The Senate's party-division table confirms Republicans held 55 seats at the start of the 109th Congress in 2005, and that Democrats organized the chamber in 2007, as Thune said. But the same table shows bigger Republican majorities in earlier eras: 60 seats in 1907, 59 in 1921, 58 in 1909 and 57 in 1903. Fifty-five is the highest GOP total in modern times, matched in 1997 and 1999, so the remark holds for recent decades but not for Senate history as a whole.",
+    "sources": [
+      {
+        "title": "U.S. Senate, Party Division",
+        "url": "https://www.senate.gov/about/parties-leadership/party-division.htm"
+      },
+      {
+        "title": "Fox News, Nov. 12, 2026",
+        "url": "https://www.foxnews.com/politics/senate-republicans-fear-brutal-2028-map-could-keep-dems-power-years-come"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261112-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-12T06:30:00-06:00",
+    "headline": "CNN says appeals court nominees need 30 hours of Senate floor time absent a deal, versus two hours for district court picks; the 2019 Senate precedent documented by the Congressional Research Service sets exactly those limits",
+    "video_url": "",
+    "claim": "\"Unless Republicans can reach a deal with Democrats, the Senate must devote 30 hours of floor time for appeals court nominees. Only two hours of floor are necessary for district court nominees.\" — Tierney Sneed, CNN, Nov. 12, 2026",
+    "source_url": "https://www.cnn.com/2026/11/12/politics/senate-gop-push-to-get-trump-judges-confirmed",
+    "record_url": "https://www.congress.gov/crs_external_products/RL/PDF/RL31980/RL31980.29.pdf",
+    "record_title": "Congressional Research Service, \"Senate Consideration of Presidential Nominations: Committee and Floor Procedure\" (RL31980), updated March 25, 2025",
+    "verdict": "Matches record",
+    "why": "The CRS report's Table 1 lists a maximum of 30 hours of post-cloture consideration for Supreme Court and circuit court of appeals nominees and 2 hours for district court and most other judicial nominees, under the precedent the Senate set on April 3, 2019. CRS notes the clock counts only while the nomination is pending on the floor, and the time can be shortened only by unanimous consent, which is the \"deal\" CNN describes. These are maximums after cloture is invoked, which is how CNN frames them.",
+    "what_would_change": "A new Senate precedent, standing order or rules change altering post-cloture time for judicial nominees would move this verdict.",
+    "outlet": "CNN, \"Republicans' lame-duck dash to confirm judges is already hitting speed bumps,\" by Tierney Sneed, Nov. 12, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/12/politics/senate-gop-push-to-get-trump-judges-confirmed",
+    "script": "Morning Check. CNN says that without a deal, appeals court nominees need 30 hours of Senate floor time, while district court picks need just two. The Congressional Research Service shows the Senate set exactly those post-cloture limits in April 2019. Verdict: matches the record.",
+    "read": "The CRS report's Table 1 lists a maximum of 30 hours of post-cloture consideration for Supreme Court and circuit court of appeals nominees and 2 hours for district court and most other judicial nominees, under the precedent the Senate set on April 3, 2019. CRS notes the clock counts only while the nomination is pending on the floor, and the time can be shortened only by unanimous consent, which is the \"deal\" CNN describes. These are maximums after cloture is invoked, which is how CNN frames them.",
+    "sources": [
+      {
+        "title": "CRS, Senate Consideration of Presidential Nominations (RL31980), Table 1",
+        "url": "https://www.congress.gov/crs_external_products/RL/PDF/RL31980/RL31980.29.pdf"
+      },
+      {
+        "title": "CNN, Nov. 12, 2026",
+        "url": "https://www.cnn.com/2026/11/12/politics/senate-gop-push-to-get-trump-judges-confirmed"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261111-late",
     "slot": "Late Check",
     "aired_at": "2026-11-11T23:00:00-06:00",
