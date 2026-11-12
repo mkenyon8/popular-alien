@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261111-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-11T23:00:00-06:00",
+    "headline": "A viral Mario Nawfal post says America is $40 trillion in debt; the Treasury's Debt to the Penny ledger puts total public debt at $40.56 trillion as of Nov. 9",
+    "video_url": "",
+    "claim": "\"America is $40 trillion in debt and short on interceptors, and Congress is about to renew Israel's aid deal for another 5 years with $500 million extra for weapons research.\" — Mario Nawfal (@MarioNawfal), X post, Nov. 11, 2026, which had drawn more than 230,000 views",
+    "source_url": "https://x.com/MarioNawfal/status/2120651917357363662",
+    "record_url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny",
+    "record_title": "U.S. Treasury, Fiscal Data, \"Debt to the Penny\" (record date Nov. 9, 2026: Total Public Debt Outstanding $40,559,796,589,243.37)",
+    "verdict": "Matches record",
+    "why": "The Treasury's Debt to the Penny dataset reports total public debt outstanding of $40,559,796,589,243.37 on Nov. 9, 2026, the latest record date, so \"$40 trillion in debt\" is accurate and if anything rounds down. About $32.76 trillion of that is held by the public and about $7.80 trillion is intragovernmental holdings. This verdict covers the debt figure only; the post's claims about the size and terms of a renewed Israel aid deal were not checked against a bill or agreement here.",
+    "what_would_change": "A later Treasury record showing total public debt outstanding below $40 trillion would change the verdict on the debt figure; the bill text or a signed memorandum of understanding would be needed to rate the Israel aid numbers.",
+    "outlet": "X post by @MarioNawfal, Nov. 11, 2026",
+    "outlet_url": "https://x.com/MarioNawfal/status/2120651917357363662",
+    "script": "Late Check. A viral post from Mario Nawfal says America is 40 trillion dollars in debt. The Treasury's Debt to the Penny ledger shows total public debt of about 40.56 trillion dollars as of November 9. Verdict: matches the record, on the debt figure. The post's Israel aid numbers were not part of this check.",
+    "read": "The Treasury's Debt to the Penny dataset reports total public debt outstanding of $40,559,796,589,243.37 on Nov. 9, 2026, the latest record date, so \"$40 trillion in debt\" is accurate and if anything rounds down. About $32.76 trillion of that is held by the public and about $7.80 trillion is intragovernmental holdings. This verdict covers the debt figure only; the post's claims about the size and terms of a renewed Israel aid deal were not checked against a bill or agreement here.",
+    "sources": [
+      {
+        "title": "U.S. Treasury Fiscal Data, Debt to the Penny",
+        "url": "https://fiscaldata.treasury.gov/datasets/debt-to-the-penny/debt-to-the-penny"
+      },
+      {
+        "title": "Debt to the Penny API, latest records",
+        "url": "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_to_penny?sort=-record_date&page[size]=3"
+      },
+      {
+        "title": "@MarioNawfal on X, Nov. 11, 2026",
+        "url": "https://x.com/MarioNawfal/status/2120651917357363662"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261111-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-11T23:00:00-06:00",
+    "headline": "Fox News says a Senate trial would need two-thirds of senators present to convict Trump and notes the Senate declined to convict him twice before; Senate records show both 2020 and 2021 trials ended in acquittal",
+    "video_url": "",
+    "claim": "\"The coalition acknowledged uncertainty over whether its impeachment efforts would succeed, noting that even if the House approved articles against Trump, the Senate could again decline to convict him, as it did in Trump's two previous impeachment trials.\" ... \"Under the Constitution, impeachment requires a simple majority in the House, while conviction and removal from office require a two-thirds majority of senators present.\" — Pedro Rodriguez-Aparicio, Fox News Digital, Nov. 11, 2026",
+    "source_url": "https://www.foxnews.com/politics/new-dem-members-carry-al-greens-mantle-try-impeach-president-trump",
+    "record_url": "https://www.senate.gov/about/powers-procedures/impeachment/impeachment-list.htm",
+    "record_title": "U.S. Senate, \"List of Individuals Impeached by the House of Representatives\" (Senate trial outcomes)",
+    "verdict": "Matches record",
+    "why": "The Senate's list of impeachment trials records Donald J. Trump as found not guilty on Feb. 5, 2020, and again on Feb. 13, 2021. The Senate roll calls show the margins: 48-52 and 47-53 on the two 2020 articles, and 57-43 in 2021, each short of the two-thirds required. Article I, Section 3 of the Constitution says no person shall be convicted \"without the Concurrence of two thirds of the Members present,\" which matches Fox's description.",
+    "what_would_change": "A Senate record showing a different outcome in either trial, or a change to the Constitution's two-thirds rule, would move this verdict.",
+    "outlet": "Fox News, \"At least 9 new Dem members will carry Al Green's mantle and try to impeach President Trump,\" by Pedro Rodriguez-Aparicio, Nov. 11, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/new-dem-members-carry-al-greens-mantle-try-impeach-president-trump",
+    "script": "Late Check. Fox News, writing about a new push to impeach President Trump, says the Senate declined to convict him in both earlier trials and that conviction takes two-thirds of senators present. Senate records show acquittals in February 2020 and February 2021, with the 2021 vote at 57 to 43, short of two-thirds. Verdict: matches the record.",
+    "read": "The Senate's list of impeachment trials records Donald J. Trump as found not guilty on Feb. 5, 2020, and again on Feb. 13, 2021. The Senate roll calls show the margins: 48-52 and 47-53 on the two 2020 articles, and 57-43 in 2021, each short of the two-thirds required. Article I, Section 3 of the Constitution says no person shall be convicted \"without the Concurrence of two thirds of the Members present,\" which matches Fox's description.",
+    "sources": [
+      {
+        "title": "U.S. Senate, List of Individuals Impeached by the House",
+        "url": "https://www.senate.gov/about/powers-procedures/impeachment/impeachment-list.htm"
+      },
+      {
+        "title": "Senate Roll Call 33, 116th Congress, 2nd Session (Feb. 5, 2020)",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00033.htm"
+      },
+      {
+        "title": "Senate Roll Call 34, 116th Congress, 2nd Session (Feb. 5, 2020)",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1162/vote_116_2_00034.htm"
+      },
+      {
+        "title": "Senate Roll Call 59, 117th Congress, 1st Session (Feb. 13, 2021)",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1171/vote_117_1_00059.htm"
+      },
+      {
+        "title": "U.S. Constitution, Article I, Section 3 (Constitution Annotated)",
+        "url": "https://constitution.congress.gov/browse/article-1/section-3/"
+      },
+      {
+        "title": "Fox News, Nov. 11, 2026",
+        "url": "https://www.foxnews.com/politics/new-dem-members-carry-al-greens-mantle-try-impeach-president-trump"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261111-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-11T23:00:00-06:00",
+    "headline": "CNN says Scott Colom will be the first Democrat to win Mississippi's Senate seat since 1982; Senate records show 1982 was John Stennis's win for the other seat, and Hyde-Smith's seat last had a Democrat in James Eastland",
+    "video_url": "",
+    "claim": "\"CNN's Decision Desk projects that Colom will be the first Black senator from the state since Reconstruction and the first Democrat to win the seat since 1982.\" — Edward-Isaac Dovere, CNN, Nov. 11, 2026",
+    "source_url": "https://www.cnn.com/2026/11/11/politics/scott-colom-mississippi-campaign-democrats",
+    "record_url": "https://www.senate.gov/states/MS/senators.htm",
+    "record_title": "U.S. Senate, \"States in the Senate: Mississippi Senators\" (Class 1 and Class 2 seat histories)",
+    "verdict": "Missing context",
+    "why": "The Senate's Mississippi roster shows Cindy Hyde-Smith holds the Class 2 seat, which passed from Democrat James O. Eastland (served until Dec. 1978) to Republican Thad Cochran, so the last Democrat to win that seat was Eastland, not a 1982 winner. The 1982 date belongs to John C. Stennis, who held the state's other, Class 1 seat until 1989. CNN's figure is right if read as the first Democrat to win any Mississippi Senate race since 1982, and its other firsts check out: Blanche K. Bruce (1875-1881) was the state's last Black senator.",
+    "what_would_change": "A CNN clarification saying it meant any Mississippi Senate seat, or a Senate record showing a Democrat won the Class 2 seat in 1982, would move this to Matches record.",
+    "outlet": "CNN, \"Scott Colom's Mississippi Senate win defies history,\" by Edward-Isaac Dovere, Nov. 11, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/11/politics/scott-colom-mississippi-campaign-democrats",
+    "script": "Late Check. CNN says Scott Colom will be the first Democrat to win the seat since 1982. Senate records show 1982 was John Stennis winning Mississippi's other Senate seat. Cindy Hyde-Smith's seat last belonged to a Democrat when James Eastland held it, until 1978. The date works only as the first Democrat to win any Mississippi Senate race. Verdict: missing context.",
+    "read": "The Senate's Mississippi roster shows Cindy Hyde-Smith holds the Class 2 seat, which passed from Democrat James O. Eastland (served until Dec. 1978) to Republican Thad Cochran, so the last Democrat to win that seat was Eastland, not a 1982 winner. The 1982 date belongs to John C. Stennis, who held the state's other, Class 1 seat until 1989. CNN's figure is right if read as the first Democrat to win any Mississippi Senate race since 1982, and its other firsts check out: Blanche K. Bruce (1875-1881) was the state's last Black senator.",
+    "sources": [
+      {
+        "title": "U.S. Senate, Mississippi Senators",
+        "url": "https://www.senate.gov/states/MS/senators.htm"
+      },
+      {
+        "title": "CNN, Nov. 11, 2026",
+        "url": "https://www.cnn.com/2026/11/11/politics/scott-colom-mississippi-campaign-democrats"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261111-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-11T17:30:00-06:00",
