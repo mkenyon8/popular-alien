@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261112-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-12T17:30:00-06:00",
+    "headline": "A viral post says Mary Peltola lost ground in Wednesday night's Alaska Senate count; the state's latest unofficial report shows her lead over Sen. Dan Sullivan down to 3,975 votes",
+    "video_url": "",
+    "claim": "\"UPDATE: Peltola lost in court on Wednesday and then lost ground in Wednesday night's count. An Alaska judge ruled against her campaign's demand for records on rejected absentee ballots, calling it 'simply not reasonable' while officials are still counting.\" — The Scoop (@TheScoop_US), X post, Nov. 12, 2026, about 76,000 views; the account's previous update put Peltola's lead at 4,250 votes (118,926 to 114,676) after Tuesday's count",
+    "source_url": "https://x.com/TheScoop_US/status/2120864260569886901",
+    "record_url": "https://www.elections.alaska.gov/enr/26GENR/results/ElectionSummaryReportRPT.pdf",
+    "record_title": "Alaska Division of Elections, 2026 General Election Summary Report, unofficial results (report time 11/11/2026 5:47:54 PM)",
+    "verdict": "Matches record",
+    "why": "The Division of Elections' unofficial summary report generated Wednesday, Nov. 11, shows Peltola with 121,487 votes (48.73%) to Republican Sen. Dan S. Sullivan's 117,512 (47.13%), a 3,975-vote lead, down from the 4,250-vote lead the same account reported from Tuesday's count. So she still leads but lost ground, as the post says. The same report shows a second candidate named Daniel J. Sullivan Jr. with 4,100 votes, so the account's earlier line that Peltola's lead exceeded that candidate's total no longer holds; this check does not cover the court ruling, whose order we did not review.",
+    "what_would_change": "A later Division of Elections report showing Peltola's lead growing after the Wednesday count, or a Tuesday report showing a lead smaller than 3,975, would change this verdict.",
+    "outlet": "X post by @TheScoop_US, Nov. 12, 2026",
+    "outlet_url": "https://x.com/TheScoop_US/status/2120864260569886901",
+    "script": "Evening Check. A widely viewed post says Mary Peltola lost ground in Wednesday night's Alaska Senate count. The Division of Elections' unofficial report from Wednesday shows Peltola at 121,487 votes to Senator Dan Sullivan's 117,512, a lead of 3,975, down from about 4,250 after Tuesday. She still leads, and the count is unofficial. Verdict: matches record.",
+    "read": "The Division of Elections' unofficial summary report generated Wednesday, Nov. 11, shows Peltola with 121,487 votes (48.73%) to Republican Sen. Dan S. Sullivan's 117,512 (47.13%), a 3,975-vote lead, down from the 4,250-vote lead the same account reported from Tuesday's count. So she still leads but lost ground, as the post says. The same report shows a second candidate named Daniel J. Sullivan Jr. with 4,100 votes, so the account's earlier line that Peltola's lead exceeded that candidate's total no longer holds; this check does not cover the court ruling, whose order we did not review.",
+    "sources": [
+      {
+        "title": "Alaska Division of Elections, 2026 General Election Summary Report (unofficial)",
+        "url": "https://www.elections.alaska.gov/enr/26GENR/results/ElectionSummaryReportRPT.pdf"
+      },
+      {
+        "title": "Alaska Division of Elections, Election Results",
+        "url": "https://www.elections.alaska.gov/election-results/"
+      },
+      {
+        "title": "@TheScoop_US on X, Nov. 12, 2026",
+        "url": "https://x.com/TheScoop_US/status/2120864260569886901"
+      },
+      {
+        "title": "@TheScoop_US on X, Nov. 11, 2026 (Tuesday count update)",
+        "url": "https://x.com/TheScoop_US/status/2120591449519788038"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261112-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-12T17:30:00-06:00",
+    "headline": "Fox News says Cindy Holscher's projected win makes three straight Kansas governor's races won by a Democrat, after Laura Kelly's wins in 2018 and 2022; Kansas election and legislative records back that",
+    "video_url": "",
+    "claim": "\"The victory keeps the governor's mansion in Democratic hands and marks the third consecutive Kansas gubernatorial election won by a Democrat. Kelly won the office in 2018 and secured a second term in 2022. Holscher has served in the Kansas Senate since 2021 after previously spending four years in the state House.\" — Brittany Miller, Fox News, Nov. 12, 2026",
+    "source_url": "https://www.foxnews.com/politics/democrat-cindy-holscher-wins-kansas-governors-race-extending-partys-hold-governors-mansion",
+    "record_url": "https://www.sos.ks.gov/elections/22elec/2022-General-Official-Vote-Totals.pdf",
+    "record_title": "Kansas Secretary of State, 2022 General Election Official Vote Totals",
+    "verdict": "Matches record",
+    "why": "The Kansas Secretary of State's official 2022 totals show Democrat Laura Kelly re-elected with 499,849 votes (49.54%) to Republican Derek Schmidt's 477,591 (47.33%), and the office's results archive lists Kelly's 2018 win, so a 2026 Democratic win would be the third in a row. The Kansas Legislature's member page lists Holscher's terms as House 2017–2020 and Senate 2021–present, matching the four years in the House and Senate service since 2021. Holscher's own 2026 win is an Associated Press projection; Kansas has not yet certified the result.",
+    "what_would_change": "Certified 2026 canvass results showing Masterson ahead, or legislative records showing different service dates for Holscher, would change this verdict.",
+    "outlet": "Fox News, \"Democrat Cindy Holscher wins Kansas governor's race, extending party's hold on governor's mansion,\" by Brittany Miller, Nov. 12, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/democrat-cindy-holscher-wins-kansas-governors-race-extending-partys-hold-governors-mansion",
+    "script": "Evening Check. Fox News says Cindy Holscher's projected win in Kansas marks the third straight governor's race won by a Democrat, after Laura Kelly won in 2018 and 2022, and that Holscher spent four years in the state House before joining the Senate in 2021. The Kansas Secretary of State's official 2022 totals show Kelly re-elected, and the Legislature lists Holscher in the House from 2017 to 2020 and the Senate since 2021. The 2026 result is still a projection. Verdict: matches record.",
+    "read": "The Kansas Secretary of State's official 2022 totals show Democrat Laura Kelly re-elected with 499,849 votes (49.54%) to Republican Derek Schmidt's 477,591 (47.33%), and the office's results archive lists Kelly's 2018 win, so a 2026 Democratic win would be the third in a row. The Kansas Legislature's member page lists Holscher's terms as House 2017–2020 and Senate 2021–present, matching the four years in the House and Senate service since 2021. Holscher's own 2026 win is an Associated Press projection; Kansas has not yet certified the result.",
+    "sources": [
+      {
+        "title": "Kansas Secretary of State, 2022 General Election Official Vote Totals",
+        "url": "https://www.sos.ks.gov/elections/22elec/2022-General-Official-Vote-Totals.pdf"
+      },
+      {
+        "title": "Kansas Secretary of State, Election Results archive",
+        "url": "https://www.sos.ks.gov/elections/election-results.html"
+      },
+      {
+        "title": "Kansas Legislature, Sen. Cindy Holscher member page",
+        "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_holscher_cindy_1/"
+      },
+      {
+        "title": "Kansas Legislature, Senate President Ty Masterson member page",
+        "url": "https://www.kslegislature.gov/li/b2025_26/members/sen_masterson_ty_1/"
+      },
+      {
+        "title": "Fox News, Nov. 12, 2026",
+        "url": "https://www.foxnews.com/politics/democrat-cindy-holscher-wins-kansas-governors-race-extending-partys-hold-governors-mansion"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261112-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-12T17:30:00-06:00",
+    "headline": "CNN says guarding the Tomb of the Unknown Soldier has been a 24/7 job for soldiers of The Old Guard since 1948; Arlington National Cemetery's own history confirms the 1948 date, with round-the-clock guard dating to 1937",
+    "video_url": "",
+    "claim": "\"It's expected, and not unprecedented, for the sentinel guarding the tomb — a 24/7 job delegated to soldiers with The Old Guard since 1948 — to maintain an atmosphere of respect around the tomb by correcting visitors who get too loud.\" — Haley Britzky, CNN, Nov. 12, 2026",
+    "source_url": "https://www.cnn.com/2026/11/12/politics/hegseth-awards-medal-soldier-reprimanded-him",
+    "record_url": "https://www.arlingtoncemetery.mil/Explore/Tomb-of-the-Unknown-Soldier",
+    "record_title": "Arlington National Cemetery, \"Tomb of the Unknown Soldier\" (history: Guarding the Tomb)",
+    "verdict": "Matches record",
+    "why": "Arlington National Cemetery's history of the Tomb says soldiers from Fort Myer first guarded it in daylight hours starting in March 1926, the guard became a 24/7 presence in 1937, and The Old Guard, the 3rd U.S. Infantry Regiment, began guarding it when it was designated the Army's official ceremonial unit on April 6, 1948. That matches CNN's line that the 24/7 duty has belonged to The Old Guard since 1948. The round-the-clock watch itself is older than The Old Guard's role, which CNN's wording does not contradict.",
+    "what_would_change": "An Army or Arlington National Cemetery record showing The Old Guard took over the Tomb in a year other than 1948, or that the guard is not continuous, would change this verdict.",
+    "outlet": "CNN, \"Hegseth awards medal to soldier who reprimanded him and aides at Arlington Cemetery,\" by Haley Britzky, Nov. 12, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/12/politics/hegseth-awards-medal-soldier-reprimanded-him",
+    "script": "Evening Check. In its story on Defense Secretary Pete Hegseth giving a medal to the Tomb guard who reprimanded his group, CNN says guarding the Tomb of the Unknown Soldier has been a 24/7 job for The Old Guard since 1948. Arlington National Cemetery's own history says the round-the-clock guard began in 1937 and The Old Guard took over on April 6, 1948. Verdict: matches record.",
+    "read": "Arlington National Cemetery's history of the Tomb says soldiers from Fort Myer first guarded it in daylight hours starting in March 1926, the guard became a 24/7 presence in 1937, and The Old Guard, the 3rd U.S. Infantry Regiment, began guarding it when it was designated the Army's official ceremonial unit on April 6, 1948. That matches CNN's line that the 24/7 duty has belonged to The Old Guard since 1948. The round-the-clock watch itself is older than The Old Guard's role, which CNN's wording does not contradict.",
+    "sources": [
+      {
+        "title": "Arlington National Cemetery, Tomb of the Unknown Soldier history",
+        "url": "https://www.arlingtoncemetery.mil/Explore/Tomb-of-the-Unknown-Soldier"
+      },
+      {
+        "title": "CNN, Nov. 12, 2026",
+        "url": "https://www.cnn.com/2026/11/12/politics/hegseth-awards-medal-soldier-reprimanded-him"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261112-reframe-cbs-scharf-oversight-criminality",
     "slot": "ReFrame",
     "lead": true,
