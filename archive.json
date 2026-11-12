@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261112-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-12T11:30:00-06:00",
+    "headline": "A viral post says the Space Force paid SpaceX $845 million last year for seven national security launches and ULA $427 million for two; those are the April 2025 mission assignment prices, not payments for flown launches",
+    "video_url": "",
+    "claim": "\"Eight hundred forty five million dollars. That's what the Space Force paid Elon Musk's SpaceX last year for SEVEN national security launches. It paid the rival, United Launch Alliance, four hundred twenty seven million for two. Those are the Space Force's own numbers.\" — Jewels Jones (@JewelsJonesLive), X post, Nov. 12, 2026, which had drawn about 8,900 views and 230 likes within three hours",
+    "source_url": "https://x.com/JewelsJonesLive/status/2120887023032524934",
+    "record_url": "https://www.ssc.spaceforce.mil/Newsroom/Article/4148471/space-systems-command-releases-national-security-space-launch-phase-3-lane-2-fy",
+    "record_title": "Space Systems Command, \"Space Systems Command Releases National Security Space Launch Phase 3 Lane 2 FY25 Mission Assignments\" (April 2025)",
+    "verdict": "Missing context",
+    "why": "Space Systems Command's release says that in April 2025 it assigned seven fiscal 2025 missions to SpaceX for a total price of $845.8 million and two to ULA for $427.6 million, so the figures and mission counts match. But those are task-order prices for future launches assigned under the Phase 3 Lane 2 contract, not money paid for launches already flown. The command's next round, announced Oct. 3, 2025, assigned SpaceX five missions for $714 million and ULA two for $428 million.",
+    "what_would_change": "Payment records, such as USAspending outlays, showing the $845.8 million actually disbursed to SpaceX in 2025 for completed launches would move this to Matches record.",
+    "outlet": "X post by @JewelsJonesLive, Nov. 12, 2026",
+    "outlet_url": "https://x.com/JewelsJonesLive/status/2120887023032524934",
+    "script": "Midday Check. A viral post says the Space Force paid SpaceX 845 million dollars last year for seven national security launches and paid United Launch Alliance 427 million for two. Space Systems Command's own release matches those numbers, but they are the prices of missions assigned in April 2025 for future launches, not payments for launches flown. Verdict: missing context.",
+    "read": "Space Systems Command's release says that in April 2025 it assigned seven fiscal 2025 missions to SpaceX for a total price of $845.8 million and two to ULA for $427.6 million, so the figures and mission counts match. But those are task-order prices for future launches assigned under the Phase 3 Lane 2 contract, not money paid for launches already flown. The command's next round, announced Oct. 3, 2025, assigned SpaceX five missions for $714 million and ULA two for $428 million.",
+    "sources": [
+      {
+        "title": "Space Systems Command, NSSL Phase 3 Lane 2 FY25 Mission Assignments (April 2025)",
+        "url": "https://www.ssc.spaceforce.mil/Newsroom/Article/4148471/space-systems-command-releases-national-security-space-launch-phase-3-lane-2-fy"
+      },
+      {
+        "title": "Space Systems Command, NSSL Phase 3 Lane 2 FY26 Mission Assignments (Oct. 3, 2025)",
+        "url": "https://www.ssc.spaceforce.mil/Newsroom/Article/4348694/space-systems-command-releases-national-security-space-launch-phase-3-lane-2-fy"
+      },
+      {
+        "title": "@JewelsJonesLive on X, Nov. 12, 2026",
+        "url": "https://x.com/JewelsJonesLive/status/2120887023032524934"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261112-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-12T11:30:00-06:00",
+    "headline": "Fox News says Florida's SB 1134, the anti-DEI law Delray Beach cites in dropping its 2027 St. Patrick's Day parade and Pride event, was signed in April and takes effect Jan. 1, 2027; the enrolled bill and Senate record back that",
+    "video_url": "",
+    "claim": "\"Florida Senate Bill 1134, which passed both chambers of the Republican-controlled state Legislature largely along party lines before being signed by GOP Gov. Ron DeSantis in April, is scheduled to take effect Jan. 1, 2027.\" ... \"the legislation carves out exceptions for holidays designated by federal law.\" — Landon Mion, Fox News, Nov. 12, 2026",
+    "source_url": "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event",
+    "record_url": "https://www.flsenate.gov/Session/Bill/2026/1134/BillText/er/PDF",
+    "record_title": "The Florida Senate, CS/CS/SB 1134 (2026), enrolled text, and bill history (Chapter 2026-43)",
+    "verdict": "Matches record",
+    "why": "The Florida Senate's bill history shows SB 1134 passed the Senate 25-11 and the House 77-37, was approved by the governor on April 22, 2026, and became Chapter 2026-43; the enrolled text says the act takes effect Jan. 1, 2027. The bill bars counties and cities from funding or promoting DEI, defined to include programming designed with reference to ethnicity, and it does exempt federal holidays under 5 U.S.C. 6103, along with state holidays and federally recognized patriotic observances. The bill never names St. Patrick's Day or Pride events, so Delray Beach's conclusion that the parade is covered is the city's own legal reading.",
+    "what_would_change": "A different enacted effective date, an amendment changing the holiday exemptions, or a court ruling on whether events like the parade fall under the law would change how this reads.",
+    "outlet": "Fox News, \"Florida city says new GOP-backed DEI law blocks St Patrick's parade, Pride event,\" by Landon Mion, Nov. 12, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event",
+    "script": "Midday Check. Fox News reports Delray Beach is dropping its 2027 St. Patrick's Day parade and Pride event, citing Florida's new anti-DEI law, which Fox says was signed in April and takes effect January 1, 2027, with exceptions for federal holidays. The Florida Senate record shows the governor approved it April 22, and the enrolled bill takes effect January 1 and exempts federal holidays. The law never names the parade; that is the city's reading. Verdict: matches record.",
+    "read": "The Florida Senate's bill history shows SB 1134 passed the Senate 25-11 and the House 77-37, was approved by the governor on April 22, 2026, and became Chapter 2026-43; the enrolled text says the act takes effect Jan. 1, 2027. The bill bars counties and cities from funding or promoting DEI, defined to include programming designed with reference to ethnicity, and it does exempt federal holidays under 5 U.S.C. 6103, along with state holidays and federally recognized patriotic observances. The bill never names St. Patrick's Day or Pride events, so Delray Beach's conclusion that the parade is covered is the city's own legal reading.",
+    "sources": [
+      {
+        "title": "The Florida Senate, CS/CS/SB 1134 (2026) enrolled text",
+        "url": "https://www.flsenate.gov/Session/Bill/2026/1134/BillText/er/PDF"
+      },
+      {
+        "title": "The Florida Senate, SB 1134 (2026) bill history",
+        "url": "https://www.flsenate.gov/Session/Bill/2026/1134"
+      },
+      {
+        "title": "Fox News, Nov. 12, 2026",
+        "url": "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261112-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-12T11:30:00-06:00",
+    "headline": "CNN says RFK Jr. led Children's Health Defense when he went to Samoa in 2019 and chaired it until December 2024; Kennedy's own written answers to the Senate Finance Committee say the same",
+    "video_url": "",
+    "claim": "\"Kennedy, who led Children's Health Defense at the time, visited the island in June 2019.\" ... \"Children's Health Defense, the anti-vaccine group Kennedy chaired until December 2024.\" — Sarah Owermohle, CNN, Nov. 12, 2026",
+    "source_url": "https://www.cnn.com/2026/11/12/politics/senate-democrate-rfk-investigation",
+    "record_url": "https://www.finance.senate.gov/wp-content/uploads/meetings/D96B19A9-5001-414F-B41F-47120DD6D268/responses_to_questions_for_the_record_to_robert_f_kennedy_jrpart3.pdf",
+    "record_title": "Senate Finance Committee, Responses to Questions for the Record to Robert F. Kennedy, Jr., Part 3 (Jan. 29, 2025 nomination hearing)",
+    "verdict": "Matches record",
+    "why": "In written answers filed with the Senate Finance Committee after his Jan. 29, 2025 hearing, Kennedy said he resigned as chairman of the board and chief legal counsel of Children's Health Defense in December 2024, matching CNN's date. In the same set of answers he said Children's Health Defense funded and organized his 2019 Samoa trip and confirmed he met Samoa's prime minister there. This check covers those two factual details only, not whether his testimony about the trip's purpose was false, which is what Sen. Ron Wyden's new inquiry is examining.",
+    "what_would_change": "A filing or record showing Kennedy left Children's Health Defense's leadership on a different date, or was not leading the group in June 2019, would move this verdict.",
+    "outlet": "CNN, \"Top Democrat will investigate whether RFK Jr. lied to Congress,\" by Sarah Owermohle, Nov. 12, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/12/politics/senate-democrate-rfk-investigation",
+    "script": "Midday Check. In a story on Senator Ron Wyden's new inquiry into Robert F. Kennedy Jr.'s 2019 trip to Samoa, CNN says Kennedy led Children's Health Defense at the time and chaired it until December 2024. Kennedy's own written answers to the Senate Finance Committee say he resigned as chairman in December 2024 and that the group funded and organized the Samoa trip. Verdict: matches record.",
+    "read": "In written answers filed with the Senate Finance Committee after his Jan. 29, 2025 hearing, Kennedy said he resigned as chairman of the board and chief legal counsel of Children's Health Defense in December 2024, matching CNN's date. In the same set of answers he said Children's Health Defense funded and organized his 2019 Samoa trip and confirmed he met Samoa's prime minister there. This check covers those two factual details only, not whether his testimony about the trip's purpose was false, which is what Sen. Ron Wyden's new inquiry is examining.",
+    "sources": [
+      {
+        "title": "Senate Finance Committee, Kennedy QFR responses, Part 3",
+        "url": "https://www.finance.senate.gov/wp-content/uploads/meetings/D96B19A9-5001-414F-B41F-47120DD6D268/responses_to_questions_for_the_record_to_robert_f_kennedy_jrpart3.pdf"
+      },
+      {
+        "title": "Senate Finance Committee, Kennedy QFR responses, Part 2",
+        "url": "https://www.finance.senate.gov/wp-content/uploads/meetings/D96B19A9-5001-414F-B41F-47120DD6D268/responses_to_questions_for_the_record_to_robert_f_kennedy_jrpart2.pdf"
+      },
+      {
+        "title": "Senate Finance Committee, Jan. 29, 2025 nomination hearing",
+        "url": "https://www.finance.senate.gov/hearings/hearingto-consider-the-nomination-of-robert-f-kennedy-jr-of-california-to-be-secretary-of-health-and-human-services"
+      },
+      {
+        "title": "CNN, Nov. 12, 2026",
+        "url": "https://www.cnn.com/2026/11/12/politics/senate-democrate-rfk-investigation"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261112-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-12T06:30:00-06:00",
