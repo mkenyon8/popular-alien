@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261112-reframe-cbs-scharf-oversight-criminality",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-12T11:55:00-06:00",
+    "label": "Story of the Day",
+    "claim": "Top White House lawyer warns of \"blatant criminality\" in Democrats' investigations push",
+    "outlet": "CBS News",
+    "outlet_url": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/",
+    "source_url": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/",
+    "record_url": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/",
+    "record_title": "CBS News, “Top White House lawyer warns of \"blatant criminality\" in Democrats' investigations push,” Nov. 11, 2026",
+    "read": "CBS News reports that White House counsel Will Scharf's Nov. 9 letter warns House Oversight Democrats that investigations \"may cross the line into blatant criminality,\" and its account matches the letter, Garcia's and Jeffries' rejections and outside legal context. The weak argument is the White House's: it leaps from subpoenas that might lack a legislative purpose to a crime without naming a statute. Graded C across 4 arguments (Scharf D+; Trump D-; Rep. Robert Garcia C+; CBS News B+). Scorecard: 25% valid, 50% cogent, 25% supported, 0% fallacy-free.",
+    "grade": "C",
+    "scores": {
+      "valid": 25,
+      "cogent": 50,
+      "supported": 25,
+      "fallacy_free": 0
+    },
+    "why": "CBS reports the letter accurately. The weakest argument is the White House's: it leaps from a subpoena that might lack a legislative purpose to a crime. Key question: Which criminal law does a member of Congress break by voting to issue a subpoena?",
+    "sources": [
+      {
+        "title": "CBS News, “Top White House lawyer warns of \"blatant criminality\" in Democrats' investigations push,” Nov. 11, 2026",
+        "url": "https://www.cbsnews.com/news/white-house-counsel-will-scharf-house-oversight-committee-robert-garcia-investigations/"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261112-scharf-oversight-criminality.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261112-scharf-oversight-criminality.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CBS News reports: Top White House lawyer warns of \"blatant criminality\" in Democrats' investigations push.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261112-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-12T11:30:00-06:00",
