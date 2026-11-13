@@ -1,5 +1,116 @@
 [
   {
+    "id": "20261113-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-13T11:30:00-06:00",
+    "headline": "A viral post calls California's Capitol Annex a $1.1 billion taxpayer-funded project; the Legislature's own July budget update puts it at $1.198 billion, with $668 million already spent",
+    "video_url": "",
+    "claim": "\"...the $1.1 BILLION taxpayer funded Capitol Annex project that is so steeped in NDAs they wouldn't talk to you about it if you asked.\" — Kevin Dalton (@TheKevinDalton), X post quoting the California Democratic Party, Nov. 12, 2026, about 720 likes and 240 reposts",
+    "source_url": "https://x.com/TheKevinDalton/status/2121013461736157450",
+    "record_url": "https://annex.assembly.ca.gov/system/files/2026-07/ncab-budget-update-summary-2nd-qtr-2026-final.pdf",
+    "record_title": "New Capitol Annex Building Project, 2nd Quarter Budget Update (July 2026), submitted to the California Legislature's Joint Rules Committee",
+    "verdict": "Missing context",
+    "why": "The Legislature's Joint Rules Committee reported in its July 2026 quarterly update that the Capitol Annex budget stands at $1.198 billion, with $668 million spent through June and owner occupancy set for Oct. 27, 2027. So the project is taxpayer-funded and over $1 billion, as the post says, but the $1.1 billion figure is the older 2021-2022 estimate and understates the current budget by about $98 million. The committee's own reports confirm the money and schedule; the scale of nondisclosure agreements (KCRA counted 2,093 signers) comes from news reporting, not this record.",
+    "what_would_change": "A later Joint Rules Committee budget update cutting the approved budget back to about $1.1 billion, or audited cost records showing a different total, would change this verdict.",
+    "outlet": "X post by Kevin Dalton (@TheKevinDalton), Nov. 12, 2026",
+    "outlet_url": "https://x.com/TheKevinDalton/status/2121013461736157450",
+    "script": "Midday Check. A viral post says California's new Capitol Annex is a one point one billion dollar, taxpayer-funded project. The Legislature's own July budget update puts it higher: one point one nine eight billion dollars, with six hundred sixty-eight million already spent and move-in set for October 2027. The project is taxpayer-funded and over a billion dollars, but the post's number is an older estimate. Verdict: missing context.",
+    "read": "The Legislature's Joint Rules Committee reported in its July 2026 quarterly update that the Capitol Annex budget stands at $1.198 billion, with $668 million spent through June and owner occupancy set for Oct. 27, 2027. So the project is taxpayer-funded and over $1 billion, as the post says, but the $1.1 billion figure is the older 2021-2022 estimate and understates the current budget by about $98 million. The committee's own reports confirm the money and schedule; the scale of nondisclosure agreements (KCRA counted 2,093 signers) comes from news reporting, not this record.",
+    "sources": [
+      {
+        "title": "Capitol Annex 2nd Quarter Budget Update, July 2026 (Joint Rules Committee)",
+        "url": "https://annex.assembly.ca.gov/system/files/2026-07/ncab-budget-update-summary-2nd-qtr-2026-final.pdf"
+      },
+      {
+        "title": "Capitol Annex FAQ (California State Assembly)",
+        "url": "https://annex.assembly.ca.gov/faq"
+      },
+      {
+        "title": "KCRA, \"Timeline of the Capitol Annex project\"",
+        "url": "https://www.kcra.com/article/timeline-of-the-capitol-annex-project-ca-politics-360/74233460"
+      },
+      {
+        "title": "@TheKevinDalton on X, Nov. 12, 2026",
+        "url": "https://x.com/TheKevinDalton/status/2121013461736157450"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261113-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-13T11:30:00-06:00",
+    "headline": "Fox News says Democrats' Texas sweep leaves Sen. Ted Cruz as the only Republican in statewide elected office; two Republican railroad commissioners whose seats weren't on the 2026 ballot are still serving",
+    "video_url": "",
+    "claim": "\"Democrats won every statewide race in Texas, bringing an end to decades of Republican control ... and leaving Sen. Ted Cruz as the only Republican holding statewide elected office.\" — Fox News, \"Dan Patrick concedes Texas 'turned purple' after Democrats' historic blue wave,\" Nov. 12, 2026",
+    "source_url": "https://www.foxnews.com/politics/dan-patrick-concedes-texas-turned-purple-democrats-historic-blue-wave",
+    "record_url": "https://www.rrc.texas.gov/about-us/commissioners/",
+    "record_title": "Railroad Commission of Texas, Commissioners (current roster and term structure)",
+    "verdict": "Contradicted",
+    "why": "The Railroad Commission's own roster lists three sitting commissioners, Christi Craddick, Wayne Christian and Jim Wright, and says the six-year terms are staggered so only one seat is on each ballot. Craddick won a new term running through 2030 in 2024 and Christian won one through 2028 in 2022, both as Republicans, so neither seat was on the 2026 ballot and both stay in Republican hands after January. That makes Fox's line that Sen. Ted Cruz will be the only Republican in statewide elected office wrong, even if Democrats swept every statewide race that was on this year's ballot.",
+    "what_would_change": "Official records showing Craddick or Christian has left office or changed parties, or that their seats were filled in the 2026 election, would change this verdict.",
+    "outlet": "Fox News, \"Dan Patrick concedes Texas 'turned purple' after Democrats' historic blue wave,\" Nov. 12, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/dan-patrick-concedes-texas-turned-purple-democrats-historic-blue-wave",
+    "script": "Fox News says Democrats' Texas sweep leaves Senator Ted Cruz as the only Republican holding statewide office. The Railroad Commission's own roster says otherwise. Its terms are staggered, so only one seat was on this year's ballot. Republicans Christi Craddick and Wayne Christian won their seats in 2024 and 2022 and keep serving after January. Verdict: contradicted.",
+    "read": "The Railroad Commission's own roster lists three sitting commissioners, Christi Craddick, Wayne Christian and Jim Wright, and says the six-year terms are staggered so only one seat is on each ballot. Craddick won a new term running through 2030 in 2024 and Christian won one through 2028 in 2022, both as Republicans, so neither seat was on the 2026 ballot and both stay in Republican hands after January. That makes Fox's line that Sen. Ted Cruz will be the only Republican in statewide elected office wrong, even if Democrats swept every statewide race that was on this year's ballot.",
+    "sources": [
+      {
+        "title": "Railroad Commission of Texas, Commissioners",
+        "url": "https://www.rrc.texas.gov/about-us/commissioners/"
+      },
+      {
+        "title": "Railroad Commission of Texas, Commissioner Wayne Christian",
+        "url": "https://www.rrc.texas.gov/about-us/commissioners/wayne-christian/"
+      },
+      {
+        "title": "Texas Railroad Commissioner election, 2024 (Ballotpedia, from Texas Secretary of State results)",
+        "url": "https://ballotpedia.org/Texas_Railroad_Commissioner_election,_2024"
+      },
+      {
+        "title": "Texas Railroad Commissioner election, 2022 (Ballotpedia, from Texas Secretary of State results)",
+        "url": "https://ballotpedia.org/Texas_Railroad_Commissioner_election,_2022"
+      },
+      {
+        "title": "Fox News, Nov. 12, 2026",
+        "url": "https://www.foxnews.com/politics/dan-patrick-concedes-texas-turned-purple-democrats-historic-blue-wave"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261113-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-13T11:30:00-06:00",
+    "headline": "CNN says Stephen Miller's America First Legal raised $6.3 million in donations in its first year; the group's 2021 IRS Form 990 reports $6.39 million in contributions",
+    "video_url": "",
+    "claim": "\"AFL started slowly, raising $6.3 million in donations in its first year, and filing about a dozen cases.\" — CNN, investigation into America First Legal and the Trump administration, Nov. 12, 2026",
+    "source_url": "https://edition.cnn.com/2026/11/12/politics/stephen-miller-law-firm-trump-invs",
+    "record_url": "https://projects.propublica.org/nonprofits/organizations/862190372",
+    "record_title": "America First Legal Foundation (EIN 86-2190372), IRS Form 990 for tax year 2021, via ProPublica Nonprofit Explorer",
+    "verdict": "Matches record",
+    "why": "America First Legal Foundation's IRS Form 990 for 2021, its first year (the IRS recognized it in September 2021), reports $6,388,442 in contributions and grants, which was all of its revenue that year. That backs CNN's \"$6.3 million in donations\"; rounded normally it is $6.4 million. The 990 does not count lawsuits, so CNN's \"about a dozen cases\" figure is not checked here.",
+    "what_would_change": "An amended 2021 Form 990 reporting materially different contributions, or evidence that CNN's figure covers a different entity or period, would change this verdict.",
+    "outlet": "CNN, investigation into America First Legal, Nov. 12, 2026",
+    "outlet_url": "https://edition.cnn.com/2026/11/12/politics/stephen-miller-law-firm-trump-invs",
+    "script": "CNN says Stephen Miller's group, America First Legal, raised six point three million dollars in donations in its first year. The group's 2021 tax return to the IRS reports six point three nine million dollars in contributions, all of its revenue that year. Verdict: matches the record.",
+    "read": "America First Legal Foundation's IRS Form 990 for 2021, its first year (the IRS recognized it in September 2021), reports $6,388,442 in contributions and grants, which was all of its revenue that year. That backs CNN's \"$6.3 million in donations\"; rounded normally it is $6.4 million. The 990 does not count lawsuits, so CNN's \"about a dozen cases\" figure is not checked here.",
+    "sources": [
+      {
+        "title": "America First Legal Foundation filings (ProPublica Nonprofit Explorer, IRS Form 990 data)",
+        "url": "https://projects.propublica.org/nonprofits/organizations/862190372"
+      },
+      {
+        "title": "America First Legal Foundation Form 990, tax year 2021 (PDF via ProPublica)",
+        "url": "https://projects.propublica.org/nonprofits/download-filing?path=IRS%2F862190372_202112_990_2023031521117644.pdf"
+      },
+      {
+        "title": "CNN, Nov. 12, 2026",
+        "url": "https://edition.cnn.com/2026/11/12/politics/stephen-miller-law-firm-trump-invs"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261113-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-13T06:30:00-06:00",
