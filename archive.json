@@ -1,5 +1,104 @@
 [
   {
+    "id": "20261112-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-12T23:00:00-06:00",
+    "headline": "A post seen 5.3 million times says Nvidia CEO Jensen Huang resigned; Nvidia's SEC filing confirms he quit as CEO, president and director, but gives no reason",
+    "video_url": "",
+    "claim": "\"BREAKING: Nvidia $NVDA CEO Jensen Huang resigns.\" — Watcher.Guru (@WatcherGuru), X post, Nov. 12, 2026, about 5.3 million views; a widely shared quote post by @web3_scholar_ added that Huang spent \"33 years building\" Nvidia \"only to lose your position over personal decisions\"",
+    "source_url": "https://x.com/WatcherGuru/status/2120877606115635699",
+    "record_url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm",
+    "record_title": "NVIDIA Corporation, Form 8-K (Item 5.02), filed with the SEC Nov. 12, 2026, with Exhibit 99.1 press release \"NVIDIA Announces CEO Transition\"",
+    "verdict": "Matches record",
+    "why": "Nvidia's Form 8-K says that on Nov. 11, 2026, the board accepted Jen-Hsun Huang's resignation as president, chief executive officer and board member, effective immediately, and named CFO Colette Kress interim CEO; the attached press release quotes Kress on what Huang built \"over the last 33 years.\" That backs the post and the 33-year figure. Neither the filing nor the press release gives a reason for the resignation, so the \"personal decisions\" explanation in the quote post comes from news reports, not from Nvidia's record.",
+    "what_would_change": "An amended 8-K or Nvidia statement saying Huang did not resign, or that he stays on in an executive role, would change this verdict; a company filing stating the reason would settle the \"personal decisions\" part.",
+    "outlet": "X post by @WatcherGuru, Nov. 12, 2026",
+    "outlet_url": "https://x.com/WatcherGuru/status/2120877606115635699",
+    "script": "Late Check. A post seen more than five million times says Nvidia CEO Jensen Huang resigned. Nvidia's filing with the SEC confirms it: the board accepted his resignation as president, CEO and director on November 11, effective immediately, and CFO Colette Kress is interim CEO. The filing does not say why he left. Verdict: matches the record.",
+    "read": "Nvidia's Form 8-K says that on Nov. 11, 2026, the board accepted Jen-Hsun Huang's resignation as president, chief executive officer and board member, effective immediately, and named CFO Colette Kress interim CEO; the attached press release quotes Kress on what Huang built \"over the last 33 years.\" That backs the post and the 33-year figure. Neither the filing nor the press release gives a reason for the resignation, so the \"personal decisions\" explanation in the quote post comes from news reports, not from Nvidia's record.",
+    "sources": [
+      {
+        "title": "NVIDIA Form 8-K, filed Nov. 12, 2026 (SEC EDGAR)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvda-20261111.htm"
+      },
+      {
+        "title": "NVIDIA press release, Exhibit 99.1, \"NVIDIA Announces CEO Transition\"",
+        "url": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/nvidiaannouncesceotransiti.htm"
+      },
+      {
+        "title": "@WatcherGuru on X, Nov. 12, 2026",
+        "url": "https://x.com/WatcherGuru/status/2120877606115635699"
+      },
+      {
+        "title": "@web3_scholar_ on X, Nov. 12, 2026",
+        "url": "https://x.com/web3_scholar_/status/2120897617580204510"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261112-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-12T23:00:00-06:00",
+    "headline": "Fox News says Chuck Schumer has been an elected official since 1981; his own Senate biography says he was first elected to the New York State Assembly after law school in 1974",
+    "video_url": "",
+    "claim": "\"Van Hollen, 67, has served in Congress for 23 years, first starting in the House before moving to the Senate in 2017. Schumer, 75, has been an elected official since 1981.\" — Alex Miller, Fox News Digital, Nov. 12, 2026",
+    "source_url": "https://www.foxnews.com/politics/van-hollen-challenges-schumer-senate-leadership-after-democratic-election-sweep",
+    "record_url": "https://www.schumer.senate.gov/about-chuck",
+    "record_title": "Office of Sen. Chuck Schumer, \"About Chuck\" (official Senate biography)",
+    "verdict": "Missing context",
+    "why": "Schumer's official Senate biography says that after graduating from Harvard Law School in 1974 he \"was elected to the New York State Assembly,\" and that in 1980 he was elected to Congress, so 1981 is when he entered the U.S. House, not when he first held elected office; he has been an elected official since the mid-1970s. The Van Hollen half checks out: Congress.gov lists his House service starting in 2003 and Senate service starting in 2017, about 23 years in Congress.",
+    "what_would_change": "A New York State record showing Schumer never served in the Assembly, or Fox clarifying that it meant service in Congress, would move this verdict.",
+    "outlet": "Fox News, \"Van Hollen challenges Schumer for Senate leadership after Democratic election sweep,\" by Alex Miller, Nov. 12, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/van-hollen-challenges-schumer-senate-leadership-after-democratic-election-sweep",
+    "script": "Late Check. Writing about Chris Van Hollen's challenge to Chuck Schumer for Senate Democratic leader, Fox News says Schumer has been an elected official since 1981. Schumer's own Senate biography says he was elected to the New York State Assembly after law school in 1974, and went to Congress after the 1980 election. Fox's line that Van Hollen has served 23 years in Congress, moving to the Senate in 2017, matches Congress.gov. Verdict: missing context.",
+    "read": "Schumer's official Senate biography says that after graduating from Harvard Law School in 1974 he \"was elected to the New York State Assembly,\" and that in 1980 he was elected to Congress, so 1981 is when he entered the U.S. House, not when he first held elected office; he has been an elected official since the mid-1970s. The Van Hollen half checks out: Congress.gov lists his House service starting in 2003 and Senate service starting in 2017, about 23 years in Congress.",
+    "sources": [
+      {
+        "title": "Sen. Chuck Schumer, official biography",
+        "url": "https://www.schumer.senate.gov/about-chuck"
+      },
+      {
+        "title": "Congress.gov, Sen. Chris Van Hollen member record",
+        "url": "https://www.congress.gov/member/chris-van-hollen/V000128"
+      },
+      {
+        "title": "Fox News, Nov. 12, 2026",
+        "url": "https://www.foxnews.com/politics/van-hollen-challenges-schumer-senate-leadership-after-democratic-election-sweep"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261112-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-12T23:00:00-06:00",
+    "headline": "CNN says Richard Glossip was sentenced to death in 1998 and again in 2004 before the Supreme Court overturned his conviction last year; the Court's opinion in Glossip v. Oklahoma backs that history",
+    "video_url": "",
+    "claim": "\"Glossip was convicted and sentenced to death in 1998 — a conviction that was overturned because of ineffective defense counsel — and then again in 2004.\" ... \"Last year, the US Supreme Court in a split decision overturned the conviction and ordered a new trial, citing Sneed's false testimony and the prosecution's withholding of evidence from the defense.\" — CNN, Nov. 12, 2026",
+    "source_url": "https://www.cnn.com/2026/11/12/us/richard-glossip-guilty-plea-oklahoma",
+    "record_url": "https://www.supremecourt.gov/opinions/24pdf/604us1r13_c0n2.pdf",
+    "record_title": "Supreme Court of the United States, Glossip v. Oklahoma, 604 U.S. 226 (2025), No. 22-7466, decided Feb. 25, 2025",
+    "verdict": "Matches record",
+    "why": "The Supreme Court's opinion recounts that a jury convicted Glossip and sentenced him to death after a June 1998 trial, that the Oklahoma Court of Criminal Appeals overturned that conviction because the defense had been ineffective in challenging Sneed's testimony, and that he was convicted and sentenced to death again at a 2004 retrial. On Feb. 25, 2025, the Court reversed and remanded for a new trial, holding the prosecution violated Napue by failing to correct Sneed's false testimony and noting withheld witness statements as further misconduct. The decision was split: Justice Sotomayor wrote for five justices, Justice Barrett joined in part, Justices Thomas and Alito dissented, and Justice Gorsuch did not take part.",
+    "what_would_change": "A court record showing a different year for either death sentence, or showing the Supreme Court did not order a new trial, would change this verdict.",
+    "outlet": "CNN, \"Richard Glossip, Oklahoma man on death row for years, pleads guilty to lesser charge,\" Nov. 12, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/12/us/richard-glossip-guilty-plea-oklahoma",
+    "script": "Late Check. Reporting on Richard Glossip's guilty plea to accessory after the fact, CNN says he was sentenced to death in 1998, had that conviction overturned for ineffective counsel, was sentenced to death again in 2004, and won a new trial at the Supreme Court last year over false testimony. The Supreme Court's February 2025 opinion in Glossip versus Oklahoma lays out that same history and orders a new trial. Verdict: matches the record.",
+    "read": "The Supreme Court's opinion recounts that a jury convicted Glossip and sentenced him to death after a June 1998 trial, that the Oklahoma Court of Criminal Appeals overturned that conviction because the defense had been ineffective in challenging Sneed's testimony, and that he was convicted and sentenced to death again at a 2004 retrial. On Feb. 25, 2025, the Court reversed and remanded for a new trial, holding the prosecution violated Napue by failing to correct Sneed's false testimony and noting withheld witness statements as further misconduct. The decision was split: Justice Sotomayor wrote for five justices, Justice Barrett joined in part, Justices Thomas and Alito dissented, and Justice Gorsuch did not take part.",
+    "sources": [
+      {
+        "title": "Supreme Court, Glossip v. Oklahoma, 604 U.S. 226 (2025)",
+        "url": "https://www.supremecourt.gov/opinions/24pdf/604us1r13_c0n2.pdf"
+      },
+      {
+        "title": "CNN, Nov. 12, 2026",
+        "url": "https://www.cnn.com/2026/11/12/us/richard-glossip-guilty-plea-oklahoma"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261112-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-12T17:30:00-06:00",
