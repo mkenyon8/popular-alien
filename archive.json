@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261113-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-13T06:30:00-06:00",
+    "headline": "Sen. Chuck Schumer tells Trump, in a post seen 1.3 million times, that he has made 30,000 stock trades; Trump's own ethics filings list more than 21,000 trades in 2025 alone, with thousands more this year",
+    "video_url": "",
+    "claim": "\"I'm actually referring to your 30,000 stock trades (more than all Members of Congress combined)...\" — Senate Democratic Leader Chuck Schumer (@SenSchumer), X post replying to President Trump, Nov. 12, 2026, about 1.3 million views",
+    "source_url": "https://x.com/SenSchumer/status/2120979859115810980",
+    "record_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf",
+    "record_title": "Donald J. Trump, OGE Form 278e Annual Financial Disclosure Report (2026 annual, covering 2025), Part 7: Transactions, U.S. Office of Government Ethics",
+    "verdict": "Matches record",
+    "why": "Part 7 of Trump's 2026 annual disclosure to the Office of Government Ethics lists more than 21,000 purchases and sales of securities dated in 2025, nearly all after his Jan. 20 inauguration, and his 2026 periodic transaction reports add thousands more, including a 113-page report covering January through March. That puts the total in the range of Schumer's rounded 30,000. The \"more than all Members of Congress combined\" comparison comes from news analyses of congressional filings, such as Bloomberg's count of about 28,700 Trump trades versus about 22,200 for lawmakers through June, which this check did not recount; the White House says outside managers run the accounts.",
+    "what_would_change": "An OGE-certified tally of Trump's 2025 and 2026 transactions well below 30,000, or a full count of congressional periodic transaction reports showing lawmakers made more trades over the same period, would change this verdict.",
+    "outlet": "X post by Sen. Chuck Schumer (@SenSchumer), Nov. 12, 2026",
+    "outlet_url": "https://x.com/SenSchumer/status/2120979859115810980",
+    "script": "Morning Check. Senator Chuck Schumer told President Trump, in a post seen more than a million times, that Trump has made thirty thousand stock trades. Trump's own ethics filings back the scale: his annual report lists more than twenty-one thousand trades in 2025 alone, and his 2026 reports add thousands more. The claim that this tops all of Congress comes from news analyses, not the filings themselves. Verdict: matches the record.",
+    "read": "Part 7 of Trump's 2026 annual disclosure to the Office of Government Ethics lists more than 21,000 purchases and sales of securities dated in 2025, nearly all after his Jan. 20 inauguration, and his 2026 periodic transaction reports add thousands more, including a 113-page report covering January through March. That puts the total in the range of Schumer's rounded 30,000. The \"more than all Members of Congress combined\" comparison comes from news analyses of congressional filings, such as Bloomberg's count of about 28,700 Trump trades versus about 22,200 for lawmakers through June, which this check did not recount; the White House says outside managers run the accounts.",
+    "sources": [
+      {
+        "title": "Donald J. Trump OGE Form 278e, 2026 annual report (OGE)",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+      },
+      {
+        "title": "Donald J. Trump OGE Form 278-T, May 8, 2026 (OGE)",
+        "url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/405E4EC4E27BE8D185258DF7002DD1C0/$FILE/Trump%2C%20Donald%20J.-05.08.2026-278T(2).pdf"
+      },
+      {
+        "title": "Bloomberg, \"Trump Made 29,000 Securities Trades, More Than All of Congress\"",
+        "url": "https://www.bloomberg.com/graphics/2026-trump-stock-trades-congress/"
+      },
+      {
+        "title": "@SenSchumer on X, Nov. 12, 2026",
+        "url": "https://x.com/SenSchumer/status/2120979859115810980"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261113-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-13T06:30:00-06:00",
+    "headline": "Fox News says Gov. Gavin Newsom, who is term-limited, will leave office in January; California's Constitution caps governors at two terms and starts the next one on Jan. 4, 2027",
+    "video_url": "",
+    "claim": "\"Newsom, who will leave office in January, was asked about his presidential aspirations while attending the 31st United Nations Climate Change Conference in Antalya, Turkey.\" ... \"Newsom, who is term-limited after 2026...\" — Fox News, \"Newsom reveals when he'll decide on 2028 White House bid amid growing speculation,\" by Michael Sinkewicz, Nov. 13, 2026",
+    "source_url": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation",
+    "record_url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=V",
+    "record_title": "California Constitution, Article V, Section 2 (California Legislative Information)",
+    "verdict": "Matches record",
+    "why": "Article V, Section 2 of the California Constitution says no governor may serve more than two terms and that a governor holds office from the Monday after Jan. 1 following the election, which in 2027 is Jan. 4. The Secretary of State's 2022 Statement of Vote shows Newsom won his second term that year, after his first win in 2018, so he cannot run again and his term ends when his successor takes office in January. That backs Fox's description.",
+    "what_would_change": "A court ruling or constitutional change that lets a California governor serve a third term, or a Secretary of State record showing Newsom has served only one elected term, would change this verdict.",
+    "outlet": "Fox News, \"Newsom reveals when he'll decide on 2028 White House bid amid growing speculation,\" by Michael Sinkewicz, Nov. 13, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation",
+    "script": "Fox News says California Governor Gavin Newsom is term-limited and will leave office in January. The state constitution backs that: governors get two terms, and the new term starts the Monday after New Year's Day, January 4, 2027. Newsom won in 2018 and again in 2022. Verdict: matches the record.",
+    "read": "Article V, Section 2 of the California Constitution says no governor may serve more than two terms and that a governor holds office from the Monday after Jan. 1 following the election, which in 2027 is Jan. 4. The Secretary of State's 2022 Statement of Vote shows Newsom won his second term that year, after his first win in 2018, so he cannot run again and his term ends when his successor takes office in January. That backs Fox's description.",
+    "sources": [
+      {
+        "title": "California Constitution, Article V, Section 2",
+        "url": "https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%202.&article=V"
+      },
+      {
+        "title": "California Secretary of State, Statement of Vote, Nov. 8, 2022 general election",
+        "url": "https://www.sos.ca.gov/elections/prior-elections/statewide-election-results/general-election-nov-8-2022/statement-vote"
+      },
+      {
+        "title": "Fox News, Nov. 13, 2026",
+        "url": "https://www.foxnews.com/politics/newsom-reveals-when-decide-2028-white-house-bid-growing-speculation"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261113-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-13T06:30:00-06:00",
+    "headline": "CNN says a super PAC that registered Oct. 15 reported spending more than $8.5 million across 35 House and Senate races, much of it boosting Libertarians over Republicans; FEC records back the totals",
+    "video_url": "",
+    "claim": "\"The most prolific, Our Heritage Matters, a super PAC, emerged less than three weeks before Election Day and reported spending more than $8.5 million across 35 House and Senate races.\" — CNN, \"Millions in secret money fueled a last-minute campaign to turn conservatives against Republican candidates,\" Nov. 13, 2026",
+    "source_url": "https://edition.cnn.com/2026/11/13/politics/kfile-pop-up-superpac-spent-big-on-libertarians",
+    "record_url": "https://www.fec.gov/data/committee/C00963736/",
+    "record_title": "Federal Election Commission, committee record and independent expenditures (Schedule E) for Our Heritage Matters (C00963736), 2026 cycle",
+    "verdict": "Matches record",
+    "why": "FEC records list Our Heritage Matters as an independent-expenditure-only super PAC first filed Oct. 15, 2026, with Mike McCauley as treasurer. Its reported independent expenditures, after removing amended duplicates, total about $8.52 million across 35 House and Senate races, with about $7.1 million paid to Chase Grove LLC and $1.4 million to Good Way Associates, as CNN reported. One detail runs slightly high: CNN says the group spent more than $850,000 opposing Sen. Roger Marshall, while the FEC data show about $848,000.",
+    "what_would_change": "Amended FEC filings that cut the group's reported spending below $8.5 million or change the number of races, or a later report showing a different registration date, would change this verdict.",
+    "outlet": "CNN, \"Millions in secret money fueled a last-minute campaign to turn conservatives against Republican candidates,\" Nov. 13, 2026",
+    "outlet_url": "https://edition.cnn.com/2026/11/13/politics/kfile-pop-up-superpac-spent-big-on-libertarians",
+    "script": "CNN says a super PAC called Our Heritage Matters registered less than three weeks before Election Day and reported spending more than eight and a half million dollars across thirty-five House and Senate races, often promoting Libertarians over Republicans. Federal Election Commission records back that: first filing October 15, about eight point five million dollars in independent expenditures, thirty-five races. Verdict: matches the record.",
+    "read": "FEC records list Our Heritage Matters as an independent-expenditure-only super PAC first filed Oct. 15, 2026, with Mike McCauley as treasurer. Its reported independent expenditures, after removing amended duplicates, total about $8.52 million across 35 House and Senate races, with about $7.1 million paid to Chase Grove LLC and $1.4 million to Good Way Associates, as CNN reported. One detail runs slightly high: CNN says the group spent more than $850,000 opposing Sen. Roger Marshall, while the FEC data show about $848,000.",
+    "sources": [
+      {
+        "title": "FEC committee page, Our Heritage Matters (C00963736)",
+        "url": "https://www.fec.gov/data/committee/C00963736/"
+      },
+      {
+        "title": "FEC independent expenditures bulk file, 2026 cycle",
+        "url": "https://www.fec.gov/files/bulk-downloads/2026/independent_expenditure_2026.csv"
+      },
+      {
+        "title": "CNN, Nov. 13, 2026",
+        "url": "https://edition.cnn.com/2026/11/13/politics/kfile-pop-up-superpac-spent-big-on-libertarians"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261112-late",
     "slot": "Late Check",
     "aired_at": "2026-11-12T23:00:00-06:00",
