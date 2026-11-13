@@ -410,6 +410,50 @@
     "corrections": []
   },
   {
+    "id": "20261112-reframe-fox-florida-sb-1134-anti-dei-law",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-13T07:53:36-06:00",
+    "label": "ReFrame",
+    "claim": "Fox News says Florida's SB 1134 anti-DEI law, cited by Delray Beach, takes effect Jan. 1, 2027; the record backs that",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event",
+    "source_url": "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event",
+    "record_url": "https://www.flsenate.gov/Session/Bill/2026/1134/BillText/er/PDF",
+    "record_title": "The Florida Senate, CS/CS/SB 1134 (2026), enrolled text, and bill history (Chapter 2026-43)",
+    "read": "Fox News reports that Delray Beach is dropping its 2027 St. Patrick's Day parade and Pride event, citing Florida's SB 1134, which Fox says was signed in April and takes effect Jan. 1, 2027, with exceptions for federal holidays. The Florida Senate's record shows the bill passed the Senate 25-11 and the House 77-37, was approved by the governor on April 22, 2026, became Chapter 2026-43, takes effect Jan. 1, 2027 and exempts federal holidays. The bill never names St. Patrick's Day or Pride events, so the city's conclusion that they are covered is its own legal reading. Graded B on 2 arguments (Fox News A-, The City of Delray Beach C+). Scorecard: 50% valid, 50% cogent, 75% supported, 100% fallacy-free.",
+    "grade": "B",
+    "scores": {
+      "valid": 50,
+      "cogent": 50,
+      "supported": 75,
+      "fallacy_free": 100
+    },
+    "why": "The dates, votes and federal-holiday exemptions check out; the city's reading that the parade is covered is its own legal call. Key question: If the bill never names St. Patrick's Day or Pride events, what in its text places those events under the restriction?",
+    "sources": [
+      {
+        "title": "Fox News, Landon Mion, “Florida city says new GOP-backed DEI law blocks St Patrick's parade, Pride event,” Nov. 12, 2026",
+        "url": "https://www.foxnews.com/politics/florida-city-gop-backed-dei-law-blocks-st-patricks-parade-pride-event"
+      },
+      {
+        "title": "The Florida Senate, CS/CS/SB 1134 (2026), enrolled text, and bill history (Chapter 2026-43)",
+        "url": "https://www.flsenate.gov/Session/Bill/2026/1134/BillText/er/PDF"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261112-midday-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261112-midday-fox.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261112-midday-fox.mp4",
+    "popart_story": "20261112-midday-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News says Florida's SB 1134 anti-DEI law, cited by Delray Beach, takes effect Jan. 1, 2027; the record backs that.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261112-midday-cnn",
     "slot": "Midday Check",
     "aired_at": "2026-11-12T11:30:00-06:00",
