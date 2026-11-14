@@ -1,5 +1,92 @@
 [
   {
+    "id": "20261114-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-14T17:30:00-06:00",
+    "headline": "Peter Schiff says October's $404.1 billion deficit was the largest October on record and up 42.1%; the Treasury's statement backs the figures, though his post also calls it the second-largest",
+    "video_url": "",
+    "claim": "\"The October federal budget deficit was $404.1 billion, the largest Oct. deficit on record, up 42.1% from Oct. 2025, now the second-largest Oct. deficit on record.\" — Peter Schiff (@PeterSchiff), X post, Nov. 14, 2026, about 54,000 views",
+    "source_url": "https://x.com/PeterSchiff/status/2121623066652692527",
+    "record_url": "https://fiscaldata.treasury.gov/static-data/published-reports/mts/MonthlyTreasuryStatement_202610.pdf",
+    "record_title": "U.S. Treasury, Bureau of the Fiscal Service, \"Monthly Treasury Statement: Receipts and Outlays of the United States Government for Fiscal Year 2027 Through October 31, 2026\"",
+    "verdict": "Matches record",
+    "why": "Treasury's Monthly Treasury Statement shows an October 2026 deficit of $404.064 billion, against $284.333 billion in October 2025, a 42.1% increase; the statement does not rank Octobers itself, but no earlier October in Treasury's online monthly data is larger. The post's last line also calls it \"the second-largest Oct. deficit on record,\" which contradicts its own first line and is not supported by the statement. Treasury notes that some benefit and military payments due Nov. 1 were moved into October because that date fell on a non-business day, which inflates the month.",
+    "what_would_change": "A revised October figure in the November Monthly Treasury Statement, or a Treasury historical table showing an earlier October deficit above $404 billion, would change this verdict.",
+    "outlet": "Peter Schiff on X, Nov. 14, 2026",
+    "outlet_url": "https://x.com/PeterSchiff/status/2121623066652692527",
+    "script": "Peter Schiff says October's federal deficit was 404.1 billion dollars, the largest October on record and up 42 percent from a year ago. The Treasury's monthly statement shows exactly that, though his own post also calls it the second-largest, which the record doesn't support. Verdict: matches the record.",
+    "read": "Treasury's Monthly Treasury Statement shows an October 2026 deficit of $404.064 billion, against $284.333 billion in October 2025, a 42.1% increase; the statement does not rank Octobers itself, but no earlier October in Treasury's online monthly data is larger. The post's last line also calls it \"the second-largest Oct. deficit on record,\" which contradicts its own first line and is not supported by the statement. Treasury notes that some benefit and military payments due Nov. 1 were moved into October because that date fell on a non-business day, which inflates the month.",
+    "sources": [
+      {
+        "title": "Treasury, Monthly Treasury Statement, October 2026",
+        "url": "https://fiscaldata.treasury.gov/static-data/published-reports/mts/MonthlyTreasuryStatement_202610.pdf"
+      },
+      {
+        "title": "Peter Schiff on X, Nov. 14, 2026",
+        "url": "https://x.com/PeterSchiff/status/2121623066652692527"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261114-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-14T17:30:00-06:00",
+    "headline": "Fox News says Los Angeles homelessness rose 3.4% in the city and 1.2% countywide, 'undoing' two years of declines; LAHSA's 2026 count gives those figures but says neither change is statistically significant",
+    "video_url": "",
+    "claim": "\"According to the Los Angeles Homeless Services Authority's 2026 annual count, homelessness rose 3.4% in LA and 1.2% across the broader LA area, undoing two consecutive years of declines under Bass.\" — Fox News, \"Socialist LA mayor's bold homelessness promise ahead of 2028 Olympics hit with reality check: 'Not optimistic',\" Nov. 14, 2026",
+    "source_url": "https://www.foxnews.com/politics/socialist-la-mayor-bold-homelessness-promise-ahead-2028-olympics-hit-reality-check-not-optimistic",
+    "record_url": "https://www.lahsa.org/news?article=1079-2026-homeless-count-reveals-bottleneck-stymied-progress",
+    "record_title": "Los Angeles Homeless Services Authority, \"2026 Homeless Count Reveals Bottleneck Stymied Progress\" (2026 Greater Los Angeles Homeless Count results)",
+    "verdict": "Missing context",
+    "why": "LAHSA's release confirms a 3.4% rise to 45,194 people in the City of Los Angeles and a 1.2% rise to 73,040 in Los Angeles County after two years of declines. But LAHSA states that \"neither change is considered statistically significant,\" which Fox omits, and it describes progress as having \"stalled\" rather than reversed; a 3.4% uptick does not by itself erase two years of drops. LAHSA attributes the rise mainly to a funding-forced pause in Time Limited Subsidies, a detail that bears on the article's framing of the outgoing mayor's record.",
+    "what_would_change": "LAHSA data showing the 2026 city total above its 2023 level, or a statement that the increase is statistically significant, would move this toward Matches record.",
+    "outlet": "Fox News, Nov. 14, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/socialist-la-mayor-bold-homelessness-promise-ahead-2028-olympics-hit-reality-check-not-optimistic",
+    "script": "Fox News says homelessness rose 3.4 percent in Los Angeles and 1.2 percent countywide, undoing two years of declines. The homeless services authority's 2026 count gives those numbers, but says neither change is statistically significant, and calls progress stalled, not reversed. Verdict: missing context.",
+    "read": "LAHSA's release confirms a 3.4% rise to 45,194 people in the City of Los Angeles and a 1.2% rise to 73,040 in Los Angeles County after two years of declines. But LAHSA states that \"neither change is considered statistically significant,\" which Fox omits, and it describes progress as having \"stalled\" rather than reversed; a 3.4% uptick does not by itself erase two years of drops. LAHSA attributes the rise mainly to a funding-forced pause in Time Limited Subsidies, a detail that bears on the article's framing of the outgoing mayor's record.",
+    "sources": [
+      {
+        "title": "LAHSA, 2026 Greater Los Angeles Homeless Count results",
+        "url": "https://www.lahsa.org/news?article=1079-2026-homeless-count-reveals-bottleneck-stymied-progress"
+      },
+      {
+        "title": "Fox News, Nov. 14, 2026",
+        "url": "https://www.foxnews.com/politics/socialist-la-mayor-bold-homelessness-promise-ahead-2028-olympics-hit-reality-check-not-optimistic"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261114-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-14T17:30:00-06:00",
+    "headline": "CNN says the Supreme Court's Trump v. Slaughter reversed a 1935 decision and let the president fire independent agency heads; the June 29 opinion overruled 1935's Humphrey's Executor in a case about FTC commissioners",
+    "video_url": "",
+    "claim": "\"One of the most popular celebrated Trump v. Slaughter, which reversed a 1935 decision and bolstered executive power by letting the president fire the heads of independent agencies.\" — CNN (Joan Biskupic), \"After blue wave, Federalist Society is ready to move on from Trump,\" Nov. 14, 2026",
+    "source_url": "https://www.cnn.com/2026/11/14/politics/federalist-society-trump-2028",
+    "record_url": "https://www.supremecourt.gov/opinions/25pdf/25-332_new_geil.pdf",
+    "record_title": "Supreme Court of the United States, Trump v. Slaughter, No. 25-332, opinion decided June 29, 2026",
+    "verdict": "Matches record",
+    "why": "The opinion in Trump v. Slaughter, decided June 29, 2026, holds that the FTC's for-cause removal protection violates the separation of powers and overrules Humphrey's Executor v. United States, 295 U.S. 602, the 1935 decision that had shielded FTC commissioners. The case itself concerned FTC commissioners, but the Court reasoned that removal limits cannot extend to any agency exercising executive power, which supports CNN's broader \"independent agencies\" summary.",
+    "what_would_change": "A later Supreme Court ruling preserving removal protections for a specific independent agency, or a reading of the opinion that confines it to the FTC alone, would move this to Missing context.",
+    "outlet": "CNN, Nov. 14, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/14/politics/federalist-society-trump-2028",
+    "script": "CNN says the Supreme Court's Trump versus Slaughter decision reversed a 1935 ruling and let the president fire the heads of independent agencies. The June opinion overruled Humphrey's Executor from 1935, in a case about FTC commissioners, and says removal limits can't cover agencies wielding executive power. Verdict: matches the record.",
+    "read": "The opinion in Trump v. Slaughter, decided June 29, 2026, holds that the FTC's for-cause removal protection violates the separation of powers and overrules Humphrey's Executor v. United States, 295 U.S. 602, the 1935 decision that had shielded FTC commissioners. The case itself concerned FTC commissioners, but the Court reasoned that removal limits cannot extend to any agency exercising executive power, which supports CNN's broader \"independent agencies\" summary.",
+    "sources": [
+      {
+        "title": "Supreme Court, Trump v. Slaughter, No. 25-332 (June 29, 2026)",
+        "url": "https://www.supremecourt.gov/opinions/25pdf/25-332_new_geil.pdf"
+      },
+      {
+        "title": "CNN, Nov. 14, 2026",
+        "url": "https://www.cnn.com/2026/11/14/politics/federalist-society-trump-2028"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261114-reframe-reuters-faa-ground-stop-congress",
     "slot": "ReFrame",
     "lead": true,
