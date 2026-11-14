@@ -1,5 +1,100 @@
 [
   {
+    "id": "20261114-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-14T11:30:00-06:00",
+    "headline": "Dr. Jonathan Reiner says a second Wisconsin child has died of measles and the U.S. toll is 10 this year; Wisconsin confirms the second child's death, but CDC's official 2026 count stands at six",
+    "video_url": "",
+    "claim": "\"A 2nd child has died from measles in Wisconsin. There have now been 10 deaths this year in the US. No child should die from measles. We have a safe vaccine that is 97% effective in preventing this illness.\" — Dr. Jonathan Reiner (@JReinerMD), X post, Nov. 13, 2026, about 24,500 views, 700 likes and 300 reposts",
+    "source_url": "https://x.com/JReinerMD/status/2121378528180527264",
+    "record_url": "https://www.cdc.gov/measles/data-research/index.html",
+    "record_title": "CDC, \"Measles Cases and Outbreaks,\" updated Nov. 13, 2026, checked against Wisconsin DHS news releases of Nov. 5 and Nov. 13, 2026",
+    "verdict": "Missing context",
+    "why": "Wisconsin DHS reported an infant's measles death on Nov. 5 and a second pediatric measles-associated death on Nov. 13, so \"a 2nd child\" matches the state record, and CDC says two MMR doses are 97% effective. But CDC's national page, updated Nov. 13 with data through Nov. 12, lists six confirmed 2026 measles deaths and says that figure is subject to change while reviews are completed. The figure of 10 appears to come from adding up state and local announcements that CDC has not yet counted; this check did not confirm each of those reports.",
+    "what_would_change": "A CDC update raising its 2026 confirmed death count to 10 or more, or state health department records documenting 10 separate measles-associated deaths this year, would move this to Matches record; state reviews reclassifying any of the reported deaths would move it toward Contradicted.",
+    "outlet": "Dr. Jonathan Reiner (@JReinerMD) on X, Nov. 13, 2026",
+    "outlet_url": "https://x.com/JReinerMD/status/2121378528180527264",
+    "script": "Midday Check. Cardiologist Jonathan Reiner says a second Wisconsin child has died of measles, and that the U.S. has now seen 10 measles deaths this year. Wisconsin's health department confirms both children's deaths. But the CDC's official count, updated Thursday, is six deaths in 2026, and it says that number is still under review. The higher figure adds up state reports the CDC hasn't counted yet. Verdict: missing context.",
+    "read": "Wisconsin DHS reported an infant's measles death on Nov. 5 and a second pediatric measles-associated death on Nov. 13, so \"a 2nd child\" matches the state record, and CDC says two MMR doses are 97% effective. But CDC's national page, updated Nov. 13 with data through Nov. 12, lists six confirmed 2026 measles deaths and says that figure is subject to change while reviews are completed. The figure of 10 appears to come from adding up state and local announcements that CDC has not yet counted; this check did not confirm each of those reports.",
+    "sources": [
+      {
+        "title": "CDC, Measles Cases and Outbreaks, updated Nov. 13, 2026",
+        "url": "https://www.cdc.gov/measles/data-research/index.html"
+      },
+      {
+        "title": "Wisconsin DHS, \"Wisconsin DHS Reports Second Death Connected to the Ongoing Measles Outbreak,\" Nov. 13, 2026",
+        "url": "https://www.dhs.wisconsin.gov/news/releases/111326.htm"
+      },
+      {
+        "title": "Wisconsin DHS, \"DHS Reports a Death Connected to the Ongoing Measles Outbreak,\" Nov. 5, 2026",
+        "url": "https://www.dhs.wisconsin.gov/news/releases/110526.htm"
+      },
+      {
+        "title": "@JReinerMD on X, Nov. 13, 2026",
+        "url": "https://x.com/JReinerMD/status/2121378528180527264"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261114-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-14T11:30:00-06:00",
+    "headline": "Fox News says the House voted 211-204 to sideline Rep. Thomas Massie's Hegseth impeachment articles while 11 Democrats missed the vote; the House Clerk's roll call matches",
+    "video_url": "",
+    "claim": "\"The House voted 211-204 this week to divert an effort by Rep. Thomas Massie (R-Ky.) to impeach Hegseth. ... Seven of their Members were missing. ... That was it. The Hegseth impeachment quest was dead. Eleven Democrats missed the roll call.\" — Fox News, \"Pete Hegseth impeachment effort dies in the House as absent Democrats couldn't beat the traffic,\" Nov. 13, 2026",
+    "source_url": "https://www.foxnews.com/politics/pete-hegseth-impeachment-effort-dies-house-absent-democrats-couldnt-beat-traffic",
+    "record_url": "https://clerk.house.gov/Votes/2026317",
+    "record_title": "Office of the Clerk, U.S. House of Representatives, Roll Call 317 on H. Res. 1655, \"On Motion to Refer,\" Nov. 10, 2026",
+    "verdict": "Matches record",
+    "why": "The Clerk's Roll Call 317, on the motion to refer H. Res. 1655 (articles impeaching Hegseth), passed 211-204 with 18 members not voting on Nov. 10. The party breakdown shows 11 Democrats and 7 Republicans not voting, all 203 Democrats who voted opposing the referral, and Massie as the lone Republican no. The roll call records who missed the vote, not why, so the traffic explanations in the story come from the lawmakers themselves.",
+    "what_would_change": "A corrected Clerk roll call with a different tally or party breakdown, or a later House vote reviving the articles, would change this verdict.",
+    "outlet": "Fox News, Nov. 13, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/pete-hegseth-impeachment-effort-dies-house-absent-democrats-couldnt-beat-traffic",
+    "script": "Fox News says the House voted 211 to 204 to send Thomas Massie's impeachment articles against Pete Hegseth to committee, with seven Republicans and eleven Democrats missing. The House Clerk's roll call 317 shows exactly that: 211 to 204, 18 not voting, eleven of them Democrats, and Massie the only Republican voting no. Verdict: matches the record.",
+    "read": "The Clerk's Roll Call 317, on the motion to refer H. Res. 1655 (articles impeaching Hegseth), passed 211-204 with 18 members not voting on Nov. 10. The party breakdown shows 11 Democrats and 7 Republicans not voting, all 203 Democrats who voted opposing the referral, and Massie as the lone Republican no. The roll call records who missed the vote, not why, so the traffic explanations in the story come from the lawmakers themselves.",
+    "sources": [
+      {
+        "title": "House Clerk, Roll Call 317, H. Res. 1655, Nov. 10, 2026",
+        "url": "https://clerk.house.gov/Votes/2026317"
+      },
+      {
+        "title": "Fox News, Nov. 13, 2026",
+        "url": "https://www.foxnews.com/politics/pete-hegseth-impeachment-effort-dies-house-absent-democrats-couldnt-beat-traffic"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261114-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-14T11:30:00-06:00",
+    "headline": "CNN says wholesale prices rose 0.3% in October and 6.5% over 12 months, the highest annual rate since November 2022; the BLS release matches",
+    "video_url": "",
+    "claim": "\"The Producer Price Index, a measurement of average price changes received by producers and manufacturers, rose 0.3% from the month before and 6.5% for the 12 months ended in October, the highest annual rate since November 2022.\" — CNN, \"Wholesale inflation rose in October to highest annual rate in nearly four years,\" Nov. 13, 2026",
+    "source_url": "https://www.cnn.com/2026/11/13/economy/us-wholesale-inflation-ppi-october",
+    "record_url": "https://www.bls.gov/news.release/ppi.nr0.htm",
+    "record_title": "U.S. Bureau of Labor Statistics, \"Producer Price Indexes - October 2026,\" USDL 26-1687, Nov. 13, 2026",
+    "verdict": "Matches record",
+    "why": "BLS reports the PPI for final demand rose 0.3% in October, seasonally adjusted, and 6.5% unadjusted over 12 months, \"the largest 12-month rise since moving up 7.4 percent in November 2022.\" The release also confirms CNN's 1.3% October jump in final demand foods. CNN's separate \"core\" figures (0.3% and 5%) do not match the BLS headline core measure, which excludes foods, energy and trade (0.5% and 4.9%), so those were not counted toward this verdict.",
+    "what_would_change": "A BLS revision to October's final demand figures in the November release, due Dec. 15, 2026, would change this verdict.",
+    "outlet": "CNN, Nov. 13, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/13/economy/us-wholesale-inflation-ppi-october",
+    "script": "CNN says wholesale prices rose 0.3 percent in October and 6.5 percent over the past year, the highest annual rate since November 2022. The Bureau of Labor Statistics release says exactly that, and confirms the 1.3 percent jump in wholesale food prices. Verdict: matches the record.",
+    "read": "BLS reports the PPI for final demand rose 0.3% in October, seasonally adjusted, and 6.5% unadjusted over 12 months, \"the largest 12-month rise since moving up 7.4 percent in November 2022.\" The release also confirms CNN's 1.3% October jump in final demand foods. CNN's separate \"core\" figures (0.3% and 5%) do not match the BLS headline core measure, which excludes foods, energy and trade (0.5% and 4.9%), so those were not counted toward this verdict.",
+    "sources": [
+      {
+        "title": "BLS, Producer Price Indexes - October 2026",
+        "url": "https://www.bls.gov/news.release/ppi.nr0.htm"
+      },
+      {
+        "title": "CNN, Nov. 13, 2026",
+        "url": "https://www.cnn.com/2026/11/13/economy/us-wholesale-inflation-ppi-october"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261114-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-14T06:30:00-06:00",
