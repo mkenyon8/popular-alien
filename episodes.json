@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261113-reframe-nbc-trump-no-iran-deal",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-13T17:55:00-06:00",
+    "label": "Story of the Day",
+    "claim": "Trump says the U.S. doesn't 'need' a deal with Iran",
+    "outlet": "NBC News",
+    "outlet_url": "https://www.nbcnews.com/politics/donald-trump/us-doesnt-need-peace-deal-iran-vance-corruption-trump-rcna609027",
+    "source_url": "https://www.nbcnews.com/politics/donald-trump/us-doesnt-need-peace-deal-iran-vance-corruption-trump-rcna609027",
+    "record_url": "https://www.nbcnews.com/politics/donald-trump/us-doesnt-need-peace-deal-iran-vance-corruption-trump-rcna609027",
+    "record_title": "NBC News, “Trump says the U.S. doesn't 'need' a deal with Iran,” Nov. 12, 2026",
+    "read": "NBC News reports that President Trump's Nov. 12 Truth Social post said the U.S. does not need a deal with Iran and redirected Vice President Vance to fraud in Democrat-run states, and its account matches the post and the president's earlier statements. The weak arguments are the president's: leverage is not a reason no deal is needed, and recovering billions a month cannot balance a budget that ran about $1.99 trillion short in fiscal 2026. Graded C- across 3 arguments (Trump on Iran D; Trump on fraud and the budget D-; NBC News B+). Scorecard: 33% valid, 33% cogent, 33% supported, 40% fallacy-free.",
+    "grade": "C-",
+    "scores": {
+      "valid": 33,
+      "cogent": 33,
+      "supported": 33,
+      "fallacy_free": 40
+    },
+    "why": "NBC reports the post accurately. The weakest argument is the budget math: billions a month cannot balance a budget that ran about $2 trillion short last year. Key question: If billions a month are stolen, how does recovering it balance a budget that ran about $2 trillion short last year?",
+    "sources": [
+      {
+        "title": "NBC News, “Trump says the U.S. doesn't 'need' a deal with Iran,” Nov. 12, 2026",
+        "url": "https://www.nbcnews.com/politics/donald-trump/us-doesnt-need-peace-deal-iran-vance-corruption-trump-rcna609027"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261113-trump-no-iran-deal.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261113-trump-no-iran-deal.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... NBC News reports: Trump says the U.S. doesn't 'need' a deal with Iran.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261113-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-13T17:30:00-06:00",
