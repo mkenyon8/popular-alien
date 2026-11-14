@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261113-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-13T23:00:00-06:00",
+    "headline": "Gov. Gavin Newsom calls the Electoral College 'MAGA math: Finish second and become president' in a post seen 515,000 times; FEC records show Trump did that in 2016 but won the popular vote outright in 2024",
+    "video_url": "",
+    "claim": "\"MAGA math: Finish second and become president. The Electoral College doesn't make counting votes any faster — it just means millions don't count.\" — Gov. Gavin Newsom (@GavinNewsom), X post, Nov. 12, 2026, about 515,000 views and 8,100 likes",
+    "source_url": "https://x.com/GavinNewsom/status/2121084309444641095",
+    "record_url": "https://www.fec.gov/resources/cms-content/documents/federalelections2016.pdf",
+    "record_title": "Federal Election Commission, \"Federal Elections 2016,\" official presidential popular and electoral vote tables, checked against the FEC's official 2024 presidential general election results",
+    "verdict": "Missing context",
+    "why": "The FEC's official 2016 tables show Hillary Clinton won 65,853,514 popular votes (48.18%) to Donald Trump's 62,984,828 (46.09%), while Trump won the Electoral College 304 to 227, so a second-place finisher did become president. But the FEC's 2024 results show Trump finished first in both, with 77,302,580 votes to Kamala Harris's 75,017,613 and 312 electoral votes to 226, so the line does not describe his current term. Whether the Electoral College means \"millions don't count\" is an opinion the record can't settle.",
+    "what_would_change": "Official results showing Trump lost the 2024 national popular vote would move this to Matches record; results showing Clinton did not win the 2016 popular vote would move it toward Contradicted.",
+    "outlet": "Gov. Gavin Newsom (@GavinNewsom) on X, Nov. 12, 2026",
+    "outlet_url": "https://x.com/GavinNewsom/status/2121084309444641095",
+    "script": "Late Check. California Gov. Gavin Newsom calls the Electoral College MAGA math: finish second and become president. The Federal Election Commission's official records show that happened in 2016, when Hillary Clinton won the popular vote by about 2.9 million and Donald Trump won the presidency 304 to 227. But in 2024, the FEC shows Trump won both the popular vote and the Electoral College. Verdict: missing context.",
+    "read": "The FEC's official 2016 tables show Hillary Clinton won 65,853,514 popular votes (48.18%) to Donald Trump's 62,984,828 (46.09%), while Trump won the Electoral College 304 to 227, so a second-place finisher did become president. But the FEC's 2024 results show Trump finished first in both, with 77,302,580 votes to Kamala Harris's 75,017,613 and 312 electoral votes to 226, so the line does not describe his current term. Whether the Electoral College means \"millions don't count\" is an opinion the record can't settle.",
+    "sources": [
+      {
+        "title": "FEC, Federal Elections 2016 (official results)",
+        "url": "https://www.fec.gov/resources/cms-content/documents/federalelections2016.pdf"
+      },
+      {
+        "title": "FEC, Official 2024 Presidential General Election Results",
+        "url": "https://www.fec.gov/resources/cms-content/documents/2024presgeresults.pdf"
+      },
+      {
+        "title": "@GavinNewsom on X, Nov. 12, 2026",
+        "url": "https://x.com/GavinNewsom/status/2121084309444641095"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261113-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-13T23:00:00-06:00",
+    "headline": "Fox News says the intelligence director's office reports 63% of articles in the President's Daily Brief contained Section 702 information from NSA in 2025; ODNI's own Section 702 booklet gives that figure",
+    "video_url": "",
+    "claim": "\"The Office of the Director of National Intelligence (ODNI) ... says that 63% of the articles in Trump's daily brief contained FISA Section 702 information reported by the National Security Agency in 2025.\" — Fox News, \"Trump officials push lame-duck Congress on FISA renewal before Dem takeover,\" Nov. 13, 2026",
+    "source_url": "https://www.foxnews.com/politics/trumps-spy-chiefs-put-republican-leaders-clock-huge-priority-power-shift-looms-congress",
+    "record_url": "https://www.intelligence.gov/assets/documents/702-documents/702_Booklet-FINAL.pdf",
+    "record_title": "Office of the Director of National Intelligence, \"Section 702\" booklet (intelligence.gov), 2025 value statistics, checked against Senate Majority Leader John Thune's floor statement citing the same figures",
+    "verdict": "Matches record",
+    "why": "ODNI's Section 702 booklet states that 63% \"of articles in the President's Daily Brief contained 702 information reported by NSA in 2025,\" alongside 24% of NSA intelligence reports and 62% of CIA World Intelligence Review products. Sen. John Thune's floor statement repeats the same 63% figure. This checks only that ODNI says it; the agencies' underlying classified counts can't be independently verified, and the President's Daily Brief served Joe Biden for the first 19 days of 2025.",
+    "what_would_change": "A revised ODNI or PCLOB publication giving a different 2025 share would move this toward Contradicted; declassified data showing how the 63% was counted could add context.",
+    "outlet": "Fox News, Nov. 13, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/trumps-spy-chiefs-put-republican-leaders-clock-huge-priority-power-shift-looms-congress",
+    "script": "Fox News, reporting on Trump's intelligence chiefs urging Congress to renew FISA Section 702, says the intelligence director's office reports 63 percent of articles in the President's Daily Brief contained 702 information from the NSA in 2025. ODNI's own Section 702 booklet gives exactly that figure, and Senate Majority Leader John Thune cited it on the floor. Verdict: matches the record, as far as ODNI's own numbers go.",
+    "read": "ODNI's Section 702 booklet states that 63% \"of articles in the President's Daily Brief contained 702 information reported by NSA in 2025,\" alongside 24% of NSA intelligence reports and 62% of CIA World Intelligence Review products. Sen. John Thune's floor statement repeats the same 63% figure. This checks only that ODNI says it; the agencies' underlying classified counts can't be independently verified, and the President's Daily Brief served Joe Biden for the first 19 days of 2025.",
+    "sources": [
+      {
+        "title": "ODNI, Section 702 booklet (intelligence.gov)",
+        "url": "https://www.intelligence.gov/assets/documents/702-documents/702_Booklet-FINAL.pdf"
+      },
+      {
+        "title": "Sen. John Thune floor statement on FISA Section 702",
+        "url": "https://www.thune.senate.gov/news/press-releases/thune-democrats-must-not-expose-americans-to-the-consequences-of-letting-fisa-section-702-lapse/"
+      },
+      {
+        "title": "Fox News, Nov. 13, 2026",
+        "url": "https://www.foxnews.com/politics/trumps-spy-chiefs-put-republican-leaders-clock-huge-priority-power-shift-looms-congress"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261113-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-13T23:00:00-06:00",
+    "headline": "CNN says the last nuclear arms treaty between the U.S. and Russia expired in February; the State Department says New START's central limits expired Feb. 5, 2026, after its one-time extension",
+    "video_url": "",
+    "claim": "\"The last nuclear arms treaty between the US and Russia expired in February.\" — CNN, \"Trump to meet with China’s Xi and Russia’s Putin at historic trilateral sit-down on nuclear non-proliferation,\" Nov. 13, 2026",
+    "source_url": "https://edition.cnn.com/2026/11/13/politics/trump-putin-xi-meeting",
+    "record_url": "https://geneva.usmission.gov/2026/02/06/u-s-statement-at-the-conference-on-disarmament/",
+    "record_title": "U.S. Statement at the Conference on Disarmament by Under Secretary of State Thomas DiNanno, Feb. 6, 2026 (U.S. Mission Geneva), checked against the State Department's New START Treaty page",
+    "verdict": "Matches record",
+    "why": "Under Secretary of State Thomas DiNanno told the Conference on Disarmament on Feb. 6, 2026, that \"as of yesterday, February 5th, New START and its central limits have expired,\" and that its one-time five-year extension could not legally be renewed. The State Department's New START page confirms the treaty entered into force Feb. 5, 2011, and was extended only through February 2026. UN Secretary-General António Guterres said the expiry left no binding limits on either country's strategic arsenals, which backs CNN calling it the last such treaty.",
+    "what_would_change": "A U.S.-Russia agreement or document showing New START was extended or replaced, or another binding U.S.-Russia nuclear arms treaty still in force, would move this toward Contradicted.",
+    "outlet": "CNN, Nov. 13, 2026",
+    "outlet_url": "https://edition.cnn.com/2026/11/13/politics/trump-putin-xi-meeting",
+    "script": "CNN, reporting that Trump will meet Xi Jinping and Vladimir Putin together next week, says the last nuclear arms treaty between the U.S. and Russia expired in February. The State Department's own statement in Geneva says New START and its limits expired February 5, 2026, after its one-time extension ran out. Verdict: matches the record.",
+    "read": "Under Secretary of State Thomas DiNanno told the Conference on Disarmament on Feb. 6, 2026, that \"as of yesterday, February 5th, New START and its central limits have expired,\" and that its one-time five-year extension could not legally be renewed. The State Department's New START page confirms the treaty entered into force Feb. 5, 2011, and was extended only through February 2026. UN Secretary-General António Guterres said the expiry left no binding limits on either country's strategic arsenals, which backs CNN calling it the last such treaty.",
+    "sources": [
+      {
+        "title": "U.S. Mission Geneva, U.S. Statement at the Conference on Disarmament, Feb. 6, 2026",
+        "url": "https://geneva.usmission.gov/2026/02/06/u-s-statement-at-the-conference-on-disarmament/"
+      },
+      {
+        "title": "U.S. State Department, New START Treaty",
+        "url": "https://www.state.gov/new-start-treaty"
+      },
+      {
+        "title": "UN Secretary-General statement on New START expiration, Feb. 5, 2026",
+        "url": "https://press.un.org/en/2026/sgsm23007.doc.htm"
+      },
+      {
+        "title": "CNN, Nov. 13, 2026",
+        "url": "https://edition.cnn.com/2026/11/13/politics/trump-putin-xi-meeting"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261113-reframe-nbc-trump-no-iran-deal",
     "slot": "ReFrame",
     "lead": true,
