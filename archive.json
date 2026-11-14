@@ -1,5 +1,100 @@
 [
   {
+    "id": "20261114-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-14T06:30:00-06:00",
+    "headline": "A post seen 669,000 times blames Democrats' midterm win for Friday's nationwide flight shutdown; the Constitution doesn't seat the new majorities until Jan. 3, and the FAA cited a communications failure",
+    "video_url": "",
+    "claim": "\"Democrats win the midterms and... - Ships start sinking - All flights get shut down - Microsoft has a blackout. Everything they touch gets destroyed, man.\" — @jackunheard (Jack), X post, Nov. 13, 2026, about 669,000 views and 4,500 likes",
+    "source_url": "https://x.com/jackunheard/status/2121359164870132010",
+    "record_url": "https://constitution.congress.gov/constitution/amendment-20/",
+    "record_title": "U.S. Constitution, 20th Amendment, Section 1 (Constitution Annotated, Congress.gov), checked against the FAA's Nov. 13, 2026 statement on the nationwide ground stop",
+    "verdict": "Missing context",
+    "why": "The 20th Amendment says House and Senate terms end at noon on Jan. 3, so the Democratic majorities elected Nov. 3 are not seated until Jan. 3, 2027, and the FAA, which issued Friday's nationwide ground stop, answers to the Trump administration's Transportation Department. The FAA blamed communication issues at multiple air route traffic control centers, and DHS Secretary Markwayne Mullin said there was zero evidence of a cyberattack. The timing in the post is real, but nothing in the record ties the outage to Democrats, who hold no new power yet; the ship and Microsoft items were not checked.",
+    "what_would_change": "An FAA, DOT or DHS finding that a decision by incoming Democratic lawmakers caused the outage would move this toward Matches record; the FAA's final cause report could add detail but would not change who holds power before Jan. 3.",
+    "outlet": "@jackunheard on X, Nov. 13, 2026",
+    "outlet_url": "https://x.com/jackunheard/status/2121359164870132010",
+    "script": "Morning Check. A post seen about 669,000 times says Democrats won the midterms and then all flights got shut down, adding that everything they touch gets destroyed. The flight shutdown was real: the FAA grounded every U.S. airport Friday after communication problems at air traffic control centers. But the Constitution's 20th Amendment doesn't seat the new Congress until January 3, and the FAA answers to the Trump administration. Verdict: missing context.",
+    "read": "The 20th Amendment says House and Senate terms end at noon on Jan. 3, so the Democratic majorities elected Nov. 3 are not seated until Jan. 3, 2027, and the FAA, which issued Friday's nationwide ground stop, answers to the Trump administration's Transportation Department. The FAA blamed communication issues at multiple air route traffic control centers, and DHS Secretary Markwayne Mullin said there was zero evidence of a cyberattack. The timing in the post is real, but nothing in the record ties the outage to Democrats, who hold no new power yet; the ship and Microsoft items were not checked.",
+    "sources": [
+      {
+        "title": "U.S. Constitution, 20th Amendment (Congress.gov)",
+        "url": "https://constitution.congress.gov/constitution/amendment-20/"
+      },
+      {
+        "title": "FAA Statement on Nationwide Ground Stop, Nov. 13, 2026",
+        "url": "https://www.faa.gov/newsroom/faa-statement-nationwide-ground-stop"
+      },
+      {
+        "title": "DHS: Secretary Mullin and Secretary Duffy address nationwide FAA ground stop",
+        "url": "https://www.dhs.gov/news/2026/11/13/icymi-secretary-mullin-and-secretary-duffy-address-nationwide-faa-ground-stop-all"
+      },
+      {
+        "title": "@jackunheard on X, Nov. 13, 2026",
+        "url": "https://x.com/jackunheard/status/2121359164870132010"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261114-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-14T06:30:00-06:00",
+    "headline": "Fox News says Seattle's minimum wage is $21.30 an hour and will rise to $22.14 in January; the city's Office of Labor Standards lists exactly those 2026 and 2027 rates",
+    "video_url": "",
+    "claim": "\"Seattle, where the minimum wage is currently $21.30 an hour and will rise to $22.14 in January, offers one example of the economic questions surrounding such policies.\" — Fox News Digital, Nov. 14, 2026",
+    "source_url": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
+    "record_url": "https://www.seattle.gov/laborstandards/ordinances/minimum-wage",
+    "record_title": "City of Seattle Office of Labor Standards, Minimum Wage Ordinance page, 2026 and 2027 minimum wage rates",
+    "verdict": "Matches record",
+    "why": "Seattle's Office of Labor Standards lists the city's 2026 minimum wage as $21.30 an hour and its 2027 rate as $22.14, matching both figures in the Fox story. The city says the rate rises each year with inflation, measured by the Seattle-area consumer price index, and the new rate takes effect Jan. 1. This checks only the wage figures, not the story's competing economic claims about the effects of higher minimum wages.",
+    "what_would_change": "A revised Office of Labor Standards rate for 2027, or a city ordinance change delaying the January increase, would move this toward Contradicted.",
+    "outlet": "Fox News, Nov. 14, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
+    "script": "Fox News, reporting on Democrats' push for higher minimum wages after the midterms, says Seattle's minimum wage is 21 dollars and 30 cents an hour and will rise to 22 dollars and 14 cents in January. Seattle's Office of Labor Standards lists exactly those rates for 2026 and 2027, with yearly increases tied to inflation. Verdict: matches the record.",
+    "read": "Seattle's Office of Labor Standards lists the city's 2026 minimum wage as $21.30 an hour and its 2027 rate as $22.14, matching both figures in the Fox story. The city says the rate rises each year with inflation, measured by the Seattle-area consumer price index, and the new rate takes effect Jan. 1. This checks only the wage figures, not the story's competing economic claims about the effects of higher minimum wages.",
+    "sources": [
+      {
+        "title": "Seattle Office of Labor Standards, Minimum Wage Ordinance",
+        "url": "https://www.seattle.gov/laborstandards/ordinances/minimum-wage"
+      },
+      {
+        "title": "Fox News, Nov. 14, 2026",
+        "url": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261114-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-14T06:30:00-06:00",
+    "headline": "CNN says Steve Bannon served four months in prison for refusing to testify to Congress about Jan. 6; the Justice Department's sentencing release shows a four-month term on two contempt counts",
+    "video_url": "",
+    "claim": "\"Bannon served four months in prison for refusing to testify to Congress about the January 6 attack on the US Capitol, which was fueled by false claims of voter fraud.\" — CNN, Nov. 14, 2026",
+    "source_url": "https://www.cnn.com/2026/11/14/politics/election-fraud-claims-midterms",
+    "record_url": "https://www.justice.gov/usao-dc/pr/stephen-k-bannon-sentenced-four-months-prison-two-counts-contempt-congress",
+    "record_title": "U.S. Attorney's Office for the District of Columbia, \"Stephen K. Bannon Sentenced to Four Months in Prison on Two Counts of Contempt of Congress,\" Oct. 21, 2022",
+    "verdict": "Matches record",
+    "why": "The Justice Department's Oct. 21, 2022 release says Stephen K. Bannon was sentenced to four months of incarceration and a $6,500 fine on two counts of contempt of Congress after a jury found he refused to appear for a deposition and refused to produce documents subpoenaed by the House Jan. 6 select committee. That matches CNN's four-month figure and its description of him refusing to testify, though the conviction also covered withholding documents. The DOJ release documents the sentence, not his prison release date.",
+    "what_would_change": "Bureau of Prisons or court records showing Bannon served substantially less than four months, or that his sentence was modified, would move this to Missing context.",
+    "outlet": "CNN, Nov. 14, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/14/politics/election-fraud-claims-midterms",
+    "script": "CNN, reporting on the voter fraud movement after the midterms, says Steve Bannon served four months in prison for refusing to testify to Congress about January 6. The Justice Department's 2022 release says Bannon was sentenced to four months and a 6,500 dollar fine on two counts of contempt of Congress, for refusing both to sit for a deposition and to hand over subpoenaed documents. Verdict: matches the record.",
+    "read": "The Justice Department's Oct. 21, 2022 release says Stephen K. Bannon was sentenced to four months of incarceration and a $6,500 fine on two counts of contempt of Congress after a jury found he refused to appear for a deposition and refused to produce documents subpoenaed by the House Jan. 6 select committee. That matches CNN's four-month figure and its description of him refusing to testify, though the conviction also covered withholding documents. The DOJ release documents the sentence, not his prison release date.",
+    "sources": [
+      {
+        "title": "DOJ, Stephen K. Bannon sentenced to four months on two counts of contempt of Congress",
+        "url": "https://www.justice.gov/usao-dc/pr/stephen-k-bannon-sentenced-four-months-prison-two-counts-contempt-congress"
+      },
+      {
+        "title": "CNN, Nov. 14, 2026",
+        "url": "https://www.cnn.com/2026/11/14/politics/election-fraud-claims-midterms"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261113-late",
     "slot": "Late Check",
     "aired_at": "2026-11-13T23:00:00-06:00",
