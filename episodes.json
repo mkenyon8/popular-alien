@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261114-reframe-reuters-faa-ground-stop-congress",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-14T13:55:00-06:00",
+    "label": "Story of the Day",
+    "claim": "US to resume flights after air traffic network failure sparks chaos",
+    "outlet": "Reuters",
+    "outlet_url": "https://www.reuters.com/3fec1b0a85a0/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/",
+    "source_url": "https://www.reuters.com/3fec1b0a85a0/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/",
+    "record_url": "https://www.reuters.com/3fec1b0a85a0/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/",
+    "record_title": "Reuters, “US to resume flights after air traffic network failure sparks chaos,” Nov. 13, 2026",
+    "read": "Reuters reports that the FAA halted departures nationwide on Nov. 13, with nearly 10,000 flights canceled, and its account matches the officials' statements and the record. The weak arguments are the officials': they blame Congress for not funding new equipment even though Mullin said patching in new equipment set off the failure, and they credit the president for procedures that were already standard. Graded C across 3 arguments (Duffy and Mullin on the cause C-; Mullin on safety and leadership C; Reuters B+). Scorecard: 33% valid, 33% cogent, 67% supported, 60% fallacy-free.",
+    "grade": "C",
+    "scores": {
+      "valid": 33,
+      "cogent": 33,
+      "supported": 67,
+      "fallacy_free": 60
+    },
+    "why": "Reuters reports the outage accurately. The weakest argument is the blame: officials said patching in new equipment set off the failure, then pinned it on Congress not paying for new equipment. Key question: If patching in new equipment set off the failure, how does more money for new equipment stop the next one?",
+    "sources": [
+      {
+        "title": "Reuters, “US to resume flights after air traffic network failure sparks chaos,” Nov. 13, 2026",
+        "url": "https://www.reuters.com/3fec1b0a85a0/world/us/faa-issues-national-ground-stop-due-extraordinary-circumstance-reasons-safety-2026-11-13/"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261114-faa-ground-stop-congress.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261114-faa-ground-stop-congress.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Reuters reports: US to resume flights after air traffic network failure sparks chaos.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261114-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-14T11:30:00-06:00",
