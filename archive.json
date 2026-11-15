@@ -1,5 +1,104 @@
 [
   {
+    "id": "20261115-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-15T11:30:00-06:00",
+    "headline": "Rapid Response 47 quotes Treasury Secretary Scott Bessent saying wage gains for the lowest-paid workers are outpacing those at the top; the Atlanta Fed's wage tracker shows the lowest-paid quarter trailing the highest-paid",
+    "video_url": "",
+    "claim": "\"We are seeing substantial wage gains—and wage gains for the bottom quintiles of workers are outpacing those of the upper-quintiles.\" — Treasury Secretary Scott Bessent, as quoted by the White House's Rapid Response 47 account (@RapidResponse47) in an X post with video, Nov. 15, 2026, about 38,000 views",
+    "source_url": "https://x.com/RapidResponse47/status/2121991133500727334",
+    "record_url": "https://www.atlantafed.org/chcs/wage-growth-tracker",
+    "record_title": "Federal Reserve Bank of Atlanta, Wage Growth Tracker (September 2026 data, updated Oct. 8, 2026), including the downloadable data series by average wage quartile",
+    "verdict": "Missing context",
+    "why": "The Atlanta Fed's Wage Growth Tracker, the Federal Reserve's main measure of wage growth by pay level, shows the opposite: in its latest release (September 2026, 12-month average), the lowest-paid quarter of workers saw median wage growth of 3.4%, compared with 3.8% for the highest-paid quarter; its 3-month measure shows the lower and upper halves even at 3.9%. The gap between top and bottom has narrowed since August 2025, when the figures were 3.4% and 4.6%, but that came from slower growth at the top, not faster growth at the bottom. Neither the post nor the clip names the data Bessent relied on, and other measures, such as Census or BLS earnings by percentile, could show something different.",
+    "what_would_change": "Treasury naming a dataset, such as BLS usual weekly earnings by decile, that shows faster recent pay growth for the lowest-paid workers would move this toward Matches record; additional official measures agreeing with the Atlanta Fed's tracker, or its November release confirming the same gap, would move it toward Contradicted.",
+    "outlet": "Rapid Response 47 on X, Nov. 15, 2026",
+    "outlet_url": "https://x.com/RapidResponse47/status/2121991133500727334",
+    "script": "The White House's Rapid Response account posted Treasury Secretary Scott Bessent saying wage gains for the lowest-paid workers are outpacing those at the top. The Atlanta Fed's wage tracker, the Fed's main measure of pay growth by wage level, shows the reverse in its latest data: 3.4 percent for the lowest-paid quarter of workers, 3.8 percent for the highest-paid. The gap has narrowed, but because pay growth at the top slowed, and Bessent didn't say which numbers he meant. Verdict: missing context.",
+    "read": "The Atlanta Fed's Wage Growth Tracker, the Federal Reserve's main measure of wage growth by pay level, shows the opposite: in its latest release (September 2026, 12-month average), the lowest-paid quarter of workers saw median wage growth of 3.4%, compared with 3.8% for the highest-paid quarter; its 3-month measure shows the lower and upper halves even at 3.9%. The gap between top and bottom has narrowed since August 2025, when the figures were 3.4% and 4.6%, but that came from slower growth at the top, not faster growth at the bottom. Neither the post nor the clip names the data Bessent relied on, and other measures, such as Census or BLS earnings by percentile, could show something different.",
+    "sources": [
+      {
+        "title": "Federal Reserve Bank of Atlanta, Wage Growth Tracker (updated Oct. 8, 2026)",
+        "url": "https://www.atlantafed.org/chcs/wage-growth-tracker"
+      },
+      {
+        "title": "Federal Reserve Bank of Atlanta, Wage Growth Tracker data download (average wage quartile series)",
+        "url": "https://www.atlantafed.org/-/media/Project/Atlanta/FRBA/Documents/research-and-data/data/wage-growth-tracker/wage-growth-data.xlsx"
+      },
+      {
+        "title": "Rapid Response 47 on X, Nov. 15, 2026",
+        "url": "https://x.com/RapidResponse47/status/2121991133500727334"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261115-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-15T11:30:00-06:00",
+    "headline": "Fox News says the Supreme Court agreed in October to hear an Asian American parents' challenge to a Maryland district's race-neutral admissions policy; the Court's docket shows the Oct. 19 grant",
+    "video_url": "",
+    "claim": "\"The Supreme Court agreed in October to hear Association for Education Fairness v. Montgomery County Board of Education this term, a challenge brought by parents of Asian American students alleging that a Maryland school district’s admissions policies unlawfully discriminate despite appearing race-neutral.\" — Fox News (Elaine Mallon), \"Justice Alito warns America must preserve 3 core principles regardless of country’s ‘atmosphere’,\" Nov. 14, 2026",
+    "source_url": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere",
+    "record_url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-12.html",
+    "record_title": "Supreme Court of the United States, Docket No. 26-12, Association for Education Fairness v. Montgomery County Board of Education, et al. (petition granted Oct. 19, 2026)",
+    "verdict": "Matches record",
+    "why": "The Supreme Court's docket for No. 26-12, Association for Education Fairness v. Montgomery County Board of Education, shows the petition was granted on Oct. 19, 2026, with merits briefs due by Jan. 19, 2027, consistent with a decision this term. The case challenges the lottery Montgomery County, Maryland, uses for its magnet middle schools, which the petitioners, a group of Asian American parents, say was adopted for a discriminatory purpose despite being facially race-neutral. One detail Fox doesn't mention: the Court limited its review to a narrower question, whether a challenger must show the targeted group suffered an overall disparate impact relative to its share of applicants.",
+    "what_would_change": "A docket entry showing the case was dismissed or the grant vacated, or the argument pushed past this term, would change this verdict.",
+    "outlet": "Fox News, Nov. 14, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere",
+    "script": "Fox News says the Supreme Court agreed in October to hear a challenge from Asian American parents to a Maryland school district's admissions policy, which they say discriminates despite looking race-neutral. The Court's docket shows the case was granted on October 19th and is being briefed for this term, though the justices limited it to a narrower question about how challengers prove harm. Verdict: matches the record.",
+    "read": "The Supreme Court's docket for No. 26-12, Association for Education Fairness v. Montgomery County Board of Education, shows the petition was granted on Oct. 19, 2026, with merits briefs due by Jan. 19, 2027, consistent with a decision this term. The case challenges the lottery Montgomery County, Maryland, uses for its magnet middle schools, which the petitioners, a group of Asian American parents, say was adopted for a discriminatory purpose despite being facially race-neutral. One detail Fox doesn't mention: the Court limited its review to a narrower question, whether a challenger must show the targeted group suffered an overall disparate impact relative to its share of applicants.",
+    "sources": [
+      {
+        "title": "Supreme Court docket No. 26-12",
+        "url": "https://www.supremecourt.gov/docket/docketfiles/html/public/26-12.html"
+      },
+      {
+        "title": "Supreme Court, question presented and limited grant, No. 26-12 (cert. granted Oct. 19, 2026)",
+        "url": "https://www.supremecourt.gov/qp/26-00012qp.pdf"
+      },
+      {
+        "title": "Jenner & Block client alert on the No. 26-12 grant, Oct. 28, 2026",
+        "url": "https://www.jenner.com/print/v2/content/103648/supreme-court-grants-certiorari-in-post-sffa-k12-admissions-casewhat-higher-education-institutions-need-to-know.pdf"
+      },
+      {
+        "title": "Fox News, Nov. 14, 2026",
+        "url": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261115-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-15T11:30:00-06:00",
+    "headline": "CNN says a 2022 law bans Russian diesel imports unless the president certifies Russia has ended its war in Ukraine; the Ending Importation of Russian Oil Act sets out those conditions",
+    "video_url": "",
+    "claim": "\"The Ending Importation of Russian Oil Act of 2022 bans Russian-origin energy products, including diesel fuel, from being imported into the US ‘unless — following a period for consultation with Congress — the President certifies to Congress that Russia has ceased military hostilities in Ukraine, that Russia poses no immediate military threat to NATO members, and that Russia recognizes the right of Ukrainians to choose their government,’ the lawmakers warned.\" — CNN (Jennifer Hansler and Avery Schmitz), \"Russian diesel under Trump deal struggles to reach US market amid legal fears and criticism,\" Nov. 15, 2026",
+    "source_url": "https://www.cnn.com/2026/11/15/politics/russia-diesel-trump-deal-oil-tankers",
+    "record_url": "https://www.govinfo.gov/content/pkg/PLAW-117publ109/html/PLAW-117publ109.htm",
+    "record_title": "Public Law 117-109, Ending Importation of Russian Oil Act (H.R. 6968), 136 Stat. 1154, approved April 8, 2022 (U.S. Government Publishing Office)",
+    "verdict": "Matches record",
+    "why": "Public Law 117-109 bans all Russian products in chapter 27 of the Harmonized Tariff Schedule, the chapter covering mineral fuels and oils, including diesel, and lets the president lift the ban only after consulting four congressional committees at least 45 days ahead and certifying that Russia has agreed to withdraw its forces and end hostilities on terms Ukraine accepts, poses no immediate threat to any NATO member, and recognizes Ukrainians' right to choose their government. CNN's summary of the lawmakers' warning tracks those conditions; the law adds that a termination takes effect only after 90 days, and Congress can block it with a joint resolution of disapproval. The law also says the ban applies \"in a manner consistent with\" actions taken under Executive Order 14066, wording relevant to the Treasury waiver CNN says lawmakers are disputing.",
+    "what_would_change": "A later statute repealing or amending the 2022 act, a presidential certification under its Section 3, or a court ruling that the Treasury waiver lawfully permits imports would change how this claim stands.",
+    "outlet": "CNN, Nov. 15, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/15/politics/russia-diesel-trump-deal-oil-tankers",
+    "script": "CNN reports that lawmakers warned a 2022 law bans Russian diesel imports unless the president certifies Russia has ended its war in Ukraine, poses no threat to NATO, and respects Ukraine's right to choose its government. The Ending Importation of Russian Oil Act says exactly that, after consulting Congress, and adds a 90-day wait that Congress can block. It also ties the ban to the executive order Treasury's waiver relies on. Verdict: matches the record.",
+    "read": "Public Law 117-109 bans all Russian products in chapter 27 of the Harmonized Tariff Schedule, the chapter covering mineral fuels and oils, including diesel, and lets the president lift the ban only after consulting four congressional committees at least 45 days ahead and certifying that Russia has agreed to withdraw its forces and end hostilities on terms Ukraine accepts, poses no immediate threat to any NATO member, and recognizes Ukrainians' right to choose their government. CNN's summary of the lawmakers' warning tracks those conditions; the law adds that a termination takes effect only after 90 days, and Congress can block it with a joint resolution of disapproval. The law also says the ban applies \"in a manner consistent with\" actions taken under Executive Order 14066, wording relevant to the Treasury waiver CNN says lawmakers are disputing.",
+    "sources": [
+      {
+        "title": "Public Law 117-109, Ending Importation of Russian Oil Act (GovInfo)",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-117publ109/html/PLAW-117publ109.htm"
+      },
+      {
+        "title": "CNN, Nov. 15, 2026",
+        "url": "https://www.cnn.com/2026/11/15/politics/russia-diesel-trump-deal-oil-tankers"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261115-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-15T06:30:00-06:00",
