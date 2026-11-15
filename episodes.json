@@ -417,7 +417,7 @@
   {
     "id": "20261113-reframe-nbc-trump-no-iran-deal",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-13T17:55:00-06:00",
     "label": "Story of the Day",
     "claim": "Trump says the U.S. doesn't 'need' a deal with Iran",
@@ -971,7 +971,7 @@
   {
     "id": "20261112-reframe-cbs-scharf-oversight-criminality",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-12T11:55:00-06:00",
     "label": "Story of the Day",
     "claim": "Top White House lawyer warns of \"blatant criminality\" in Democrats' investigations push",
@@ -1498,7 +1498,7 @@
   {
     "id": "20261111-reframe-time-hegseth-impeachment-blocked",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-11T13:55:00-06:00",
     "label": "Story of the Day",
     "claim": "House Republicans block Hegseth impeachment, but Democrats could revive effort in January",
@@ -1897,7 +1897,7 @@
   {
     "id": "20261110-reframe-aljazeera-iran-war-effectively-over",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-10T15:50:26-06:00",
     "label": "Story of the Day",
     "claim": "Trump calls Iran war 'effectively over' militarily after meeting Qatar's prime minister",
@@ -2551,7 +2551,7 @@
   {
     "id": "20261109-reframe-cbs-trump-deportations-too-tough",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-09T10:20:00-06:00",
     "label": "Story of the Day",
     "claim": "Trump says his deportation policy might have been \"too tough\" in 60 Minutes interview",
@@ -2907,7 +2907,7 @@
   {
     "id": "20261108-reframe-cnn-dana-white-press-secretary",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-08T13:55:19-06:00",
     "label": "Story of the Day",
     "claim": "Dana White declines Trump's offer to become press secretary, source says",
@@ -3641,7 +3641,7 @@
   {
     "id": "20261107-reframe-axios-wiles-miller-chief",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-07T09:57:06-06:00",
     "label": "Story of the Day",
     "claim": "Trump replaces White House chief of staff Susie Wiles with Stephen Miller",
@@ -4128,7 +4128,7 @@
   {
     "id": "20261106-reframe-newsom-california-death-row-commute",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-06T07:59:52-06:00",
     "label": "Story of the Day",
     "claim": "Newsom moves to commute all 548 California death sentences to life without parole",
@@ -4723,7 +4723,7 @@
   {
     "id": "20261105-reframe-trump-iran-war-gas-midterms",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-05T07:57:00-06:00",
     "label": "Story of the Day",
     "claim": "Trump says Iran war 'largely' cost GOP the midterms but he'd 'do it again'",
@@ -5254,7 +5254,7 @@
   {
     "id": "20261104-reframe-trump-not-on-ballot",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-04T07:56:00-06:00",
     "label": "Story of the Day",
     "claim": "Trump says GOP lost because he wasn't on ballot, 'willing to accept' results",
@@ -5795,7 +5795,7 @@
   {
     "id": "20261103-reframe-qeshm-strikes-soft-war",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-03T12:00:00-06:00",
     "label": "Story of the Day",
     "claim": "US strikes Iran's Qeshm Island on midterm eve as Trump tells Fox 'this isn't a war'",
@@ -6457,7 +6457,7 @@
   {
     "id": "20261102-reframe-stevens-endorses-rogers",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-02T11:45:00-06:00",
     "label": "Story of the Day",
     "claim": "Democrat Haley Stevens endorses Republican Mike Rogers in Michigan Senate race two days before Election Day",
@@ -6923,7 +6923,7 @@
   {
     "id": "20261101-reframe-doj-election-workers-order",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-11-01T07:25:00-06:00",
     "label": "Story of the Day",
     "claim": "Judge blocks DOJ threats to prosecute election workers over noncitizen voter lists days before the midterms",
@@ -7925,7 +7925,7 @@
   {
     "id": "20261031-reframe-binance-north-korea-hack",
     "slot": "ReFrame",
-    "lead": true,
+    "lead": false,
     "aired_at": "2026-10-31T09:30:00-05:00",
     "label": "Story of the Day",
     "claim": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
