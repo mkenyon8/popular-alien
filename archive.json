@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261115-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-15T06:30:00-06:00",
+    "headline": "Wall Street Apes says Texas Gov.-elect Gina Hinojosa will strip CAIR's state terrorist label and calls the election 'rigged'; Abbott's proclamation and state law back the mechanics, but the post offers no evidence of rigging",
+    "video_url": "",
+    "claim": "\"New Democrat Texas Governor Gina Hinojosa just vowed to strip CAIR’s Texas terrorist label applied by Greg Abbot ... Greg Abbott's Nov 18, 2025 proclamation labeled CAIR and the Muslim Brotherhood both \"foreign terrorist organizations\" under Texas criminal law and \"transnational criminal organizations\" under state property law ... Texas law lets the governor remove a land-purchase designation ... I’m even more convinced the Texas election was extremely rigged now\" — Wall Street Apes (@WallStreetApes), X post, Nov. 14, 2026, about 45,000 views and 1,300 likes",
+    "source_url": "https://x.com/WallStreetApes/status/2121822356213744095",
+    "record_url": "https://gov.texas.gov/uploads/files/press/PROC_declaring_Muslim_Brotherhood_and_CAIR_Transnational_Criminal_Organizations_IMAGE_11-18-2025.pdf",
+    "record_title": "Office of the Texas Governor, Proclamation designating the Muslim Brotherhood and CAIR as Foreign Terrorist and Transnational Criminal Organizations under the Texas Penal and Texas Property Codes, filed with the Secretary of State Nov. 18, 2025",
+    "verdict": "Missing context",
+    "why": "Gov. Greg Abbott's Nov. 18, 2025, proclamation does designate CAIR and the Muslim Brotherhood as foreign terrorist organizations under Texas Penal Code § 71.01(e) and as transnational criminal organizations under Property Code § 5.254, barring them from buying land in Texas, and Hinojosa's pledge to remove the CAIR label was reported from a Nov. 14 Washington Post interview. Section 5.254 does let a governor remove a land-purchase designation, but only after a national-security determination made in consultation with the Department of Public Safety director and the Homeland Security Council, and a removal applies only to purchases made afterward. The post offers no evidence for its claim that the Texas election was \"rigged.\"",
+    "what_would_change": "Reporting showing Hinojosa did not pledge to remove the designation, a court ruling that voids Abbott's proclamation before she takes office, or official findings of fraud in Texas's 2026 count would change this verdict.",
+    "outlet": "Wall Street Apes on X, Nov. 14, 2026",
+    "outlet_url": "https://x.com/WallStreetApes/status/2121822356213744095",
+    "script": "A post seen 45,000 times says Texas Governor-elect Gina Hinojosa will strip the state's terrorist label from CAIR, and calls the election rigged. Greg Abbott's 2025 proclamation did label CAIR a terrorist and criminal organization, and Texas law does let a governor lift the land-purchase ban, after consulting state security officials. But the post offers no evidence of rigging. Verdict: missing context.",
+    "read": "Gov. Greg Abbott's Nov. 18, 2025, proclamation does designate CAIR and the Muslim Brotherhood as foreign terrorist organizations under Texas Penal Code § 71.01(e) and as transnational criminal organizations under Property Code § 5.254, barring them from buying land in Texas, and Hinojosa's pledge to remove the CAIR label was reported from a Nov. 14 Washington Post interview. Section 5.254 does let a governor remove a land-purchase designation, but only after a national-security determination made in consultation with the Department of Public Safety director and the Homeland Security Council, and a removal applies only to purchases made afterward. The post offers no evidence for its claim that the Texas election was \"rigged.\"",
+    "sources": [
+      {
+        "title": "Office of the Texas Governor, proclamation designating the Muslim Brotherhood and CAIR (Nov. 18, 2025)",
+        "url": "https://gov.texas.gov/uploads/files/press/PROC_declaring_Muslim_Brotherhood_and_CAIR_Transnational_Criminal_Organizations_IMAGE_11-18-2025.pdf"
+      },
+      {
+        "title": "Texas Property Code § 5.254, designation of country or entity (Texas Legislature)",
+        "url": "https://statutes.capitol.texas.gov/Docs/PR/htm/PR.5.htm#5.254"
+      },
+      {
+        "title": "Office of the Texas Governor press release, Nov. 18, 2025",
+        "url": "https://gov.texas.gov/news/post/governor-abbott-designates-muslim-brotherhood-cair-as-foreign-terrorist-organizations"
+      },
+      {
+        "title": "The Washington Post, Nov. 14, 2026",
+        "url": "https://www.washingtonpost.com/nation/2026/11/14/texass-democratic-gov-elect-vows-trade-gop-culture-wars-moderation/"
+      },
+      {
+        "title": "Wall Street Apes on X, Nov. 14, 2026",
+        "url": "https://x.com/WallStreetApes/status/2121822356213744095"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261115-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-15T06:30:00-06:00",
+    "headline": "Fox News says Republicans lost eight Senate seats in Reagan's final midterm in 1986 and quotes Sen. Steve Daines that Obama lost nine in 2014; the Senate's party-division records back both numbers",
+    "video_url": "",
+    "claim": "\"...dating back to 1986, when former President Ronald Reagan, then entering his final midterm election similar to Trump, lost eight seats in the upper chamber. 'Obama lost nine Senate seats in 2014, it looks like we're going to lose eight, depending on what happens in Alaska,' Daines said.\" — Fox News (Alex Miller), \"Inside Senate GOP's tense post-election reckoning as Thune clashes with Republican critics,\" Nov. 15, 2026",
+    "source_url": "https://www.foxnews.com/politics/inside-senate-gops-tense-post-election-reckoning-thune-clashes-republican-critics",
+    "record_url": "https://www.senate.gov/about/parties-leadership/party-division.htm",
+    "record_title": "U.S. Senate Historical Office, \"Party Division,\" senate.gov, accessed Nov. 15, 2026",
+    "verdict": "Matches record",
+    "why": "The Senate's party-division table shows Republicans holding 53 seats in the 99th Congress (1985-87) and 45 in the 100th (1987-89), a loss of eight in the 1986 midterm, Reagan's last. It shows Democrats falling from 53 seats to 44, with two independents in each Congress, between the 113th and 114th Congresses, a loss of nine in Obama's final midterm in 2014. Daines's projection of eight Republican losses this year depends on uncalled races, including Alaska's, and is not yet reflected in the record.",
+    "what_would_change": "A correction to the Senate Historical Office's party-division figures for the 99th, 100th, 113th or 114th Congresses would change this verdict.",
+    "outlet": "Fox News, Nov. 15, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/inside-senate-gops-tense-post-election-reckoning-thune-clashes-republican-critics",
+    "script": "Fox News says Republicans lost eight Senate seats in Ronald Reagan's last midterm in 1986, and quotes Senator Steve Daines saying Barack Obama's party lost nine in 2014. The Senate's own party-division records show Republicans fell from 53 seats to 45 after 1986, and Democrats fell from 53 to 44 after 2014. Verdict: matches the record.",
+    "read": "The Senate's party-division table shows Republicans holding 53 seats in the 99th Congress (1985-87) and 45 in the 100th (1987-89), a loss of eight in the 1986 midterm, Reagan's last. It shows Democrats falling from 53 seats to 44, with two independents in each Congress, between the 113th and 114th Congresses, a loss of nine in Obama's final midterm in 2014. Daines's projection of eight Republican losses this year depends on uncalled races, including Alaska's, and is not yet reflected in the record.",
+    "sources": [
+      {
+        "title": "U.S. Senate, Party Division",
+        "url": "https://www.senate.gov/about/parties-leadership/party-division.htm"
+      },
+      {
+        "title": "Fox News, Nov. 15, 2026",
+        "url": "https://www.foxnews.com/politics/inside-senate-gops-tense-post-election-reckoning-thune-clashes-republican-critics"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261115-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-15T06:30:00-06:00",
+    "headline": "CNN says Minnesota is one of at least 28 states that settle tied legislative races by random drawing; NCSL's survey and Minnesota's tie-vote law back that",
+    "video_url": "",
+    "claim": "\"The North Star State is one of at least 28 in the US that require some type of random drawing method to determine a winner when legislative races result in a tie, according to the National Conference of State Legislatures.\" — CNN (Danya Gainor), \"This Minnesota mayoral race was a dead-even tie. So, they drew the winner’s name from a bag,\" Nov. 14, 2026",
+    "source_url": "https://www.cnn.com/2026/11/14/us/minnesota-mayoral-race-tie",
+    "record_url": "https://www.ncsl.org/elections-and-campaigns/resolving-tied-elections-for-legislative-offices",
+    "record_title": "National Conference of State Legislatures, \"Resolving Tied Elections for Legislative Offices,\" updated Oct. 29, 2024",
+    "verdict": "Matches record",
+    "why": "NCSL's summary says 28 states determine tied legislative races by drawing lots or similar random methods, and lists Minnesota Statutes § 204C.34, under which the canvassing board breaks a tie \"by lot.\" That statute covers any tie \"for nomination or election to an office,\" which is why it also governed the tied Spring Lake Park mayor's race. NCSL adds that Texas and Missouri let tied candidates agree to cast lots, consistent with CNN's \"at least.\"",
+    "what_would_change": "An updated NCSL count showing fewer than 28 states use random drawings, or an amendment to Minnesota Statutes § 204C.34 replacing the drawing of lots, would change this verdict.",
+    "outlet": "CNN, Nov. 14, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/14/us/minnesota-mayoral-race-tie",
+    "script": "CNN says Minnesota is one of at least 28 states that break a tied legislative race with some kind of random drawing. The National Conference of State Legislatures counts exactly 28, and Minnesota law tells the canvassing board to decide any tied race by lot, which is how a suburban mayor's race was settled. Verdict: matches the record.",
+    "read": "NCSL's summary says 28 states determine tied legislative races by drawing lots or similar random methods, and lists Minnesota Statutes § 204C.34, under which the canvassing board breaks a tie \"by lot.\" That statute covers any tie \"for nomination or election to an office,\" which is why it also governed the tied Spring Lake Park mayor's race. NCSL adds that Texas and Missouri let tied candidates agree to cast lots, consistent with CNN's \"at least.\"",
+    "sources": [
+      {
+        "title": "NCSL, Resolving Tied Elections for Legislative Offices (updated Oct. 29, 2024)",
+        "url": "https://www.ncsl.org/elections-and-campaigns/resolving-tied-elections-for-legislative-offices"
+      },
+      {
+        "title": "Minnesota Statutes § 204C.34, Tie votes",
+        "url": "https://www.revisor.mn.gov/statutes/cite/204C.34"
+      },
+      {
+        "title": "CNN, Nov. 14, 2026",
+        "url": "https://www.cnn.com/2026/11/14/us/minnesota-mayoral-race-tie"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261114-late",
     "slot": "Late Check",
     "aired_at": "2026-11-14T23:00:00-06:00",
