@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261115-reframe-nypost-peltola-declares-victory",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-15T13:55:00-06:00",
+    "label": "Story of the Day",
+    "claim": "Alaska Democrat Mary Peltola nears 50%, declares victory in Senate race",
+    "outlet": "New York Post",
+    "outlet_url": "https://nypost.com/2026/11/14/us-news/alaska-democrat-mary-peltola-declares-victory-in-us-senate-race/",
+    "source_url": "https://nypost.com/2026/11/14/us-news/alaska-democrat-mary-peltola-declares-victory-in-us-senate-race/",
+    "record_url": "https://nypost.com/2026/11/14/us-news/alaska-democrat-mary-peltola-declares-victory-in-us-senate-race/",
+    "record_title": "New York Post, “Alaska Democrat Mary Peltola nears 50%, declares victory in Senate race,” Nov. 14, 2026",
+    "read": "The New York Post reports that Mary Peltola declared victory in Alaska's Senate race with about 96% of the vote counted, and its figures and ranked-choice explainer are right. The weakest arguments came from people calling the race early: President Trump said the race was over and Sen. Dan Sullivan had won by a lot, and Sullivan said a scheme was working, yet the count since then widened Peltola's lead. Graded C+ across 4 arguments (Trump D; Peltola's campaign B+; Sullivan C-; New York Post B-). Scorecard: 50% valid, 50% cogent, 38% supported, 40% fallacy-free.",
+    "grade": "C+",
+    "scores": {
+      "valid": 50,
+      "cogent": 50,
+      "supported": 38,
+      "fallacy_free": 40
+    },
+    "why": "Peltola's math mostly holds. The weak claims came from people calling the race before the count was done. Key question: If the race was over a week ago, why has every count since then widened Peltola's lead?",
+    "sources": [
+      {
+        "title": "New York Post, “Alaska Democrat Mary Peltola nears 50%, declares victory in Senate race,” Nov. 14, 2026",
+        "url": "https://nypost.com/2026/11/14/us-news/alaska-democrat-mary-peltola-declares-victory-in-us-senate-race/"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261115-peltola-declares-victory.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261115-peltola-declares-victory.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... New York Post reports: Alaska Democrat Mary Peltola nears 50%, declares victory in Senate race.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261115-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-15T11:30:00-06:00",
