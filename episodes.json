@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261116-reframe-cnbc-trump-blames-biden-faa",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-16T10:00:00-06:00",
+    "label": "Story of the Day",
+    "claim": "Trump breaks silence about FAA nationwide ground stop, blames Biden administration",
+    "outlet": "CNBC",
+    "outlet_url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+    "source_url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+    "record_url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html",
+    "record_title": "CNBC, “Trump breaks silence about FAA nationwide ground stop, blames Biden administration,” Nov. 15, 2026",
+    "read": "CNBC reports that President Trump blamed the Biden administration for Friday's nationwide FAA ground stop and called on Congress for money, and CNBC's own report is accurate and well sourced. The weakest argument was Trump's: the FAA ties the outage to a router being installed this month and a system replaced about three weeks earlier, both under his own administration, so blaming the last administration commits a false cause. Transportation Secretary Sean Duffy's case for a new network is sound but not shown to have prevented Friday's failure. Graded C+ across 3 arguments (Trump D; Duffy B-; CNBC A-). Scorecard: 67% valid, 67% cogent, 50% supported, 80% fallacy-free.",
+    "grade": "C+",
+    "scores": {
+      "valid": 67,
+      "cogent": 67,
+      "supported": 50,
+      "fallacy_free": 80
+    },
+    "why": "The system is old and the case for modernization money is real, but the outage began with new equipment installed this fall, so blaming the last administration doesn't fit the timeline. Key question: If the outage began with a router installed this month, how is it the last administration's fault?",
+    "sources": [
+      {
+        "title": "CNBC, “Trump breaks silence about FAA nationwide ground stop, blames Biden administration,” Nov. 15, 2026",
+        "url": "https://www.cnbc.com/2026/11/15/trump-breaks-silence-on-faa-nationwide-ground-stop-blames-biden-.html"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261116-trump-blames-biden-faa.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261116-trump-blames-biden-faa.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNBC reports: Trump breaks silence about FAA nationwide ground stop, blames Biden administration.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261116-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-16T06:30:00-06:00",
