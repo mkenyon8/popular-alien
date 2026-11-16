@@ -210,6 +210,57 @@
     "corrections": []
   },
   {
+    "id": "20261115-field-iran-bahrain-drones",
+    "slot": "Midday Check",
+    "label": "Field Report",
+    "aired_at": "2026-11-15T15:30:00-06:00",
+    "headline": "Iran says its drones targeted a US base in Bahrain; Bahrain and the US ambassador say every drone was intercepted",
+    "claim": "“Iran targets US military base in Bahrain with drone attack” — BBC News headline, Nov. 15, 2026",
+    "outlet": "BBC News, “Iran targets US military base in Bahrain with drone attack,” Nov. 15, 2026",
+    "outlet_url": "https://www.bbc.com/news/articles/cqn4e2py48kwo",
+    "source_url": "https://www.bbc.com/news/articles/cqn4e2py48kwo",
+    "record_url": "https://www.newsofbahrain.com/en/article/us-ambassador-says-all-irgc-drones-intercepted-no-damage-or-injuries-reported",
+    "record_title": "News of Bahrain, “US Ambassador says all IRGC drones intercepted, no damage or injuries,” Nov. 15, 2026",
+    "verdict": "Missing context",
+    "read": "Iran's Revolutionary Guard said six drones targeted a U.S. air defense radar at Bahrain's Al-Riffa helicopter base on Nov. 15, its second claimed attack on Bahrain in three days. Bahrain's military said its air defenses intercepted the attacks before they could achieve their objectives, and U.S. Ambassador Stephanie Hallett said all drones were intercepted with no damage or injuries, calling the IRGC's claims false. The BBC headline states the target as fact although it comes only from the IRGC's statement; on Friday, U.S. Central Command said it shot down two Iranian drones with no injuries or damage.",
+    "why": "The attack attempt is confirmed by Bahrain, but the target and any hit rest only on the IRGC's own statement. Bahrain and the U.S. ambassador say every drone was intercepted, with no damage or injuries.",
+    "what_would_change": "Imagery or an official U.S. or Bahraini account showing damage at Al-Riffa would support Iran's claim of a hit; a CENTCOM statement on the Nov. 15 attack would add a U.S. military account to the ambassador's.",
+    "sources": [
+      {
+        "title": "BBC News, “Iran targets US military base in Bahrain with drone attack,” Nov. 15, 2026",
+        "url": "https://www.bbc.com/news/articles/cqn4e2py48kwo"
+      },
+      {
+        "title": "News of Bahrain, “US Ambassador says all IRGC drones intercepted, no damage or injuries,” Nov. 15, 2026",
+        "url": "https://www.newsofbahrain.com/en/article/us-ambassador-says-all-irgc-drones-intercepted-no-damage-or-injuries-reported"
+      },
+      {
+        "title": "Al Jazeera, “Iran says it targets US radar in Bahrain. What do we know?,” Nov. 15, 2026",
+        "url": "https://www.aljazeera.com/news/2026/11/15/iran-says-it-targets-us-radar-in-bahrain-what-do-we-know"
+      },
+      {
+        "title": "France 24 (AFP), “Iran claims drone attack on US military airbase in Bahrain,” Nov. 15, 2026",
+        "url": "https://www.france24.com/en/middle-east/20261115-iran-claims-attack-on-us-military-airbase-in-bahrain"
+      },
+      {
+        "title": "Field Report with Lena Sato (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261115-iran-bahrain.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/fr-20261115-iran-bahrain.mp4",
+    "script": "Coming to you virtually from Manama, Bahrain. I'm Lena Sato. Sirens sounded here before dawn on Sunday, and Iran says it attacked a U.S. base. Here's the record.\nIran's Revolutionary Guard said six of its drones targeted a U.S. air defense radar at the Al-Riffa helicopter base. The statement, posted by Iran's state broadcaster, added that the Strait of Hormuz is closed.\nBahrain's Interior Ministry issued an alert at about four thirty a.m. and told residents to proceed to the nearest safe location. Bahrain's military said its air defenses intercepted the attacks before they could achieve their objectives.\nThe U.S. ambassador to Bahrain, Stephanie Hallett, said all the drones were intercepted, with no damage or injuries, and called the Guard's claims false. On Friday, U.S. Central Command said it shot down two Iranian drones, with no injuries or damage.\nHow it was told.\nOne. The BBC's headline says Iran targets a U.S. military base. That target comes only from the Revolutionary Guard's own statement, and Bahrain says the attacks were intercepted.\nTwo. Al Jazeera wrote that the Guard said it struck the radar. Its explainer noted the U.S. military had not yet commented, but left out the U.S. ambassador's statement that the claims were false.\nFull explainer at popularalien.com. From Manama, I'm Lena Sato.",
+    "corrections": [],
+    "field_report": {
+      "reporter": "Lena Sato",
+      "dateline": "Manama, Bahrain",
+      "video_url": "https://show.popularalien.com/talk/fr-20261115-iran-bahrain.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261115-iran-bahrain.jpg",
+      "duration_s": 89.4,
+      "published_at": "2026-11-15T15:30:00-06:00",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
+  },
+  {
     "id": "20261115-reframe-nypost-peltola-declares-victory",
     "slot": "ReFrame",
     "lead": true,
