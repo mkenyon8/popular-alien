@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261115-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-15T23:00:00-06:00",
+    "headline": "Attorney General Todd Blanche says investigations ending in 'a trial and a conviction' have 'never been' Congress's job; the Supreme Court agrees committees can't try anyone, but it calls Congress's subpoena power 'broad' and the Constitution gives Congress impeachment trials",
+    "video_url": "",
+    "claim": "\"They're acting like they're going to cut subpoenas left and right, and they're gonna investigate and they're gonna have a trial and a conviction — and that's absolutely not their job. That has never been their job. They can conduct oversight, and if they have to investigate as part of the oversight process, so be it\" — Attorney General Todd Blanche, on incoming congressional Democrats, in a video posted by Rapid Response 47 (@RapidResponse47) on X, Nov. 15, 2026, about 57,000 views and 1,100 likes",
+    "source_url": "https://x.com/RapidResponse47/status/2122175369788719168",
+    "record_url": "https://www.supremecourt.gov/opinions/19pdf/19-715_febh.pdf",
+    "record_title": "Supreme Court of the United States, Trump v. Mazars USA, LLP, No. 19-715, opinion of the Court, decided July 9, 2020",
+    "verdict": "Missing context",
+    "why": "The Supreme Court's Mazars opinion backs Blanche on the limit: Congress may not issue subpoenas for \"law enforcement\" and may not use them to \"try\" someone \"before [a] committee for any crime or wrongdoing.\" But the same opinion calls Congress's power to investigate and compel information \"broad\" and \"indispensable\" when tied to a valid legislative purpose, so subpoenas themselves are a long-recognized part of the job. And the Constitution gives the House \"the sole Power of Impeachment\" and the Senate \"the sole Power to try all Impeachments,\" with conviction on a two-thirds vote, so a congressional trial and conviction is possible in that one setting.",
+    "what_would_change": "A court ruling that a specific subpoena from the incoming Democratic majority lacks a valid legislative purpose or serves law enforcement, or a full transcript showing Blanche was addressing only committee hearings and not impeachment, would change this verdict.",
+    "outlet": "Rapid Response 47 on X, Nov. 15, 2026",
+    "outlet_url": "https://x.com/RapidResponse47/status/2122175369788719168",
+    "script": "Attorney General Todd Blanche says incoming Democrats want to subpoena, investigate and convict, and that has never been Congress's job. The Supreme Court does say committees can't put anyone on trial or act as law enforcement. But it also calls Congress's power to investigate and subpoena broad and indispensable, and the Constitution lets the Senate try and convict in impeachments. Verdict: missing context.",
+    "read": "The Supreme Court's Mazars opinion backs Blanche on the limit: Congress may not issue subpoenas for \"law enforcement\" and may not use them to \"try\" someone \"before [a] committee for any crime or wrongdoing.\" But the same opinion calls Congress's power to investigate and compel information \"broad\" and \"indispensable\" when tied to a valid legislative purpose, so subpoenas themselves are a long-recognized part of the job. And the Constitution gives the House \"the sole Power of Impeachment\" and the Senate \"the sole Power to try all Impeachments,\" with conviction on a two-thirds vote, so a congressional trial and conviction is possible in that one setting.",
+    "sources": [
+      {
+        "title": "Supreme Court, Trump v. Mazars USA, LLP, No. 19-715 (July 9, 2020)",
+        "url": "https://www.supremecourt.gov/opinions/19pdf/19-715_febh.pdf"
+      },
+      {
+        "title": "National Archives, The Constitution of the United States: A Transcription (Article I, Sections 2 and 3)",
+        "url": "https://www.archives.gov/founding-docs/constitution-transcript"
+      },
+      {
+        "title": "Rapid Response 47 on X, Nov. 15, 2026",
+        "url": "https://x.com/RapidResponse47/status/2122175369788719168"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261115-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-15T23:00:00-06:00",
+    "headline": "Fox News says Biden kept trying to cancel student debt even after the Supreme Court ruled against him in 2023; the June 30, 2023 ruling and Biden's own White House fact sheets back that",
+    "video_url": "",
+    "claim": "\"[Buttigieg] previously served under President Joe Biden, who repeatedly attempted to cancel student loan debt, even after the Supreme Court ruled against his administration in 2023.\" — Fox News (Lindsay Kornick), \"Pete Buttigieg breaks with Democrats on student loan handouts, admits party 'overtorqued' on issue,\" Nov. 15, 2026",
+    "source_url": "https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue",
+    "record_url": "https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf",
+    "record_title": "Supreme Court of the United States, Biden v. Nebraska, No. 22-506, opinion of the Court, decided June 30, 2023",
+    "verdict": "Matches record",
+    "why": "In Biden v. Nebraska, decided June 30, 2023 by a 6-3 vote, the Supreme Court held that the HEROES Act did not let the Education Secretary cancel about $430 billion in student loan principal, striking down the administration's plan. The Biden White House's fact sheet the same day announced a new rulemaking under the Higher Education Act \"aimed at opening an alternative path to debt relief,\" and an April 8, 2024 fact sheet announced further plans that, \"if finalized as proposed,\" would bring relief to over 30 million borrowers. Fox's claim concerns attempts, not results; this check does not evaluate whether those later plans took effect.",
+    "what_would_change": "A record showing the administration abandoned debt-cancellation efforts after the June 2023 ruling, or that the Court ruled for the administration in Biden v. Nebraska, would change this verdict.",
+    "outlet": "Fox News, Nov. 15, 2026",
+    "outlet_url": "https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue",
+    "script": "Fox News says Joe Biden kept trying to cancel student loan debt even after the Supreme Court ruled against his administration in 2023. The Court struck down his roughly 430 billion dollar plan on June 30, 2023. That same day, his White House announced a new path to debt relief, and in April 2024 it rolled out more plans. Verdict: matches the record.",
+    "read": "In Biden v. Nebraska, decided June 30, 2023 by a 6-3 vote, the Supreme Court held that the HEROES Act did not let the Education Secretary cancel about $430 billion in student loan principal, striking down the administration's plan. The Biden White House's fact sheet the same day announced a new rulemaking under the Higher Education Act \"aimed at opening an alternative path to debt relief,\" and an April 8, 2024 fact sheet announced further plans that, \"if finalized as proposed,\" would bring relief to over 30 million borrowers. Fox's claim concerns attempts, not results; this check does not evaluate whether those later plans took effect.",
+    "sources": [
+      {
+        "title": "Supreme Court, Biden v. Nebraska, No. 22-506 (June 30, 2023)",
+        "url": "https://www.supremecourt.gov/opinions/22pdf/22-506_nmip.pdf"
+      },
+      {
+        "title": "Biden White House, fact sheet on new debt relief actions, June 30, 2023",
+        "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2023/06/30/fact-sheet-president-biden-announces-new-actions-to-provide-debt-relief-and-support-for-student-loan-borrowers/"
+      },
+      {
+        "title": "Biden White House, fact sheet on new student debt relief plans, April 8, 2024",
+        "url": "https://bidenwhitehouse.archives.gov/briefing-room/statements-releases/2024/04/08/fact-sheet-president-biden-announces-new-plans-that-would-provide-relief-to-borrowers-disproportionately-burdened-by-student-loan-debt/"
+      },
+      {
+        "title": "Fox News, Nov. 15, 2026",
+        "url": "https://www.foxnews.com/media/pete-buttigieg-breaks-democrats-student-loan-handouts-admits-party-overtorqued-issue"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261115-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-15T23:00:00-06:00",
+    "headline": "CNN says Scott Colom is projected to be the first Democrat elected to the Senate from Mississippi in more than four decades; official records show the last was John Stennis in 1982, 44 years ago",
+    "video_url": "",
+    "claim": "\"Eight days after Election Day, CNN projected that Colom would defeat Hyde-Smith, becoming the first Democrat elected to the US Senate in Mississippi in more than four decades.\" — CNN (David Wright), \"Behind the scenes of Scott Colom's viral 'pick another protein' ad,\" Nov. 15, 2026",
+    "source_url": "https://www.cnn.com/2026/11/15/politics/scott-colom-viral-protein-ad-mississippi-senate",
+    "record_url": "https://clerk.house.gov/member_info/electionInfo/1982election.pdf",
+    "record_title": "Clerk of the U.S. House of Representatives, \"Statistics of the Congressional Election of November 2, 1982,\" Mississippi, For United States Senator",
+    "verdict": "Matches record",
+    "why": "The House Clerk's official 1982 election statistics show Democrat John C. Stennis re-elected to the Senate from Mississippi with 414,099 votes to Republican Haley Barbour's 230,927. The Senate Historical Office's Mississippi timeline says Stennis ended his Senate career on Jan. 3, 1989, and the Senate's Mississippi pages show the state's seats since then held by Republicans Trent Lott, Thad Cochran, Roger Wicker and Cindy Hyde-Smith, so 1982 was the last Democratic Senate win, 44 years ago. Colom's victory is a CNN projection, not yet certified.",
+    "what_would_change": "Certified Mississippi results showing Hyde-Smith won, or an official record of a Democrat elected to the Senate from Mississippi after 1982, would change this verdict.",
+    "outlet": "CNN, Nov. 15, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/15/politics/scott-colom-viral-protein-ad-mississippi-senate",
+    "script": "CNN says Scott Colom is set to become the first Democrat elected to the Senate from Mississippi in more than four decades. Official House records show the last one was John Stennis, re-elected in 1982, and the Senate says he left office in 1989. That's 44 years. Colom's win is still a projection until the state certifies it. Verdict: matches the record.",
+    "read": "The House Clerk's official 1982 election statistics show Democrat John C. Stennis re-elected to the Senate from Mississippi with 414,099 votes to Republican Haley Barbour's 230,927. The Senate Historical Office's Mississippi timeline says Stennis ended his Senate career on Jan. 3, 1989, and the Senate's Mississippi pages show the state's seats since then held by Republicans Trent Lott, Thad Cochran, Roger Wicker and Cindy Hyde-Smith, so 1982 was the last Democratic Senate win, 44 years ago. Colom's victory is a CNN projection, not yet certified.",
+    "sources": [
+      {
+        "title": "Clerk of the House, Statistics of the Congressional Election of Nov. 2, 1982",
+        "url": "https://clerk.house.gov/member_info/electionInfo/1982election.pdf"
+      },
+      {
+        "title": "U.S. Senate, Mississippi timeline",
+        "url": "https://www.senate.gov/states/MS/timeline.htm"
+      },
+      {
+        "title": "U.S. Senate, Mississippi senators",
+        "url": "https://www.senate.gov/states/MS/intro.htm"
+      },
+      {
+        "title": "CNN, Nov. 15, 2026",
+        "url": "https://www.cnn.com/2026/11/15/politics/scott-colom-viral-protein-ad-mississippi-senate"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261115-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-15T17:30:00-06:00",
