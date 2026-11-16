@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261116-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-16T11:30:00-06:00",
+    "headline": "Sen. Elizabeth Warren says GM wants to buy back $20 billion of its stock while expecting a $500 million tariff refund; GM's SEC filings back both figures, and its latest report puts the refundable tariff adjustment at $0.7 billion",
+    "video_url": "",
+    "claim": "\"General Motors hiked car prices, laid off thousands of workers, and now wants to buy back $20 BILLION worth of their own stock — all while expecting a $500 MILLION tariff refund.\" — Sen. Elizabeth Warren (@SenWarren) on X, Nov. 16, 2026, about 46,000 views and 2,000 likes",
+    "source_url": "https://x.com/SenWarren/status/2122348242138804641",
+    "record_url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000059/gm-20260930.htm",
+    "record_title": "General Motors Co., Form 10-Q quarterly report for the period ended Sept. 30, 2026, filed with the SEC Oct. 20, 2026",
+    "verdict": "Matches record",
+    "why": "GM's quarterly report filed Oct. 20, 2026, says its board \"authorized, in October 2026, $20.0 billion of additional repurchases under our existing share repurchase program, with no expiration date,\" so the buyback figure matches, though it is an open-ended authorization rather than a set purchase. GM's first-quarter report recorded \"a net $0.5 billion favorable adjustment primarily due to previously charged IEEPA tariffs\" it believes are refundable, and its third-quarter report puts that net adjustment at $0.7 billion for the first nine months of 2026, while calling the timing and extent of the refunds uncertain. The filings do not address Warren's statements about price increases or layoffs, which this check does not rate.",
+    "what_would_change": "A GM filing or statement showing the board's $20 billion authorization was withdrawn or smaller, or showing GM no longer expects IEEPA tariff refunds, would change this verdict.",
+    "outlet": "Sen. Elizabeth Warren on X, Nov. 16, 2026",
+    "outlet_url": "https://x.com/SenWarren/status/2122348242138804641",
+    "script": "Senator Elizabeth Warren says General Motors wants to buy back 20 billion dollars of its own stock while expecting a 500 million dollar tariff refund. GM's own SEC filings back both numbers. Its board approved 20 billion dollars in new buybacks in October, with no expiration date, and it booked about half a billion dollars in refundable tariffs in the first quarter, rising to 700 million by September. Verdict: matches the record.",
+    "read": "GM's quarterly report filed Oct. 20, 2026, says its board \"authorized, in October 2026, $20.0 billion of additional repurchases under our existing share repurchase program, with no expiration date,\" so the buyback figure matches, though it is an open-ended authorization rather than a set purchase. GM's first-quarter report recorded \"a net $0.5 billion favorable adjustment primarily due to previously charged IEEPA tariffs\" it believes are refundable, and its third-quarter report puts that net adjustment at $0.7 billion for the first nine months of 2026, while calling the timing and extent of the refunds uncertain. The filings do not address Warren's statements about price increases or layoffs, which this check does not rate.",
+    "sources": [
+      {
+        "title": "General Motors Form 10-Q, quarter ended Sept. 30, 2026 (SEC EDGAR)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000059/gm-20260930.htm"
+      },
+      {
+        "title": "General Motors Form 10-Q, quarter ended March 31, 2026 (SEC EDGAR)",
+        "url": "https://www.sec.gov/Archives/edgar/data/1467858/000146785826000035/gm-20260331.htm"
+      },
+      {
+        "title": "Sen. Elizabeth Warren on X, Nov. 16, 2026",
+        "url": "https://x.com/SenWarren/status/2122348242138804641"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261116-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-16T11:30:00-06:00",
+    "headline": "Fox News says October's 8,288 Southwest border apprehensions were the lowest for any opening month of a fiscal year; CBP's own data show 7,987 in October 2025",
+    "video_url": "",
+    "claim": "\"Border Patrol recorded 8,288 apprehensions in October, the lowest for any opening month of a fiscal year\" — Fox News (Stepheny Price), \"Trump border crackdown drives encounters to record October low as zero-release streak hits 18 months, DHS says,\" Nov. 16, 2026",
+    "source_url": "https://www.foxnews.com/us/trump-border-crackdown-drives-encounters-record-october-low-zero-release-streak-hits-18-months-dhs-says",
+    "record_url": "https://www.cbp.gov/newsroom/stats/nationwide-encounters-fy2026",
+    "record_title": "U.S. Customs and Border Protection, \"Nationwide Encounters, FY 2026\" (U.S. Border Patrol monthly apprehension totals), accessed Nov. 16, 2026",
+    "verdict": "Contradicted",
+    "why": "CBP's own monthly table lists 8,288 Southwest border apprehensions in October 2026, matching Fox, and its fiscal 2026 table lists 8,936 in September, so the 7% drop also checks out. But the same fiscal 2026 table shows 7,987 Southwest border apprehensions in October 2025, the opening month of the previous fiscal year, so this October was not the lowest. The DHS release Fox cites says nationwide encounters, a broader measure, were the lowest ever to start a fiscal year; it does not make that claim about Southwest border apprehensions.",
+    "what_would_change": "A CBP revision lowering October 2026 below 7,987 Southwest border apprehensions, or raising the October 2025 figure above 8,288, would change this verdict.",
+    "outlet": "Fox News, Nov. 16, 2026",
+    "outlet_url": "https://www.foxnews.com/us/trump-border-crackdown-drives-encounters-record-october-low-zero-release-streak-hits-18-months-dhs-says",
+    "script": "Fox News says Border Patrol's 8,288 apprehensions at the Southwest border in October were the lowest for the first month of any fiscal year. CBP's own figures confirm the 8,288. But CBP's data for last fiscal year show 7,987 Southwest border apprehensions in October 2025, which is lower. The Homeland Security release Fox cites made the record claim about nationwide encounters, a broader count. Verdict: contradicted.",
+    "read": "CBP's own monthly table lists 8,288 Southwest border apprehensions in October 2026, matching Fox, and its fiscal 2026 table lists 8,936 in September, so the 7% drop also checks out. But the same fiscal 2026 table shows 7,987 Southwest border apprehensions in October 2025, the opening month of the previous fiscal year, so this October was not the lowest. The DHS release Fox cites says nationwide encounters, a broader measure, were the lowest ever to start a fiscal year; it does not make that claim about Southwest border apprehensions.",
+    "sources": [
+      {
+        "title": "U.S. Customs and Border Protection, Nationwide Encounters FY 2026",
+        "url": "https://www.cbp.gov/newsroom/stats/nationwide-encounters-fy2026"
+      },
+      {
+        "title": "U.S. Customs and Border Protection, Nationwide Encounters (FY 2027 to date)",
+        "url": "https://www.cbp.gov/newsroom/stats/nationwide-encounters"
+      },
+      {
+        "title": "U.S. Department of Homeland Security press release, Nov. 16, 2026",
+        "url": "https://www.dhs.gov/news/2026/11/16/under-president-trump-and-secretary-mullin-cbps-nationwide-encounters-october-were"
+      },
+      {
+        "title": "Fox News, Nov. 16, 2026",
+        "url": "https://www.foxnews.com/us/trump-border-crackdown-drives-encounters-record-october-low-zero-release-streak-hits-18-months-dhs-says"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261116-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-16T11:30:00-06:00",
+    "headline": "CNN says the Supreme Court turned down Trump's appeal over about $150 million in canceled DEI-related research grants to UC researchers; the order list confirms the denial, but the government's petition says about $59 million remained on those grants",
+    "video_url": "",
+    "claim": "\"The Supreme Court declined on Monday to take up an appeal from the Trump administration defending its decision to cancel tens of millions of dollars in grants to University of California researchers because their work touched on diversity, equity and inclusion ... At stake was about $150 million in National Science Foundation and National Endowment for the Humanities grants that President Donald Trump attempted to cancel shortly after taking office ... the Trump administration appealed to the high court in August.\" — CNN (John Fritze), \"Supreme Court declines Trump push to cut research grants related to DEI,\" Nov. 16, 2026",
+    "source_url": "https://www.cnn.com/2026/11/16/politics/supreme-court-trump-grants",
+    "record_url": "https://www.supremecourt.gov/DocketPDF/26/26-210/419403/20260818155050746_Trump_v_Thakur_petn_final.pdf",
+    "record_title": "Petition for a writ of certiorari, Trump v. Thakur, No. 26-210, U.S. Supreme Court, filed Aug. 18, 2026",
+    "verdict": "Missing context",
+    "why": "The Supreme Court's Nov. 16 order list includes No. 26-210, Trump v. Thakur, among petitions denied, with no noted dissent, and the docket shows the government filed its petition Aug. 18, 2026, matching CNN. But the solicitor general's petition says the NSF and NEH grants at issue \"awarded approximately $150 million\" in total and \"had approximately $59 million remaining on them\" when they were terminated, so the money the administration was trying to cut off was closer to $59 million than $150 million. CNN's own first paragraph describes it as \"tens of millions of dollars.\"",
+    "what_would_change": "Court records showing more than $59 million remained unpaid on the terminated NSF and NEH grants, or a correction to the petition's figures, would change this verdict.",
+    "outlet": "CNN, Nov. 16, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/16/politics/supreme-court-trump-grants",
+    "script": "CNN says the Supreme Court declined Monday to hear the Trump administration's appeal over canceled diversity-related research grants to University of California researchers, with about 150 million dollars at stake. The court's order list confirms the denial, with no noted dissent. But the government's own petition says those grants totaled about 150 million dollars when awarded, and only about 59 million was left on them when they were canceled. Verdict: missing context.",
+    "read": "The Supreme Court's Nov. 16 order list includes No. 26-210, Trump v. Thakur, among petitions denied, with no noted dissent, and the docket shows the government filed its petition Aug. 18, 2026, matching CNN. But the solicitor general's petition says the NSF and NEH grants at issue \"awarded approximately $150 million\" in total and \"had approximately $59 million remaining on them\" when they were terminated, so the money the administration was trying to cut off was closer to $59 million than $150 million. CNN's own first paragraph describes it as \"tens of millions of dollars.\"",
+    "sources": [
+      {
+        "title": "Petition for a writ of certiorari, Trump v. Thakur, No. 26-210 (Aug. 18, 2026)",
+        "url": "https://www.supremecourt.gov/DocketPDF/26/26-210/419403/20260818155050746_Trump_v_Thakur_petn_final.pdf"
+      },
+      {
+        "title": "Supreme Court of the United States, order list, Nov. 16, 2026",
+        "url": "https://www.supremecourt.gov/orders/courtorders/111626zor_cb7d.pdf"
+      },
+      {
+        "title": "Supreme Court docket, No. 26-210",
+        "url": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-210.html"
+      },
+      {
+        "title": "CNN, Nov. 16, 2026",
+        "url": "https://www.cnn.com/2026/11/16/politics/supreme-court-trump-grants"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261116-reframe-cnbc-trump-blames-biden-faa",
     "slot": "ReFrame",
     "lead": true,
