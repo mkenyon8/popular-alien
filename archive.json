@@ -1,5 +1,49 @@
 [
   {
+    "id": "20261116-reframe-rapid-response-47-blanche-congress-trial",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-16T20:00:00-06:00",
+    "label": "ReFrame",
+    "claim": "AG Todd Blanche says a congressional trial and conviction 'has never been' Congress's job; the Supreme Court backs the limit but calls subpoena power broad",
+    "outlet": "Rapid Response 47 on X",
+    "outlet_url": "https://x.com/RapidResponse47/status/2122175369788719168",
+    "source_url": "https://x.com/RapidResponse47/status/2122175369788719168",
+    "record_url": "https://www.supremecourt.gov/opinions/19pdf/19-715_febh.pdf",
+    "record_title": "Supreme Court of the United States, Trump v. Mazars USA, LLP, No. 19-715, opinion of the Court, decided July 9, 2020",
+    "read": "A Nov. 15 video posted by Rapid Response 47 on X has Attorney General Todd Blanche saying that incoming congressional Democrats are talking about subpoenas, investigations, \"a trial and a conviction,\" and that \"has never been their job\"; they can do oversight. The Supreme Court's Mazars opinion backs the core limit, since Congress may not use subpoenas for law enforcement or to try someone before a committee. But the same opinion calls Congress's power to investigate \"broad,\" and the Constitution gives the House the sole power of impeachment and the Senate the sole power to try impeachments, with conviction on a two-thirds vote. \"Never\" is too sweeping. Graded B- on 1 argument (Attorney General Blanche B-: not valid, not cogent, partly supported, no fallacies). Scorecard: 0% valid, 0% cogent, 50% supported, 100% fallacy-free.",
+    "grade": "B-",
+    "scores": {
+      "valid": 0,
+      "cogent": 0,
+      "supported": 50,
+      "fallacy_free": 100
+    },
+    "why": "Blanche is right that committees can't try anyone, but he leaves out Congress's broad subpoena power and its impeachment trials. Key question: If the Constitution gives the Senate the sole power to try impeachments, how is a trial and conviction never Congress's job?",
+    "sources": [
+      {
+        "title": "Rapid Response 47 on X, Nov. 15, 2026",
+        "url": "https://x.com/RapidResponse47/status/2122175369788719168"
+      },
+      {
+        "title": "Supreme Court of the United States, Trump v. Mazars USA, LLP, No. 19-715 (July 9, 2020)",
+        "url": "https://www.supremecourt.gov/opinions/19pdf/19-715_febh.pdf"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Missing context)",
+        "url": "https://popularalien.com/story/20261115-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261115-late.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261115-late.mp4",
+    "popart_story": "20261115-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Rapid Response 47 on X reports: AG Todd Blanche says a congressional trial and conviction 'has never been' Congress's job; the Supreme Court backs the limit but calls subpoena power broad.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261116-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-16T17:30:00-06:00",
