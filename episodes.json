@@ -1,5 +1,49 @@
 [
   {
+    "id": "20261117-reframe-white-house-ustr-exports-tariffs",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-17T03:53:02-06:00",
+    "label": "ReFrame",
+    "claim": "White House quotes USTR: exports topped $300B every month this year, 10th month of manufacturing expansion",
+    "outlet": "The White House on X",
+    "outlet_url": "https://x.com/WhiteHouse/status/2122491799340011702",
+    "source_url": "https://x.com/WhiteHouse/status/2122491799340011702",
+    "record_url": "https://www.bea.gov/sites/default/files/2026-11/trad0926.pdf",
+    "record_title": "U.S. Census Bureau and U.S. Bureau of Economic Analysis, U.S. International Trade in Goods and Services, September 2026 (FT-900), released Nov. 4, 2026, Exhibit 1",
+    "read": "A Nov. 16 post by The White House on X quotes the U.S. Trade Representative: the U.S. has exported over $300 billion in goods and services every month this year, breaking records, and is in the tenth month of a manufacturing expansion. The Census Bureau and BEA's September report shows exports above $300 billion in every month of 2026, from $301.3 billion in January to $321.5 billion in September, with a record of $329.9 billion in April; later months have not topped it. ISM's October report says manufacturing expanded for the 10th consecutive month (PMI 55.5). The same trade report shows the monthly deficit roughly doubled, from $52.9 billion in April to $105.0 billion in September, and the data does not show that tariffs caused the results. Graded B+ on 1 argument (U.S. Trade Representative B+: not valid, cogent, strongly supported, no fallacies). Scorecard: 0% valid, 100% cogent, 100% supported, 100% fallacy-free.",
+    "grade": "B+",
+    "scores": {
+      "valid": 0,
+      "cogent": 100,
+      "supported": 100,
+      "fallacy_free": 100
+    },
+    "why": "The export and manufacturing figures match the Census/BEA and ISM records; the framing is selective but the claim itself holds. Key question: If the trade deficit rose from $52.9 billion to $105.0 billion, what do record exports alone say about tariff success?",
+    "sources": [
+      {
+        "title": "The White House on X, Nov. 16, 2026",
+        "url": "https://x.com/WhiteHouse/status/2122491799340011702"
+      },
+      {
+        "title": "U.S. Census Bureau and BEA, U.S. International Trade in Goods and Services, September 2026 (FT-900)",
+        "url": "https://www.bea.gov/sites/default/files/2026-11/trad0926.pdf"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261116-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261116-late.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261116-late.mp4",
+    "popart_story": "20261116-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... The White House on X reports: White House quotes USTR: exports topped 300 dollarsB every month this year, 10th month of manufacturing expansion.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261116-late",
     "slot": "Late Check",
     "aired_at": "2026-11-16T23:00:00-06:00",
