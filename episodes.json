@@ -1,5 +1,64 @@
 [
   {
+    "id": "20261116-field-trump-xi-putin-summit",
+    "slot": "Midday Check",
+    "label": "Field Report",
+    "aired_at": "2026-11-17T04:14:01-06:00",
+    "headline": "Trump heads to Asia for the first Trump-Xi-Putin meeting; his officials said Ukraine wouldn't come up, but Trump says it will",
+    "claim": "“Mr. Trump is not expected to speak about the 4 ½-year war in Ukraine during the summit.” — CBS News, Nov. 16, 2026",
+    "outlet": "CBS News, “Trump heads to Asia ahead of summit with Putin and Xi, possible meeting with Kim Jong Un,” Nov. 16, 2026",
+    "outlet_url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+    "source_url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/",
+    "record_url": "https://www.mfa.gov.cn/eng/xw/fyrbt/202611/t20261116_12060306.html",
+    "record_title": "Chinese Foreign Ministry, Mao Ning's regular press conference, Nov. 16, 2026",
+    "verdict": "Missing context",
+    "read": "President Trump left the White House on Nov. 16 for Manila, where he is set to meet the leaders of Japan, India and Australia and sign a trade deal with Thailand, before flying to Shenzhen for the APEC summit. On Thursday, Nov. 19, he is to meet Xi Jinping and Vladimir Putin together; China's Foreign Ministry called it the first face-to-face meeting ever between the three countries' leaders and said it is of “groundbreaking significance,” without saying whether nuclear arms or Iran are on the agenda. A White House official said the focus is nuclear arms but that “we do not expect to get to any kind of agreement.” Administration officials said Friday that Ukraine would not come up; on Monday, Trump said, “We'll talk about, my favorite subject, Ukraine.”",
+    "why": "Coverage split on whether Ukraine is on the agenda. CBS News reported both that Trump said he would discuss Ukraine and that he is not expected to, and described the war as 4½ years old although Russia's full-scale invasion began Feb. 24, 2022. The Guardian attributed the no-Ukraine plan to Trump himself; AP reports it came from administration officials on Friday, and Trump said Monday that Ukraine would be discussed.",
+    "what_would_change": "An official agenda or readout from the Nov. 19 meeting would show whether Ukraine was discussed; a White House or Chinese statement listing the topics would settle what is on the table.",
+    "sources": [
+      {
+        "title": "CBS News, “Trump heads to Asia ahead of summit with Putin and Xi, possible meeting with Kim Jong Un,” Nov. 16, 2026",
+        "url": "https://www.cbsnews.com/news/trump-asia-trip-trilateral-summit-putin-xi/"
+      },
+      {
+        "title": "Ministry of Foreign Affairs of the People's Republic of China, “Foreign Ministry Spokesperson Mao Ning's Regular Press Conference on November 16, 2026”",
+        "url": "https://www.mfa.gov.cn/eng/xw/fyrbt/202611/t20261116_12060306.html"
+      },
+      {
+        "title": "Associated Press, “The Latest: Trump says he plans to talk about war in Ukraine during meeting with Xi and Putin,” Nov. 16, 2026",
+        "url": "https://apnews.com/article/president-donald-trump-asia-a31165456bf217de16f1c4e646b72bd2"
+      },
+      {
+        "title": "NPR, “Trump meets with Xi and Putin amid Nvidia fallout,” Nov. 16, 2026",
+        "url": "https://www.npr.org/2026/11/16/nx-s1-6041738/trump-xi-and-putin-china-nvidia"
+      },
+      {
+        "title": "The Guardian, “Trump to embark on Asia trip in apparent foreign policy push before end of term,” Nov. 16, 2026",
+        "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-asia-foreign-domestic-policy"
+      },
+      {
+        "title": "Reuters via NBC News, “Trump-Xi-Putin meeting has ‘groundbreaking significance,’ China says,” Nov. 16, 2026",
+        "url": "https://www.nbcnews.com/world/china/trump-xi-putin-meeting-significance-rcna609548"
+      },
+      {
+        "title": "Field Report with Priya Nair (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261116-trump-asia-trip.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/fr-20261116-trump-asia-trip.mp4",
+    "script": "Coming to you virtually from Shenzhen, China. I'm Priya Nair. President Trump is headed here for a first-ever meeting with Xi Jinping and Vladimir Putin. Here's the record.\nTrump left Monday for Manila, where he's set to meet the leaders of Japan, India and Australia and sign a trade deal with Thailand. On Thursday, he meets Xi and Putin here, at the APEC summit.\nChina's Foreign Ministry calls it the first face-to-face meeting ever between the leaders of China, Russia and the United States, of groundbreaking significance. It did not say whether nuclear arms or Iran are on the agenda.\nA White House official said the focus is nuclear arms, but added, we do not expect to get to any kind of agreement. Officials said Friday that Ukraine would not come up. On Monday, Trump said, we'll talk about my favorite subject, Ukraine.\nHow it was told.\nOne. CBS News reports Trump said he would discuss Ukraine. Later, the same article says he's not expected to, and calls the war four and a half years old. Russia's full-scale invasion began in February 2022.\nTwo. The Guardian wrote that Trump has said Ukraine will not be up for debate at the meeting. The A.P. reports that came from administration officials on Friday. Trump himself said Monday that Ukraine would be discussed.\nFull explainer at popularalien.com. From Shenzhen, I'm Priya Nair.",
+    "corrections": [],
+    "field_report": {
+      "reporter": "Priya Nair",
+      "dateline": "Shenzhen, China",
+      "video_url": "https://show.popularalien.com/talk/fr-20261116-trump-asia-trip.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261116-trump-asia-trip.jpg",
+      "duration_s": 89.7,
+      "published_at": "2026-11-17T04:14:01-06:00",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
+  },
+  {
     "id": "20261117-reframe-white-house-ustr-exports-tariffs",
     "slot": "ReFrame",
     "lead": false,
