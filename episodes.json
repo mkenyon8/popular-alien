@@ -1,5 +1,92 @@
 [
   {
+    "id": "20261117-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-17T06:30:00-06:00",
+    "headline": "President Trump says the U.S. is making rare earths 'at a level that we've never made before' and will catch China within ten months; USGS shows a U.S. high of 51,000 tons in 2025, but China mined 270,000",
+    "video_url": "",
+    "claim": "\"We are making rare earth at a level that we've never made before. We're going to catch them within ten months, they say... We're producing major numbers when it comes to rare earth.\" — President Donald Trump, remarks to reporters posted by Rapid Response 47 on X, Nov. 17, 2026",
+    "source_url": "https://x.com/RapidResponse47/status/2122646716944114113",
+    "record_url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf",
+    "record_title": "U.S. Geological Survey, Mineral Commodity Summaries 2026: Rare Earths (U.S. and world mine production, 2021–2025)",
+    "verdict": "Missing context",
+    "why": "The USGS puts U.S. rare-earth mine output at an estimated 51,000 tons of oxide in 2025, up from 45,500 in 2024 and the highest of the five years it lists, while U.S. production of rare-earth compounds and metals roughly doubled to 8,900 tons, so the 'more than ever' part is backed for recent years. But the same report puts China's 2025 mine production at 270,000 tons, more than five times the U.S. total, and China dominates processing too. Nothing in the record supports closing that gap within ten months, and Trump himself attributes the timeline to what 'they say.'",
+    "what_would_change": "USGS or Commerce Department data showing U.S. rare-earth output on track to approach China's roughly 270,000 tons within a year, or a named government or industry projection backing the ten-month timeline, would move this toward Matches record; 2026 data showing U.S. output fell would move it toward Contradicted.",
+    "outlet": "Rapid Response 47 on X, Nov. 17, 2026",
+    "outlet_url": "https://x.com/RapidResponse47/status/2122646716944114113",
+    "script": "President Trump says America is making rare earths at a level it has never made before, and will catch China within ten months. The U.S. Geological Survey estimates U.S. mines produced 51,000 tons in 2025, the most in the years it lists. But China mined 270,000 tons, more than five times as much, and no record backs a ten-month catch-up. Verdict: missing context.",
+    "read": "The USGS puts U.S. rare-earth mine output at an estimated 51,000 tons of oxide in 2025, up from 45,500 in 2024 and the highest of the five years it lists, while U.S. production of rare-earth compounds and metals roughly doubled to 8,900 tons, so the 'more than ever' part is backed for recent years. But the same report puts China's 2025 mine production at 270,000 tons, more than five times the U.S. total, and China dominates processing too. Nothing in the record supports closing that gap within ten months, and Trump himself attributes the timeline to what 'they say.'",
+    "sources": [
+      {
+        "title": "U.S. Geological Survey, Mineral Commodity Summaries 2026: Rare Earths (U.S. and world mine production, 2021–2025)",
+        "url": "https://pubs.usgs.gov/periodicals/mcs2026/mcs2026-rare-earths.pdf"
+      },
+      {
+        "title": "Rapid Response 47 on X, Nov. 17, 2026",
+        "url": "https://x.com/RapidResponse47/status/2122646716944114113"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261117-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-17T06:30:00-06:00",
+    "headline": "Fox News says gas averaged $3.81 a gallon Monday, about 75 cents above a year ago, with diesel near $6 and up about $2.23; AAA's national averages match",
+    "video_url": "",
+    "claim": "\"The average was $3.81 per gallon as of Monday, about 75 cents more than a year ago, according to AAA. Diesel averaged nearly $6 per gallon, about $2.23 more than a year earlier.\" — Fox News, \"Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs,\" Nov. 16, 2026",
+    "source_url": "https://www.foxnews.com/politics/ro-khanna-pitches-1700-checks-americans-offset-iran-war-costs-chance-deliver",
+    "record_url": "https://gasprices.aaa.com/",
+    "record_title": "AAA Gas Prices, national average price table (checked Nov. 17, 2026: Monday's 'yesterday' average and year-ago average)",
+    "verdict": "Matches record",
+    "why": "AAA's national table, checked Tuesday morning, lists Monday's regular average at $3.8118 and diesel at $5.9989, against year-ago averages of $3.0729 and $3.7655. That is about 74 cents more for regular and $2.23 more for diesel, so Fox's figures line up, and the month-ago regular average of $4.31 backs its point that prices had topped $4 before easing. Fox reports the numbers without claiming the war is the sole cause, so there is no causal claim here to test.",
+    "what_would_change": "AAA's archived Monday, Nov. 16 figures showing a regular average meaningfully different from $3.81 or a year-over-year gap far from 75 cents, or a diesel average well short of $6, would change this verdict.",
+    "outlet": "Fox News, Nov. 16, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/ro-khanna-pitches-1700-checks-americans-offset-iran-war-costs-chance-deliver",
+    "script": "Fox News says gas averaged three eighty-one a gallon on Monday, about seventy-five cents more than a year ago, and diesel nearly six dollars, up about two twenty-three. AAA's national averages show regular at three eighty-one and diesel at five ninety-nine on Monday, against three oh-seven and three seventy-seven a year ago. Verdict: matches the record.",
+    "read": "AAA's national table, checked Tuesday morning, lists Monday's regular average at $3.8118 and diesel at $5.9989, against year-ago averages of $3.0729 and $3.7655. That is about 74 cents more for regular and $2.23 more for diesel, so Fox's figures line up, and the month-ago regular average of $4.31 backs its point that prices had topped $4 before easing. Fox reports the numbers without claiming the war is the sole cause, so there is no causal claim here to test.",
+    "sources": [
+      {
+        "title": "AAA Gas Prices, national average price table (checked Nov. 17, 2026: Monday's 'yesterday' average and year-ago average)",
+        "url": "https://gasprices.aaa.com/"
+      },
+      {
+        "title": "Fox News, Nov. 16, 2026",
+        "url": "https://www.foxnews.com/politics/ro-khanna-pitches-1700-checks-americans-offset-iran-war-costs-chance-deliver"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261117-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-17T06:30:00-06:00",
+    "headline": "CNN says Evan Bayh was elected Indiana governor two years after winning secretary of state, the path Democrats hope his son Beau will follow; the National Governors Association record shows 1986 and 1988",
+    "video_url": "",
+    "claim": "\"...the chatter about Bayh potentially following the same path as his father, who was elected governor two years after being elected secretary of state, was already underway long before election night.\" — CNN, \"Democrats hope a familiar name can help put Indiana back in play,\" Nov. 17, 2026",
+    "source_url": "https://www.cnn.com/2026/11/17/politics/beau-bayh-indiana-democrats",
+    "record_url": "https://www.nga.org/governor/evan-bayh/",
+    "record_title": "National Governors Association, Former Governors: Indiana Governor Evan Bayh (biography)",
+    "verdict": "Matches record",
+    "why": "The National Governors Association's biography says Evan Bayh 'was elected secretary of state in 1986 and governor in November 1988,' exactly two years apart, and that he became the youngest governor in the country in 1989. It also confirms he later won the U.S. Senate seat his father, Birch Bayh, once held, consistent with CNN's description of the family. CNN's point about Beau Bayh possibly repeating that path is speculation from named Democrats, not a factual claim.",
+    "what_would_change": "Indiana election records showing Evan Bayh won the secretary of state or governor's race in a different year than 1986 and 1988 would change this verdict.",
+    "outlet": "CNN, Nov. 17, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/17/politics/beau-bayh-indiana-democrats",
+    "script": "CNN says Evan Bayh was elected Indiana governor two years after he was elected secretary of state, the path Democrats hope his son Beau, Indiana's new secretary of state, might follow. The National Governors Association's biography confirms it: secretary of state in 1986, governor in November 1988. Verdict: matches the record.",
+    "read": "The National Governors Association's biography says Evan Bayh 'was elected secretary of state in 1986 and governor in November 1988,' exactly two years apart, and that he became the youngest governor in the country in 1989. It also confirms he later won the U.S. Senate seat his father, Birch Bayh, once held, consistent with CNN's description of the family. CNN's point about Beau Bayh possibly repeating that path is speculation from named Democrats, not a factual claim.",
+    "sources": [
+      {
+        "title": "National Governors Association, Former Governors: Indiana Governor Evan Bayh (biography)",
+        "url": "https://www.nga.org/governor/evan-bayh/"
+      },
+      {
+        "title": "CNN, Nov. 17, 2026",
+        "url": "https://www.cnn.com/2026/11/17/politics/beau-bayh-indiana-democrats"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261116-field-trump-xi-putin-summit",
     "slot": "Midday Check",
     "label": "Field Report",
