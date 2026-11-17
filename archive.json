@@ -1,5 +1,100 @@
 [
   {
+    "id": "20261116-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-16T23:00:00-06:00",
+    "headline": "The White House quotes the U.S. Trade Representative saying exports topped $300 billion every month this year, 'breaking records,' in the tenth month of a manufacturing expansion; Census and BEA data show all nine months above $300 billion, with the record set in April, and ISM confirms the 10-month streak",
+    "video_url": "",
+    "claim": "\"The U.S. has exported over $300 billion in goods and services every month this year, breaking records. We are in the tenth month of a manufacturing expansion.\" — the U.S. Trade Representative in a Wall Street Journal op-ed, \"The Success of President Trump's Tariff Policy,\" as quoted by The White House (@WhiteHouse) on X, Nov. 16, 2026, about 156,000 views and 4,000 likes",
+    "source_url": "https://x.com/WhiteHouse/status/2122491799340011702",
+    "record_url": "https://www.bea.gov/sites/default/files/2026-11/trad0926.pdf",
+    "record_title": "U.S. Census Bureau and U.S. Bureau of Economic Analysis, U.S. International Trade in Goods and Services, September 2026 (FT-900), released Nov. 4, 2026, Exhibit 1",
+    "verdict": "Matches record",
+    "why": "The Census Bureau and BEA's September report shows seasonally adjusted exports of goods and services above $300 billion in every month of 2026 so far, from $301.3 billion in January to $321.5 billion in September; January through April each set a new monthly high, peaking at $329.9 billion in April, and later months have not topped that. Year-to-date exports are up 11.6% from 2025, though the same report shows the monthly trade deficit roughly doubled from $52.9 billion in April to $105.0 billion in September. ISM's October report says manufacturing expanded for the 10th consecutive month, with the PMI at 55.5.",
+    "what_would_change": "A revision in the next Census/BEA trade release pushing any 2026 month below $300 billion, or a revised ISM series showing a contraction reading in the past 10 months, would change this verdict.",
+    "outlet": "The White House on X, Nov. 16, 2026",
+    "outlet_url": "https://x.com/WhiteHouse/status/2122491799340011702",
+    "script": "The White House is quoting the U.S. Trade Representative: exports topped 300 billion dollars every month this year, breaking records, and manufacturing is in its tenth month of expansion. Census and BEA data show every month of 2026 above 300 billion, with records set through April, peaking near 330 billion. The trade deficit has also doubled since April. And the Institute for Supply Management confirms ten straight months of growth. Verdict: matches the record.",
+    "read": "The Census Bureau and BEA's September report shows seasonally adjusted exports of goods and services above $300 billion in every month of 2026 so far, from $301.3 billion in January to $321.5 billion in September; January through April each set a new monthly high, peaking at $329.9 billion in April, and later months have not topped that. Year-to-date exports are up 11.6% from 2025, though the same report shows the monthly trade deficit roughly doubled from $52.9 billion in April to $105.0 billion in September. ISM's October report says manufacturing expanded for the 10th consecutive month, with the PMI at 55.5.",
+    "sources": [
+      {
+        "title": "U.S. Census Bureau and BEA, U.S. International Trade in Goods and Services, September 2026 (Nov. 4, 2026)",
+        "url": "https://www.bea.gov/sites/default/files/2026-11/trad0926.pdf"
+      },
+      {
+        "title": "Institute for Supply Management, October 2026 Manufacturing PMI Report",
+        "url": "https://www.ismworld.org/supply-management-news-and-reports/reports/ism-pmi-reports/pmi/october/"
+      },
+      {
+        "title": "The White House on X, Nov. 16, 2026",
+        "url": "https://x.com/WhiteHouse/status/2122491799340011702"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261116-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-16T23:00:00-06:00",
+    "headline": "Fox News says James Comer, now running for Kentucky governor, narrowly lost the 2015 GOP primary to Matt Bevin; Kentucky's official results show Bevin won by 83 votes out of more than 214,000",
+    "video_url": "",
+    "claim": "\"Comer ran for Kentucky governor in 2015 but narrowly lost the GOP primary to former Gov. Matt Bevin.\" — Fox News (Elizabeth Elkind), \"James Comer launches campaign for Kentucky governor,\" Nov. 16, 2026",
+    "source_url": "https://www.foxnews.com/politics/james-comer-launches-bid-kentucky-governor",
+    "record_url": "https://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2010-2019/2015/2015%20primary%20results.pf.pdf",
+    "record_title": "Commonwealth of Kentucky, Secretary of State Alison Lundergan Grimes, Official 2015 Primary Election Results, May 19, 2015 (Governor and Lieutenant Governor, Republican Party)",
+    "verdict": "Matches record",
+    "why": "Kentucky's official May 19, 2015 primary results give Matt Bevin 70,480 votes and James R. Comer 70,397 in the Republican race for governor, an 83-vote margin, with Hal Heiner at 57,951 and Will T. Scott at 15,365. That is about 32.9% each out of 214,193 votes, so 'narrowly' is accurate. Bevin went on to win the governorship that November and served one term, so 'former Gov.' is also correct.",
+    "what_would_change": "An amended official canvass from the Kentucky State Board of Elections showing Comer, not Bevin, finished first in the 2015 Republican primary, or a wider margin than the 83 votes in the official results, would change this verdict.",
+    "outlet": "Fox News, Nov. 16, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/james-comer-launches-bid-kentucky-governor",
+    "script": "Fox News says James Comer, who just launched a run for Kentucky governor, narrowly lost the 2015 Republican primary to Matt Bevin. Kentucky's official results show Bevin with 70,480 votes and Comer with 70,397. That's a margin of 83 votes out of more than 214,000 cast. Verdict: matches the record.",
+    "read": "Kentucky's official May 19, 2015 primary results give Matt Bevin 70,480 votes and James R. Comer 70,397 in the Republican race for governor, an 83-vote margin, with Hal Heiner at 57,951 and Will T. Scott at 15,365. That is about 32.9% each out of 214,193 votes, so 'narrowly' is accurate. Bevin went on to win the governorship that November and served one term, so 'former Gov.' is also correct.",
+    "sources": [
+      {
+        "title": "Kentucky Secretary of State, Official 2015 Primary Election Results (May 19, 2015)",
+        "url": "https://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2010-2019/2015/2015%20primary%20results.pf.pdf"
+      },
+      {
+        "title": "Fox News, Nov. 16, 2026",
+        "url": "https://www.foxnews.com/politics/james-comer-launches-bid-kentucky-governor"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261116-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-16T23:00:00-06:00",
+    "headline": "CNN says a 2015 law requires FEMA to run a nationwide alert test at least once every three years and that Tuesday's Emergency Alert System test is TV and radio only; the IPAWS Modernization Act and the FCC's notice back both, though the law was signed in 2016",
+    "video_url": "",
+    "claim": "\"A 2015 law requires FEMA to conduct the nationwide test at least once every three years, and the last one was in October 2023... Tuesday's test is limited to the Emergency Alert System, which is for radio and TV.\" — CNN (Brian Stelter), \"FEMA's emergency alert test comes at anxious moment in the US,\" Nov. 16, 2026",
+    "source_url": "https://www.cnn.com/2026/11/16/media/eas-test-federal-emergency-alert-system-fema-media",
+    "record_url": "https://www.govinfo.gov/content/pkg/PLAW-114publ143/html/PLAW-114publ143.htm",
+    "record_title": "Integrated Public Alert and Warning System Modernization Act of 2015, Public Law 114-143, 130 Stat. 327 (approved April 11, 2016), via GovInfo",
+    "verdict": "Matches record",
+    "why": "The Integrated Public Alert and Warning System Modernization Act of 2015 directs FEMA to conduct \"not less than once every 3 years, periodic nationwide tests of the public alert and warning system,\" which matches CNN's description; the act carries 2015 in its name but was approved April 11, 2016. The FCC says FEMA will run a nationwide EAS test on Nov. 17, 2026, with Dec. 3 as the backup date, and the FCC's September notice lists radio, TV, cable, satellite and wireline video providers as participants, not cellphone Wireless Emergency Alerts, as CNN reports.",
+    "what_would_change": "An FCC or FEMA notice adding Wireless Emergency Alerts to the Nov. 17 test, or an amendment to the IPAWS law changing the three-year testing requirement, would change this verdict.",
+    "outlet": "CNN, Nov. 16, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/16/media/eas-test-federal-emergency-alert-system-fema-media",
+    "script": "CNN says a 2015 law requires FEMA to test the national alert system at least once every three years, and that Tuesday's test is only on TV and radio. The IPAWS Modernization Act says exactly that: nationwide tests no less than once every three years. It's named for 2015 but was signed in April 2016. The FCC confirms Tuesday's test, with December 3 as the backup, and no phone alerts. Verdict: matches the record.",
+    "read": "The Integrated Public Alert and Warning System Modernization Act of 2015 directs FEMA to conduct \"not less than once every 3 years, periodic nationwide tests of the public alert and warning system,\" which matches CNN's description; the act carries 2015 in its name but was approved April 11, 2016. The FCC says FEMA will run a nationwide EAS test on Nov. 17, 2026, with Dec. 3 as the backup date, and the FCC's September notice lists radio, TV, cable, satellite and wireline video providers as participants, not cellphone Wireless Emergency Alerts, as CNN reports.",
+    "sources": [
+      {
+        "title": "Public Law 114-143, IPAWS Modernization Act of 2015 (approved April 11, 2016)",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-114publ143/html/PLAW-114publ143.htm"
+      },
+      {
+        "title": "FCC, EAS Test Reporting System (ETRS), 2026 nationwide test notice",
+        "url": "https://www.fcc.gov/general/eas-test-reporting-system"
+      },
+      {
+        "title": "CNN, Nov. 16, 2026",
+        "url": "https://www.cnn.com/2026/11/16/media/eas-test-federal-emergency-alert-system-fema-media"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261116-reframe-rapid-response-47-blanche-congress-trial",
     "slot": "ReFrame",
     "lead": false,
