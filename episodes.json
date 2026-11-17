@@ -1,5 +1,64 @@
 [
   {
+    "id": "20261117-field-crimean-bridge-collapse",
+    "slot": "Midday Check",
+    "label": "Field Report",
+    "aired_at": "2026-11-17T16:30:00-06:00",
+    "headline": "Part of the Crimean Bridge collapses after a Ukrainian strike; the road is out of service, and Russia says trains are running on one track",
+    "claim": "“The collapse of the arched section has cut off the peninsula's direct road and rail links with Russia.” — BBC News, Nov. 17, 2026",
+    "outlet": "BBC News, “Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine,” Nov. 17, 2026",
+    "outlet_url": "https://www.bbc.com/news/articles/cw772jk4rvmxo",
+    "source_url": "https://www.bbc.com/news/articles/cw772jk4rvmxo",
+    "record_url": "https://www.ukrinform.net/rubric-ato/4185542-arch-and-road-span-collapse-general-staff-confirms-results-of-strike-on-crimean-bridge.html",
+    "record_title": "Ukraine's General Staff statement on the Kerch Strait Bridge, via Ukrinform, Nov. 17, 2026",
+    "verdict": "Missing context",
+    "read": "Ukraine struck the Crimean Bridge, which links Russia to occupied Crimea across the Kerch Strait, overnight on Nov. 17. Ukraine's General Staff said an arch and a span of the road section collapsed, that the road section is out of service and no vehicle can cross, and that the railway section is still standing but its arch is damaged. President Volodymyr Zelensky called it “an unprecedented operation” and said it was the seventh stage of an operation lasting several weeks. Russia's Transport Ministry said rail traffic resumed on one track; Kremlin spokesman Dmitry Peskov said the bridge would be restored and “will be even better than before,” and Russia's Investigative Committee opened a criminal case on terrorism charges.",
+    "why": "The BBC wrote that the collapse “has cut off the peninsula's direct road and rail links with Russia,” but the same article reports that the railway section is still standing and that Russia's transport ministry said some rail services resumed. The BBC's headline calls it “Putin's Crimean Bridge”; Russia built the bridge after annexing Crimea in 2014, and the article explains the label, saying the bridge is widely seen as Putin's personal pet project and that he opened it in May 2018.",
+    "what_would_change": "An official Russian statement or independent imagery showing rail traffic halted again would support “cut off” for rail; engineering assessments of the damaged rail arch would show how long rail service can continue.",
+    "sources": [
+      {
+        "title": "BBC News, “Putin's Crimean Bridge partly collapses as Zelensky hails 'unprecedented' attack by Ukraine,” Nov. 17, 2026",
+        "url": "https://www.bbc.com/news/articles/cw772jk4rvmxo"
+      },
+      {
+        "title": "BBC Verify, “How the attack on Putin's prized Crimean Bridge unfolded,” Nov. 17, 2026",
+        "url": "https://www.bbc.com/news/articles/crz9dgz28zwdo"
+      },
+      {
+        "title": "Ukrinform, “Arch and road span collapse: General Staff confirms results of strike on Kerch Bridge,” Nov. 17, 2026",
+        "url": "https://www.ukrinform.net/rubric-ato/4185542-arch-and-road-span-collapse-general-staff-confirms-results-of-strike-on-crimean-bridge.html"
+      },
+      {
+        "title": "Volodymyr Zelensky (@ZelenskyyUa) on X, Nov. 17, 2026",
+        "url": "https://x.com/ZelenskyyUa/status/2122623023488393517"
+      },
+      {
+        "title": "Associated Press, “Ukrainian drones and missiles strike Kerch Bridge that links Russia with Crimea,” Nov. 17, 2026",
+        "url": "https://apnews.com/article/russia-ukraine-war-bridge-crimea-drones-missiles-df4b867cf8f70e88843d8fefea5d643c"
+      },
+      {
+        "title": "Military.com, “Ukraine Strikes Section of Russia's Crimean Bridge Two Days Before Putin Meets Trump, Xi,” Nov. 17, 2026",
+        "url": "https://www.military.com/ukraine-strikes-section-of-russias-crimean-bridge-two-days-before-putin-meets-trump-xi"
+      },
+      {
+        "title": "Field Report with Marcus Okafor (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261117-crimean-bridge.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/fr-20261117-crimean-bridge.mp4",
+    "script": "Coming to you virtually from the Kerch Strait. I'm Marcus Okafor. Overnight, part of the Crimean Bridge linking Russia to occupied Crimea fell into the water. Here's the record.\nUkraine's General Staff says an arch and a span of the bridge's road section collapsed. It says the road is out of service and no vehicle can cross. The railway section is still standing, but its arch is damaged.\nPresident Zelensky called it an unprecedented operation, the seventh stage of a weeks-long effort that first destroyed air defense systems, radars and electronic warfare equipment.\nRussia's Transport Ministry said rail traffic resumed on one track. The Kremlin said the bridge will be restored, even better than before. Russian investigators opened a terrorism case.\nHow it was told.\nOne. The BBC wrote that the collapse cut off Crimea's direct road and rail links with Russia. The same article reports the rail section is still standing, and that some rail services resumed.\nTwo. The BBC's headline calls it Putin's Crimean Bridge. Russia built it after annexing Crimea in 2014. The article explains the label: it's widely seen as Putin's personal pet project.\nFull report at popularalien.com. From the Kerch Strait, I'm Marcus Okafor.",
+    "corrections": [],
+    "field_report": {
+      "reporter": "Marcus Okafor",
+      "dateline": "the Kerch Strait",
+      "video_url": "https://show.popularalien.com/talk/fr-20261117-crimean-bridge.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261117-crimean-bridge.jpg",
+      "duration_s": 85.5,
+      "published_at": "2026-11-17T15:54:00-06:00",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
+  },
+  {
     "id": "20261117-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-17T11:30:00-06:00",
