@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261117-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-17T17:30:00-06:00",
+    "headline": "The Democratic Party says Raymond Smith beat Rep. Greg Murphy to flip North Carolina's 3rd District after Republicans redrew the map in 2025; state results show Smith ahead by 258 votes, and the 2025 redraw is on the books",
+    "video_url": "",
+    "claim": "\"DEM FLIP: Democrat Dr. Raymond Smith has defeated incumbent Republican Rep. Greg Murphy, flipping #NC03 blue. In 2025, North Carolina Republicans redrew their congressional map to benefit the GOP in the midterms. That plan backfired.\" — Democrats (@TheDemocrats), post on X, Nov. 17, 2026",
+    "source_url": "https://x.com/TheDemocrats/status/2122799444827525213",
+    "record_url": "https://er.ncsbe.gov/?election_dt=11/03/2026&county_id=0&office=FED&contest=1371",
+    "record_title": "North Carolina State Board of Elections, Nov. 3, 2026 general election results, U.S. House District 3",
+    "verdict": "Matches record",
+    "why": "The State Board of Elections results show Smith (D) with 118,434 votes to Murphy's (R) 118,176, a 258-vote margin, with all 190 precincts reporting, and Murphy congratulated Smith as representative-elect on Nov. 11. The redraw is real too: the legislature enacted Senate Bill 249, \"Realign Congressional Districts 2025,\" as Session Law 2025-95 on Oct. 22, 2025, after a 66-48 House vote. The results are still unofficial until the state canvass, and \"backfired\" is the party's own spin, not something the record measures.",
+    "what_would_change": "A different certified total from the state canvass, or a recount that changes the winner, would move this to Contradicted; a margin change alone would not.",
+    "outlet": "Democrats (@TheDemocrats) on X, Nov. 17, 2026",
+    "outlet_url": "https://x.com/TheDemocrats/status/2122799444827525213",
+    "script": "The Democratic Party says Raymond Smith beat Republican Congressman Greg Murphy to flip North Carolina's third district, after Republicans redrew the map in twenty twenty-five. The state elections board shows Smith ahead by two hundred fifty-eight votes, and the twenty twenty-five redraw is on the books as state law. Those results are still unofficial until the state canvass, and calling the map a backfire is the party's spin. Verdict: matches the record.",
+    "read": "The State Board of Elections results show Smith (D) with 118,434 votes to Murphy's (R) 118,176, a 258-vote margin, with all 190 precincts reporting, and Murphy congratulated Smith as representative-elect on Nov. 11. The redraw is real too: the legislature enacted Senate Bill 249, \"Realign Congressional Districts 2025,\" as Session Law 2025-95 on Oct. 22, 2025, after a 66-48 House vote. The results are still unofficial until the state canvass, and \"backfired\" is the party's own spin, not something the record measures.",
+    "sources": [
+      {
+        "title": "North Carolina State Board of Elections, Nov. 3, 2026 general election results, U.S. House District 3",
+        "url": "https://er.ncsbe.gov/?election_dt=11/03/2026&county_id=0&office=FED&contest=1371"
+      },
+      {
+        "title": "North Carolina General Assembly, Senate Bill 249 / S.L. 2025-95, \"Realign Congressional Districts 2025\" (ratified Oct. 22, 2025)",
+        "url": "https://www.ncleg.gov/BillLookUp/2025/S249"
+      },
+      {
+        "title": "Carolina Journal, \"Greg Murphy concedes in NC-3,\" Nov. 11, 2026",
+        "url": "https://www.carolinajournal.com/greg-murphy-concedes-in-nc-3/"
+      },
+      {
+        "title": "Democrats (@TheDemocrats) on X, Nov. 17, 2026",
+        "url": "https://x.com/TheDemocrats/status/2122799444827525213"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261117-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-17T17:30:00-06:00",
+    "headline": "Fox News says Gov. Mikie Sherrill spread $20.2 million among 10 providers for New Jersey's deportation defense program, nearly tripling its last budget; the state's own release confirms the split, though the increase from $8.2 million is closer to 2.5 times",
+    "video_url": "",
+    "claim": "\"The $20.2 million will be spread among 10 service providers... Sherrill's new cash infusion nearly tripled the initiative's most recent budget allocation.\" — Fox News, \"Mikie Sherrill sends $20.2 million to NJ deportation defense program,\" Nov. 17, 2026",
+    "source_url": "https://www.foxnews.com/politics/sherrill-commits-20-2m-deportation-defense-condemning-rutgers-border-patrol-speaker",
+    "record_url": "https://www.nj.gov/humanservices/news/pressreleases/2026/approved/20261113.shtml",
+    "record_title": "New Jersey Department of Human Services, \"Sherrill Administration Allocates $20.2 Million Across 10 Providers for Detention Deportation Defense Initiative for New Americans,\" Nov. 13, 2026",
+    "verdict": "Matches record",
+    "why": "The Human Services release from Friday, Nov. 13, announces the full allocation of $20.2 million across 10 legal services providers: about $13 million to existing providers, $5 million to three new removal-defense providers, $1.2 million to two capacity-expansion providers and $1 million to the International Rescue Committee as coordinator. It says the June expansion raised funding from $8.2 million to $20.2 million, \"nearly triple\" past years, which is the state's wording; by the numbers it is about 2.5 times. The money itself was approved in June, so Friday's news was how it was divided, not new funding.",
+    "what_would_change": "Grant contracts or budget documents showing a different total, a different number of providers, or a prior-year allocation other than $8.2 million would move this toward Missing context or Contradicted.",
+    "outlet": "Fox News, Nov. 17, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/sherrill-commits-20-2m-deportation-defense-condemning-rutgers-border-patrol-speaker",
+    "script": "Fox News says Governor Mikie Sherrill is spreading twenty point two million dollars among ten providers for New Jersey's deportation defense program, nearly tripling its last budget. The state's own release confirms the twenty point two million and the ten providers. It calls the jump from eight point two million nearly triple; by the numbers it's about two and a half times, and the money was approved back in June. Verdict: matches the record.",
+    "read": "The Human Services release from Friday, Nov. 13, announces the full allocation of $20.2 million across 10 legal services providers: about $13 million to existing providers, $5 million to three new removal-defense providers, $1.2 million to two capacity-expansion providers and $1 million to the International Rescue Committee as coordinator. It says the June expansion raised funding from $8.2 million to $20.2 million, \"nearly triple\" past years, which is the state's wording; by the numbers it is about 2.5 times. The money itself was approved in June, so Friday's news was how it was divided, not new funding.",
+    "sources": [
+      {
+        "title": "New Jersey Department of Human Services, \"Sherrill Administration Allocates $20.2 Million Across 10 Providers for Detention Deportation Defense Initiative for New Americans,\" Nov. 13, 2026",
+        "url": "https://www.nj.gov/humanservices/news/pressreleases/2026/approved/20261113.shtml"
+      },
+      {
+        "title": "Office of Gov. Mikie Sherrill, \"Protecting Due Process: Governor Sherrill Launches Initiatives to Resist Unconstitutional Immigration Detention and Enforcement by the Trump Administration,\" June 4, 2026",
+        "url": "https://www.nj.gov/governor/news/2026/20260604a.shtml"
+      },
+      {
+        "title": "Fox News, Nov. 17, 2026",
+        "url": "https://www.foxnews.com/politics/sherrill-commits-20-2m-deportation-defense-condemning-rutgers-border-patrol-speaker"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261117-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-17T17:30:00-06:00",
+    "headline": "CNN says an Irish man indicted in New York wrecked a U.S. military C-130 at Shannon Airport, causing at least $60 million in damage, in the fourth breach there since May 2025; the indictment backs the details, but $60 million is the plane's value, not a damage tally",
+    "video_url": "",
+    "claim": "\"The indictment includes images of smashed gauges and ax marks on the plane's exterior... which prosecutors say caused at least $60 million in damage. O'Corrain, 48, allegedly spent months planning the attack, which was the fourth time since May 2025 that people gained unauthorized access to the Shannon airport.\" — CNN, \"Man accessed US military plane at Ireland airport and destroyed it: DOJ,\" Nov. 17, 2026",
+    "source_url": "https://www.cnn.com/2026/11/17/politics/irish-national-charges-destroying-us-military-plane-ireland",
+    "record_url": "https://www.justice.gov/usao-sdny/media/1472641/dl",
+    "record_title": "U.S. District Court, Southern District of New York, Indictment, United States v. Daithi O'Corrain, a/k/a \"David Curran\" (unsealed Nov. 17, 2026)",
+    "verdict": "Matches record",
+    "why": "The indictment charges O'Corrain, 48, with one count of destroying U.S. government property over the April 11, 2026 attack, and lists three earlier Shannon incidents on May 1, May 17 and Nov. 22, 2025, which makes his the fourth, as CNN says. It describes the aircraft as \"worth approximately $60 million\" and says it was rendered inoperable and \"effectively destroyed\"; that is the plane's value, which prosecutors treat as the loss, not an itemized damage estimate. These are allegations; the indictment notes he is presumed innocent, and he remains in Ireland, not U.S. custody.",
+    "what_would_change": "A damage assessment putting the loss well below $60 million, a court finding that fewer earlier breaches occurred, or an acquittal on the charge would move this toward Missing context or Contradicted.",
+    "outlet": "CNN, Nov. 17, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/17/politics/irish-national-charges-destroying-us-military-plane-ireland",
+    "script": "CNN says an Irish man indicted in New York wrecked a U.S. military C-130 at Ireland's Shannon Airport, causing at least sixty million dollars in damage, in the fourth breach there since May twenty twenty-five. The indictment backs that: it lists three earlier incidents and says the plane, worth about sixty million, was effectively destroyed. That figure is the plane's value, not a damage tally, and these are still allegations. Verdict: matches the record.",
+    "read": "The indictment charges O'Corrain, 48, with one count of destroying U.S. government property over the April 11, 2026 attack, and lists three earlier Shannon incidents on May 1, May 17 and Nov. 22, 2025, which makes his the fourth, as CNN says. It describes the aircraft as \"worth approximately $60 million\" and says it was rendered inoperable and \"effectively destroyed\"; that is the plane's value, which prosecutors treat as the loss, not an itemized damage estimate. These are allegations; the indictment notes he is presumed innocent, and he remains in Ireland, not U.S. custody.",
+    "sources": [
+      {
+        "title": "U.S. District Court, Southern District of New York, Indictment, United States v. Daithi O'Corrain, a/k/a \"David Curran\" (unsealed Nov. 17, 2026)",
+        "url": "https://www.justice.gov/usao-sdny/media/1472641/dl"
+      },
+      {
+        "title": "U.S. Attorney's Office, Southern District of New York, \"Irish National Indicted For Destroying $60 Million U.S. Military C-130H Aircraft At Shannon Airport, Ireland,\" Nov. 17, 2026",
+        "url": "https://www.justice.gov/usao-sdny/news"
+      },
+      {
+        "title": "CNN, Nov. 17, 2026",
+        "url": "https://www.cnn.com/2026/11/17/politics/irish-national-charges-destroying-us-military-plane-ireland"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261117-field-crimean-bridge-collapse",
     "slot": "Midday Check",
     "label": "Field Report",
