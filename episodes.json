@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261117-reframe-cnbc-trump-huang-no-risk",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-17T09:53:53-06:00",
+    "label": "Story of the Day",
+    "claim": "Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk",
+    "outlet": "CNBC",
+    "outlet_url": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+    "source_url": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+    "record_url": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html",
+    "record_title": "CNBC, “Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk,” Nov. 16, 2026",
+    "read": "CNBC reports that President Trump said he is OK with Jensen Huang returning as Nvidia CEO and that national security was not put at risk by the Huang affair, and defended Commerce Secretary Howard Lutnick's delay in listing Megaspeed. CNBC's own report is fair and well sourced: it quotes him directly and sets the New York Times report that Secretary of State Rubio warned him in May, and Treasury Secretary Bessent's account that four agencies favored listing Megaspeed for months, beside his claims. The weakest argument was Trump's: he says there was no risk because he doesn't know she was a spy, which is an appeal to ignorance, and he answers a stereotype rather than the surveillance and chip-smuggling concerns officials raised (straw man). His defense of Lutnick is an honest trade-off argument but doesn't weigh the other side. Graded C across 3 arguments (Trump D; Trump on Lutnick C; CNBC A-). Scorecard: 67% valid, 33% cogent, 50% supported, 60% fallacy-free.",
+    "grade": "C",
+    "scores": {
+      "valid": 67,
+      "cogent": 33,
+      "supported": 50,
+      "fallacy_free": 60
+    },
+    "why": "He says there was no risk because he doesn't know she's a spy. Not knowing isn't evidence, and his own Secretary of State reportedly told him. Key question: If the Secretary of State warned him about her in May, how does not knowing prove there was no risk?",
+    "sources": [
+      {
+        "title": "CNBC, “Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk,” Nov. 16, 2026",
+        "url": "https://www.cnbc.com/2026/11/16/trump-lutnick-nvidia-national-security-jensen-huant.html"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261117-trump-huang-no-risk.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261117-trump-huang-no-risk.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNBC reports: Trump says he's OK with Jensen Huang returning as Nvidia CEO, sees no national security risk.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261117-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-17T06:30:00-06:00",
