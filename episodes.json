@@ -1,5 +1,104 @@
 [
   {
+    "id": "20261117-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-17T11:30:00-06:00",
+    "headline": "Rep. Ro Khanna says he wants a $1,700 'refund check' for every American family over the Iran war; his own bill, H.R. 10498, sets no dollar amount, pays individual filers and dependents, and is still in committee",
+    "video_url": "",
+    "claim": "\"I want to give every American family a $1700 check to make them whole for the war in Iran. Democrats have a chance to deliver. The first week in January, the House and Senate must pass a refund check to Americans.\" — Rep. Ro Khanna (D-Calif.), post on X, Nov. 16, 2026 (about 1.2 million views)",
+    "source_url": "https://x.com/RepRoKhanna/status/2122354660405133513",
+    "record_url": "https://www.congress.gov/bill/119th-congress/house-bill/10498/text",
+    "record_title": "Congress.gov, H.R. 10498, Illegal War Refund Act (introduced Sept. 17, 2026), bill text and status",
+    "verdict": "Missing context",
+    "why": "Khanna's Illegal War Refund Act, introduced Sept. 17, has OMB calculate the war's yearly cost to taxpayers, moves that amount out of unobligated Defense Department funds, and has Treasury pay equal amounts to each eligible tax filer and dependent by Oct. 30 each year starting in fiscal 2027; it names no $1,700 figure and pays people, not families. His $1,700 tracks the Moody's Analytics estimate his own Sept. 17 release cited, about $1,760 per household, which is an economist's estimate, not an official tally. The bill has only been referred to the Ways and Means and Appropriations committees, so the payment, its amount and the January timing are all still proposals.",
+    "what_would_change": "A new or amended bill that sets a $1,700 per-family payment, an OMB or CBO estimate putting the war's cost near that figure per household, or House and Senate action in January would move this toward Matches record.",
+    "outlet": "Rep. Ro Khanna on X, Nov. 16, 2026",
+    "outlet_url": "https://x.com/RepRoKhanna/status/2122354660405133513",
+    "script": "Congressman Ro Khanna says he wants every American family to get a seventeen-hundred-dollar check to make them whole for the Iran war. His actual bill sets no dollar figure. It has the budget office calculate the war's cost and splits it equally among tax filers and their dependents, not families. The seventeen hundred tracks one economist's estimate, and the bill is still sitting in committee. Verdict: missing context.",
+    "read": "Khanna's Illegal War Refund Act, introduced Sept. 17, has OMB calculate the war's yearly cost to taxpayers, moves that amount out of unobligated Defense Department funds, and has Treasury pay equal amounts to each eligible tax filer and dependent by Oct. 30 each year starting in fiscal 2027; it names no $1,700 figure and pays people, not families. His $1,700 tracks the Moody's Analytics estimate his own Sept. 17 release cited, about $1,760 per household, which is an economist's estimate, not an official tally. The bill has only been referred to the Ways and Means and Appropriations committees, so the payment, its amount and the January timing are all still proposals.",
+    "sources": [
+      {
+        "title": "Congress.gov, H.R. 10498, Illegal War Refund Act (introduced Sept. 17, 2026), bill text and status",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/10498/text"
+      },
+      {
+        "title": "Rep. Ro Khanna press release, “Rep. Khanna Introduces the Illegal War Refund Act,” Sept. 17, 2026 (cites Moody's estimate of $1,760 per household)",
+        "url": "https://capitolreleases.com/releases/f5a53948-8af1-4729-9a47-2348b18a6ff2"
+      },
+      {
+        "title": "Congress.gov, H.R. 10498 status: referred to Ways and Means and Appropriations, Sept. 17, 2026",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/10498"
+      },
+      {
+        "title": "Rep. Ro Khanna on X, Nov. 16, 2026",
+        "url": "https://x.com/RepRoKhanna/status/2122354660405133513"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261117-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-17T11:30:00-06:00",
+    "headline": "Fox News says a judge struck down DHS's rule that would have capped most international students' stays at four years, replacing a policy with no fixed limit; the July 2026 final rule in the Federal Register says exactly that",
+    "video_url": "",
+    "claim": "\"The DHS rule would have replaced a longstanding policy by only allowing international students to study in America for a fixed timeframe, generally capped at four years, requiring them to apply for an extension if they wish to continue their studies. Previously, there was no fixed time limit for international students so long as they remained enrolled in a university and otherwise maintained legal status.\" — Fox News, \"Bush-appointed judge torpedoes Trump immigration rule, rips DHS for overstepping its authority,\" Nov. 17, 2026",
+    "source_url": "https://www.foxnews.com/politics/bush-appointed-judge-torpedoes-trump-immigration-rule-blasts-dhs-overstepping-its-authority",
+    "record_url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant",
+    "record_title": "Federal Register, DHS final rule “Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media,” 91 FR 44976, July 17, 2026",
+    "verdict": "Matches record",
+    "why": "DHS's final rule says it changes admission for F, J and I visa holders 'from duration of status to an admission for a fixed time period,' setting stays 'up to the program length, not to exceed a 4-year period,' with an extension application needed to stay longer. The same rule says duration of status has applied to F students since 1978, under which students could stay as long as they kept pursuing a full course of study, which backs Fox's 'no fixed time limit.' The rule was set to take effect Sept. 15, and university guidance and immigration law firms report that Judge Saylor vacated it on Nov. 16, matching Fox's account of the ruling.",
+    "what_would_change": "The text of Judge Saylor's Nov. 16 ruling showing it did something other than vacate the rule, or the final rule showing a different cap than four years, would move this toward Missing context or Contradicted.",
+    "outlet": "Fox News, Nov. 17, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/bush-appointed-judge-torpedoes-trump-immigration-rule-blasts-dhs-overstepping-its-authority",
+    "script": "Fox News says a federal judge struck down a Homeland Security rule that would have capped most international students' stays at four years, replacing a policy with no fixed limit. The final rule in the Federal Register says exactly that: stays up to the length of the program, not more than four years, ending the duration-of-status system in place since 1978. Verdict: matches the record.",
+    "read": "DHS's final rule says it changes admission for F, J and I visa holders 'from duration of status to an admission for a fixed time period,' setting stays 'up to the program length, not to exceed a 4-year period,' with an extension application needed to stay longer. The same rule says duration of status has applied to F students since 1978, under which students could stay as long as they kept pursuing a full course of study, which backs Fox's 'no fixed time limit.' The rule was set to take effect Sept. 15, and university guidance and immigration law firms report that Judge Saylor vacated it on Nov. 16, matching Fox's account of the ruling.",
+    "sources": [
+      {
+        "title": "Federal Register, DHS final rule “Establishing a Fixed Time Period of Admission and an Extension of Stay Procedure for Nonimmigrant Academic Students, Exchange Visitors, and Representatives of Foreign Information Media,” 91 FR 44976, July 17, 2026",
+        "url": "https://www.federalregister.gov/documents/2026/07/17/2026-14439/establishing-a-fixed-time-period-of-admission-and-an-extension-of-stay-procedure-for-nonimmigrant"
+      },
+      {
+        "title": "Fragomen, “United States: Federal Court Vacates Fixed Terms of Admission for F, J, and I Nonimmigrants”",
+        "url": "https://www.fragomen.com/insights/united-states-federal-court-vacates-fixed-terms-of-admission-for-f-j-and-i-nonimmigrants.html"
+      },
+      {
+        "title": "Fox News, Nov. 17, 2026",
+        "url": "https://www.foxnews.com/politics/bush-appointed-judge-torpedoes-trump-immigration-rule-blasts-dhs-overstepping-its-authority"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261117-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-17T11:30:00-06:00",
+    "headline": "CNN says U.S. retail sales rose 0.2% in October after a gas-driven 0.8% gain in September, with gas station sales slowing to 1.5% from 6%; the Census Bureau's advance report matches, though it notes the 0.2% isn't statistically different from zero",
+    "video_url": "",
+    "claim": "\"US retail sales rose 0.2% in October, a slowdown after gas prices drove a 0.8% gain the month before, according to Commerce Department data.\" — CNN, \"American shoppers are taking a breather ahead of the holiday season,\" Nov. 17, 2026",
+    "source_url": "https://www.cnn.com/2026/11/17/economy/us-retail-sales-october",
+    "record_url": "https://www.census.gov/retail/marts/www/marts_current.pdf",
+    "record_title": "U.S. Census Bureau, Advance Monthly Sales for Retail and Food Services, October 2026 (Release CB26-181, Nov. 17, 2026)",
+    "verdict": "Matches record",
+    "why": "The Census Bureau's advance report puts October retail and food services sales at $748.2 billion, up 0.2% from September, and leaves September's gain unrevised at 0.8%. Its table shows gasoline station sales up 1.5% in October after 6.0% in September, and the category excluding autos, gas and building materials is up 0.6% versus 0.5%, matching CNN. One caveat CNN didn't mention: the Bureau says the 0.2% figure's confidence interval includes zero, so there is not enough evidence the change differs from zero.",
+    "what_would_change": "Revised figures in the Census Bureau's Dec. 16 release that change October's 0.2% or September's 0.8%, or show different gas station figures, would move this toward Missing context or Contradicted.",
+    "outlet": "CNN, Nov. 17, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/17/economy/us-retail-sales-october",
+    "script": "CNN says retail sales rose two-tenths of a percent in October, slowing after a gas-driven point-eight percent gain in September. The Census Bureau's report matches, including gas station sales slowing from six percent to one and a half. One caveat: the Bureau says the October gain isn't statistically different from zero. Verdict: matches the record.",
+    "read": "The Census Bureau's advance report puts October retail and food services sales at $748.2 billion, up 0.2% from September, and leaves September's gain unrevised at 0.8%. Its table shows gasoline station sales up 1.5% in October after 6.0% in September, and the category excluding autos, gas and building materials is up 0.6% versus 0.5%, matching CNN. One caveat CNN didn't mention: the Bureau says the 0.2% figure's confidence interval includes zero, so there is not enough evidence the change differs from zero.",
+    "sources": [
+      {
+        "title": "U.S. Census Bureau, Advance Monthly Sales for Retail and Food Services, October 2026 (Release CB26-181, Nov. 17, 2026)",
+        "url": "https://www.census.gov/retail/marts/www/marts_current.pdf"
+      },
+      {
+        "title": "CNN, Nov. 17, 2026",
+        "url": "https://www.cnn.com/2026/11/17/economy/us-retail-sales-october"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261117-reframe-cnbc-trump-huang-no-risk",
     "slot": "ReFrame",
     "lead": true,
