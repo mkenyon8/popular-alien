@@ -1,5 +1,49 @@
 [
   {
+    "id": "20261117-reframe-democrats-nc3-flip",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-17T21:48:57-06:00",
+    "label": "ReFrame",
+    "claim": "Democrats say Raymond Smith beat Rep. Greg Murphy to flip NC-3 after the 2025 GOP redraw; state results show Smith up 258 votes",
+    "outlet": "Democrats (@TheDemocrats) on X",
+    "outlet_url": "https://x.com/TheDemocrats/status/2122799444827525213",
+    "source_url": "https://x.com/TheDemocrats/status/2122799444827525213",
+    "record_url": "https://er.ncsbe.gov/?election_dt=11/03/2026&county_id=0&office=FED&contest=1371",
+    "record_title": "North Carolina State Board of Elections, Nov. 3, 2026 general election results, U.S. House District 3",
+    "read": "A Nov. 17 post by the Democratic Party (@TheDemocrats) on X says Democrat Dr. Raymond Smith has defeated incumbent Republican Rep. Greg Murphy in NC-3, that North Carolina Republicans redrew their congressional map in 2025 to benefit the GOP, and that the plan backfired. The State Board of Elections results show Smith (D) with 118,434 votes to Murphy's (R) 118,176, a 258-vote margin with all 190 precincts reporting, and Murphy congratulated Smith as representative-elect on Nov. 11. The redraw is real: the legislature enacted Senate Bill 249 as Session Law 2025-95 on Oct. 22, 2025. The results are unofficial until the state canvass, and 'backfired' is the party's own framing, not something the record measures. Graded B on 1 argument (the Democratic Party's X post B: valid, cogent, partly supported, no fallacies). Scorecard: 100% valid, 100% cogent, 50% supported, 100% fallacy-free.",
+    "grade": "B",
+    "scores": {
+      "valid": 100,
+      "cogent": 100,
+      "supported": 50,
+      "fallacy_free": 100
+    },
+    "why": "The win and the redraw check out against the state record, but 'backfired' is party spin and the count is still unofficial. Key question: The results are unofficial until the state canvass, so what would a changed certified total do to the word 'backfired'?",
+    "sources": [
+      {
+        "title": "Democrats (@TheDemocrats) on X, Nov. 17, 2026",
+        "url": "https://x.com/TheDemocrats/status/2122799444827525213"
+      },
+      {
+        "title": "North Carolina State Board of Elections, Nov. 3, 2026 general election results, U.S. House District 3",
+        "url": "https://er.ncsbe.gov/?election_dt=11/03/2026&county_id=0&office=FED&contest=1371"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261117-evening"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261117-evening-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261117-evening-full.mp4",
+    "popart_story": "20261117-evening",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Democrats (@TheDemocrats) on X reports: Democrats say Raymond Smith beat Rep. Greg Murphy to flip NC-3 after the 2025 GOP redraw; state results show Smith up 258 votes.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261117-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-17T17:30:00-06:00",
