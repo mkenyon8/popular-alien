@@ -1044,5 +1044,95 @@
     "new": "",
     "reason": "Rule: video_url stays empty for written stories; Matt approved removal",
     "source_url": ""
+  },
+  {
+    "story_id": "20261114-late",
+    "date": "2026-11-18",
+    "field": "verdict",
+    "what_changed": "verdict: Missing context -> Matches record",
+    "old": "Missing context",
+    "new": "Matches record",
+    "reason": "Matt approved changing the verdict to Matches record because the California Secretary of State returns confirm Proposition 40 failed, supporting the claim that California killed a billionaire wealth tax.",
+    "source_url": "https://electionresults.sos.ca.gov/returns/ballot-measures"
+  },
+  {
+    "story_id": "20261114-late",
+    "date": "2026-11-18",
+    "field": "why",
+    "what_changed": "why updated",
+    "old": "The Secretary of State's returns show Proposition 40, a one-time tax on certain taxpayers, failing 52.2% to 47.8%, and Proposition 42, banning new state personal property taxes, passing 51.3% to 48.7%, so the wealth-tax part of the post matches. But the same California ballot rejected Proposition 39, a government-ID requirement to vote, 60.5% to 39.5%, and approved Proposition 3, extending the existing tax on high incomes, 60.7% to 39.3%, results that cut against the post's framing that voters rejected the left's agenda. The Ohio, Nevada, North Carolina and Idaho results were not checked against those states' records here.",
+    "new": "The California Secretary of State's unofficial returns, with 100% of precincts reporting as of Nov. 14, show Proposition 40, a one-time tax on certain taxpayers, failing 52.2% to 47.8%, so the post's claim that California \"killed\" a billionaire wealth tax matches the record. The same ballot also passed Proposition 42, banning new state personal property taxes, 51.3% to 48.7%. This record covers only California's measures; the post's claims about Ohio, Nevada, North Carolina and Idaho were not checked here.",
+    "reason": "Rewrote the explanation to match the corrected Matches record verdict and to focus on what the California returns show about Proposition 40.",
+    "source_url": "https://electionresults.sos.ca.gov/returns/ballot-measures"
+  },
+  {
+    "story_id": "20261114-late",
+    "date": "2026-11-18",
+    "field": "what_would_change",
+    "what_changed": "what_would_change updated",
+    "old": "Certified California results that reverse Proposition 40, 39 or 3, or official results from Ohio, Nevada, North Carolina or Idaho that contradict the post's other claims, would change this verdict.",
+    "new": "Certified California results that reverse Proposition 40's defeat would change this verdict.",
+    "reason": "Updated to match the corrected Matches record verdict, which turns on certified results for Proposition 40.",
+    "source_url": "https://electionresults.sos.ca.gov/returns/ballot-measures"
+  },
+  {
+    "story_id": "20261113-morning",
+    "date": "2026-11-18",
+    "field": "verdict",
+    "what_changed": "verdict: Matches record -> Missing context",
+    "old": "Matches record",
+    "new": "Missing context",
+    "reason": "Matt approved changing the verdict from Matches record to Missing context because the ethics filings show more than 21,000 trades in 2025 plus thousands more, not a stated total of 30,000.",
+    "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+  },
+  {
+    "story_id": "20261113-morning",
+    "date": "2026-11-18",
+    "field": "why",
+    "what_changed": "why updated",
+    "old": "Part 7 of Trump's 2026 annual disclosure to the Office of Government Ethics lists more than 21,000 purchases and sales of securities dated in 2025, nearly all after his Jan. 20 inauguration, and his 2026 periodic transaction reports add thousands more, including a 113-page report covering January through March. That puts the total in the range of Schumer's rounded 30,000. The \"more than all Members of Congress combined\" comparison comes from news analyses of congressional filings, such as Bloomberg's count of about 28,700 Trump trades versus about 22,200 for lawmakers through June, which this check did not recount; the White House says outside managers run the accounts.",
+    "new": "Part 7 of Trump's 2026 annual disclosure to the Office of Government Ethics lists more than 21,000 purchases and sales of securities dated in 2025, and his 2026 periodic transaction reports add thousands more, including a 113-page report covering January through March. Those filings support the scale of heavy trading, but they do not themselves state a total of 30,000 trades. The \"more than all Members of Congress combined\" comparison comes from news analyses of congressional filings, such as Bloomberg's count, which this check did not recount.",
+    "reason": "Rewrote the explanation to make clear that the filings support heavy trading but do not themselves show a 30,000-trade total.",
+    "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+  },
+  {
+    "story_id": "20261113-morning",
+    "date": "2026-11-18",
+    "field": "what_would_change",
+    "what_changed": "what_would_change updated",
+    "old": "An OGE-certified tally of Trump's 2025 and 2026 transactions well below 30,000, or a full count of congressional periodic transaction reports showing lawmakers made more trades over the same period, would change this verdict.",
+    "new": "An OGE-certified tally of Trump's 2025 and 2026 transactions that itself states or clearly sums to 30,000 trades would move this verdict to Matches record. A certified count well below that figure would move it toward Contradicted.",
+    "reason": "Updated to match the corrected Missing context verdict.",
+    "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+  },
+  {
+    "story_id": "20261111-evening",
+    "date": "2026-11-18",
+    "field": "verdict",
+    "what_changed": "verdict: Contradicted -> Missing context",
+    "old": "Contradicted",
+    "new": "Missing context",
+    "reason": "Matt approved changing the verdict from Contradicted to Missing context. Roll Call 320 shows Democrats voted 210-0 to discharge the Star Act, but that single vote does not cover earlier action and cannot settle the claim that Democrats had blocked the bill for a long time.",
+    "source_url": "https://clerk.house.gov/Votes/2026320"
+  },
+  {
+    "story_id": "20261111-evening",
+    "date": "2026-11-18",
+    "field": "why",
+    "what_changed": "why updated",
+    "old": "The House Clerk's record of Roll Call 320 shows the motion to discharge the rule for H.R. 2102, the standalone Major Richard Star Act, passed 245-175 on Nov. 11: Democrats voted 210-0 for it, with four not voting, while Republicans split 34 for and 175 against. That is the opposite of Democrats blocking the bill on the most recent recorded vote. The roll call does not cover every earlier action on the bill or the separate voice vote on the Take Care of America's Veterans Act, so it does not settle the post's other claims about how that package passed.",
+    "new": "The House Clerk's record of Roll Call 320 shows the Nov. 11 motion to discharge the rule for H.R. 2102, the standalone Major Richard Star Act, passed 245-175: Democrats voted 210-0 for it, with four not voting, while Republicans split 34 for and 175 against. That recorded vote does not show Democrats blocking the bill; every Democrat who voted supported bringing it to the floor. The roll call does not cover earlier committee or procedural action, so it cannot confirm or disprove the claim that Democrats had blocked the Act \"for a long time.\"",
+    "reason": "Rewrote the explanation, after re-reading the House Clerk roll call, to state what the Nov. 11 vote shows and what earlier legislative history it does not cover.",
+    "source_url": "https://clerk.house.gov/Votes/2026320"
+  },
+  {
+    "story_id": "20261111-evening",
+    "date": "2026-11-18",
+    "field": "what_would_change",
+    "what_changed": "what_would_change updated",
+    "old": "A recorded House or committee vote, or a documented procedural move, in which Democrats as a bloc opposed or stopped the Major Richard Star Act itself would move this verdict.",
+    "new": "A recorded House or committee vote, or a documented procedural record, showing Democrats as a bloc opposed or stopped the Major Richard Star Act over a sustained period would move this verdict toward Matches record. A complete legislative history showing no such earlier opposition would move it toward Contradicted.",
+    "reason": "Updated to match the corrected Missing context verdict.",
+    "source_url": "https://clerk.house.gov/Votes/2026320"
   }
 ]
