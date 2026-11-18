@@ -1,5 +1,49 @@
 [
   {
+    "id": "20261117-reframe-fox-nj-deportation-defense",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-18T05:55:23-06:00",
+    "label": "ReFrame",
+    "claim": "Fox News on NJ's $20.2M deportation defense funding: the split checks out, but 'new' and 'tripled' overstate it",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/sherrill-commits-20-2m-deportation-defense-condemning-rutgers-border-patrol-speaker",
+    "source_url": "https://www.foxnews.com/politics/sherrill-commits-20-2m-deportation-defense-condemning-rutgers-border-patrol-speaker",
+    "record_url": "https://www.nj.gov/humanservices/news/pressreleases/2026/approved/20261113.shtml",
+    "record_title": "New Jersey Department of Human Services, Nov. 13, 2026 release on the $20.2 million allocation across 10 providers",
+    "read": "Fox News reports that Gov. Mikie Sherrill spread $20.2 million among 10 providers for New Jersey's deportation defense program, calling it a 'new cash infusion' that 'nearly tripled' the prior budget, and quotes Rep. Jeff Van Drew saying the money should go to utility and cost-of-living relief instead. The state's Nov. 13 release confirms the $20.2 million and the 10 providers. But it says the increase from $8.2 million to $20.2 million was approved in June, so Friday's news was how the money was divided, not new funding, and by the numbers the jump is about 2.5 times, though the state itself says 'nearly triple'. Graded B- on 2 arguments (Fox News B-: invalid, not cogent, partly supported, no fallacies; Rep. Jeff Van Drew C: invalid, not cogent, unsupported, one fallacy, false dilemma). Scorecard: 0% valid, 0% cogent, 25% supported, 80% fallacy-free.",
+    "grade": "B-",
+    "scores": {
+      "valid": 0,
+      "cogent": 0,
+      "supported": 25,
+      "fallacy_free": 80
+    },
+    "why": "The numbers match the state's release, but the money was approved in June, and the framing leans on 'new' and 'tripled'. Key question: If the increase to $20.2 million was announced in June, what was new about Friday's announcement?",
+    "sources": [
+      {
+        "title": "Fox News, Nov. 17, 2026",
+        "url": "https://www.foxnews.com/politics/sherrill-commits-20-2m-deportation-defense-condemning-rutgers-border-patrol-speaker"
+      },
+      {
+        "title": "New Jersey Department of Human Services, Nov. 13, 2026 release on the $20.2 million allocation across 10 providers",
+        "url": "https://www.nj.gov/humanservices/news/pressreleases/2026/approved/20261113.shtml"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261117-evening-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261117-evening-fox-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261117-evening-fox-full.mp4",
+    "popart_story": "20261117-evening-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News on NJ's 20.2 dollarsM deportation defense funding: the split checks out, but 'new' and 'tripled' overstate it.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261117-late",
     "slot": "Late Check",
     "aired_at": "2026-11-17T23:00:00-06:00",
