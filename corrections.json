@@ -1134,5 +1134,95 @@
     "new": "A recorded House or committee vote, or a documented procedural record, showing Democrats as a bloc opposed or stopped the Major Richard Star Act over a sustained period would move this verdict toward Matches record. A complete legislative history showing no such earlier opposition would move it toward Contradicted.",
     "reason": "Updated to match the corrected Missing context verdict.",
     "source_url": "https://clerk.house.gov/Votes/2026320"
+  },
+  {
+    "story_id": "20261114-late",
+    "date": "2026-11-18",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "Ryan Fournier says California 'killed' a billionaire wealth tax as proof voters rejected the left; state results confirm Prop 40 failed, but the same ballot rejected voter ID and extended a tax on high incomes",
+    "new": "Ryan Fournier says California 'killed' a billionaire wealth tax as proof voters rejected the left; state results confirm Prop 40 failed",
+    "reason": "Removed the leftover Missing context framing about voter ID and the high-income tax, so the headline matches the corrected Matches record verdict on Proposition 40.",
+    "source_url": "https://electionresults.sos.ca.gov/returns/ballot-measures"
+  },
+  {
+    "story_id": "20261114-late",
+    "date": "2026-11-18",
+    "field": "script",
+    "what_changed": "script updated",
+    "old": "Ryan Fournier says California killed a billionaire wealth tax, proof that voters rejected the left on Tuesday. California's returns show the one-time tax, Proposition 40, failed with 52 percent voting no. But the same ballot rejected a voter ID requirement by 61 percent and extended a tax on high incomes by the same margin. Verdict: missing context.",
+    "new": "Ryan Fournier says California killed a billionaire wealth tax, proof that voters rejected the left on Tuesday. California's returns show the one-time tax, Proposition 40, failed with 52 percent voting no. Verdict: matches the record.",
+    "reason": "Dropped the other-measures contrast and changed the spoken verdict from missing context to matches the record.",
+    "source_url": "https://electionresults.sos.ca.gov/returns/ballot-measures"
+  },
+  {
+    "story_id": "20261114-late",
+    "date": "2026-11-18",
+    "field": "read",
+    "what_changed": "read updated",
+    "old": "The Secretary of State's returns show Proposition 40, a one-time tax on certain taxpayers, failing 52.2% to 47.8%, and Proposition 42, banning new state personal property taxes, passing 51.3% to 48.7%, so the wealth-tax part of the post matches. But the same California ballot rejected Proposition 39, a government-ID requirement to vote, 60.5% to 39.5%, and approved Proposition 3, extending the existing tax on high incomes, 60.7% to 39.3%, results that cut against the post's framing that voters rejected the left's agenda. The Ohio, Nevada, North Carolina and Idaho results were not checked against those states' records here.",
+    "new": "The Secretary of State's returns show Proposition 40, a one-time tax on certain taxpayers, failing 52.2% to 47.8%, and Proposition 42, banning new state personal property taxes, passing 51.3% to 48.7%, so the wealth-tax part of the post matches. The Ohio, Nevada, North Carolina and Idaho results were not checked against those states' records here.",
+    "reason": "Removed the sentence about Propositions 39 and 3 cutting against the post's framing, which belonged to the old Missing context verdict.",
+    "source_url": "https://electionresults.sos.ca.gov/returns/ballot-measures"
+  },
+  {
+    "story_id": "20261113-morning",
+    "date": "2026-11-18",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "Sen. Chuck Schumer tells Trump, in a post seen 1.3 million times, that he has made 30,000 stock trades; Trump's own ethics filings list more than 21,000 trades in 2025 alone, with thousands more this year",
+    "new": "Sen. Chuck Schumer tells Trump, in a post seen 1.3 million times, that he has made 30,000 stock trades; Trump's own ethics filings list more than 21,000 trades in 2025 alone, with thousands more this year, but they do not themselves state a total of 30,000",
+    "reason": "Added that the ethics filings do not themselves state a total of 30,000 trades, so the headline matches the corrected Missing context verdict.",
+    "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+  },
+  {
+    "story_id": "20261113-morning",
+    "date": "2026-11-18",
+    "field": "script",
+    "what_changed": "script updated",
+    "old": "Morning Check. Senator Chuck Schumer told President Trump, in a post seen more than a million times, that Trump has made thirty thousand stock trades. Trump's own ethics filings back the scale: his annual report lists more than twenty-one thousand trades in 2025 alone, and his 2026 reports add thousands more. The claim that this tops all of Congress comes from news analyses, not the filings themselves. Verdict: matches the record.",
+    "new": "Morning Check. Senator Chuck Schumer told President Trump, in a post seen more than a million times, that Trump has made thirty thousand stock trades. Trump's own ethics filings back the scale: his annual report lists more than twenty-one thousand trades in 2025 alone, and his 2026 reports add thousands more, but they do not themselves state a total of 30,000 trades. The claim that this tops all of Congress comes from news analyses, not the filings themselves. Verdict: missing context.",
+    "reason": "Added that the filings do not state a 30,000-trade total and changed the spoken verdict from matches the record to missing context.",
+    "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+  },
+  {
+    "story_id": "20261113-morning",
+    "date": "2026-11-18",
+    "field": "read",
+    "what_changed": "read updated",
+    "old": "Part 7 of Trump's 2026 annual disclosure to the Office of Government Ethics lists more than 21,000 purchases and sales of securities dated in 2025, nearly all after his Jan. 20 inauguration, and his 2026 periodic transaction reports add thousands more, including a 113-page report covering January through March. That puts the total in the range of Schumer's rounded 30,000. The \"more than all Members of Congress combined\" comparison comes from news analyses of congressional filings, such as Bloomberg's count of about 28,700 Trump trades versus about 22,200 for lawmakers through June, which this check did not recount; the White House says outside managers run the accounts.",
+    "new": "Part 7 of Trump's 2026 annual disclosure to the Office of Government Ethics lists more than 21,000 purchases and sales of securities dated in 2025, nearly all after his Jan. 20 inauguration, and his 2026 periodic transaction reports add thousands more, including a 113-page report covering January through March. Those filings support the scale of heavy trading, but they do not themselves state a total of 30,000 trades. The \"more than all Members of Congress combined\" comparison comes from news analyses of congressional filings, such as Bloomberg's count of about 28,700 Trump trades versus about 22,200 for lawmakers through June, which this check did not recount; the White House says outside managers run the accounts.",
+    "reason": "Replaced the sentence that put the total in the range of 30,000 with the corrected explanation that the filings do not themselves state that figure.",
+    "source_url": "https://extapps2.oge.gov/201/Presiden.nsf/PAS+Index/69AEAA9D7455ACD585258E27002DDEE1/$FILE/Donald-J-Trump-2026-278ANNUAL.pdf"
+  },
+  {
+    "story_id": "20261111-evening",
+    "date": "2026-11-18",
+    "field": "headline",
+    "what_changed": "headline updated",
+    "old": "A viral post quotes Rep. Tim Burchett saying Democrats had long tried to block the Major Richard Star Act; on Wednesday's House discharge vote, every Democrat voting backed it and 175 Republicans voted no",
+    "new": "A viral post quotes Rep. Tim Burchett saying Democrats had long tried to block the Major Richard Star Act; on Wednesday's House discharge vote, every Democrat voting backed it and 175 Republicans voted no, but that roll call does not cover earlier action on the bill",
+    "reason": "Added that the Nov. 11 roll call does not cover earlier action, so the headline no longer reads as a straight contradiction of Burchett's claim.",
+    "source_url": "https://clerk.house.gov/Votes/2026320"
+  },
+  {
+    "story_id": "20261111-evening",
+    "date": "2026-11-18",
+    "field": "script",
+    "what_changed": "script updated",
+    "old": "Evening Check. A viral post quotes Congressman Tim Burchett saying Democrats had tried to block the Major Richard Star Act for a long time. The House Clerk's roll call from Wednesday shows the motion to force the standalone Star Act to the floor passed 245 to 175, with Democrats voting 210 to nothing in favor and 175 Republicans voting no. Verdict: contradicted.",
+    "new": "Evening Check. A viral post quotes Congressman Tim Burchett saying Democrats had tried to block the Major Richard Star Act for a long time. The House Clerk's roll call from Wednesday shows the motion to force the standalone Star Act to the floor passed 245 to 175, with Democrats voting 210 to nothing in favor and 175 Republicans voting no. That vote does not cover earlier action on the bill. Verdict: missing context.",
+    "reason": "Added that the roll call does not cover earlier action and changed the spoken verdict from contradicted to missing context.",
+    "source_url": "https://clerk.house.gov/Votes/2026320"
+  },
+  {
+    "story_id": "20261111-evening",
+    "date": "2026-11-18",
+    "field": "read",
+    "what_changed": "read updated",
+    "old": "The House Clerk's record of Roll Call 320 shows the motion to discharge the rule for H.R. 2102, the standalone Major Richard Star Act, passed 245-175 on Nov. 11: Democrats voted 210-0 for it, with four not voting, while Republicans split 34 for and 175 against. That is the opposite of Democrats blocking the bill on the most recent recorded vote. The roll call does not cover every earlier action on the bill or the separate voice vote on the Take Care of America's Veterans Act, so it does not settle the post's other claims about how that package passed.",
+    "new": "The House Clerk's record of Roll Call 320 shows the motion to discharge the rule for H.R. 2102, the standalone Major Richard Star Act, passed 245-175 on Nov. 11: Democrats voted 210-0 for it, with four not voting, while Republicans split 34 for and 175 against. That recorded vote does not show Democrats blocking the bill; every Democrat who voted supported bringing it to the floor. The roll call does not cover earlier committee or procedural action, or the separate voice vote on the Take Care of America's Veterans Act, so it cannot confirm or disprove the claim that Democrats had blocked the Act \"for a long time.\"",
+    "reason": "Replaced the 'opposite of Democrats blocking' wording with the corrected Missing context explanation, while keeping the roll call numbers and the Veterans Act note.",
+    "source_url": "https://clerk.house.gov/Votes/2026320"
   }
 ]
