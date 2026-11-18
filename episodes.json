@@ -1,5 +1,96 @@
 [
   {
+    "id": "20261117-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-17T23:00:00-06:00",
+    "headline": "The Democratic Party says Mary Peltola won Alaska's Senate race and unseated Republican Sen. Dan Sullivan; the state's unofficial count gives her 50.1% of first-choice votes to Sullivan's 45.8%, enough to win without a ranked-choice runoff, though results aren't certified yet",
+    "video_url": "",
+    "claim": "\"WIN: Mary Peltola has won Alaska’s U.S. Senate race, unseating incumbent Republican Dan Sullivan. Congratulations, Senator-elect Peltola!\" — Democrats (@TheDemocrats), post on X, Nov. 17, 2026 (about 19,000 views)",
+    "source_url": "https://x.com/TheDemocrats/status/2122897327060914633",
+    "record_url": "https://www.elections.alaska.gov/enr/26GENR/results/ElectionSummaryReportRPT.pdf",
+    "record_title": "State of Alaska Division of Elections, 2026 General Election (Nov. 3, 2026) Election Summary Report, Unofficial Results, U.S. Senator, generated Nov. 17, 2026, 5:46 PM",
+    "verdict": "Matches record",
+    "why": "The Alaska Division of Elections' unofficial Election Summary Report, generated Nov. 17, 2026 with all 401 precincts reporting, gives Mary Peltola 144,302 first-choice votes (50.12%) to Sen. Dan S. Sullivan's 131,844 (45.80%), with Gerald Heikes at 6,105, Daniel J. Sullivan Jr. at 4,760 and 885 write-ins. Because Peltola has a majority in the first round, the division's own rules mean no ranked-choice runoff can overtake her, and even adding both Sullivans' votes together (136,604) leaves her about 7,700 votes ahead. The results are still unofficial and have not yet been certified, so 'Senator-elect' rests on the count and the race call, not on certification.",
+    "what_would_change": "A later official count or certification by the Alaska Division of Elections that drops Peltola below 50% of first-choice votes, triggering a ranked-choice tabulation she then loses, or a court order overturning or blocking the result, would change this verdict.",
+    "outlet": "Democrats (@TheDemocrats) on X, Nov. 17, 2026",
+    "outlet_url": "https://x.com/TheDemocrats/status/2122897327060914633",
+    "script": "The Democratic Party says Mary Peltola has won Alaska's Senate race, unseating Republican Senator Dan Sullivan. Alaska's own unofficial count, with every precinct in, has Peltola at about 144,300 votes, just over 50 percent, and Sullivan at about 131,800. A first-round majority means no ranked-choice runoff, and even adding the second Dan Sullivan's votes, she still leads. The results aren't certified yet. Verdict: matches the record.",
+    "read": "The Alaska Division of Elections' unofficial Election Summary Report, generated Nov. 17, 2026 with all 401 precincts reporting, gives Mary Peltola 144,302 first-choice votes (50.12%) to Sen. Dan S. Sullivan's 131,844 (45.80%), with Gerald Heikes at 6,105, Daniel J. Sullivan Jr. at 4,760 and 885 write-ins. Because Peltola has a majority in the first round, the division's own rules mean no ranked-choice runoff can overtake her, and even adding both Sullivans' votes together (136,604) leaves her about 7,700 votes ahead. The results are still unofficial and have not yet been certified, so 'Senator-elect' rests on the count and the race call, not on certification.",
+    "sources": [
+      {
+        "title": "Alaska Division of Elections, 2026 General Election Summary Report, Unofficial Results (Nov. 17, 2026)",
+        "url": "https://www.elections.alaska.gov/enr/26GENR/results/ElectionSummaryReportRPT.pdf"
+      },
+      {
+        "title": "Alaska Division of Elections, 2026 General Election results page",
+        "url": "https://www.elections.alaska.gov/election-results/e/"
+      },
+      {
+        "title": "Democrats (@TheDemocrats) on X, Nov. 17, 2026",
+        "url": "https://x.com/TheDemocrats/status/2122897327060914633"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261117-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-17T23:00:00-06:00",
+    "headline": "Fox News says DOJ charged 15 defendants in veterans benefits fraud schemes with more than $3.4 million in intended losses, plus pleas, verdicts and sentencings over $19 million since Sept. 1; the Justice Department's release matches, though those are intended-loss estimates",
+    "video_url": "",
+    "claim": "\"In launching a nationwide crackdown on abuse of veterans’ programs, the DOJ is levying charges against 15 defendants in schemes involving more than $3.4 million in intended losses... Prosecutors also secured guilty pleas, trial verdicts and sentencings in cases involving more than $19 million in intended losses during the operation, which began Sept. 1, 2026.\" — Fox News (Morgan Phillips), \"DOJ crackdown targets $3.4 million in veterans benefits fraud schemes,\" Nov. 17, 2026",
+    "source_url": "https://www.foxnews.com/politics/american-veterans-targeted-schemes-steal-benefits-exploit-sick-disabled-doj",
+    "record_url": "https://www.justice.gov/opa/pr/justice-department-va-and-va-oig-announce-enforcement-actions-against-15-defendants",
+    "record_title": "U.S. Department of Justice, Office of Public Affairs, \"Justice Department, VA, and VA OIG Announce Enforcement Actions Against 15 Defendants for Defrauding Veterans Benefits Programs,\" Nov. 17, 2026",
+    "verdict": "Matches record",
+    "why": "The Justice Department's Nov. 17 release says that between Sept. 1, 2026 and the announcement, its Fraud Division and 17 U.S. Attorneys' Offices charged 15 defendants whose alleged and proven crimes intended an estimated loss of more than $3.4 million, and that sentencings, pleas and trial verdicts in the same period totaled more than $19 million in intended loss. The release also backs Fox's Bay Pines example: an $8.9 million VA contract, about $4.8 million paid, and a partly built cancer center that was demolished, with Matthew West and Kevin Kutina convicted at trial. Keep in mind the $3.4 million and $19 million are DOJ's 'intended loss' estimates, not money proven stolen, and the 15 newly charged defendants have not been convicted.",
+    "what_would_change": "A corrected DOJ release or court records showing a different number of charged defendants, different intended-loss totals, or a different start date for the surge would change this verdict.",
+    "outlet": "Fox News, Nov. 17, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/american-veterans-targeted-schemes-steal-benefits-exploit-sick-disabled-doj",
+    "script": "Fox News says the Justice Department charged 15 people in veterans benefits fraud schemes worth more than 3.4 million dollars, and secured pleas, verdicts and sentences in cases over 19 million, in a push that began September first. DOJ's own release says exactly that, including a Florida VA cancer center that was paid about 4.8 million dollars, then torn down unfinished. One caution: those totals are intended losses, and the 15 new defendants are only charged. Verdict: matches the record.",
+    "read": "The Justice Department's Nov. 17 release says that between Sept. 1, 2026 and the announcement, its Fraud Division and 17 U.S. Attorneys' Offices charged 15 defendants whose alleged and proven crimes intended an estimated loss of more than $3.4 million, and that sentencings, pleas and trial verdicts in the same period totaled more than $19 million in intended loss. The release also backs Fox's Bay Pines example: an $8.9 million VA contract, about $4.8 million paid, and a partly built cancer center that was demolished, with Matthew West and Kevin Kutina convicted at trial. Keep in mind the $3.4 million and $19 million are DOJ's 'intended loss' estimates, not money proven stolen, and the 15 newly charged defendants have not been convicted.",
+    "sources": [
+      {
+        "title": "U.S. Department of Justice, enforcement actions against 15 defendants for defrauding veterans benefits programs (Nov. 17, 2026)",
+        "url": "https://www.justice.gov/opa/pr/justice-department-va-and-va-oig-announce-enforcement-actions-against-15-defendants"
+      },
+      {
+        "title": "Fox News, Nov. 17, 2026",
+        "url": "https://www.foxnews.com/politics/american-veterans-targeted-schemes-steal-benefits-exploit-sick-disabled-doj"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261117-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-17T23:00:00-06:00",
+    "headline": "CNN says Asif Merchant was sentenced to a little more than 27 years for an Iran-linked plot targeting Trump after being convicted this year of murder for hire and attempted terrorism, and that he paid $5,000 to supposed hitmen; the Justice Department's release shows 330 months, a March 2026 conviction and the $5,000 payment",
+    "video_url": "",
+    "claim": "\"Merchant, 48, shifted in his chair but otherwise showed no visible reaction when he was sentenced to a little more than 27 years... Merchant, who was convicted earlier this year of murder for hire and attempted terrorism, declined to speak at his sentencing... Merchant then lined up people he thought were hit men and paid them $5,000 in cash that he’d borrowed from a relative.\" — CNN, \"Man sentenced to over 27 years for assassination plot targeting Trump that he said was directed from Iran,\" Nov. 17, 2026",
+    "source_url": "https://www.cnn.com/2026/11/17/politics/trump-assassination-plot-man-sentenced-iran",
+    "record_url": "https://www.justice.gov/opa/pr/iranian-intelligence-agent-sentenced-over-27-years-prison-foiled-plot-assassinate-us",
+    "record_title": "U.S. Department of Justice, Office of Public Affairs, \"Iranian Intelligence Agent Sentenced to Over 27 Years in Prison for Foiled Plot to Assassinate U.S. Government Officials,\" Nov. 17, 2026",
+    "verdict": "Matches record",
+    "why": "The Justice Department says Judge Eric Komitee sentenced Asif Merchant, 48, on Nov. 17 to 330 months in prison, which is 27 and a half years, for attempting to commit an act of terrorism transcending national boundaries and murder for hire, after a federal jury convicted him in March 2026. The same release says Merchant paid purported hitmen, who were actually undercover FBI agents, $5,000 as an initial payment, and that he believed the ultimate target was Donald Trump, with Joe Biden and Nikki Haley as other possible targets. CNN's 'a little more than 27 years' and 'convicted earlier this year' both line up with the record.",
+    "what_would_change": "The written judgment in the Eastern District of New York showing a sentence other than 330 months, or court records showing different counts of conviction or a different payment amount, would change this verdict.",
+    "outlet": "CNN, Nov. 17, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/17/politics/trump-assassination-plot-man-sentenced-iran",
+    "script": "CNN says Asif Merchant, the man convicted of an Iran-linked plot targeting Donald Trump, got a little more than 27 years in prison, after a conviction this year for murder for hire and attempted terrorism, and that he paid supposed hitmen 5,000 dollars. The Justice Department says the judge gave him 330 months, that's 27 and a half years, after a jury convicted him in March. And it confirms the 5,000 dollar payment, to undercover FBI agents. Verdict: matches the record.",
+    "read": "The Justice Department says Judge Eric Komitee sentenced Asif Merchant, 48, on Nov. 17 to 330 months in prison, which is 27 and a half years, for attempting to commit an act of terrorism transcending national boundaries and murder for hire, after a federal jury convicted him in March 2026. The same release says Merchant paid purported hitmen, who were actually undercover FBI agents, $5,000 as an initial payment, and that he believed the ultimate target was Donald Trump, with Joe Biden and Nikki Haley as other possible targets. CNN's 'a little more than 27 years' and 'convicted earlier this year' both line up with the record.",
+    "sources": [
+      {
+        "title": "U.S. Department of Justice, Iranian intelligence agent sentenced to over 27 years (Nov. 17, 2026)",
+        "url": "https://www.justice.gov/opa/pr/iranian-intelligence-agent-sentenced-over-27-years-prison-foiled-plot-assassinate-us"
+      },
+      {
+        "title": "CNN, Nov. 17, 2026",
+        "url": "https://www.cnn.com/2026/11/17/politics/trump-assassination-plot-man-sentenced-iran"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261117-reframe-democrats-nc3-flip",
     "slot": "ReFrame",
     "lead": false,
