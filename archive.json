@@ -1,5 +1,62 @@
 [
   {
+    "id": "20261118-field-peltola-alaska-senate",
+    "slot": "Midday Check",
+    "label": "Field Report",
+    "aired_at": "2026-11-18T15:58:18-06:00",
+    "headline": "AP calls Alaska's Senate race for Democrat Mary Peltola; the result isn't certified yet, and Sullivan hasn't conceded",
+    "claim": "“Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan.” — Associated Press, Nov. 17, 2026",
+    "outlet": "Associated Press, “Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan,” Nov. 17, 2026",
+    "outlet_url": "https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953",
+    "source_url": "https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953",
+    "record_url": "https://apnews.com/article/alaska-senate-peltola-sullivan-a2aa5e50cd22783b6f539a576c75aeb3",
+    "record_title": "Associated Press, “Why AP called the Alaska Senate race for Democrat Mary Peltola,” Nov. 17, 2026",
+    "verdict": "Missing context",
+    "read": "The Associated Press declared Democrat Mary Peltola the winner of Alaska's U.S. Senate race on Nov. 17, after a count update pushed her share of first-choice votes above 50%, the threshold to win outright and skip ranked choice tabulation. The update put her ahead of Republican Sen. Dan Sullivan by 12,458 votes out of 287,896 counted, 50.1% to 45.8%, with 99% of the expected vote counted. AP said the result gives Democrats a 56-44 Senate majority after they flipped nine GOP-held seats. Sullivan's campaign said Nov. 16 it would let the process run “until every legal vote is counted and certified.” The Washington Post reported that a Justice Department criminal grand jury investigation into whether Peltola staffers or others recruited a similarly named spoiler candidate remains underway; Peltola has denied the allegations.",
+    "why": "AP's headline says Peltola “wins”; that is AP's race call, made with 99% of the expected vote counted, while Alaska accepts overseas absentee ballots through Nov. 18 and the result has not been certified. Earlier, on Nov. 14, the Anchorage Daily News wrote that Peltola was “narrowly crossing the 50% threshold,” but that 50.1% figure left out write-in votes; the state's full results report, which counts them, had her at 49.98% on Nov. 16, according to an Alaska News analysis. She crossed 50% in the Nov. 17 update that AP used to call the race.",
+    "what_would_change": "State certification of the results, or a concession from Sullivan, would settle the outcome; a final count that dropped Peltola below 50% would send the race to ranked choice tabulation.",
+    "sources": [
+      {
+        "title": "Associated Press, “Democrat Mary Peltola wins US Senate race in Alaska, beating incumbent Republican Dan Sullivan,” Nov. 17, 2026",
+        "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-congress-f1fd4d243bf764ec46ff94db4c792953"
+      },
+      {
+        "title": "Associated Press, “Why AP called the Alaska Senate race for Democrat Mary Peltola,” Nov. 17, 2026",
+        "url": "https://apnews.com/article/alaska-senate-peltola-sullivan-a2aa5e50cd22783b6f539a576c75aeb3"
+      },
+      {
+        "title": "The Washington Post, “Peltola win doesn't end DOJ scrutiny of Alaska Senate race, officials say,” Nov. 17, 2026",
+        "url": "https://www.washingtonpost.com/national-security/2026/11/17/peltola-win-doesnt-end-doj-scrutiny-alaska-senate-race-officials-say/"
+      },
+      {
+        "title": "Alaska Watchman, “Sen. Sullivan's not conceding defeat until 'every legal vote is counted',” Nov. 16, 2026",
+        "url": "https://alaskawatchman.com/2026/11/16/sen-sullivans-not-conceding-defeat-until-every-legal-vote-is-counted/"
+      },
+      {
+        "title": "Anchorage Daily News, “Peltola grows lead further in Alaska's U.S. Senate race as ballot counting continues,” Nov. 14, 2026",
+        "url": "https://www.adn.com/politics/2026/11/13/peltola-grows-lead-in-alaskas-us-senate-race-after-thousands-more-ballots-are-counted/"
+      },
+      {
+        "title": "Alaska News, “Peltola is 146 votes short of a majority as Alaska's count nears its end,” Nov. 16, 2026",
+        "url": "https://alaskanews.com/c/alaska-news/peltola-is-146-votes-short-of-a-majority-as-alaskas-count-nears-its-end"
+      },
+      {
+        "title": "The Associated Press (@AP) on X, Nov. 17, 2026",
+        "url": "https://x.com/AP/status/2122896060288844121"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/fr-20261118-peltola-alaska.mp4",
+    "script": "Coming to you virtually from Anchorage, Alaska. I'm Priya Nair. The last undecided Senate race in the country has been called for Democrat Mary Peltola. Here's the record.\nThe Associated Press declared Peltola the winner Tuesday night, after a count update put her above fifty percent, enough to skip ranked choice. She leads Senator Dan Sullivan by 12,458 votes.\nAP says the win gives Democrats a 56 to 44 Senate majority, after they flipped nine Republican-held seats. Peltola has denied allegations that her campaign helped recruit a second candidate named Dan Sullivan.\nSullivan's campaign says it will wait until every legal vote is counted and certified. The Washington Post reports a Justice Department grand jury investigation is still underway.\nHow it was told.\nOne. AP's headline says Peltola wins. That's a race call, made with 99 percent of the expected vote counted. Alaska is still accepting overseas ballots through today, and the result is not certified.\nTwo. On November 14, the Anchorage Daily News said Peltola was narrowly crossing fifty percent. That figure left out write-ins. Two days later, the state's full report, counting them, had her at 49.98 percent.\nFull report at popularalien.com. From Anchorage, Alaska, I'm Priya Nair.",
+    "corrections": [],
+    "field_report": {
+      "reporter": "Priya Nair",
+      "dateline": "Anchorage, Alaska",
+      "video_url": "https://show.popularalien.com/talk/fr-20261118-peltola-alaska.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261118-peltola-alaska.jpg",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
+  },
+  {
     "id": "20261118-reframe-democrats-nine-senate-seats",
     "slot": "ReFrame",
     "lead": false,
