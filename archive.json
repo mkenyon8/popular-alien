@@ -1,5 +1,53 @@
 [
   {
+    "id": "20261118-reframe-democrats-nine-senate-seats",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-18T15:52:53-06:00",
+    "label": "ReFrame",
+    "claim": "Democrats say they flipped nine U.S. Senate seats, the most in nearly 70 years; Senate records show no bigger Democratic gain since 1958",
+    "outlet": "The Democratic Party on X",
+    "outlet_url": "https://x.com/TheDemocrats/status/2123080806843269507",
+    "source_url": "https://x.com/TheDemocrats/status/2123080806843269507",
+    "record_url": "https://www.senate.gov/about/parties-leadership/party-division.htm",
+    "record_title": "U.S. Senate Historical Office, \"Party Division\" (Senate party strength by Congress, 1789-present)",
+    "read": "A Nov. 18 post by the Democratic Party (@TheDemocrats) on X says Democrats flipped nine U.S. Senate seats in the midterms, the most in nearly 70 years. The Senate's party-division table shows Democrats holding 45 seats plus two allied independents in the current 119th Congress, so the 56-seat caucus projected after AP's call in Alaska is a gain of nine. The same table shows Democrats going from 49 seats in the 85th Congress to 64 in the 86th after the 1958 election, and their biggest gains since were eight seats (47 to 55 in 1986, 49 to 57 in 2008), so 1958 is the last time they gained more. The 2026 results are news-organization calls, not certified totals, and the seats change hands when the new Congress is sworn in. Graded B+ on 1 argument (the Democratic Party's X post B+: valid, cogent, strongly supported, no fallacies). Scorecard: 100% valid, 100% cogent, 100% supported, 100% fallacy-free.",
+    "grade": "B+",
+    "scores": {
+      "valid": 100,
+      "cogent": 100,
+      "supported": 100,
+      "fallacy_free": 100
+    },
+    "why": "The record backs the claim: nine seats is the largest Democratic gain since 1958, though the results are news calls, not certified totals.",
+    "sources": [
+      {
+        "title": "The Democratic Party (@TheDemocrats) on X, Nov. 18, 2026",
+        "url": "https://x.com/TheDemocrats/status/2123080806843269507"
+      },
+      {
+        "title": "U.S. Senate Historical Office, \"Party Division\"",
+        "url": "https://www.senate.gov/about/parties-leadership/party-division.htm"
+      },
+      {
+        "title": "Associated Press, \"Democrats flipped 9 US Senate seats - the most in almost 70 years,\" Nov. 2026",
+        "url": "https://apnews.com/article/senate-democrat-flip-alaska-aa623c1c32cb493c21633a1a6a140578"
+      },
+      {
+        "title": "PopArticles - original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261118-midday"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid - full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261118-midday-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261118-midday-full.mp4",
+    "popart_story": "20261118-midday",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... The Democratic Party on X reports: Democrats say they flipped nine U.S. Senate seats, the most in nearly 70 years; Senate records show no bigger Democratic gain since 1958.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261118-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-18T11:30:00-06:00",
