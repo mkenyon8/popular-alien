@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261118-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-18T06:30:00-06:00",
+    "headline": "Gov. Kathy Hochul says America lost its measles-free status for the first time in 26 years; PAHO and CDC confirm the loss of the status the U.S. earned in 2000, but the outbreak that triggered it began in January 2025 and vaccine coverage was slipping before Kennedy ran HHS",
+    "video_url": "",
+    "claim": "\"RFK Jr. promised to 'Make America Healthy Again.' Now America has lost its measles-free status for the first time in 26 years. He spent decades spreading misinformation about the vaccines that protect our children. Vaccination rates are falling and more kids are getting sick.\" — New York Gov. Kathy Hochul, post on X, Nov. 17, 2026",
+    "source_url": "https://x.com/GovKathyHochul/status/2122762864460960211",
+    "record_url": "https://www.paho.org/en/news/17-11-2026-measles-americas-questions-and-answers-technical-reference-journalists-and-public",
+    "record_title": "Pan American Health Organization, \"Measles in the Americas: Questions and Answers – Technical Reference for Journalists and the Public,\" Nov. 17, 2026",
+    "verdict": "Missing context",
+    "why": "PAHO says its re-verification commission, meeting Nov. 10–13, found measles had circulated continuously in the United States for at least 12 months, so the U.S. lost its elimination status, and CDC's history page says the country was declared measles-free in 2000, so 'first time in 26 years' checks out. CDC's Nov. 17 joint statement also backs 'vaccination rates are falling,' citing kindergarten MMR coverage dropping from 95.2% in 2019–20 to 92.7% in 2023–24, and PAHO counts 5,182 U.S. cases this year. What the post leaves out: PAHO dates the qualifying outbreak to Jan. 20, 2025, before Kennedy took over HHS, and CDC traces the coverage decline to COVID-era disruptions that also came before his tenure, so the records do not show his policies alone caused the loss.",
+    "what_would_change": "A PAHO or CDC finding that the U.S. kept its elimination status, or that it had lost it before, would move this toward Contradicted; an official review tying the sustained 2025–26 transmission chiefly to HHS policy decisions under Kennedy would move it toward Matches record.",
+    "outlet": "Gov. Kathy Hochul on X, Nov. 17, 2026",
+    "outlet_url": "https://x.com/GovKathyHochul/status/2122762864460960211",
+    "script": "New York Governor Kathy Hochul says America has lost its measles-free status for the first time in 26 years, and blames Health Secretary Robert F. Kennedy Junior. The Pan American Health Organization confirms the U.S. lost the status it earned in 2000, after measles spread nonstop for a year, and CDC confirms vaccination rates have fallen. But the outbreak that triggered it began in January 2025, and the decline in coverage started during COVID, both before Kennedy ran HHS. Verdict: missing context.",
+    "read": "PAHO says its re-verification commission, meeting Nov. 10–13, found measles had circulated continuously in the United States for at least 12 months, so the U.S. lost its elimination status, and CDC's history page says the country was declared measles-free in 2000, so 'first time in 26 years' checks out. CDC's Nov. 17 joint statement also backs 'vaccination rates are falling,' citing kindergarten MMR coverage dropping from 95.2% in 2019–20 to 92.7% in 2023–24, and PAHO counts 5,182 U.S. cases this year. What the post leaves out: PAHO dates the qualifying outbreak to Jan. 20, 2025, before Kennedy took over HHS, and CDC traces the coverage decline to COVID-era disruptions that also came before his tenure, so the records do not show his policies alone caused the loss.",
+    "sources": [
+      {
+        "title": "Pan American Health Organization, \"Measles in the Americas: Questions and Answers – Technical Reference for Journalists and the Public,\" Nov. 17, 2026",
+        "url": "https://www.paho.org/en/news/17-11-2026-measles-americas-questions-and-answers-technical-reference-journalists-and-public"
+      },
+      {
+        "title": "CDC Newsroom, \"Joint Statement: Loss of U.S. Measles Elimination Status\" (Nov. 17, 2026)",
+        "url": "https://www.cdc.gov/media/releases/2026/loss-of-usmeasles-elimination-status.html"
+      },
+      {
+        "title": "CDC, History of Measles (U.S. declared measles-free in 2000)",
+        "url": "https://www.cdc.gov/measles/about/history.html"
+      },
+      {
+        "title": "Gov. Kathy Hochul on X, Nov. 17, 2026",
+        "url": "https://x.com/GovKathyHochul/status/2122762864460960211"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261118-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-18T06:30:00-06:00",
+    "headline": "Fox News says the city comptroller's April report estimated NYC's pied-à-terre tax could raise about $500 million from more than 11,200 properties, falling to $340 million to $380 million after exemptions and behavior changes; the comptroller's report matches",
+    "video_url": "",
+    "claim": "\"In an April report, the New York City comptroller's office estimated that a version of the tax could generate approximately $500 million from more than 11,200 properties before accounting for exemptions and changes in homeowner behavior. After accounting for those factors, however, the report projected that revenue could fall to between roughly $340 million and $380 million.\" — Fox News (Michael Sinkewicz), \"Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions,\" Nov. 17, 2026",
+    "source_url": "https://www.foxnews.com/politics/mamdanis-luxury-second-home-tax-hits-500m-milestone-despite-thousands-exemptions",
+    "record_url": "https://comptroller.nyc.gov/reports/the-pied-a-terre-tax-and-its-potential-revenues/",
+    "record_title": "Office of the New York City Comptroller Mark Levine, \"The Pied-à-Terre Tax and Its Potential Revenues\" (Fiscal Note, April 30, 2026)",
+    "verdict": "Matches record",
+    "why": "Comptroller Mark Levine's April 30 fiscal note says its modeled rates 'could raise almost exactly $500 million from a little over 11,200 properties,' but that revenue 'could be reduced to between roughly $340 million and $380 million' once rented units and behavioral responses are accounted for, which is what Fox reports. The comptroller's release adds that a higher rate schedule than the one it modeled may be needed to hit $500 million. Keep in mind the estimate assumed rates from earlier proposals, not the final law, and Mamdani's 'more than $500 million billed' is what the city has billed, not money collected.",
+    "what_would_change": "A corrected or superseded comptroller report with different property counts or revenue ranges would change this verdict; Department of Finance data on actual collections would test the estimate itself, not Fox's description of it.",
+    "outlet": "Fox News, Nov. 17, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/mamdanis-luxury-second-home-tax-hits-500m-milestone-despite-thousands-exemptions",
+    "script": "Fox News says the New York City comptroller estimated in April that the city's pied-a-terre tax could raise about 500 million dollars from more than 11,200 second homes, but only 340 to 380 million after exemptions and changes in owner behavior. The comptroller's own report says exactly that. One caution: the city's new 500 million dollar figure is what it has billed, not what it has collected. Verdict: matches the record.",
+    "read": "Comptroller Mark Levine's April 30 fiscal note says its modeled rates 'could raise almost exactly $500 million from a little over 11,200 properties,' but that revenue 'could be reduced to between roughly $340 million and $380 million' once rented units and behavioral responses are accounted for, which is what Fox reports. The comptroller's release adds that a higher rate schedule than the one it modeled may be needed to hit $500 million. Keep in mind the estimate assumed rates from earlier proposals, not the final law, and Mamdani's 'more than $500 million billed' is what the city has billed, not money collected.",
+    "sources": [
+      {
+        "title": "Office of the New York City Comptroller Mark Levine, \"The Pied-à-Terre Tax and Its Potential Revenues\" (Fiscal Note, April 30, 2026)",
+        "url": "https://comptroller.nyc.gov/reports/the-pied-a-terre-tax-and-its-potential-revenues/"
+      },
+      {
+        "title": "NYC Comptroller press release, pied-à-terre tax estimate (April 30, 2026)",
+        "url": "https://comptroller.nyc.gov/newsroom/nyc-comptroller-mark-levine-releases-comprehensive-estimation-of-a-potential-pied-a-terre-tax-and-key-uncertainties/"
+      },
+      {
+        "title": "NYC Department of Finance, Non-primary residence surcharge",
+        "url": "https://www.nyc.gov/site/finance/property/non-primary-residence-surcharge.page"
+      },
+      {
+        "title": "Fox News, Nov. 17, 2026",
+        "url": "https://www.foxnews.com/politics/mamdanis-luxury-second-home-tax-hits-500m-milestone-despite-thousands-exemptions"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261118-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-18T06:30:00-06:00",
+    "headline": "CNN says Voyager 1 reached one light-day from Earth just after 5:16 a.m. ET Wednesday, about 16 billion miles away, the first human-made object to do so; NASA's own milestone page matches",
+    "video_url": "",
+    "claim": "\"Voyager 1, NASA's celebrated deep-space probe, has reached one light-day from Earth — a historic milestone that no other human-made object has achieved... That's equivalent to roughly 16 billion miles (26 billion kilometers)... Voyager 1, which reached one light-day just after 5:16 a.m. ET Wednesday, is now heading toward Gliese 445, a star more than 17 light-years away from Earth.\" — CNN (Jacopo Prisco, Ashley Strickland), \"Voyager 1, the farthest human-made object, is now one light-day from Earth,\" Nov. 18, 2026",
+    "source_url": "https://www.cnn.com/2026/11/18/science/voyager-1-light-day",
+    "record_url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/",
+    "record_title": "NASA Science, \"Voyager 1: What Is a Light-Day\" (Voyager mission page)",
+    "verdict": "Matches record",
+    "why": "NASA's mission page says Voyager 1 would cross one light-day from Earth, 'a mile marker reached by no other human-made object,' on Wednesday, Nov. 18, 2026, at 5:16:07 a.m. EST, and defines a light-day as 16,094,799,096 miles, or about 16 billion miles, matching CNN's time and distance. The same page says the probe is headed toward Gliese 445, a star more than 17 light-years away, as CNN reports. NASA's downloads page confirms it was the first spacecraft to reach that distance.",
+    "what_would_change": "A NASA or JPL correction moving the crossing to a different time, or showing another spacecraft had already passed one light-day, would change this verdict.",
+    "outlet": "CNN, Nov. 18, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/18/science/voyager-1-light-day",
+    "script": "CNN says Voyager 1 reached one light-day from Earth just after 5:16 Wednesday morning Eastern time, about 16 billion miles away, the first human-made object ever to get that far. NASA's own milestone page gives the same time, 5:16 and 7 seconds a.m. Eastern, and puts a light-day at just over 16 billion miles. Verdict: matches the record.",
+    "read": "NASA's mission page says Voyager 1 would cross one light-day from Earth, 'a mile marker reached by no other human-made object,' on Wednesday, Nov. 18, 2026, at 5:16:07 a.m. EST, and defines a light-day as 16,094,799,096 miles, or about 16 billion miles, matching CNN's time and distance. The same page says the probe is headed toward Gliese 445, a star more than 17 light-years away, as CNN reports. NASA's downloads page confirms it was the first spacecraft to reach that distance.",
+    "sources": [
+      {
+        "title": "NASA Science, \"Voyager 1: What Is a Light-Day\" (Voyager mission page)",
+        "url": "https://science.nasa.gov/mission/voyager/voyager-1/voyager-1-what-is-a-light-day/"
+      },
+      {
+        "title": "NASA Science, Voyager One Light-Day Downloads (Nov. 2026)",
+        "url": "https://science.nasa.gov/resource/voyager-one-light-day-downloads/"
+      },
+      {
+        "title": "CNN, Nov. 18, 2026",
+        "url": "https://www.cnn.com/2026/11/18/science/voyager-1-light-day"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261117-reframe-fox-nj-deportation-defense",
     "slot": "ReFrame",
     "lead": false,
