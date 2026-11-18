@@ -1224,5 +1224,93 @@
     "new": "The House Clerk's record of Roll Call 320 shows the motion to discharge the rule for H.R. 2102, the standalone Major Richard Star Act, passed 245-175 on Nov. 11: Democrats voted 210-0 for it, with four not voting, while Republicans split 34 for and 175 against. That recorded vote does not show Democrats blocking the bill; every Democrat who voted supported bringing it to the floor. The roll call does not cover earlier committee or procedural action, or the separate voice vote on the Take Care of America's Veterans Act, so it cannot confirm or disprove the claim that Democrats had blocked the Act \"for a long time.\"",
     "reason": "Replaced the 'opposite of Democrats blocking' wording with the corrected Missing context explanation, while keeping the roll call numbers and the Veterans Act note.",
     "source_url": "https://clerk.house.gov/Votes/2026320"
+  },
+  {
+    "story_id": "20261111-reframe-x-burchett-star-act",
+    "date": "2026-11-18",
+    "field": "grade",
+    "what_changed": "grade: D -> C-",
+    "old": "D",
+    "new": "C-",
+    "reason": "Matt approved raising the ReFrame grade from D to C- after PopArticles revised the original story from Contradicted to Missing context: Roll Call 320 does not back Burchett's claim, but it covers only the Nov. 11 discharge vote and cannot rule out earlier Democratic opposition.",
+    "source_url": "https://clerk.house.gov/Votes/2026320"
+  },
+  {
+    "story_id": "20261111-reframe-x-burchett-star-act",
+    "date": "2026-11-18",
+    "field": "read",
+    "what_changed": "read updated",
+    "old": "An X post by Eric Daugherty quotes Rep. Tim Burchett saying Democrats had tried to block the Major Richard Star Act for a long time and had been fairly successful at it. The House Clerk's Roll Call 320 (Nov. 11, 2026) shows the motion to discharge the rule for H.R. 2102 passed 245-175: Democrats voted 210-0 in favor, with four not voting, while 175 Republicans voted no. The record cited does not cover earlier actions on the bill, but it shows no Democratic blocking. Graded D on 1 argument (Rep. Tim Burchett D). Scorecard: 100% valid, 0% cogent, 0% supported, 100% fallacy-free.",
+    "new": "An X post by Eric Daugherty quotes Rep. Tim Burchett saying Democrats had tried to block the Major Richard Star Act for a long time and had been fairly successful at it. The House Clerk's Roll Call 320 (Nov. 11, 2026) shows the motion to discharge the rule for H.R. 2102 passed 245-175: Democrats voted 210-0 in favor, with four not voting, while 175 Republicans voted no. The record cited does not cover earlier actions on the bill, so it neither proves nor rules out earlier Democratic opposition. Graded C- on 1 argument (Rep. Tim Burchett C-). Scorecard: 100% valid, 0% cogent, 0% supported, 100% fallacy-free.",
+    "reason": "Replaced 'it shows no Democratic blocking' with the corrected wording that the record neither proves nor rules out earlier Democratic opposition, and updated the grade to C-.",
+    "source_url": "https://clerk.house.gov/Votes/2026320"
+  },
+  {
+    "story_id": "20261111-reframe-x-burchett-star-act",
+    "date": "2026-11-18",
+    "field": "why",
+    "what_changed": "why updated",
+    "old": "Roll Call 320 shows Democrats voting 210-0 for the Star Act discharge motion, with 175 Republicans voting no. Key question: Which recorded vote shows Democrats as a bloc opposing the Major Richard Star Act, when Roll Call 320 shows them voting 210-0 for it?",
+    "new": "Roll Call 320 shows Democrats voting 210-0 for the Star Act discharge motion, with 175 Republicans voting no, but that record does not cover earlier actions, so it neither proves nor rules out earlier Democratic opposition. Key question: Which recorded vote shows Democrats as a bloc opposing the Major Richard Star Act, when Roll Call 320 shows them voting 210-0 for it?",
+    "reason": "Added that Roll Call 320 does not cover earlier actions, so it neither proves nor rules out earlier Democratic opposition, to match the corrected Missing context verdict.",
+    "source_url": "https://clerk.house.gov/Votes/2026320"
+  },
+  {
+    "story_id": "20261111-reframe-x-burchett-star-act",
+    "date": "2026-11-18",
+    "field": "video_url",
+    "what_changed": "video_url updated",
+    "old": "https://show.popularalien.com/talk/pa-20261111-evening.mp4",
+    "new": "https://show.popularalien.com/talk/pa-20261111-evening-corrected.mp4",
+    "reason": "Re-rendered the episode with the C- grade, softened lines and a correction card. The original Nov. 11 episode stays in the archive at https://show.popularalien.com/talk/pa-20261111-evening.mp4.",
+    "source_url": "https://show.popularalien.com/talk/pa-20261111-evening-corrected.mp4"
+  },
+  {
+    "story_id": "20261111-reframe-x-burchett-star-act",
+    "date": "2026-11-18",
+    "field": "sources",
+    "what_changed": "sources updated",
+    "old": [
+      {
+        "title": "@EricLDaugh on X, Nov. 11, 2026 (quoting a video from Rep. Tim Burchett)",
+        "url": "https://x.com/EricLDaugh/status/2120657016611832278"
+      },
+      {
+        "title": "Office of the Clerk, U.S. House of Representatives, Roll Call 320 (Nov. 11, 2026): On Motion to Discharge, H.Res. 1247, providing for consideration of H.R. 2102, the Major Richard Star Act",
+        "url": "https://clerk.house.gov/Votes/2026320"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261111-evening"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261111-evening.mp4"
+      }
+    ],
+    "new": [
+      {
+        "title": "@EricLDaugh on X, Nov. 11, 2026 (quoting a video from Rep. Tim Burchett)",
+        "url": "https://x.com/EricLDaugh/status/2120657016611832278"
+      },
+      {
+        "title": "Office of the Clerk, U.S. House of Representatives, Roll Call 320 (Nov. 11, 2026): On Motion to Discharge, H.Res. 1247, providing for consideration of H.R. 2102, the Major Richard Star Act",
+        "url": "https://clerk.house.gov/Votes/2026320"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Missing context; corrected Nov. 18, 2026 from Contradicted)",
+        "url": "https://popularalien.com/story/20261111-evening"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — corrected full episode, Nov. 18, 2026 (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261111-evening-corrected.mp4"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — original Nov. 11 episode, graded D before the correction (video, archived)",
+        "url": "https://show.popularalien.com/talk/pa-20261111-evening.mp4"
+      }
+    ],
+    "reason": "Pointed the episode link to the corrected video, kept the original Nov. 11 video listed, and updated the PopArticles source to its corrected verdict.",
+    "source_url": "https://show.popularalien.com/talk/pa-20261111-evening-corrected.mp4"
   }
 ]
