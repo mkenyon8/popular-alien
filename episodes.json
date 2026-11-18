@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261118-reframe-washington-examiner-rubio-dirty-bomb",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-18T09:55:16-06:00",
+    "label": "Story of the Day",
+    "claim": "Rubio insists no 'imminent threat' amid reports Iran could deploy 'dirty bomb'",
+    "outlet": "Washington Examiner",
+    "outlet_url": "https://www.washingtonexaminer.com/news/white-house/4806977/rubio-no-imminent-threat-iran-dirty-bomb/",
+    "source_url": "https://www.washingtonexaminer.com/news/white-house/4806977/rubio-no-imminent-threat-iran-dirty-bomb/",
+    "record_url": "https://www.washingtonexaminer.com/news/white-house/4806977/rubio-no-imminent-threat-iran-dirty-bomb/",
+    "record_title": "Washington Examiner, “Rubio insists no 'imminent threat' amid reports Iran could deploy 'dirty bomb',” Nov. 17, 2026",
+    "read": "The Washington Examiner reports that Secretary of State Marco Rubio, speaking in Manila, insisted there is no imminent threat after CNN reported Iran was exploring ways to target Trump and administration officials with a dirty bomb or chemical weapon. The Examiner's own report is accurate and clearly sourced, but its lede says Rubio dismissed reports of an 'imminent' threat while CNN's sources described planning options, not an imminent attack, so readers get a clash that isn't really there. The weakest argument was Rubio's attack on the sources: he calls them liars, and criminals if they are 'even half true,' which poisons the well and never says which claim in the report is false. Whether a leak was legal says nothing about whether it is true. His case that the threat is not imminent matches CNN's own sources, but 'most threat streams are not credible' says nothing about this one. Graded C across 3 arguments (Rubio on the sources D; Rubio on the threat C+; Washington Examiner B-). Scorecard: 67% valid, 33% cogent, 33% supported, 80% fallacy-free.",
+    "grade": "C",
+    "scores": {
+      "valid": 67,
+      "cogent": 33,
+      "supported": 33,
+      "fallacy_free": 80
+    },
+    "why": "He denies an imminent threat that CNN's own sources never claimed, then calls those sources liars, or criminals if it's even half true. That attacks the messenger, not the report. Key question: If the report were false, why would sharing it make the sources criminals?",
+    "sources": [
+      {
+        "title": "Washington Examiner, “Rubio insists no 'imminent threat' amid reports Iran could deploy 'dirty bomb',” Nov. 17, 2026",
+        "url": "https://www.washingtonexaminer.com/news/white-house/4806977/rubio-no-imminent-threat-iran-dirty-bomb/"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261118-rubio-dirty-bomb-liars-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261118-rubio-dirty-bomb-liars-full.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Washington Examiner reports: Rubio insists no 'imminent threat' amid reports Iran could deploy 'dirty bomb'.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261118-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-18T06:30:00-06:00",
