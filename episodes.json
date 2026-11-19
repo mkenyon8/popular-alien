@@ -1,5 +1,57 @@
 [
   {
+    "id": "20261118-reframe-fox-overton-fda",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-19T01:50:25-06:00",
+    "label": "ReFrame",
+    "claim": "Fox News says the White House pulled Heidi Overton's FDA nomination a day before a Senate committee vote",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/white-house-pulls-trumps-fda-pick-heidi-overton-eve-senate-panel-vote",
+    "source_url": "https://www.foxnews.com/politics/white-house-pulls-trumps-fda-pick-heidi-overton-eve-senate-panel-vote",
+    "record_url": "https://www.help.senate.gov/hearings/nominations-11-18-2026",
+    "record_title": "Senate HELP Committee, Executive Session: \"Nominations,\" Nov. 18, 2026, 9:45 a.m., 430 Dirksen (agenda listing Heidi Overton, PN1273-17)",
+    "read": "Fox News reports that the White House pulled Heidi Overton's FDA nomination one day before a Senate committee vote, citing a White House official. The Senate HELP Committee's calendar does list Overton (PN1273-17) for a Nov. 18 executive session, and her confirmation hearing was Sept. 24, matching Fox's account. Congress.gov shows the nomination was received Sept. 14 to replace Martin Makary, but as of this check no formal withdrawal has been posted to the congressional record, so the key fact rests on one official's word. Graded B on 1 argument (Fox News B: valid, cogent, partly supported, no fallacies). Scorecard: 100% valid, 100% cogent, 50% supported, 100% fallacy-free.",
+    "grade": "B",
+    "scores": {
+      "valid": 100,
+      "cogent": 100,
+      "supported": 50,
+      "fallacy_free": 100
+    },
+    "why": "A sourced report that fits the committee calendar, but the withdrawal itself isn't yet in the congressional record. Key question: Has a formal withdrawal message for the nomination been posted to the congressional record?",
+    "sources": [
+      {
+        "title": "Fox News, \"White House pulls Trump's FDA pick Heidi Overton on eve of Senate panel vote,\" Nov. 17, 2026",
+        "url": "https://www.foxnews.com/politics/white-house-pulls-trumps-fda-pick-heidi-overton-eve-senate-panel-vote"
+      },
+      {
+        "title": "Senate HELP Committee, Executive Session: Nominations, Nov. 18, 2026",
+        "url": "https://www.help.senate.gov/hearings/nominations-11-18-2026"
+      },
+      {
+        "title": "Senate HELP Committee, hearings list (Overton nomination hearing, Sept. 24, 2026)",
+        "url": "https://www.help.senate.gov/hearings"
+      },
+      {
+        "title": "Congress.gov, PN1273-17, Nomination of Heidi Overton, Commissioner of Food and Drugs",
+        "url": "https://www.congress.gov/nomination/119th-congress/1273/17"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261118-midday-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261118-midday-fox-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261118-midday-fox-full.mp4",
+    "popart_story": "20261118-midday-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News says the White House pulled Heidi Overton's FDA nomination a day before a Senate committee vote.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261118-late",
     "slot": "Late Check",
     "aired_at": "2026-11-18T23:00:00-06:00",
