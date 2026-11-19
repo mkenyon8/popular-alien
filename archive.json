@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261119-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-19T11:30:00-06:00",
+    "headline": "Secretary of State Marco Rubio hails 'today's ratification by the Danish Parliament' of the Greenland defense agreement; Denmark's parliament did approve it Thursday, 109-0, though its own notice says ratification is complete only once Copenhagen formally notifies Washington",
+    "video_url": "",
+    "claim": "\"Today’s ratification by the Danish Parliament of the agreement on Greenland will make us all safer, stronger, and more secure. This agreement modernizes the United States-Denmark-Greenland defense partnership and bolsters the national security of the United States...\" — Secretary of State Marco Rubio (@SecRubio) on X, Nov. 19, 2026",
+    "source_url": "https://x.com/SecRubio/status/2123424049690730866",
+    "record_url": "https://www.thedanishparliament.dk/en/news/2026/11/the-danish-parliament-approves-agreement-on-defence-of-greenland",
+    "record_title": "The Danish Parliament (Folketinget), \"The Danish Parliament Approves Agreement on Defence of Greenland\" (Nov. 19, 2026)",
+    "verdict": "Matches record",
+    "why": "The Danish Parliament's own notice says that in Thursday's vote it consented to the agreement between Greenland, Denmark and the United States that amends and supplements the 1951 agreement on the defense of Greenland, after Greenland's parliament approved it Nov. 3; the parliament's vote record, as relayed by Lovinfo.dk, shows B 36 passed 109-0 with no abstentions. That backs Rubio's description of a Danish ratification vote and an updated U.S.-Denmark-Greenland defense pact. One nuance: the parliament says the government must still formally notify the United States, and that step 'will complete the ratification process, making the agreement legally binding.'",
+    "what_would_change": "A Danish government or parliament record showing the Nov. 19 vote failed, was a first reading rather than final passage, or concerned a different agreement would move this to Contradicted. Rubio's 'safer, stronger, and more secure' is a forecast, not something a document can check.",
+    "outlet": "Secretary of State Marco Rubio (@SecRubio) on X, Nov. 19, 2026",
+    "outlet_url": "https://x.com/SecRubio/status/2123424049690730866",
+    "script": "Secretary of State Marco Rubio is celebrating what he calls today's ratification by the Danish Parliament of the Greenland agreement, saying it modernizes the U.S.-Denmark-Greenland defense partnership. Denmark's parliament confirms it approved the deal on Thursday, 109 to nothing, after Greenland's own parliament signed off on November 3rd. The pact amends a 1951 agreement on the defense of Greenland. One footnote: the Danish government still has to formally notify Washington, and that is the step that makes it legally binding. Verdict: matches the record.",
+    "read": "The Danish Parliament (Folketinget) says it voted Thursday, Nov. 19, 2026, to consent to the defense and security agreement that Denmark's government concluded with Greenland and the United States on Sept. 22 in New York, which amends and supplements the 1951 agreement on the defense of Greenland. Greenland's parliament, the Inatsisartut, approved it on Nov. 3. Lovinfo.dk, relaying the parliament's vote record for proposal B 36, shows 109 votes in favor, none against and no abstentions. The parliament notes that the government can now formally notify the United States, which 'will complete the ratification process, making the agreement legally binding,' and that President Trump could conclude the agreement for the U.S. without approval from Congress. This check rates only whether the vote happened as described, not Rubio's view that the deal makes anyone safer.",
+    "sources": [
+      {
+        "title": "The Danish Parliament (Folketinget), \"The Danish Parliament Approves Agreement on Defence of Greenland\" (Nov. 19, 2026)",
+        "url": "https://www.thedanishparliament.dk/en/news/2026/11/the-danish-parliament-approves-agreement-on-defence-of-greenland"
+      },
+      {
+        "title": "Lovinfo.dk, \"Om ændring og supplering af aftalen om forsvaret af Grønland — vedtaget i Folketinget\" (Nov. 19, 2026), relaying Folketinget vote 10615",
+        "url": "https://lovinfo.dk/nyheder/om-aendring-og-supplering-af-aftalen-om-forsvaret-af-gronland-vedtaget-i-folketinget"
+      },
+      {
+        "title": "Secretary of State Marco Rubio (@SecRubio) on X, Nov. 19, 2026",
+        "url": "https://x.com/SecRubio/status/2123424049690730866"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261119-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-19T11:30:00-06:00",
+    "headline": "Fox News says Peter Navarro filed a Supreme Court petition last month to overturn his 2023 contempt-of-Congress convictions, after an appeals court ruled he broke the law 'even if he subjectively and mistakenly believed his default was lawful'; the docket and the D.C. Circuit opinion match",
+    "video_url": "",
+    "claim": "\"Peter Navarro, who was a senior trade advisor to President Donald Trump during his first administration, filed a petition with the Supreme Court last month. ... He was convicted in 2023 on two counts of contempt of Congress ... [the D.C. Circuit] ruled that a person violates federal law by refusing to comply with a subpoena 'even if he subjectively and mistakenly believed his default was lawful.'\" — Fox News, \"Supreme Court urged to defang ‘criminal trap’ that has sent Trump officials to prison,\" Nov. 19, 2026",
+    "source_url": "https://www.foxnews.com/politics/supreme-court-urged-defang-criminal-trap-sent-trump-officials-prison",
+    "record_url": "https://www.supremecourt.gov/DocketPDF/26/26-474/428569/20261006090157032_260939a%20Appendix%20for%20efiling.pdf",
+    "record_title": "Navarro v. United States, No. 26-474, Petition Appendix, including the D.C. Circuit opinion in United States v. Navarro, No. 24-3006 (decided July 21, 2026)",
+    "verdict": "Matches record",
+    "why": "The Supreme Court docket shows Navarro's petition, No. 26-474, was filed Oct. 6, 2026, last month as Fox says, with the government's response now due Dec. 9. The D.C. Circuit's July 21, 2026, opinion, reprinted in the petition appendix, says a defendant acts willfully under Section 192 'when he deliberately and intentionally defaults on a subpoena, even if he subjectively and mistakenly believed his default was lawful,' and the petition confirms a jury convicted him on both counts on Sept. 7, 2023, and he was sentenced to four months. One small gloss: Fox says only the president can invoke executive privilege, while the court said 'only the President or his designee' can.",
+    "what_would_change": "A docket entry showing the petition was filed on a different date, or text in the D.C. Circuit opinion that differs from the quoted passage, would change this verdict. A Supreme Court decision to grant or deny review would update the story but not this check.",
+    "outlet": "Fox News, Nov. 19, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/supreme-court-urged-defang-criminal-trap-sent-trump-officials-prison",
+    "script": "Fox News reports that former Trump trade adviser Peter Navarro, convicted in 2023 of contempt of Congress, asked the Supreme Court last month to throw out his convictions. The Supreme Court's docket shows his petition was filed October 6th. And the appeals court opinion says exactly what Fox quotes: a person can be guilty of defying a subpoena even if he mistakenly believed his refusal was lawful. Court records also confirm the 2023 conviction on two counts and a four-month sentence. Verdict: matches the record.",
+    "read": "The Supreme Court docket for Navarro v. United States, No. 26-474, shows the petition for certiorari filed Oct. 6, 2026, a motion granted extending the government's response to Dec. 9, 2026, and several amicus briefs filed in November, including one from the Article III Project, whose founder Mike Davis is quoted by Fox. The petition appendix reprints the D.C. Circuit's July 21, 2026, opinion by Judge Patricia Millett, which holds that 'a defendant acts willfully within the meaning of Section 192 when he deliberately and intentionally defaults on a subpoena, even if he subjectively and mistakenly believed his default was lawful,' and notes that Navarro 'claimed executive privilege before even seeing the subpoena,' language Fox also quotes. The petition says a jury convicted Navarro on both counts on Sept. 7, 2023, after an Aug. 28, 2023, evidentiary hearing on executive privilege, and that he was sentenced on Jan. 25, 2024, to concurrent four-month terms. The opinion says the privilege can be invoked by 'the President or his designee,' a slightly broader rule than Fox's 'only the president.' This check does not weigh whether the Supreme Court should take the case.",
+    "sources": [
+      {
+        "title": "Navarro v. United States, No. 26-474, Petition Appendix, including the D.C. Circuit opinion in United States v. Navarro, No. 24-3006 (decided July 21, 2026)",
+        "url": "https://www.supremecourt.gov/DocketPDF/26/26-474/428569/20261006090157032_260939a%20Appendix%20for%20efiling.pdf"
+      },
+      {
+        "title": "Supreme Court of the United States, Docket No. 26-474, Peter K. Navarro v. United States",
+        "url": "https://www.supremecourt.gov/search.aspx?filename=/docket/docketfiles/html/public/26-474.html"
+      },
+      {
+        "title": "Navarro v. United States, No. 26-474, Petition for a Writ of Certiorari (filed Oct. 6, 2026)",
+        "url": "https://www.supremecourt.gov/DocketPDF/26/26-474/428569/20261006090143400_260939a%20Petition%20for%20efiling.pdf"
+      },
+      {
+        "title": "Fox News, Nov. 19, 2026",
+        "url": "https://www.foxnews.com/politics/supreme-court-urged-defang-criminal-trap-sent-trump-officials-prison"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261119-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-19T11:30:00-06:00",
+    "headline": "CNN says the World Court ruled 9-6 that Myanmar committed genocide against the Rohingya, the first time the ICJ has held a state accountable for genocide in its 80-year history; the court's own case record backs the ruling and a six-judge dissent, though Serbia was faulted in 2007 for failing to prevent one",
+    "video_url": "",
+    "claim": "\"The historic judgement marks the first time the International Court of Justice (ICJ), also known as the World Court, has held a state accountable for genocide in its 80-year history ... The court’s decision – by nine votes to six – also comes at a time when the broader idea of international justice has come under fire from the Trump administration.\" — CNN, \"UN top court finds Myanmar guilty of committing genocide against Rohingya minority,\" Nov. 19, 2026",
+    "source_url": "https://www.cnn.com/2026/11/19/asia/icj-myanmar-genocide-rohingya-ruling-intl-hnk",
+    "record_url": "https://www.icj-cij.org/case/178",
+    "record_title": "International Court of Justice, case page: Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar: 11 States intervening), Judgment of 19 November 2026 and opinions",
+    "verdict": "Matches record",
+    "why": "The ICJ's case page lists its Nov. 19, 2026, Judgment on the merits in The Gambia v. Myanmar, and its press release says the court found that 'Myanmar committed genocide against the Rohingya group in northern Rakhine State' during the 2017 clearance operations. The same page lists a joint dissenting opinion signed by six judges (Vice-President Sebutinde, Judges Tomka, Abraham, Xue and Nolte, and Judge ad hoc Kress), consistent with a 9-6 vote, and UN News calls it the first such ruling against a state. Context: in 2007 the court found Serbia did not commit genocide but breached the Convention by failing to prevent and punish the Srebrenica genocide, so this is the first finding that a state itself committed genocide.",
+    "what_would_change": "The judgment's operative clause showing a different vote on the genocide finding, or an earlier ICJ judgment finding that a state itself committed genocide, would move this toward Contradicted. We could not open the judgment PDF directly, so the 9-6 count rests on the court's listed six-judge dissent and UN and news reports of the reading.",
+    "outlet": "CNN, Nov. 19, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/19/asia/icj-myanmar-genocide-rohingya-ruling-intl-hnk",
+    "script": "CNN reports that the UN's top court ruled, nine votes to six, that Myanmar committed genocide against the Rohingya, the first time the World Court has held a state accountable for genocide. The court's own records confirm Thursday's judgment found Myanmar committed genocide during the 2017 clearance operations, and they list six judges on a joint dissent. One bit of context: in 2007 the court faulted Serbia for failing to prevent the Srebrenica genocide, but it never before found a state itself guilty of committing it. Verdict: matches the record.",
+    "read": "The International Court of Justice's case page for The Gambia v. Myanmar lists the Nov. 19, 2026, Judgment on the merits, Press Release 2026/30 and a summary, along with a joint dissenting opinion of Vice-President Sebutinde, Judges Tomka, Abraham, Xue and Nolte, and Judge ad hoc Kress, six judges in all. The press release says the court found Myanmar committed genocide against the Rohingya in northern Rakhine State during the 2017 'clearance operations,' also violated its duties to prevent and punish genocide and to enact implementing legislation, but did not directly and publicly incite genocide. It orders investigation and prosecution, restitution including safe return, and compensation, with the amount to be set later. UN News describes it as the first such ruling against a state and notes that in Bosnia and Herzegovina v. Serbia and Montenegro (2007) the court found Serbia did not commit genocide itself but failed to prevent and punish the Srebrenica genocide. The court first sat in 1946, which fits CNN's '80-year history.' The full judgment PDF on the court's site would not load for us, so the 9-6 vote is matched against the listed dissent and reports of the reading rather than the operative clause itself.",
+    "sources": [
+      {
+        "title": "International Court of Justice, case page: Application of the Convention on the Prevention and Punishment of the Crime of Genocide (The Gambia v. Myanmar: 11 States intervening), Judgment of 19 November 2026 and opinions",
+        "url": "https://www.icj-cij.org/case/178"
+      },
+      {
+        "title": "International Court of Justice, Press Release No. 2026/30, \"The Court delivers its Judgment on the merits\" (Nov. 19, 2026)",
+        "url": "https://www.icj-cij.org/sites/default/files/case-related/178/178-20261119-pre-01-00-en.pdf"
+      },
+      {
+        "title": "UN News, \"World’s top court finds Myanmar guilty of genocide against Rohingya\" (Nov. 19, 2026)",
+        "url": "https://news.un.org/en/story/2026/11/1168836"
+      },
+      {
+        "title": "CNN, Nov. 19, 2026",
+        "url": "https://www.cnn.com/2026/11/19/asia/icj-myanmar-genocide-rohingya-ruling-intl-hnk"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261119-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-19T06:30:00-06:00",
