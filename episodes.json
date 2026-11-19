@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261118-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-18T23:00:00-06:00",
+    "headline": "President Trump says investment in new equipment is up a record 21% this year; BEA data show 20.9% was one quarter's annualized pace, not the year's gain, and its own table shows a faster quarter in 2020",
+    "video_url": "",
+    "claim": "\"The U.S. economy is growing like never before — much faster than any other major developed nation. Investment in new equipment is up an incredible 21% this year — a record.\" — President Donald Trump, remarks at the APEC summit in Shenzhen, China, as posted by @RapidResponse47 on X, Nov. 18, 2026",
+    "source_url": "https://x.com/RapidResponse47/status/2123250057747046857",
+    "record_url": "https://www.bea.gov/sites/default/files/2026-10/hist3q26-adv.xlsx",
+    "record_title": "U.S. Bureau of Economic Analysis, \"2026Q3 (Advance Estimate) Comparisons — Percent Change from Preceding Period in Real Gross Domestic Product and Related Measures,\" Oct. 29, 2026",
+    "verdict": "Contradicted",
+    "why": "BEA's advance third-quarter GDP estimate, released Oct. 29, shows real equipment investment grew at a 20.9% annual rate in July through September, so the 21% figure is real. But it is a one-quarter growth pace stated at an annual rate, not growth 'this year'; compounding BEA's 2026 quarterly rates of 15.5%, 13.4% and 20.9% puts equipment investment roughly 12% above its late-2025 level. It is also not a record: BEA's own historical comparison table lists the third quarter of 2020, at 48.9%, as the last time the rate was higher.",
+    "what_would_change": "A revised BEA estimate showing equipment investment up about 21% from a year earlier or from late 2025, and a quarterly growth rate above every earlier quarter including the third quarter of 2020, would change this verdict. Trump's 'record' would also hold up if he meant a measure other than BEA's real equipment investment and that measure were published.",
+    "outlet": "Rapid Response 47 (@RapidResponse47) on X, Nov. 18, 2026",
+    "outlet_url": "https://x.com/RapidResponse47/status/2123250057747046857",
+    "script": "At the APEC summit in China, President Trump said investment in new equipment is up an incredible 21 percent this year, a record. The Commerce Department's numbers show equipment investment grew at a 20.9 percent annual rate, but that's one quarter, July through September, not the whole year. Added up across 2026, it's about 12 percent. And it's not a record. The agency's own table shows a faster quarter in 2020, at almost 49 percent. Verdict: contradicted.",
+    "read": "BEA's advance third-quarter GDP estimate, released Oct. 29, shows real equipment investment grew at a 20.9% annual rate in July through September, so the 21% figure is real. But it is a one-quarter growth pace stated at an annual rate, not growth 'this year'; compounding BEA's 2026 quarterly rates of 15.5%, 13.4% and 20.9% puts equipment investment roughly 12% above its late-2025 level. It is also not a record: BEA's own historical comparison table lists the third quarter of 2020, at 48.9%, as the last time the rate was higher. The 20.9% pace was the fastest since 2020 and was led by information processing equipment such as computers, according to BEA's release. This check does not rate the separate exports line in the same post, which Popular Alien checked on Nov. 16.",
+    "sources": [
+      {
+        "title": "BEA, 2026Q3 (Advance Estimate) Historical Comparisons (XLSX), Oct. 29, 2026",
+        "url": "https://www.bea.gov/sites/default/files/2026-10/hist3q26-adv.xlsx"
+      },
+      {
+        "title": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
+        "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+      },
+      {
+        "title": "Rapid Response 47 (@RapidResponse47) on X, Nov. 18, 2026",
+        "url": "https://x.com/RapidResponse47/status/2123250057747046857"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261118-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-18T23:00:00-06:00",
+    "headline": "Fox News says the Air Force test-launched an unarmed Minuteman III late Tuesday from Vandenberg in a routine test 'scheduled years ago,' while Trump flew to China, and that the last one was May 20; Air Force releases match",
+    "video_url": "",
+    "claim": "\"The Air Force Global Strike Command said the 'routine test' late Tuesday at Vandenberg Space Force Base in California, outside of Los Angeles, 'was scheduled years ago and is not in response to world events.' ... The last unarmed Minuteman III test launch happened on May 20 at Vandenberg Space Force Base.\" — Fox News, Greg Norman, \"US launches unarmed ICBM with Trump in Asia in routine test,\" Nov. 18, 2026",
+    "source_url": "https://www.foxnews.com/politics/us-launches-unarmed-icbm-trump-asia-routine-test",
+    "record_url": "https://www.vandenberg.spaceforce.mil/News/Article/4650923/gt-257-icbm-test-launch-verifies-system-reliability/",
+    "record_title": "Air Force Global Strike Command Public Affairs, \"GT 257: ICBM Test Launch Verifies System Reliability,\" Nov. 18, 2026",
+    "verdict": "Matches record",
+    "why": "Air Force Global Strike Command's Nov. 18 release says it launched an unarmed Minuteman III at 11:01 p.m. Pacific time Tuesday from Vandenberg Space Force Base, and that the test, Glory Trip 257, 'was scheduled years ago and is not in response to world events.' Vandenberg's Nov. 14 notice announced the same launch window in advance, and Air Force records show the previous test, Glory Trip 256, launched at 12:01 a.m. May 20, 2026. One small point: Vandenberg is on the Central Coast, about 150 miles northwest of Los Angeles, not just outside it.",
+    "what_would_change": "An Air Force correction to the launch date or time, a record of another Minuteman III test launch between May 20 and Nov. 17, 2026, or evidence that the test was moved up or added in response to current events would change this verdict.",
+    "outlet": "Fox News, Nov. 18, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/us-launches-unarmed-icbm-trump-asia-routine-test",
+    "script": "Fox News says the Air Force test-launched an unarmed Minuteman III missile late Tuesday from Vandenberg Space Force Base while President Trump was flying to China, calling it a routine test scheduled years ago, with the last one in May. The Air Force's own release says the launch went up at 11:01 p.m. Pacific time Tuesday, was scheduled years ago, and isn't a response to world events. Its earlier test did launch May 20. Verdict: matches the record.",
+    "read": "Air Force Global Strike Command's Nov. 18 release says it launched an unarmed Minuteman III at 11:01 p.m. Pacific time Tuesday from Vandenberg Space Force Base, and that the test, Glory Trip 257, 'was scheduled years ago and is not in response to world events.' Vandenberg's Nov. 14 notice announced the same launch window in advance, and Air Force records show the previous test, Glory Trip 256, launched at 12:01 a.m. May 20, 2026. One small point: Vandenberg is on the Central Coast, about 150 miles northwest of Los Angeles, not just outside it. The release also says Air Force Global Strike Command has completed more than 300 Minuteman III test launches, matching Fox's quote.",
+    "sources": [
+      {
+        "title": "AFGSC, \"GT 257: ICBM Test Launch Verifies System Reliability,\" Nov. 18, 2026",
+        "url": "https://www.vandenberg.spaceforce.mil/News/Article/4650923/gt-257-icbm-test-launch-verifies-system-reliability/"
+      },
+      {
+        "title": "Space Launch Delta 30, \"Unarmed Minuteman III ICBM Test Launch Scheduled at Vandenberg Space Force Base,\" Nov. 14, 2026",
+        "url": "https://www.vandenberg.spaceforce.mil/News/Article/4648574/unarmed-minuteman-iii-icbm-test-launch-scheduled-at-vandenberg-space-force-base/"
+      },
+      {
+        "title": "DVIDS, \"Vandenberg executes back-to-back space, ICBM launches\" (Glory Trip 256, May 20, 2026)",
+        "url": "https://www.dvidshub.net/news/565958/vandenberg-executes-back-back-space-icbm-launches-operations-deputy-marks-final-mission"
+      },
+      {
+        "title": "Fox News, Nov. 18, 2026",
+        "url": "https://www.foxnews.com/politics/us-launches-unarmed-icbm-trump-asia-routine-test"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261118-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-18T23:00:00-06:00",
+    "headline": "CNN says a Russian man charged in October with stalking employees of a defense tech firm followed one woman nearly 30 miles and was found with $18,000 and two Russian passports; the FBI affidavit and DOJ release match, though they don't name Palantir",
+    "video_url": "",
+    "claim": "\"In one instance highlighted by prosecutors, D'iu followed a woman in her car for almost 30 miles... D'iu was later confronted by police over the incident, prosecutors said, and told them he followed the woman because he thought she was beautiful and wanted to ask her out on a date... Agents also found two Russian passports, fraudulent identification documents and $18,000 in cash.\" — CNN, Hannah Rabinowitz, \"Russian arrested on charges he spied on and harassed employees of defense tech company Palantir,\" Nov. 18, 2026",
+    "source_url": "https://www.cnn.com/2026/11/18/politics/russian-arrested-charges-spied-palantir",
+    "record_url": "https://www.justice.gov/usao-ndca/media/1472991/dl?inline=",
+    "record_title": "U.S. District Court, Northern District of California, Criminal Complaint and FBI affidavit in United States v. Igor D'iu, sworn Oct. 29, 2026",
+    "verdict": "Matches record",
+    "why": "The FBI agent's sworn complaint affidavit, signed Oct. 29 and filed Oct. 30, 2026, says D'iu followed a company employee for 'nearly thirty miles,' through U-turns, illegal left turns and a red light, and later told Palo Alto police he followed her because he 'thought she was beautiful' and wanted to ask her out. The Justice Department's Nov. 18 release adds that agents searching his residence in October found about $18,000 in cash and two Russian passports, and that he was charged with acting as an unregistered agent of a foreign government, conspiracy, interstate stalking and ID fraud. Court records don't name the company; Palantir comes only from CNN's sources, and DOJ places his home in East Palo Alto, not Palo Alto.",
+    "what_would_change": "A court filing or DOJ correction changing the 30-mile pursuit, the statement to police, or the items seized would change this verdict. These are allegations: D'iu hasn't been convicted, and an acquittal or dismissal would change what the record shows about the charges, though not what prosecutors alleged.",
+    "outlet": "CNN, Nov. 18, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/18/politics/russian-arrested-charges-spied-palantir",
+    "script": "CNN says a Russian man charged in October with stalking employees of a defense tech company, which its sources say is Palantir, followed one woman for almost 30 miles, told police he thought she was beautiful, and was found with two Russian passports and 18,000 dollars in cash. The FBI's sworn affidavit and the Justice Department's release back all of that. The court papers don't name the company, and he hasn't been convicted. Verdict: matches the record.",
+    "read": "The FBI agent's sworn complaint affidavit, signed Oct. 29 and filed Oct. 30, 2026, says D'iu followed a company employee for 'nearly thirty miles,' through U-turns, illegal left turns and a red light, and later told Palo Alto police he followed her because he 'thought she was beautiful' and wanted to ask her out. The Justice Department's Nov. 18 release adds that agents searching his residence in October found about $18,000 in cash and two Russian passports, and that he was charged with acting as an unregistered agent of a foreign government, conspiracy, interstate stalking and ID fraud. Court records don't name the company; Palantir comes only from CNN's sources, and DOJ places his home in East Palo Alto, not Palo Alto. D'iu first appeared in federal court on Nov. 2 and has been held since; his next hearing is Nov. 24.",
+    "sources": [
+      {
+        "title": "Criminal Complaint and FBI affidavit, United States v. Igor D'iu (N.D. Cal.), Oct. 29, 2026",
+        "url": "https://www.justice.gov/usao-ndca/media/1472991/dl?inline="
+      },
+      {
+        "title": "U.S. Department of Justice, \"Russian National Indicted for Acting as a Foreign Agent of Russia to Target Silicon Valley Technology and Defense Company,\" Nov. 18, 2026",
+        "url": "https://www.justice.gov/opa/pr/russian-national-indicted-acting-foreign-agent-russia-target-silicon-valley-technology-and"
+      },
+      {
+        "title": "CNN, Nov. 18, 2026",
+        "url": "https://www.cnn.com/2026/11/18/politics/russian-arrested-charges-spied-palantir"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261118-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-18T17:30:00-06:00",
