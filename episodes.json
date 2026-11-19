@@ -1,5 +1,53 @@
 [
   {
+    "id": "20261118-reframe-trump-equipment-investment",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-19T05:56:43-06:00",
+    "label": "ReFrame",
+    "claim": "President Trump says investment in new equipment is up a record 21% this year; BEA data show 20.9% was one quarter's annualized pace, not the year's gain, and its own table shows a faster quarter in 2020",
+    "outlet": "Rapid Response 47 (@RapidResponse47) on X",
+    "outlet_url": "https://x.com/RapidResponse47/status/2123250057747046857",
+    "source_url": "https://x.com/RapidResponse47/status/2123250057747046857",
+    "record_url": "https://www.bea.gov/sites/default/files/2026-10/hist3q26-adv.xlsx",
+    "record_title": "U.S. Bureau of Economic Analysis, \"2026Q3 (Advance Estimate) Comparisons — Percent Change from Preceding Period in Real Gross Domestic Product and Related Measures,\" Oct. 29, 2026",
+    "read": "Rapid Response 47 posted President Trump saying investment in new equipment is \"up an incredible 21% this year — a record.\" BEA's Oct. 29 advance estimate shows real equipment investment grew at a 20.9% annual rate in the third quarter, so the 21% figure is real. But it is one quarter's growth pace stated at an annual rate, not growth for the year (compounding BEA's 2026 quarterly rates puts equipment investment roughly 12% above its late-2025 level), and BEA's own comparison table lists the third quarter of 2020, at 48.9%, as a faster rate, so it is not a record. Graded C on 1 argument (Trump C: valid, not cogent, partly supported, one fallacy: equivocation). Scorecard: 100% valid, 0% cogent, 50% supported, 80% fallacy-free.",
+    "grade": "C",
+    "scores": {
+      "valid": 100,
+      "cogent": 0,
+      "supported": 50,
+      "fallacy_free": 80
+    },
+    "why": "The 21% figure matches one quarter's annualized pace, not this year's gain, and BEA's table shows a faster quarter in 2020. Key question: Is the 21% figure a year's growth, or one quarter's pace stated at an annual rate?",
+    "sources": [
+      {
+        "title": "Rapid Response 47 (@RapidResponse47) on X, Nov. 18, 2026",
+        "url": "https://x.com/RapidResponse47/status/2123250057747046857"
+      },
+      {
+        "title": "BEA, 2026Q3 (Advance Estimate) Historical Comparisons (XLSX), Oct. 29, 2026",
+        "url": "https://www.bea.gov/sites/default/files/2026-10/hist3q26-adv.xlsx"
+      },
+      {
+        "title": "BEA, GDP (Advance Estimate), 3rd Quarter 2026",
+        "url": "https://www.bea.gov/news/2026/gdp-advance-estimate-3rd-quarter-2026"
+      },
+      {
+        "title": "PopArticles — original story (verdict: Contradicted)",
+        "url": "https://popularalien.com/story/20261118-late"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261118-late-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261118-late-full.mp4",
+    "popart_story": "20261118-late",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Rapid Response 47 (@RapidResponse47) on X reports: President Trump says investment in new equipment is up a record 21% this year; BEA data show 20.9% was one quarter's annualized pace, not the year's gain, and its own table shows a faster quarter in 2020.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261118-reframe-fox-overton-fda",
     "slot": "ReFrame",
     "lead": false,
