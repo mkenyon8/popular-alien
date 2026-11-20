@@ -1,5 +1,58 @@
 [
   {
+    "id": "20261120-field-russian-missile-poland",
+    "slot": "Midday Check",
+    "label": "Field Report",
+    "aired_at": "2026-11-20T16:30:00-06:00",
+    "headline": "A Russian cruise missile and two other objects came down in rural southeastern Poland during a massive attack on Ukraine; nobody was hurt, and Warsaw, not NATO, called it intentional",
+    "claim": "“Russian cruise missile crashes in Poland in violation condemned as intentional” — BBC News (@BBCWorld) on X, Nov. 20, 2026",
+    "outlet": "BBC News, “Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk,” Nov. 20, 2026",
+    "outlet_url": "https://www.bbc.com/news/articles/cqx2x9dklxnro",
+    "source_url": "https://www.bbc.com/news/articles/cqx2x9dklxnro",
+    "record_url": "https://www.gov.pl/web/obrona-narodowa/wicepremier-w-kosiniak-kamysz-o-naruszeniu-polskiej-przestrzeni-powietrznej",
+    "record_title": "Polish Ministry of National Defence, Deputy Prime Minister Władysław Kosiniak-Kamysz on the violation of Polish airspace, Nov. 20, 2026",
+    "verdict": "Missing context",
+    "read": "Poland's defence minister, Władysław Kosiniak-Kamysz, said three objects violated Polish airspace early Friday, Nov. 20, 2026, during one of Russia's largest air attacks on Ukraine since the full-scale invasion; officials believe two were missiles and one a jet-powered drone. One, identified as a Kh-101 cruise missile, came down in a rural area at Nowy Lipowiec in Lubelskie province, about 50 km (31 miles) from the Ukrainian border; a suspected second missile fell near Rudnik nad Sanem and the drone near Mołodycz in Podkarpackie province. Nobody was hurt and no damage to infrastructure was reported. Polish F-16s and Swedish Gripens flew through the night and Patriot batteries were activated, but no weapons were fired because, Gen. Ireneusz Nowak said, not all the conditions for engagement were met. NATO Secretary General Mark Rutte condemned “grave violations of Polish airspace” and said NATO jets were scrambled. The incursions came as 11 countries held the Koalicja 2026 exercise at Nowa Dęba. Russia has made no comment.",
+    "why": "The BBC's X post says the violation was “condemned as intentional.” That is Warsaw's assessment: Prime Minister Donald Tusk said it did not appear to be an accident and that it was “no coincidence” the objects landed near the coalition exercise, and the defence minister called it a provocation. NATO's Rutte called the violations “grave” and “clearly dangerous - a consequence of Russia's ongoing war against Ukraine,” but did not call them intentional, and Russia has not commented. The BBC's headline says a Russian missile “hits Poland”; the missile came down in a rural area, nobody was hurt, officials said residents were not at risk, and Poland's operational commander said radar data made it difficult to determine the objects' exact types.",
+    "what_would_change": "Evidence from NATO or Polish investigators that the missiles were deliberately aimed at Polish territory, or confirmed damage or injuries in Poland, would change this report.",
+    "sources": [
+      {
+        "title": "Polish Ministry of National Defence, “Wicepremier W. Kosiniak-Kamysz o naruszeniu polskiej przestrzeni powietrznej,” Nov. 20, 2026",
+        "url": "https://www.gov.pl/web/obrona-narodowa/wicepremier-w-kosiniak-kamysz-o-naruszeniu-polskiej-przestrzeni-powietrznej"
+      },
+      {
+        "title": "Polskie Radio, “Two Russian missiles, drone crash in Poland during air attack on Ukraine, defence minister says,” Nov. 20, 2026",
+        "url": "https://www.polskieradio.pl/395/7784/artykul/3755199,two-russian-missiles-drone-crash-in-poland-during-air-attack-on-ukraine-defence-minister-says"
+      },
+      {
+        "title": "BBC News, “Russian missile hits Poland as Ukraine's allies hold military exercise, says Tusk,” Nov. 20, 2026",
+        "url": "https://www.bbc.com/news/articles/cqx2x9dklxnro"
+      },
+      {
+        "title": "AP, “Russian missiles land in Poland, as Europe held military drills nearby. NATO calls it a violation,” Nov. 20, 2026",
+        "url": "https://apnews.com/article/ukraine-russia-war-kyiv-attacks-putin-crimea-433e18f00cbd37a2a9da94e60fce0e07"
+      },
+      {
+        "title": "The Guardian, “Russian missiles and drone hit Poland during attacks on Ukraine,” Nov. 20, 2026",
+        "url": "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine"
+      },
+      {
+        "title": "BBC News (@BBCWorld) on X, Nov. 20, 2026",
+        "url": "https://x.com/BBCWorld/status/2123751412005830859"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/fr-20261120-russian-missile-poland.mp4",
+    "script": "Coming to you virtually from Nowy Lipowiec, in southeastern Poland. I'm Priya Nair. A Russian cruise missile came down here on Friday. Here's the record.\nPoland's defense minister says two missiles and a jet-powered drone crossed into Polish airspace early Friday, during one of Russia's biggest attacks on Ukraine. Nobody was hurt.\nOne was identified as a Kh-101 cruise missile. It came down in a rural area here, about fifty kilometers from the Ukrainian border. A suspected second missile fell near Rudnik nad Sanem, and the drone near Molodycz.\nPolish and allied jets flew overnight, but no weapons were fired; not all conditions to engage were met. NATO condemned grave violations of Polish airspace. Russia has not commented.\nHow it was told.\nOne. The BBC's post says the violation was condemned as intentional. That's Warsaw's view. Prime Minister Tusk said it was no coincidence. NATO called it dangerous, but did not call it intentional.\nTwo. The BBC's headline says a Russian missile hits Poland. It came down in a rural area. Officials say residents were never at risk, and the military says radar data made it hard to tell exactly what the objects were.\nFull report at popularalien.com. From Nowy Lipowiec, Poland, I'm Priya Nair.",
+    "corrections": [],
+    "field_report": {
+      "reporter": "Priya Nair",
+      "dateline": "Nowy Lipowiec, Poland",
+      "video_url": "https://show.popularalien.com/talk/fr-20261120-russian-missile-poland.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261120-russian-missile-poland.jpg",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
+  },
+  {
     "id": "20261120-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-20T11:30:00-06:00",
