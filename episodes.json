@@ -1,5 +1,96 @@
 [
   {
+    "id": "20261120-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-20T11:30:00-06:00",
+    "headline": "WABC says Mayor Mamdani wants to push Rikers Island's Aug. 31, 2027 closure deadline to 2032, which would mean changing 'the 2019 city law'; the deadline is real, but it's in Local Law 16 of 2021, a bill first introduced in 2019",
+    "video_url": "",
+    "claim": "\"Mayor Zohran Mamdani is proposing a five-year extension of the deadline to close Rikers Island, pushing it from Aug. 31, 2027, to the end of 2032 ... The proposal would require a change to the 2019 city law that mandated Rikers' closure by 2027.\" — WABC-TV Eyewitness News (ABC7 New York), \"Mamdani proposes extending Rikers Island closure deadline by five years to 2032,\" Nov. 20, 2026",
+    "source_url": "https://abc7ny.com/post/mayor-mamdani-proposes-delaying-rikers-island-closure-deadline-2032/20058752/",
+    "record_url": "https://intro.nyc/local-laws/2021-16",
+    "record_title": "Local Laws of the City of New York for the Year 2021, No. 16 (Council Int. No. 1592-A of 2019), adding Administrative Code § 4-215, Transfer of Rikers Island to the commissioner of citywide administrative services; passed Feb. 11, 2021, approved by the Mayor Feb. 25, 2021",
+    "verdict": "Missing context",
+    "why": "The deadline in the report is right: the city's law says that by Aug. 31, 2027, all of Rikers Island must be handed to the Department of Citywide Administrative Services and \"shall no longer be used by the department of correction for the housing of incarcerated persons.\" But that law is Local Law 16 of 2021, which the City Clerk certifies the Council passed on Feb. 11, 2021 and the mayor signed on Feb. 25, 2021. It started as a 2019 bill, Int. 1592, so calling it a 2019 law leaves out that the binding deadline was only written into law two years later.",
+    "what_would_change": "A separate local law enacted in 2019 that itself set the Aug. 31, 2027 closing date would move this to Matches record. If the Council amends § 4-215 to set a 2032 date, the deadline in this story becomes outdated and would be corrected.",
+    "outlet": "WABC-TV (ABC7 New York), Nov. 20, 2026",
+    "outlet_url": "https://abc7ny.com/post/mayor-mamdani-proposes-delaying-rikers-island-closure-deadline-2032/20058752/",
+    "script": "ABC7 New York says Mayor Zohran Mamdani wants to push the deadline for closing Rikers Island from August 31st, 2027, to the end of 2032, and that this means changing a 2019 city law. The date checks out. The city's law says Rikers can no longer house people in custody after August 31st, 2027. But that law was passed in February 2021. It began as a bill in 2019. Verdict: missing context.",
+    "read": "The deadline in the report is right: the city's law says that by Aug. 31, 2027, all of Rikers Island must be handed to the Department of Citywide Administrative Services and \"shall no longer be used by the department of correction for the housing of incarcerated persons.\" But that law is Local Law 16 of 2021, which the City Clerk certifies the Council passed on Feb. 11, 2021 and the mayor signed on Feb. 25, 2021. It started as a 2019 bill, Int. 1592, so calling it a 2019 law leaves out that the binding deadline was only written into law two years later. The mayor's office released its \"Close Rikers: Strategic Plan\" on Nov. 20, 2026, saying the city would open four borough-based jails by 2032, starting with Brooklyn in 2029, and that the City Council will introduce legislation to update the legal timeline. Until the Council passes and the mayor signs that change, the Aug. 31, 2027 date stays in the law. This check does not rate whether the new timeline is achievable or the plan's cost figures.",
+    "sources": [
+      {
+        "title": "Local Law No. 16 of 2021 (Int. No. 1592-A of 2019), NYC Administrative Code § 4-215, passed Feb. 11, 2021",
+        "url": "https://intro.nyc/local-laws/2021-16"
+      },
+      {
+        "title": "NYC Mayor's Office, \"Mayor Mamdani Releases City's First Comprehensive Plan to Close Rikers Island,\" Nov. 20, 2026",
+        "url": "https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani-releases-city-s-first-comprehensive-plan-to-close-"
+      },
+      {
+        "title": "WABC-TV (ABC7 New York), Nov. 20, 2026",
+        "url": "https://abc7ny.com/post/mayor-mamdani-proposes-delaying-rikers-island-closure-deadline-2032/20058752/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261120-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-20T11:30:00-06:00",
+    "headline": "Fox News says Alabama state Rep. Patrick Sellers, in office since November 2022, allegedly took more than $240,000 in COVID relief between July 2020 and May 2021 and faces four wire fraud counts; the federal indictment matches, and those are charges, not a conviction",
+    "video_url": "",
+    "claim": "\"Officials identified the lawmaker as Patrick Lorn Sellers, 53, who has represented a district near Birmingham since November 2022 ... Between July 2020 and May 2021, Sellers allegedly siphoned more than $240,000 in grants and loans intended to provide relief during the COVID-19 pandemic ... Sellers now faces four felony counts of wire fraud.\" — Fox News (Bonny Chu), \"Democrat lawmaker hit with federal indictment over alleged $240K COVID fraud scheme,\" Nov. 19, 2026",
+    "source_url": "https://www.foxnews.com/us/democrat-lawmaker-hit-federal-indictment-alleged-240k-covid-fraud-scheme",
+    "record_url": "https://www.justice.gov/sites/default/files/2026-11/filed_indictment_-_u.s._v._sellers.pdf",
+    "record_title": "Indictment, United States v. Patrick Lorn Sellers, U.S. District Court for the Northern District of Alabama, filed Nov. 19, 2026 (posted by the U.S. Department of Justice)",
+    "verdict": "Matches record",
+    "why": "The indictment, filed Nov. 19, 2026, says Sellers has been the state representative for Alabama House District 57, in western Jefferson County, since November 2022. It charges that from about July 2020 through May 2021 he \"fraudulently solicited and obtained more than $240,000\" in COVID-19 relief grants and loans from the federal government, the state of Alabama and a nonprofit, and it lays out four wire fraud counts. These are a grand jury's charges, not findings of guilt, and news reports say Sellers pleaded not guilty.",
+    "what_would_change": "A superseding indictment or court filing with a different dollar total, time frame or number of counts would change this. A dismissal or acquittal would not make Fox's summary of the charges wrong, but it would make the story outdated.",
+    "outlet": "Fox News, Nov. 19, 2026",
+    "outlet_url": "https://www.foxnews.com/us/democrat-lawmaker-hit-federal-indictment-alleged-240k-covid-fraud-scheme",
+    "script": "Fox News says Alabama state Representative Patrick Sellers, in office since 2022, is accused of taking more than 240,000 dollars in COVID relief money and faces four counts of wire fraud. The federal indictment matches. It says from July 2020 to May 2021, he got the money through two nonprofits and a lawn care business that didn't exist, and spent much of it on himself. These are charges, not a conviction. Verdict: matches record.",
+    "read": "The indictment, filed Nov. 19, 2026, says Sellers has been the state representative for Alabama House District 57, in western Jefferson County, since November 2022. It charges that from about July 2020 through May 2021 he \"fraudulently solicited and obtained more than $240,000\" in COVID-19 relief grants and loans from the federal government, the state of Alabama and a nonprofit, and it lays out four wire fraud counts. These are a grand jury's charges, not findings of guilt, and news reports say Sellers pleaded not guilty. The indictment also backs other details in Fox's story: it says he applied for the money in the name of two nonprofits, the convention's 501(c)(3) and Project Zion, and a made-up business called Sellers Lawn Care; that he had no authority to apply for the convention's entity; that applications claimed as many as ten employees for entities that, according to the Alabama Department of Labor, never had any reported employees; and that he spent money on credit cards, his mortgage, loans, water bills and his daughters' college tuition. This check does not rate Sellers' guilt.",
+    "sources": [
+      {
+        "title": "Indictment, United States v. Patrick Lorn Sellers (N.D. Ala.), filed Nov. 19, 2026",
+        "url": "https://www.justice.gov/sites/default/files/2026-11/filed_indictment_-_u.s._v._sellers.pdf"
+      },
+      {
+        "title": "Fox News, Nov. 19, 2026",
+        "url": "https://www.foxnews.com/us/democrat-lawmaker-hit-federal-indictment-alleged-240k-covid-fraud-scheme"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261120-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-20T11:30:00-06:00",
+    "headline": "CNN says a federal judge ruled Agriculture Secretary Brooke Rollins' religious emails to USDA's 100,000 employees were unconstitutional; the order is an early-stage preliminary injunction finding a likely violation, not a final ruling",
+    "video_url": "",
+    "claim": "\"Religious messages that Agriculture Secretary Brooke Rollins emailed to the agency's 100,000 employees were unconstitutional, and she must be careful to avoid proselytizing when communicating with workers, a federal judge ruled Thursday.\" — CNN, \"Judge says agriculture secretary’s religious mass emails to staff were unconstitutional,\" Nov. 20, 2026",
+    "source_url": "https://www.cnn.com/2026/11/20/politics/brooke-rollins-religious-messages-judge-unconstitutional",
+    "record_url": "https://www.courthousenews.com/wp-content/uploads/2026/11/nffe-v-usda-preliminary-injunction-ruling.pdf",
+    "record_title": "Order Granting in Part Motion for Preliminary Injunction and Granting in Part Motion to Dismiss, National Federation of Federal Employees v. U.S. Department of Agriculture, No. 3:26-cv-04406-TLT (N.D. Cal.), Document 59, filed Nov. 19, 2026",
+    "verdict": "Missing context",
+    "why": "Judge Trina Thompson's Nov. 19 order does find that Rollins' messages amount to coercion under the Establishment Clause, and it describes an agency of about 100,000 civil servants who all report to her. But it is a preliminary injunction, which turns on whether the plaintiffs are \"likely to succeed on the merits,\" not a final judgment, and the case goes on. The judge singled out the April 5, 2026 Easter email and the Dec. 23, 2025 Christmas email as going \"too far,\" and threw out the plaintiffs' two other claims.",
+    "what_would_change": "A final judgment or summary judgment ruling that the emails violated the Establishment Clause would move this to Matches record. A stay or reversal on appeal would make the ruling outdated.",
+    "outlet": "CNN, Nov. 20, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/20/politics/brooke-rollins-religious-messages-judge-unconstitutional",
+    "script": "CNN says a federal judge ruled that Agriculture Secretary Brooke Rollins' religious emails to USDA's 100,000 employees were unconstitutional. The court's order backs most of that. The judge found the emails likely amount to coercion under the First Amendment. But this is a preliminary injunction, an early-stage ruling, not a final judgment, and it singled out her Easter and Christmas emails. The case goes on. Verdict: missing context.",
+    "read": "Judge Trina Thompson's Nov. 19 order does find that Rollins' messages amount to coercion under the Establishment Clause, and it describes an agency of about 100,000 civil servants who all report to her. But it is a preliminary injunction, which turns on whether the plaintiffs are \"likely to succeed on the merits,\" not a final judgment, and the case goes on. The judge singled out the April 5, 2026 Easter email and the Dec. 23, 2025 Christmas email as going \"too far,\" and threw out the plaintiffs' two other claims. The order backs CNN's other details: the plaintiffs are the National Federation of Federal Employees, which represents more than 19,000 USDA workers, and six USDA employees, who filed suit on May 13, 2026. It orders Rollins to follow limits quoted from her own USDA memo on religious expression, including that she must stop if a colleague asks, and it says it expresses no view on what she can do in her personal capacity. A USDA spokesperson told CNN the agency is considering an appeal.",
+    "sources": [
+      {
+        "title": "Order, NFFE v. USDA, No. 3:26-cv-04406-TLT (N.D. Cal.), Document 59, filed Nov. 19, 2026",
+        "url": "https://www.courthousenews.com/wp-content/uploads/2026/11/nffe-v-usda-preliminary-injunction-ruling.pdf"
+      },
+      {
+        "title": "CNN, Nov. 20, 2026",
+        "url": "https://www.cnn.com/2026/11/20/politics/brooke-rollins-religious-messages-judge-unconstitutional"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261120-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-20T06:30:00-06:00",
