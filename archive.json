@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261119-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-19T23:00:00-06:00",
+    "headline": "The White House says traffic deaths have fallen to the 'second-lowest level in American history' after Trump's truck-driver crackdown; NHTSA says it's the death rate, not the count, that's second-lowest, and its data don't link the 2.5% drop to truckers",
+    "video_url": "",
+    "claim": "\"Traffic fatalities have fallen to the second-lowest level in American history following President Donald J. Trump's crackdown on illegal alien truck drivers.\" … \"Traffic deaths dropped sharply in the first half of this year — the second-lowest half-year fatality rate on record.\" — The White House, \"President Trump's Immigration Policies Are Saving American Lives,\" Nov. 16, 2026",
+    "source_url": "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives/",
+    "record_url": "https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813875",
+    "record_title": "NHTSA, \"Early Estimates of Motor Vehicle Traffic Fatalities and Fatality Rate for the First Half (January–June) of 2026,\" DOT HS 813 875, November 2026",
+    "verdict": "Missing context",
+    "why": "NHTSA's early estimate puts first-half 2026 deaths at 16,750, down about 2.5% from 17,175, and says the rate of 1.02 deaths per 100 million miles driven would be the second-lowest first-half rate, behind 1.01 in 2014, so the release's rate claim checks out. But the number of deaths is not the second-lowest ever: NHTSA's own table shows fewer first-half deaths in 2014 (15,035) and 2015 (16,193). The drop also slowed, from 8.1% in the first half of 2025 to 2.5%, with just 0.2% in April through June, and the estimates don't break out truck crashes, so they don't show the decline came from the trucker crackdown.",
+    "what_would_change": "NHTSA data showing first-half 2026 deaths below every year but one, or crash data tying the decline to commercial trucks or to drivers removed under the English-proficiency and licensing orders, would move this toward Matches record. NHTSA says the 2025 and 2026 counts will be revised as final crash files come in, with nine-month estimates due in late December.",
+    "outlet": "The White House, Nov. 16, 2026",
+    "outlet_url": "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives/",
+    "script": "The White House says traffic deaths have fallen to the second-lowest level in American history after President Trump's crackdown on illegal immigrant truck drivers. NHTSA's estimate shows deaths fell 2.5 percent in the first half of this year, and the death rate per mile driven is the second-lowest on record. But the number of deaths isn't: 2014 and 2015 had fewer. The drop also slowed to almost nothing in the spring, and NHTSA's numbers don't single out trucks. Verdict: missing context.",
+    "read": "NHTSA's early estimate puts first-half 2026 deaths at 16,750, down about 2.5% from 17,175, and says the rate of 1.02 deaths per 100 million miles driven would be the second-lowest first-half rate, behind 1.01 in 2014, so the release's rate claim checks out. But the number of deaths is not the second-lowest ever: NHTSA's own table shows fewer first-half deaths in 2014 (15,035) and 2015 (16,193). The drop also slowed, from 8.1% in the first half of 2025 to 2.5%, with just 0.2% in April through June, and the estimates don't break out truck crashes, so they don't show the decline came from the trucker crackdown. The release also cites 34,000 drivers taken out of service and more than 31,000 revoked licenses, which this check does not rate. NHTSA notes the rate fell partly because miles driven rose about 0.8%, and that 15 states and D.C. are projected to have more deaths.",
+    "sources": [
+      {
+        "title": "NHTSA, \"Early Estimates of Motor Vehicle Traffic Fatalities and Fatality Rate for the First Half (January–June) of 2026,\" DOT HS 813 875, November 2026",
+        "url": "https://crashstats.nhtsa.dot.gov/Api/Public/ViewPublication/813875"
+      },
+      {
+        "title": "Reuters via Investing.com, \"US traffic deaths fall in first half of 2026, lowest rate since 2014\" (Nov. 10, 2026)",
+        "url": "https://www.investing.com/news/stock-market-news/us-traffic-deaths-fall-in-first-half-of-2026-lowest-rate-since-2014-5016323"
+      },
+      {
+        "title": "The White House, Nov. 16, 2026",
+        "url": "https://www.whitehouse.gov/releases/2026/11/president-trumps-immigration-policies-are-saving-american-lives/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261119-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-19T23:00:00-06:00",
+    "headline": "Fox News says Collins, Murkowski and Paul joined Democrats but couldn't pass Rep. Seth Moulton's House-passed Iran war powers resolution; the Senate roll call shows it failed 48-51, after the House approved it 220-204 in September",
+    "video_url": "",
+    "claim": "\"In the first attempt after the midterm elections, Democrats and the squadron of rebel Republicans, including Sens. Susan Collins, R-Maine, Lisa Murkowski, R-Alaska, and Rand Paul, R-Ky., were not enough to pass a non-binding resolution that originally passed the House, pushed by Rep. Seth Moulton, D-Mass., in September.\" — Fox News (Alex Miller), \"Dems, GOP rebels fail to rein in Trump's Iran war in Senate, but bigger battle looms,\" Nov. 19, 2026",
+    "source_url": "https://www.foxnews.com/politics/dems-gop-rebels-fail-rein-trumps-iran-war-senate-bigger-battle-looms",
+    "record_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00269.htm",
+    "record_title": "U.S. Senate, Roll Call Vote No. 269, 119th Congress, 2nd Session: H.Con.Res. 93, Nov. 19, 2026",
+    "verdict": "Matches record",
+    "why": "The Senate roll call shows H.Con.Res. 93, which directs the president to remove U.S. forces from hostilities with Iran, was rejected 48-51 on Nov. 19, with Republicans Collins, Murkowski and Paul voting yes. Every other yes vote came from the Democratic caucus; Sen. John Fetterman voted no and Sen. Chris Murphy did not vote. Congress's bill-status record lists Moulton as the sponsor and shows the House adopted it 220-204 on Sept. 15, 2026.",
+    "what_would_change": "A corrected roll call with a different tally, or one showing Collins, Murkowski or Paul voting no, would change this verdict, as would House records showing the resolution passed on a date other than September or under a different sponsor.",
+    "outlet": "Fox News, Nov. 19, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/dems-gop-rebels-fail-rein-trumps-iran-war-senate-bigger-battle-looms",
+    "script": "Fox News says Democrats and a few Republican rebels, Susan Collins, Lisa Murkowski and Rand Paul, couldn't pass a House-passed resolution from Representative Seth Moulton to pull U.S. forces out of the Iran war. The Senate's roll call matches: it failed 48 to 51, with those three Republicans voting yes. Democrat John Fetterman voted no. House records show it passed there 220 to 204 on September 15th. Verdict: matches the record.",
+    "read": "The Senate roll call shows H.Con.Res. 93, which directs the president to remove U.S. forces from hostilities with Iran, was rejected 48-51 on Nov. 19, with Republicans Collins, Murkowski and Paul voting yes. Every other yes vote came from the Democratic caucus; Sen. John Fetterman voted no and Sen. Chris Murphy did not vote. Congress's bill-status record lists Moulton as the sponsor and shows the House adopted it 220-204 on Sept. 15, 2026. Fox calls the measure non-binding. As a concurrent resolution under section 5(c) of the War Powers Resolution, it would never have gone to the president to sign, although its text says Congress 'directs' him to remove the forces. This check does not rate the story's claims about a possible government shutdown.",
+    "sources": [
+      {
+        "title": "U.S. Senate, Roll Call Vote No. 269, 119th Congress, 2nd Session: H.Con.Res. 93, Nov. 19, 2026",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00269.htm"
+      },
+      {
+        "title": "GovInfo, Bill Status: H.Con.Res. 93, 119th Congress (all actions)",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres93.xml"
+      },
+      {
+        "title": "GovInfo, H.Con.Res. 93 (Engrossed in House), text",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hconres93eh/xml/BILLS-119hconres93eh.xml"
+      },
+      {
+        "title": "Fox News, Nov. 19, 2026",
+        "url": "https://www.foxnews.com/politics/dems-gop-rebels-fail-rein-trumps-iran-war-senate-bigger-battle-looms"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261119-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-19T23:00:00-06:00",
+    "headline": "CNN says ousted national cyber director Sean Cairncross served more than a year as the Senate-confirmed head of the office; the Senate confirmed him 59-35 on Aug. 2, 2025",
+    "video_url": "",
+    "claim": "\"Cairncross was nominated by Trump and served as the Senate-confirmed national cyber director for more than a year.\" — CNN (Alejandra Jaramillo, Sean Lyngaas), \"White House national cyber director being replaced as nation reels from tech outages,\" Nov. 19, 2026",
+    "source_url": "https://www.cnn.com/2026/11/19/politics/national-cyber-director-replaced-sean-cairncross",
+    "record_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00497.htm",
+    "record_title": "U.S. Senate, Roll Call Vote No. 497, 119th Congress, 1st Session: Nomination of Sean Cairncross to be National Cyber Director (PN24-2), Aug. 2, 2025",
+    "verdict": "Matches record",
+    "why": "The Senate's roll call shows it confirmed Sean Cairncross of Minnesota as national cyber director 59-35 on Aug. 2, 2025, under nomination PN24-2. That is about 15 and a half months before CNN reported Thursday that he is being replaced, so 'more than a year' in the Senate-confirmed role fits the record. The roll call doesn't give the date he was sworn in, which would have to come after the vote.",
+    "what_would_change": "Records showing Cairncross was sworn in after Nov. 19, 2025, or left the post earlier, would undercut 'more than a year.' A White House announcement contradicting CNN's report that he is being replaced would also change the story's premise.",
+    "outlet": "CNN, Nov. 19, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/19/politics/national-cyber-director-replaced-sean-cairncross",
+    "script": "CNN reports national cyber director Sean Cairncross is being replaced, and says he served as the Senate-confirmed head of the office for more than a year. The Senate's records match: senators confirmed him 59 to 35 on August 2nd, 2025, about fifteen and a half months ago. CNN says Kirsten Davies, the Pentagon's chief information officer, will fill in. Verdict: matches the record.",
+    "read": "The Senate's roll call shows it confirmed Sean Cairncross of Minnesota as national cyber director 59-35 on Aug. 2, 2025, under nomination PN24-2. That is about 15 and a half months before CNN reported Thursday that he is being replaced, so 'more than a year' in the Senate-confirmed role fits the record. The roll call doesn't give the date he was sworn in, which would have to come after the vote. CNN and Fox News attribute the departure to sources and a White House official; the White House had not posted a formal announcement when this was checked. This check does not rate claims about the causes of recent tech outages.",
+    "sources": [
+      {
+        "title": "U.S. Senate, Roll Call Vote No. 497, 119th Congress, 1st Session: Nomination of Sean Cairncross to be National Cyber Director (PN24-2), Aug. 2, 2025",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1191/vote_119_1_00497.htm"
+      },
+      {
+        "title": "Senate roll call vote list, 119th Congress, 1st Session (vote 497)",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_lists/vote_menu_119_1.xml"
+      },
+      {
+        "title": "Fox News, \"Trump's National Cyber Director Sean Cairncross fired amid widespread tech outages\" (Nov. 19, 2026)",
+        "url": "https://www.foxnews.com/politics/trumps-national-cyber-director-sean-cairncross-fired"
+      },
+      {
+        "title": "CNN, Nov. 19, 2026",
+        "url": "https://www.cnn.com/2026/11/19/politics/national-cyber-director-replaced-sean-cairncross"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261119-reframe-rubio-denmark-greenland-ratification",
     "slot": "ReFrame",
     "lead": false,
