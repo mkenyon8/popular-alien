@@ -1,5 +1,124 @@
 [
   {
+    "id": "20261120-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-20T06:30:00-06:00",
+    "headline": "Speaker Mike Johnson says House Republicans had '14 absences' Wednesday, stalling the GOP agenda; the Clerk's tally for the day's only roll call lists exactly 14 Republicans not voting, among 23 members missing overall",
+    "video_url": "",
+    "claim": "\"Attendance is a great frustration for me right now. We'll be addressing that with members. I think we had 14 absences yesterday, so it's not possible for us to advance our legislative agenda unless the members are here doing their jobs.\" — House Speaker Mike Johnson, R-La., Nov. 19, 2026, as quoted by Mediaite (Michael Luciano), \"Thomas Massie Says House GOP Is 'Already in a Minority' Because Republican Members Are AWOL,\" Nov. 19, 2026",
+    "source_url": "https://www.mediaite.com/media/tv/thomas-massie-says-house-gop-is-already-in-a-minority-because-republicans-are-awol/",
+    "record_url": "https://clerk.house.gov/Votes/2026326",
+    "record_title": "Office of the Clerk, U.S. House of Representatives, Roll Call 326, H.R. 9640, Earth MRI Reauthorization Act (On Motion to Suspend the Rules and Pass, as Amended), Nov. 18, 2026",
+    "verdict": "Matches record",
+    "why": "The House held one recorded vote on Wednesday, Nov. 18: Roll Call 326, which passed the Earth MRI Reauthorization Act 396-14. The Clerk's party breakdown lists 14 Republicans as not voting, matching Johnson's count of his own members, plus 8 Democrats and one independent, for 23 absences in all. Only 204 Republicans voted on it, two fewer than the 206 Democrats who did, which shows why a rule vote, which usually passes on party lines, would be hard to win.",
+    "what_would_change": "A corrected Clerk tally showing a different number of Republicans missing on Nov. 18 would change this. If Johnson meant all members rather than Republicans, the record shows 23 absences, which would move it to Missing context. The count covers only the day's single recorded vote, so it can't show who was in Washington but skipped it.",
+    "outlet": "Mediaite, Nov. 19, 2026",
+    "outlet_url": "https://www.mediaite.com/media/tv/thomas-massie-says-house-gop-is-already-in-a-minority-because-republicans-are-awol/",
+    "script": "Speaker Mike Johnson says Republicans had 14 absences on Wednesday, and that without members showing up, the House can't move its agenda. The House Clerk's record backs him up. The House took only one recorded vote that day, and 14 Republicans didn't vote, along with eight Democrats and one independent. More Democrats voted than Republicans, even though Republicans still hold the majority. Verdict: matches record.",
+    "read": "The House held one recorded vote on Wednesday, Nov. 18: Roll Call 326, which passed the Earth MRI Reauthorization Act 396-14. The Clerk's party breakdown lists 14 Republicans as not voting, matching Johnson's count of his own members, plus 8 Democrats and one independent, for 23 absences in all. Only 204 Republicans voted on it, two fewer than the 206 Democrats who did, which shows why a rule vote, which usually passes on party lines, would be hard to win. The same records back Rep. Thomas Massie's remark on CNN that on one uncontroversial vote this week more Democrats than Republicans were present: on Roll Call 325 on Tuesday, 202 Democrats voted to 199 Republicans, and on Thursday morning's Roll Call 327, 204 Democrats voted to 197 Republicans, with 21 Republicans not voting. CNN's report on the absences quotes Johnson with slightly different wording, \"We had 14 absences yesterday, so it's not possible for us to advance a rule and advance our legislative agenda.\" This check does not rate the reasons members gave for staying away.",
+    "sources": [
+      {
+        "title": "Office of the Clerk, U.S. House of Representatives, Roll Call 326, H.R. 9640, Nov. 18, 2026",
+        "url": "https://clerk.house.gov/Votes/2026326"
+      },
+      {
+        "title": "Office of the Clerk, Roll Call 326 (XML vote record), Nov. 18, 2026",
+        "url": "https://clerk.house.gov/evs/2026/roll326.xml"
+      },
+      {
+        "title": "Office of the Clerk, Roll Call 325, H.R. 9600, Common Sense 250 Act, Nov. 17, 2026",
+        "url": "https://clerk.house.gov/Votes/2026325"
+      },
+      {
+        "title": "Office of the Clerk, Roll Call 327, H.R. 4464, Preventive Health Savings Act, Nov. 19, 2026",
+        "url": "https://clerk.house.gov/Votes/2026327"
+      },
+      {
+        "title": "CNN, \"GOP leaders fume after members who lost reelection are no-shows\" (Nov. 20, 2026)",
+        "url": "https://www.cnn.com/2026/11/20/politics/mike-johnson-republican-attendance-votes"
+      },
+      {
+        "title": "Mediaite, Nov. 19, 2026",
+        "url": "https://www.mediaite.com/media/tv/thomas-massie-says-house-gop-is-already-in-a-minority-because-republicans-are-awol/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261120-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-20T06:30:00-06:00",
+    "headline": "Rep. Pat Harrigan tells Fox News the government revoked China Telecom's and China Unicom's licenses but left them a foothold in U.S. data centers; FCC orders revoked their telecom authority in 2021 and 2022, and the FCC opened a probe in 2025 into their continued U.S. operations",
+    "video_url": "",
+    "claim": "\"Look, the federal government already determined that companies like China Telecom and China Unicom posed a threat to our national security and revoked their licenses to operate here.\" … \"But those companies were still able to maintain connections inside of American data centers.\" — Rep. Pat Harrigan, R-N.C., to Fox News Digital (Leo Briceno), \"$1M-a-day China tech crackdown proposed amid cascade of US cyber disruptions,\" Nov. 19, 2026",
+    "source_url": "https://www.foxnews.com/politics/1m-day-china-tech-crackdown-proposed-amid-cascade-us-cyber-disruptions",
+    "record_url": "https://docs.fcc.gov/public/attachments/FCC-21-114A1.pdf",
+    "record_title": "Federal Communications Commission, Order on Revocation and Termination, China Telecom (Americas) Corporation, GN Docket No. 20-109, FCC 21-114, adopted Oct. 26, 2021",
+    "verdict": "Matches record",
+    "why": "The FCC revoked China Telecom Americas' authority in an order adopted Oct. 26, 2021, and China Unicom Americas' in one adopted Jan. 27, 2022, both on national security grounds, after denying China Mobile USA's application in 2019. Those orders covered the companies' section 214 authority to provide telecom service; China Telecom told the FCC that its data center and cloud services weren't telecom services at all, and then-Commissioner Brendan Carr wrote that further restrictions would 'go beyond the scope of our 214 authorizations.' In March 2025, Carr, by then chairman, opened an investigation because those companies 'may still be operating in the U.S.' on a private or 'unregulated' basis.",
+    "what_would_change": "Results of the FCC's 2025 investigation, or a later FCC or Commerce Department action, showing China Telecom and China Unicom no longer keep equipment or connections in U.S. data centers would make the present-tense part of the claim outdated. 'Licenses to operate here' is shorthand: the revocations ended their authority to sell regulated telecom service, which is the gap Harrigan describes. His proposed bill isn't rated.",
+    "outlet": "Fox News, Nov. 19, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/1m-day-china-tech-crackdown-proposed-amid-cascade-us-cyber-disruptions",
+    "script": "Rep. Pat Harrigan tells Fox News the government already revoked China Telecom's and China Unicom's licenses as security threats, but left them a foothold in American data centers. FCC records back that up. The agency revoked both companies' authority to provide telecom service in 2021 and 2022. But those orders covered only regulated phone service, and China Telecom told the FCC its data center and cloud business wasn't covered. In 2025 the FCC opened an investigation into whether these companies are still operating in the U.S. Verdict: matches record.",
+    "read": "The FCC revoked China Telecom Americas' authority in an order adopted Oct. 26, 2021, and China Unicom Americas' in one adopted Jan. 27, 2022, both on national security grounds, after denying China Mobile USA's application in 2019. Those orders covered the companies' section 214 authority to provide telecom service; China Telecom told the FCC that its data center and cloud services weren't telecom services at all, and then-Commissioner Brendan Carr wrote that further restrictions would 'go beyond the scope of our 214 authorizations.' In March 2025, Carr, by then chairman, opened an investigation because those companies 'may still be operating in the U.S.' on a private or 'unregulated' basis. The FCC's 2022 order on Pacific Networks and ComNet, which revoked their authority too, describes ComNet operating from a Los Angeles data center. One wording issue in Fox's own text: it says China Telecom, China Unicom and Pacific Networks 'failed to secure FCC authorization,' but the record shows they held authorizations that the FCC later revoked; China Mobile USA is the one whose application was denied. Fox's quote from the China Mobile order is close but not verbatim: the 2019 order says 'a number of factors,' not 'several factors.' This check does not rate whether Chinese carriers played any role in this week's U.S. outages; Fox notes Harrigan didn't claim they did, and there's no proof of a cyberattack.",
+    "sources": [
+      {
+        "title": "FCC, Order on Revocation and Termination, China Telecom (Americas) Corp., FCC 21-114, adopted Oct. 26, 2021",
+        "url": "https://docs.fcc.gov/public/attachments/FCC-21-114A1.pdf"
+      },
+      {
+        "title": "FCC, Order on Revocation, China Unicom (Americas) Operations Ltd., FCC 22-9, adopted Jan. 27, 2022",
+        "url": "https://docs.fcc.gov/public/attachments/FCC-22-9A1.pdf"
+      },
+      {
+        "title": "FCC, Order on Revocation and Termination, Pacific Networks Corp. and ComNet (USA) LLC, FCC 22-22, adopted March 16, 2022",
+        "url": "https://docs.fcc.gov/public/attachments/FCC-22-22A1.pdf"
+      },
+      {
+        "title": "FCC, Memorandum Opinion and Order, China Mobile International (USA) Inc., FCC 19-38, adopted May 9, 2019",
+        "url": "https://docs.fcc.gov/public/attachments/FCC-19-38A1.pdf"
+      },
+      {
+        "title": "FCC, \"Carr Announces Sweeping New Investigation into CCP-Aligned Entities,\" March 21, 2025",
+        "url": "https://docs.fcc.gov/public/attachments/DOC-410318A1.pdf"
+      },
+      {
+        "title": "Fox News, Nov. 19, 2026",
+        "url": "https://www.foxnews.com/politics/1m-day-china-tech-crackdown-proposed-amid-cascade-us-cyber-disruptions"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261120-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-20T06:30:00-06:00",
+    "headline": "CNN says last year's One Big Beautiful Bill Act gave ICE $75 billion to spend over four years and Customs and Border Protection $65 billion; the law's text adds up to about $74.9 billion for ICE and $64.7 billion for CBP, mostly available through September 2029",
+    "video_url": "",
+    "claim": "\"Last year, Republicans passed the One Big Beautiful Bill Act, providing $75 billion for ICE to spend over the next four years, and $65 billion for Customs and Border Protection.\" — CNN (Priscilla Alvarez, Audrey Ash, Annie Grayer), \"DHS pushes through billions for deportations, border projects as Democrats prepare to ramp up oversight,\" Nov. 20, 2026",
+    "source_url": "https://www.cnn.com/2026/11/20/politics/dhs-money-deportations-planes-border-wall",
+    "record_url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm",
+    "record_title": "Public Law 119-21 (H.R. 1, One Big Beautiful Bill Act), 139 Stat. 72, approved July 4, 2025, Title IX secs. 90001-90004 and Title X sec. 100052 (GovInfo enrolled text)",
+    "verdict": "Matches record",
+    "why": "The law signed July 4, 2025, gives ICE $45 billion for detention (sec. 90003) and $29.85 billion for hiring, removals and other enforcement (sec. 100052), about $74.9 billion, both available until Sept. 30, 2029, roughly four years from enactment. It gives CBP $46.55 billion for the border wall, about $12 billion for agents, bonuses, vehicles and facilities, and $6.17 billion for border technology, about $64.7 billion. CNN's rounded $75 billion and $65 billion match.",
+    "what_would_change": "An enacted rescission or transfer since July 2025 that cut ICE's or CBP's reconciliation money would make these totals outdated. Counting the law's separate $2.06 billion DHS-wide enforcement account (sec. 100051), part of which can pay for CBP hiring, would push CBP's figure a bit higher, but CNN's number fits the CBP-specific sections.",
+    "outlet": "CNN, Nov. 20, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/20/politics/dhs-money-deportations-planes-border-wall",
+    "script": "CNN says last year's One Big Beautiful Bill Act gave ICE 75 billion dollars to spend over four years and Customs and Border Protection 65 billion. The law's text checks out. ICE got 45 billion for detention and almost 30 billion more for enforcement, available through September 2029. CBP got about 46 and a half billion for the border wall, plus money for agents, vehicles, facilities and technology, which comes to about 64.7 billion. Verdict: matches record.",
+    "read": "The law signed July 4, 2025, gives ICE $45 billion for detention (sec. 90003) and $29.85 billion for hiring, removals and other enforcement (sec. 100052), about $74.9 billion, both available until Sept. 30, 2029, roughly four years from enactment. It gives CBP $46.55 billion for the border wall, about $12 billion for agents, bonuses, vehicles and facilities, and $6.17 billion for border technology, about $64.7 billion. CNN's rounded $75 billion and $65 billion match. Most of the CBP money also runs through Sept. 30, 2029; the $5 billion for facilities in sec. 90002 has no end date in the text. CNN's other figures, including the roughly $70 billion Secure America Act it says Congress approved in June and its analysis of $41.7 billion in ICE and CBP contracts in fiscal 2026, are not rated here.",
+    "sources": [
+      {
+        "title": "Public Law 119-21 (H.R. 1), 139 Stat. 72, July 4, 2025 (GovInfo enrolled text)",
+        "url": "https://www.govinfo.gov/content/pkg/PLAW-119publ21/html/PLAW-119publ21.htm"
+      },
+      {
+        "title": "CNN, Nov. 20, 2026",
+        "url": "https://www.cnn.com/2026/11/20/politics/dhs-money-deportations-planes-border-wall"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261119-late",
     "slot": "Late Check",
     "aired_at": "2026-11-19T23:00:00-06:00",
