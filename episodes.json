@@ -1,5 +1,49 @@
 [
   {
+    "id": "20261119-reframe-rubio-denmark-greenland-ratification",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-19T22:01:26-06:00",
+    "label": "ReFrame",
+    "claim": "Rubio hails Denmark's ratification of the Greenland defense agreement; the 109-0 vote is real, but ratification is complete only after Copenhagen notifies Washington",
+    "outlet": "Secretary of State Marco Rubio (@SecRubio) on X",
+    "outlet_url": "https://x.com/SecRubio/status/2123424049690730866",
+    "source_url": "https://x.com/SecRubio/status/2123424049690730866",
+    "record_url": "https://www.thedanishparliament.dk/en/news/2026/11/the-danish-parliament-approves-agreement-on-defence-of-greenland",
+    "record_title": "The Danish Parliament (Folketinget), \"The Danish Parliament Approves Agreement on Defence of Greenland\" (Nov. 19, 2026)",
+    "read": "Secretary of State Marco Rubio posted that Denmark's ratification of the Greenland agreement \"will make us all safer, stronger, and more secure.\" The Danish Parliament's own notice confirms it consented to the agreement on Nov. 19, and the vote record relayed by Lovinfo.dk shows proposal B 36 passed 109-0. But the parliament says the government must still formally notify the United States, the step that completes ratification and makes the agreement legally binding, and the safer-and-stronger line is a forecast no document can check. Graded B on 1 argument (Rubio B: not valid, cogent, partly supported, no fallacies). Scorecard: 0% valid, 100% cogent, 50% supported, 100% fallacy-free.",
+    "grade": "B",
+    "scores": {
+      "valid": 0,
+      "cogent": 100,
+      "supported": 50,
+      "fallacy_free": 100
+    },
+    "why": "The vote he cites happened, 109-0, but the safer-stronger forecast is an unchecked prediction and the final notification step is still pending.",
+    "sources": [
+      {
+        "title": "Secretary of State Marco Rubio (@SecRubio) on X, Nov. 19, 2026",
+        "url": "https://x.com/SecRubio/status/2123424049690730866"
+      },
+      {
+        "title": "The Danish Parliament, Approves Agreement on Defence of Greenland, Nov. 19, 2026",
+        "url": "https://www.thedanishparliament.dk/en/news/2026/11/the-danish-parliament-approves-agreement-on-defence-of-greenland"
+      },
+      {
+        "title": "PopArticles - original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261119-midday"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid - full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261119-midday-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261119-midday-full.mp4",
+    "popart_story": "20261119-midday",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Secretary of State Marco Rubio (@SecRubio) on X reports: Rubio hails Denmark's ratification of the Greenland defense agreement; the 109-0 vote is real, but ratification is complete only after Copenhagen notifies Washington.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261119-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-19T17:30:00-06:00",
