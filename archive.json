@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261121-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-21T17:30:00-06:00",
+    "headline": "Rep. Lisa McClain says 'it costs nearly FOUR cents to make just one penny' as Trump signs her Common Cents Act; the Mint's latest audited figure is 3.02 cents, and 'nearly four' comes from the year before",
+    "video_url": "",
+    "claim": "\"It costs nearly FOUR cents to make just one penny. This legislation will save $85 million per year by permanently ending penny production — it's common sense!\" — Rep. Lisa McClain (R-Mich.), the Common Cents Act's author, on X on Sept. 29, 2026, as quoted by NBC News (Kyla Guilfoil), \"Trump formally ends minting of the penny after nearly 250 years of production,\" Nov. 20, 2026",
+    "source_url": "https://www.nbcnews.com/politics/white-house/trump-formally-ends-minting-penny-nearly-250-years-production-rcna600580",
+    "record_url": "https://oig.treasury.gov/system/files/2026-03/OIG-26-021-%28secured%29.pdf",
+    "record_title": "Treasury Office of Inspector General, OIG-26-021, \"Audit of the United States Mint's Financial Statements for Fiscal Year 2025\" (includes the Mint's 2025 Annual Report and its table \"Unit Cost of Producing and Distributing Coins by Denomination\"), Feb. 26, 2026",
+    "verdict": "Missing context",
+    "why": "The U.S. Mint's audited 2025 Annual Report puts the full cost of making and distributing one penny at 3.02 cents in fiscal 2025, down from 3.69 cents in fiscal 2024, so McClain's 'nearly FOUR cents' matches the older 2024 figure, not the latest one available when she posted in September 2026. The penny still cost about three times its face value, and the report says that was the 20th straight year it cost more than a cent.",
+    "what_would_change": "A newer Mint cost figure at or near four cents for a later period would make the claim match the record. A Mint or Congressional Budget Office estimate of yearly savings would let the $85 million figure be rated.",
+    "outlet": "NBC News, Nov. 20, 2026",
+    "outlet_url": "https://www.nbcnews.com/politics/white-house/trump-formally-ends-minting-penny-nearly-250-years-production-rcna600580",
+    "script": "Rep. Lisa McClain says it costs nearly four cents to make one penny, and President Trump has now signed her bill ending penny production for good. The Mint's own audited numbers tell a slightly different story. Making and shipping a penny cost 3.69 cents in fiscal 2024. In fiscal 2025, the latest year on record, it was 3.02 cents. That's still three times what the coin is worth, but 'nearly four' is last year's number. Verdict: missing context.",
+    "read": "The U.S. Mint's audited 2025 Annual Report puts the full cost of making and distributing one penny at 3.02 cents in fiscal 2025, down from 3.69 cents in fiscal 2024, so McClain's 'nearly FOUR cents' matches the older 2024 figure, not the latest one available when she posted in September 2026. The penny still cost about three times its face value, and the report says that was the 20th straight year it cost more than a cent. The same report says the Treasury suspended penny production in fiscal 2025 because of the rising cost, and that the Mint shipped 4.8 billion pennies that year for $48.3 million in revenue. The report doesn't give a yearly savings figure, so this check doesn't rate McClain's $85 million estimate; NBC notes the Mint had put the immediate annual savings at $56 million. The White House confirms Trump signed H.R. 10167, the Common Cents Act, on Nov. 20.",
+    "sources": [
+      {
+        "title": "Treasury OIG-26-021, Audit of the U.S. Mint's Financial Statements for Fiscal Year 2025 (with the Mint's 2025 Annual Report)",
+        "url": "https://oig.treasury.gov/system/files/2026-03/OIG-26-021-%28secured%29.pdf"
+      },
+      {
+        "title": "The White House, \"H.R. 10167 – Common Cents Act\" signing statement, Nov. 20, 2026",
+        "url": "https://www.whitehouse.gov/briefings-statements/2026/11/h-r-10167-common-cents-act/"
+      },
+      {
+        "title": "NBC News, Nov. 20, 2026",
+        "url": "https://www.nbcnews.com/politics/white-house/trump-formally-ends-minting-penny-nearly-250-years-production-rcna600580"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261121-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-21T17:30:00-06:00",
+    "headline": "Fox News says district attorneys from half of California's 58 counties joined victims' families in suing Newsom to stop his commutation of all 548 death sentences; the petition and Newsom's own filings match",
+    "video_url": "",
+    "claim": "\"District attorneys in half of California's 58 counties have signed onto a lawsuit alongside victims' families and law enforcement groups against term-limited Gov. Gavin Newsom over his lame-duck move to grant clemency to 548 death row inmates in the Golden State... The Supreme Court of California is expected to review at least 382 of the inmates convicted of multiple felony offenses before Newsom's clemency would be official.\" — Fox News (Michael Ruiz), \"Half of California's DAs sue Newsom over death row clemency,\" Nov. 21, 2026",
+    "source_url": "https://www.foxnews.com/us/michael-ruiz-half-california-das-sue-newsom-death-row-clemency",
+    "record_url": "https://cdn.prod.website-files.com/69b99b89480861c5da686c14/6afb30ad63bad6a49ad08a15_ClemencyWrit.pdf",
+    "record_title": "Friend et al. v. Newsom, Petition for Writ of Mandate (stay requested), Supreme Court of California, filed by the Criminal Justice Legal Foundation and California District Attorneys Association, Nov. 16, 2026 (58 pages)",
+    "verdict": "Matches record",
+    "why": "The 58-page petition for a writ of mandate filed in the California Supreme Court names the district attorneys of 29 counties in its caption, alongside more than two dozen victims' family members, the California District Attorneys Association, a police union and the Criminal Justice Legal Foundation, and it contains the passages Fox quotes, including 'Only this Court can stop the Governor's disregard of the law.' Newsom's own filings confirm the action covers all 548 people on death row and that he asked the court to recommend clemency for the 382 who were convicted of more than one felony, as the state constitution requires.",
+    "what_would_change": "A court docket showing fewer district attorneys as petitioners, or a Newsom filing changing the number of commutations or the number sent to the court for review, would change the verdict. A ruling by the California Supreme Court would make the story's description of the pending process outdated.",
+    "outlet": "Fox News, Nov. 21, 2026",
+    "outlet_url": "https://www.foxnews.com/us/michael-ruiz-half-california-das-sue-newsom-death-row-clemency",
+    "script": "Fox News reports district attorneys from half of California's 58 counties have joined victims' families in suing Governor Gavin Newsom to stop him from commuting all 548 death sentences in the state. The court filing backs that up. The petition to the California Supreme Court lists the district attorneys of 29 counties, plus victims' families and law enforcement groups. And Newsom's own filings confirm the 548 total, and that 382 of those cases need the court's sign-off. Verdict: matches record.",
+    "read": "The 58-page petition for a writ of mandate filed in the California Supreme Court names the district attorneys of 29 counties in its caption, alongside more than two dozen victims' family members, the California District Attorneys Association, a police union and the Criminal Justice Legal Foundation, and it contains the passages Fox quotes, including 'Only this Court can stop the Governor's disregard of the law.' Newsom's own filings confirm the action covers all 548 people on death row and that he asked the court to recommend clemency for the 382 who were convicted of more than one felony, as the state constitution requires. One small difference: the petition's list of parties names 28 district attorneys, leaving out San Joaquin County, which appears in the caption. Newsom's fact sheet says California's last execution was Jan. 17, 2006, which supports Fox's line that the state hasn't executed anyone in 20 years. This check doesn't rate Fox's claim that no governor had commuted a death sentence since Ronald Reagan in 1967, or the experts' views on whether the lawsuit can succeed.",
+    "sources": [
+      {
+        "title": "Petition for Writ of Mandate, Friend et al. v. Newsom, Supreme Court of California, Nov. 16, 2026",
+        "url": "https://cdn.prod.website-files.com/69b99b89480861c5da686c14/6afb30ad63bad6a49ad08a15_ClemencyWrit.pdf"
+      },
+      {
+        "title": "Criminal Justice Legal Foundation press release on the petition",
+        "url": "https://www.cjlf.org/press-releases/victims-prosecutors-and-law-enforcement-sue-governor-newsom-to-stop-blanket-death-row-commutations"
+      },
+      {
+        "title": "Office of Gov. Gavin Newsom, Explanatory Statement – Proposed Death Penalty Clemency Action, Nov. 5, 2026",
+        "url": "https://www.gov.ca.gov/wp-content/uploads/2026/11/2026-11-5-26-GGN-Explanatory-Statement-FINAL.pdf"
+      },
+      {
+        "title": "Office of Gov. Gavin Newsom, Fact Sheet: California Commutations, Nov. 5, 2026",
+        "url": "https://www.gov.ca.gov/wp-content/uploads/2026/11/11-5-26-External-Fact-Sheet-Clemency-Action.pdf"
+      },
+      {
+        "title": "Office of Gov. Gavin Newsom, Clemency page",
+        "url": "https://www.gov.ca.gov/clemency/"
+      },
+      {
+        "title": "Fox News, Nov. 21, 2026",
+        "url": "https://www.foxnews.com/us/michael-ruiz-half-california-das-sue-newsom-death-row-clemency"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261121-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-21T17:30:00-06:00",
+    "headline": "CNN says a 9-8 appeals court ruled the 2022 $1.7 trillion spending law unconstitutional because of proxy voting; the Fifth Circuit's opinion matches, but the lower-court ruling CNN dates to 2022 came in 2024",
+    "video_url": "",
+    "claim": "\"A federal appeals court ruled Friday that a massive pandemic-era spending law passed during President Joe Biden's administration was unconstitutional because many lawmakers delegated other members to cast votes for them in their absence... in a 9-8 ruling, the majority said proxy votes do not count toward a quorum under a clause in the US Constitution governing congressional meetings, making the law's passage unconstitutional. A US district court judge made the same ruling in 2022.\" — CNN (Kaanita Iyer), \"Biden-era spending law found unconstitutional by federal appeals court,\" Nov. 21, 2026",
+    "source_url": "https://www.cnn.com/2026/11/21/politics/biden-funding-bill-unconstitutional-appeals-court",
+    "record_url": "https://www.ca5.uscourts.gov/opinions/pub/24/24-10386-CV1.pdf",
+    "record_title": "U.S. Court of Appeals for the Fifth Circuit (en banc), State of Texas v. Blanche, No. 24-10386, opinion filed Nov. 20, 2026",
+    "verdict": "Missing context",
+    "why": "The Fifth Circuit's en banc opinion in Texas v. Blanche, filed Nov. 20, rules 9-8 that the House's COVID-era proxy rule broke the Constitution's Quorum Clause, so the 2022 omnibus wasn't validly passed, and it upholds the injunction blocking enforcement of the Pregnant Workers Fairness Act against Texas. It cites the 225-201 vote, with one member voting present, and the 226 members who voted by proxy, and it stresses the 'narrow scope' of its judgment, all as CNN reports. But the district court ruling CNN says came in 2022 was issued in 2024, in a case Texas filed in 2023.",
+    "what_would_change": "A district court ruling in this case dated 2022 would make CNN's account fully match the record. A Supreme Court stay or reversal, or a corrected CNN story, would also change the verdict.",
+    "outlet": "CNN, Nov. 21, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/21/politics/biden-funding-bill-unconstitutional-appeals-court",
+    "script": "CNN reports a federal appeals court ruled nine to eight that the 1.7 trillion dollar spending bill passed in 2022 was unconstitutional because most House members voted by proxy. The Fifth Circuit's opinion backs up the core of that. It says proxies can't count toward a quorum, notes 226 members voted by proxy, and blocks the pregnant-worker law only in Texas. But CNN says a lower court made the same ruling in 2022. That ruling came in 2024. Verdict: missing context.",
+    "read": "The Fifth Circuit's en banc opinion in Texas v. Blanche, filed Nov. 20, rules 9-8 that the House's COVID-era proxy rule broke the Constitution's Quorum Clause, so the 2022 omnibus wasn't validly passed, and it upholds the injunction blocking enforcement of the Pregnant Workers Fairness Act against Texas. It cites the 225-201 vote, with one member voting present, and the 226 members who voted by proxy, and it stresses the 'narrow scope' of its judgment, all as CNN reports. But the district court ruling CNN says came in 2022 was issued in 2024, in a case Texas filed in 2023. CNN also says the majority found the government 'did not establish there was an existence of an emergency.' The opinion makes a different point: that nothing in the government's argument 'depends on the existence of an emergency,' so a pandemic can't create a power the Constitution doesn't give. The opinion is by Judge Cory Wilson, joined by eight judges; Judge James Graves wrote the main dissent, joined by six others, and Judge Catharina Haynes dissented separately. The ruling applies only to enforcing the pregnant-worker law against Texas, not to the rest of the spending law.",
+    "sources": [
+      {
+        "title": "Fifth Circuit (en banc), State of Texas v. Blanche, No. 24-10386, Nov. 20, 2026",
+        "url": "https://www.ca5.uscourts.gov/opinions/pub/24/24-10386-CV1.pdf"
+      },
+      {
+        "title": "CNN, Nov. 21, 2026",
+        "url": "https://www.cnn.com/2026/11/21/politics/biden-funding-bill-unconstitutional-appeals-court"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261121-field-chapo-isidro-arrest",
     "slot": "Midday Check",
     "label": "Field Report",
