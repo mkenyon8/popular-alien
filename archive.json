@@ -1,5 +1,104 @@
 [
  {
+  "id": "20261121-midday",
+  "slot": "Midday Check",
+  "aired_at": "2026-11-21T11:30:00-06:00",
+  "headline": "CBS News says newly released Pentagon UFO files show a contractor planned an underground vault for 'exotic material or tissue'; the 2009 Bigelow report says that, though it describes a plan, not a vault that was built or anything stored in it",
+  "video_url": "",
+  "claim": "\"The Pentagon released a new batch of UFO files on Friday, including one report from a government contractor detailing plans for an underground vault to store 'exotic material or tissue' and recovered 'hardware' it hoped to obtain.\" — CBS News (Stefan Becket), \"New UFO files show Pentagon contractor planned underground vault for 'exotic material',\" Nov. 20, 2026",
+  "source_url": "https://www.cbsnews.com/news/ufo-files-pentagon-contractor/",
+  "record_url": "https://www.war.gov/medialink/ufo/docs-112026-release-08/DOW-UAP-D172-BAASS_Ten_Month_Report_July-2009.pdf",
+  "record_title": "Department of War, PURSUE Release 08, DOW-UAP-D172, \"BAASS Ten-Month Report, July 2009\" (Bigelow Aerospace Advanced Space Studies report to the Defense Intelligence Agency, 538 pages), released Nov. 20, 2026",
+  "verdict": "Matches record",
+  "why": "The 538-page July 2009 Bigelow Aerospace Advanced Space Studies report, posted by the Department of War in its eighth UFO records release on Nov. 20, says BAASS saw the need for 'a highly secure underground vault' to hold 'recovered hardware and biological samples' from sources 'including Brazil,' since it had no secure place 'to store exotic material or tissue.' It describes plans for a 5,000-square-foot vault in North Las Vegas with '3 foot thick walls,' a thick steel vault door, 15 to 20 feet of earth on top and 'extensively camouflaged' surface structures, matching CBS's account.",
+  "what_would_change": "Records showing the vault was never planned as described, or that the passage comes from a different document, would contradict CBS. Released records showing the vault was built and actually held recovered material would add to the story, and a document showing the report was officially released before Nov. 20 would undercut the 'first time' framing.",
+  "outlet": "CBS News, Nov. 20, 2026",
+  "outlet_url": "https://www.cbsnews.com/news/ufo-files-pentagon-contractor/",
+  "script": "CBS News says the Pentagon's newest batch of UFO files includes a contractor's plan for an underground vault to store exotic material or tissue. That checks out. The 2009 report from Bigelow Aerospace's research arm, written for a Defense Intelligence Agency program, lays out a 5,000-square-foot vault in North Las Vegas with three-foot-thick walls, buried under 15 to 20 feet of earth. But it's a plan. Nothing in the files shows it was built or that anything was ever stored in it, and a DIA memo later called the contractor's reports of limited value. Verdict: matches record.",
+  "read": "The 538-page July 2009 Bigelow Aerospace Advanced Space Studies report, posted by the Department of War in its eighth UFO records release on Nov. 20, says BAASS saw the need for 'a highly secure underground vault' to hold 'recovered hardware and biological samples' from sources 'including Brazil,' since it had no secure place 'to store exotic material or tissue.' It describes plans for a 5,000-square-foot vault in North Las Vegas with '3 foot thick walls,' a thick steel vault door, 15 to 20 feet of earth on top and 'extensively camouflaged' surface structures, matching CBS's account. The report itself calls the vault a plan, saying it could be occupied by late 2009 or early 2010 'subject to building permits'; the released records don't show it was ever built, as CBS notes. A December 2010 Defense Intelligence Agency memo in the same release says the program began with a $10 million add sponsored by Sens. Reid and Inouye, and that in November 2009 DIA's director and the deputy defense secretary decided the reports 'were of limited value to DIA.' The documents describe what a contractor planned to collect, not evidence that it obtained any 'exotic material.' This check doesn't count CBS's tally of 43 files in the release.",
+  "sources": [
+   {
+    "title": "Department of War, DOW-UAP-D172, \"BAASS Ten-Month Report, July 2009\" (PURSUE Release 08)",
+    "url": "https://www.war.gov/medialink/ufo/docs-112026-release-08/DOW-UAP-D172-BAASS_Ten_Month_Report_July-2009.pdf"
+   },
+   {
+    "title": "Department of War, DOW-UAP-D186, \"DIA Information Memorandum on AATIP (AAWSAP), December 2010\" (PURSUE Release 08)",
+    "url": "https://www.war.gov/medialink/ufo/docs-112026-release-08/DOW-UAP-D186-DIA_Information_Memorandum_on_AATIP_AAWSAP_December-2010.pdf"
+   },
+   {
+    "title": "Department of War, Presidential Unsealing and Reporting System for UAP Encounters (PURSUE), Release 08, Nov. 20, 2026",
+    "url": "https://www.war.gov/UFO/?releaseDate=Release+08&release=08"
+   },
+   {
+    "title": "CBS News, Nov. 20, 2026",
+    "url": "https://www.cbsnews.com/news/ufo-files-pentagon-contractor/"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261121-midday-fox",
+  "slot": "Midday Check",
+  "aired_at": "2026-11-21T11:30:00-06:00",
+  "headline": "Fox News says Trump's new executive order makes all federal contractors and subcontractors alert the White House to congressional record requests or risk losing contracts; the order's text matches, though penalties are left to agencies to weigh",
+  "video_url": "",
+  "claim": "\"President Donald Trump signed an executive order late Friday instructing federal contractors to notify the White House of congressional information requests and withhold material the administration deems privileged... The order applies to all federal contractors and subcontractors. Companies that fail to comply risk losing their existing contracts or being suspended from future work, according to the order.\" — Fox News (James Cirrone), \"Trump orders federal contractors to alert White House on congressional record requests,\" Nov. 21, 2026",
+  "source_url": "https://www.foxnews.com/politics/trump-orders-federal-contractors-alert-white-house-congressional-record-requests",
+  "record_url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/",
+  "record_title": "Executive Order 14438, \"Protecting the Executive's Privileges and Enhancing Efficiencies in Federal Contracting,\" The White House, Nov. 20, 2026",
+  "verdict": "Matches record",
+  "why": "Executive Order 14438, dated Nov. 20, requires 'all Federal contractors' to notify the White House and their contracting agencies of any congressional request about their work with the executive branch and to follow White House instructions on withholding communications it deems privileged, and section 2(c) extends that to subcontractors. Section 4 says agencies 'shall consider' actions including 'termination or cancellation of contracts' and 'debarment or suspension' for companies that don't comply, which matches Fox's description of the penalties.",
+  "what_would_change": "An amended or rescinded order, Office of Management and Budget guidance narrowing which contractors are covered, or a court order blocking enforcement would make the claim outdated or incomplete. Evidence that the order excludes some contractors would contradict the 'all federal contractors' description.",
+  "outlet": "Fox News, Nov. 21, 2026",
+  "outlet_url": "https://www.foxnews.com/politics/trump-orders-federal-contractors-alert-white-house-congressional-record-requests",
+  "script": "Fox News reports President Trump signed an executive order Friday telling every federal contractor to alert the White House when Congress asks for their records, and to hold back anything the administration says is privileged, or risk losing their contracts. The order's text backs that up. It covers all contractors and subcontractors and says agencies should consider canceling contracts or suspending companies that don't comply. One detail: the penalties aren't automatic. Agencies decide whether to use them. Verdict: matches record.",
+  "read": "Executive Order 14438, dated Nov. 20, requires 'all Federal contractors' to notify the White House and their contracting agencies of any congressional request about their work with the executive branch and to follow White House instructions on withholding communications it deems privileged, and section 2(c) extends that to subcontractors. Section 4 says agencies 'shall consider' actions including 'termination or cancellation of contracts' and 'debarment or suspension' for companies that don't comply, which matches Fox's description of the penalties. The penalties aren't automatic: the order leaves it to contracting agencies to decide on enforcement 'consistent with applicable law,' and it tells the Office of Management and Budget to write compliance guidance. The order's purpose section says some congressional leaders have been 'harassing private companies that contract with the Federal Government,' the phrase Fox quotes. Fox's point that the order could draw legal challenges is analysis and isn't rated here.",
+  "sources": [
+   {
+    "title": "Executive Order 14438, \"Protecting the Executive's Privileges and Enhancing Efficiencies in Federal Contracting,\" Nov. 20, 2026",
+    "url": "https://www.whitehouse.gov/presidential-actions/2026/11/protecting-the-executives-privileges-and-enhancing-efficiencies-in-federal-contracting/"
+   },
+   {
+    "title": "Fox News, Nov. 21, 2026",
+    "url": "https://www.foxnews.com/politics/trump-orders-federal-contractors-alert-white-house-congressional-record-requests"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261121-midday-cnn",
+  "slot": "Midday Check",
+  "aired_at": "2026-11-21T11:30:00-06:00",
+  "headline": "CNN says the alleged cartel leader Mexico captured, 'El Chapo Isidro' Meza-Flores, was on the FBI's 10 most wanted list with a $5 million reward and U.S. indictments from 2012 and 2019; the FBI's wanted page matches",
+  "video_url": "",
+  "claim": "\"Mexico's military captured an alleged drug lord listed among the FBI's 10 most wanted fugitives... Meza-Flores is 'allegedly responsible for the possession, distribution, and importation of large quantities of heroin, methamphetamine, cocaine, fentanyl, and marijuana into the United States,' according to an FBI wanted poster offering a $5 million reward for information leading to his arrest. He was previously indicted in 2019 for drug trafficking violations and possession of a firearm, and in 2012 for drug trafficking charges, it said.\" — CNN, \"Cartel kingpin on FBI's most wanted list captured in dramatic Mexican military operation,\" Nov. 21, 2026",
+  "source_url": "https://www.cnn.com/2026/11/21/americas/el-chapo-isidro-mexico-fbi-wanted-hnk-intl",
+  "record_url": "https://www.fbi.gov/wanted/topten/fausto-isidro-meza-flores",
+  "record_title": "FBI, Ten Most Wanted Fugitives, \"Fausto Isidro Meza-Flores\" wanted page and poster",
+  "verdict": "Matches record",
+  "why": "The FBI's page for Fausto Isidro Meza-Flores, alias 'El Chapo Isidro,' lists him among its Ten Most Wanted Fugitives, describes his organization as 'allegedly responsible for the possession, distribution, and importation of large quantities of heroin, methamphetamine, cocaine, fentanyl, and marijuana into the United States,' and offers up to $5 million. It says he was first indicted May 2, 2012, in federal court in Washington, D.C., and charged in a Nov. 26, 2019, superseding indictment with drug trafficking and firearm counts, as CNN reports.",
+  "what_would_change": "FBI or Justice Department records showing different charges or indictment dates, or that he had been removed from the Ten Most Wanted list before the operation, would change the verdict. A U.S. confirmation that the man arrested is not Meza-Flores would undercut the story's premise.",
+  "outlet": "CNN, Nov. 21, 2026",
+  "outlet_url": "https://www.cnn.com/2026/11/21/americas/el-chapo-isidro-mexico-fbi-wanted-hnk-intl",
+  "script": "CNN reports Mexico's military captured Fausto Isidro Meza-Flores, known as El Chapo Isidro, a cartel leader on the FBI's ten most wanted list with a five million dollar reward on his head. The FBI's own wanted page backs that up. It lists him among the Ten Most Wanted, describes the drug trafficking he's accused of, and shows U.S. indictments from 2012 and 2019. One small detail: the reward of up to five million dollars comes from the State Department. Verdict: matches record.",
+  "read": "The FBI's page for Fausto Isidro Meza-Flores, alias 'El Chapo Isidro,' lists him among its Ten Most Wanted Fugitives, describes his organization as 'allegedly responsible for the possession, distribution, and importation of large quantities of heroin, methamphetamine, cocaine, fentanyl, and marijuana into the United States,' and offers up to $5 million. It says he was first indicted May 2, 2012, in federal court in Washington, D.C., and charged in a Nov. 26, 2019, superseding indictment with drug trafficking and firearm counts, as CNN reports. One detail: the $5 million reward comes from the State Department's Narcotics Rewards Program, not the FBI, and is 'up to' that amount, though the FBI poster advertises it. The FBI says he was added to the Ten Most Wanted list in February 2025. This check rates CNN's description of the U.S. charges and listing, not Mexico's account of the arrest operation or the violence in Guasave, which come from Mexican officials and CNN's own reporting.",
+  "sources": [
+   {
+    "title": "FBI, Ten Most Wanted Fugitives, \"Fausto Isidro Meza-Flores\"",
+    "url": "https://www.fbi.gov/wanted/topten/fausto-isidro-meza-flores"
+   },
+   {
+    "title": "FBI, Ten Most Wanted Fugitives list",
+    "url": "https://www.fbi.gov/wanted/topten"
+   },
+   {
+    "title": "CNN, Nov. 21, 2026",
+    "url": "https://www.cnn.com/2026/11/21/americas/el-chapo-isidro-mexico-fbi-wanted-hnk-intl"
+   }
+  ],
+  "corrections": []
+ },
+ {
   "id": "20261121-reframe-cbs-trump-presser-record-claims",
   "slot": "ReFrame",
   "lead": true,
