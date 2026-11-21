@@ -35,6 +35,49 @@
   "corrections": []
  },
  {
+  "id": "20261120-reframe-cnbc-anthropic-biggest-ipo",
+  "slot": "ReFrame",
+  "lead": true,
+  "aired_at": "2026-11-21T10:32:28-06:00",
+  "label": "Story of the Day",
+  "claim": "Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI",
+  "outlet": "CNBC",
+  "outlet_url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+  "source_url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+  "record_url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html",
+  "record_title": "CNBC, “Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI,” Nov. 19, 2026",
+  "read": "CNBC reported that Anthropic's ANT stock debuted with a $1.8 trillion market cap and that the IPO was the biggest on record, topping SpaceX. The valuation and the 17% first-day jump check out. The record claim was premature when CNBC first published it, when the base deal stood at $81.3 billion, below SpaceX's $85.7 billion; underwriters then fully exercised the greenshoe on Nov. 20, lifting proceeds to about $93.5 billion, so the record claim is now true. The remaining weak point is the Ban RSI protest line that 'they are making trillions,' which treats market value as money earned, while nine-month revenue was $33.24 billion. Graded B across 3 arguments (CNBC on the record IPO A-; Melius analyst Ben Reitzes C+; Ban RSI D+). Scorecard: 33% valid, 67% cogent, 50% supported, 100% fallacy-free.",
+  "grade": "B",
+  "scores": {
+   "valid": 33,
+   "cogent": 67,
+   "supported": 50,
+   "fallacy_free": 100
+  },
+  "why": "The $1.8 trillion value and 17% pop check out, and the IPO is now the biggest on record at about $93.5 billion, above SpaceX's $85.7 billion. That record claim was premature when first published. Key question: If nine-month revenue was $33.24 billion, how does a market cap of $1.8 trillion mean they are making trillions?",
+  "sources": [
+   {
+    "title": "CNBC, “Anthropic IPO takeaways: ANT debuts with $1.8 trillion market cap in landmark moment for AI,” Nov. 19, 2026",
+    "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ant-live-updates.html"
+   },
+   {
+    "title": "Anthropic, “Anthropic closes initial public offering,” Nov. 20, 2026",
+    "url": "https://www.anthropic.com/news/ipo-close"
+   },
+   {
+    "title": "CNBC, greenshoe / overallotment coverage, Nov. 20, 2026",
+    "url": "https://www.cnbc.com/2026/11/20/anthropic-ipo-greenshoe.html"
+   },
+   {
+    "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+    "url": "https://show.popularalien.com/talk/sotd-20261120-anthropic-biggest-ipo-full.mp4"
+   }
+  ],
+  "video_url": "https://show.popularalien.com/talk/sotd-20261120-anthropic-biggest-ipo-full.mp4",
+  "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... CNBC reports: Anthropic IPO takeaways: ANT debuts with 1.8 trillion dollars market cap in landmark moment for AI.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+  "corrections": []
+ },
+ {
   "id": "20261121-morning",
   "slot": "Morning Check",
   "aired_at": "2026-11-21T06:30:00-06:00",
