@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261121-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-21T06:30:00-06:00",
+    "headline": "President Trump says the Senate-passed permitting bill is 'projected to put at least $1,300 a year back in the pockets' of Americans; the Senate did pass it 62-33, but the White House's own economists project about $609 to $1,064 a year per household",
+    "video_url": "",
+    "claim": "\"Last night, landmark permitting reform legislation passed the Senate. It's one of the biggest things that you will see. It's a big deal… It's projected to put at least $1,300 a year back in the pockets of hardworking Americans.\" — President Donald Trump at a White House press briefing, Nov. 20, 2026, as quoted by the White House, \"WHAT THEY ARE SAYING: Send the Bipartisan American Affordability and Jobs Act to President Trump's Desk\"",
+    "source_url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/",
+    "record_url": "https://www.whitehouse.gov/research/2026/10/the-economic-benefits-of-permitting-reform/",
+    "record_title": "White House Council of Economic Advisers, \"The Economic Benefits of Permitting Reform,\" Oct. 28, 2026 (household estimates for the Bipartisan American Affordability and Jobs Act)",
+    "verdict": "Contradicted",
+    "why": "The Senate roll call confirms the first part: H.R. 2347, the vehicle for the Bipartisan American Affordability and Jobs Act, passed 62-33 at 9:30 p.m. Thursday, Nov. 19. The $1,300 figure isn't supported by the White House's own Council of Economic Advisers, whose October analysis says the bill's two-year review deadlines would raise household wages $306 to $637 a year and cut electric bills $178 to $251 and other expenses $125 to $176, about $609 to $1,064 combined, even at the top end below $1,300. Only CEA's more aggressive hypothetical of one-year reviews, which the bill doesn't require, reaches $888 to $1,545.",
+    "what_would_change": "A published estimate from CEA, the Congressional Budget Office or another official scorekeeper showing the Senate-passed bill would save the average household $1,300 or more a year would move this toward Matches record or Missing context. A clarification that Trump meant CEA's one-year-review scenario would still leave the claim at odds with what the bill actually requires.",
+    "outlet": "The White House, Nov. 20, 2026",
+    "outlet_url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/",
+    "script": "President Trump says the permitting reform bill that passed the Senate Thursday night is projected to put at least 1,300 dollars a year back in Americans' pockets. The Senate part checks out. The bill passed 62 to 33. But the White House's own Council of Economic Advisers projected that the bill's two-year review deadlines would add about 600 to 1,060 dollars a year per household in higher wages and lower bills. Only a stricter one-year scenario that the bill doesn't require gets above 1,300. Verdict: contradicted.",
+    "read": "The Senate roll call confirms the first part: H.R. 2347, the vehicle for the Bipartisan American Affordability and Jobs Act, passed 62-33 at 9:30 p.m. Thursday, Nov. 19. The $1,300 figure isn't supported by the White House's own Council of Economic Advisers, whose October analysis says the bill's two-year review deadlines would raise household wages $306 to $637 a year and cut electric bills $178 to $251 and other expenses $125 to $176, about $609 to $1,064 combined, even at the top end below $1,300. Only CEA's more aggressive hypothetical of one-year reviews, which the bill doesn't require, reaches $888 to $1,545. An independent Rhodium Group study of the bill's main energy provisions projects residential electricity bills about $41 to $66 a year lower in 2035, well below CEA's electricity estimate. The bill still needs to pass the House. This check doesn't rate Trump's description of the bill as 'one of the biggest things that you will see,' which is opinion.",
+    "sources": [
+      {
+        "title": "White House Council of Economic Advisers, \"The Economic Benefits of Permitting Reform,\" Oct. 28, 2026",
+        "url": "https://www.whitehouse.gov/research/2026/10/the-economic-benefits-of-permitting-reform/"
+      },
+      {
+        "title": "U.S. Senate Roll Call Vote No. 270, 119th Congress, 2nd Session, on passage of H.R. 2347 as amended, Nov. 19, 2026 (62-33)",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00270.htm"
+      },
+      {
+        "title": "Rhodium Group, \"The Impact of Permitting Reform on State-level Residential Electricity Prices and Bills,\" Nov. 12, 2026",
+        "url": "https://rhg.com/research/permitting-reform-state-electricity-prices/"
+      },
+      {
+        "title": "The White House, Nov. 20, 2026",
+        "url": "https://www.whitehouse.gov/releases/2026/11/what-they-are-saying-send-the-bipartisan-american-affordability-and-jobs-act-to-president-trumps-desk/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261121-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-21T06:30:00-06:00",
+    "headline": "An AEI scholar tells Fox News Social Security's trust fund runs out in 2032; the Trustees project the retirement fund will be depleted late in 2032 with 78% of benefits payable, though the combined retirement and disability funds last to 2034",
+    "video_url": "",
+    "claim": "\"Now in 2032, we're going to face the same situation, where Congress will be forced to take action sometime before the trust fund runs out in 2032, not because they want to, but because they're forced to do it.\" — Andrew Biggs, senior fellow at the American Enterprise Institute, to Fox News Digital (Alex Miller), \"Millions could lose paid benefits due to Congress ignoring decades of Social Security warnings: experts,\" Nov. 21, 2026",
+    "source_url": "https://www.foxnews.com/politics/millions-could-lose-paid-benefits-due-congress-ignoring-decades-social-security-warnings-experts",
+    "record_url": "https://www.ssa.gov/oact/trsum/index.html",
+    "record_title": "Social Security and Medicare Boards of Trustees, \"A Summary of the 2026 Annual Reports\" (Social Security Administration)",
+    "verdict": "Matches record",
+    "why": "The 2026 Social Security Trustees Report projects the Old-Age and Survivors Insurance trust fund, which pays retirement and survivor benefits, will be depleted in the fourth quarter of 2032, after which incoming revenue would cover 78% of scheduled benefits. That matches Biggs' 2032 date and Fox's warning that benefits would be cut. If the retirement and disability funds were combined, as is often done, reserves would last until the third quarter of 2034, with 83% of benefits payable.",
+    "what_would_change": "A later Trustees Report, or a law enacted since June 2026, that moves the retirement fund's projected depletion date out of 2032 would make the claim outdated. If Biggs meant the combined Social Security funds rather than the retirement fund, the right date would be 2034, and the claim would move to Missing context.",
+    "outlet": "Fox News, Nov. 21, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/millions-could-lose-paid-benefits-due-congress-ignoring-decades-social-security-warnings-experts",
+    "script": "An economist tells Fox News that Congress will be forced to act on Social Security before the trust fund runs out in 2032. The Trustees' latest report backs that up. It projects the retirement trust fund will run dry in late 2032. After that, incoming payroll taxes would cover about 78 percent of scheduled benefits, so checks would be cut unless Congress acts. One thing to know: if you count the disability fund too, the money lasts until 2034. Verdict: matches record.",
+    "read": "The 2026 Social Security Trustees Report projects the Old-Age and Survivors Insurance trust fund, which pays retirement and survivor benefits, will be depleted in the fourth quarter of 2032, after which incoming revenue would cover 78% of scheduled benefits. That matches Biggs' 2032 date and Fox's warning that benefits would be cut. If the retirement and disability funds were combined, as is often done, reserves would last until the third quarter of 2034, with 83% of benefits payable. The two funds can't legally be combined without a change in the law, so 2032 is the date that applies to retirement checks under current law. Fox's 'just under seven years' timeline also matches a depletion date late in 2032. This check rates only the depletion date and benefit-cut warning, not the experts' arguments that Social Security is a 'Ponzi scheme' or that the 1977 amendments caused the shortfall.",
+    "sources": [
+      {
+        "title": "Social Security and Medicare Boards of Trustees, \"A Summary of the 2026 Annual Reports\"",
+        "url": "https://www.ssa.gov/oact/trsum/index.html"
+      },
+      {
+        "title": "2026 OASDI Trustees Report, Section II.D, \"Projections of Future Financial Status\" (Table II.D1)",
+        "url": "https://www.ssa.gov/oact/TR/2026/II_D_project.html"
+      },
+      {
+        "title": "Fox News, Nov. 21, 2026",
+        "url": "https://www.foxnews.com/politics/millions-could-lose-paid-benefits-due-congress-ignoring-decades-social-security-warnings-experts"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261121-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-21T06:30:00-06:00",
+    "headline": "CNN says a federal jury convicted Jonathan Rinderknecht of starting a Jan. 1, 2025 fire that flared back up Jan. 7 as the Palisades Fire, which killed 12; the Justice Department confirms the guilty verdict on both counts",
+    "video_url": "",
+    "claim": "\"Jurors convicted Jonathan Rinderknecht, 30, of lighting a fire on January 1, 2025, that burned undetected deep in root systems before flaring back up January 7, becoming one of the most destructive wildfires in California history. The Palisades Fire killed 12 people as it incinerated entire neighborhoods in Los Angeles and Malibu.\" — CNN (Associated Press), \"Federal jury convicts man of starting the deadly 2025 Palisades Fire in Los Angeles,\" Nov. 20, 2026",
+    "source_url": "https://www.cnn.com/2026/11/20/us/california-palisades-fire-trial-verdict",
+    "record_url": "https://www.justice.gov/usao-cdca/pr/former-la-resident-found-guilty-federal-charges-deliberately-starting-what-became",
+    "record_title": "U.S. Attorney's Office, Central District of California, \"Former L.A. Resident Found Guilty of Federal Charges for Deliberately Starting What Became the Palisades Fire Last Year,\" Nov. 20, 2026 (United States v. Rinderknecht, No. 2:25-CR-833-AH)",
+    "verdict": "Matches record",
+    "why": "The Justice Department says a jury on Nov. 20 found Rinderknecht, 30, guilty on both counts, destruction of property by means of fire and arson affecting property used in interstate commerce, for starting the Jan. 1, 2025, Lachman Fire. Prosecutors say it smoldered underground in root systems until winds brought it back up Jan. 7 as the Palisades Fire, which killed 12 people and destroyed 6,837 structures. CNN's account of the verdict, dates and death toll matches.",
+    "what_would_change": "A post-trial ruling that sets aside the verdict or grants a new trial, or a successful appeal, would make the conviction claim outdated. Official fire records showing a different death toll than 12 would change that part of the claim.",
+    "outlet": "CNN, Nov. 20, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/20/us/california-palisades-fire-trial-verdict",
+    "script": "CNN reports a federal jury convicted Jonathan Rinderknecht of starting a New Year's Day 2025 fire that smoldered underground and flared back up a week later as the Palisades Fire, which killed 12 people. The Justice Department confirms it. Jurors found him guilty Friday on both federal arson charges at his second trial, after the first ended in a mistrial. He faces five to 40 years in prison, with sentencing set for March. Verdict: matches record.",
+    "read": "The Justice Department says a jury on Nov. 20 found Rinderknecht, 30, guilty on both counts, destruction of property by means of fire and arson affecting property used in interstate commerce, for starting the Jan. 1, 2025, Lachman Fire. Prosecutors say it smoldered underground in root systems until winds brought it back up Jan. 7 as the Palisades Fire, which killed 12 people and destroyed 6,837 structures. CNN's account of the verdict, dates and death toll matches. Sentencing is set for March 17, 2027, before U.S. District Judge Anne Hwang; Rinderknecht faces a mandatory minimum of five years and up to 40 years in prison, the department says. The verdict came at a retrial in case No. 2:25-CR-833-AH after the first trial ended in a mistrial in June; CNN's report that the first jury split 10-2 for acquittal comes from courtroom reporting, not the department's release, and isn't rated here. A verdict can still be challenged in post-trial motions or on appeal.",
+    "sources": [
+      {
+        "title": "U.S. Attorney's Office, Central District of California, press release on guilty verdict, Nov. 20, 2026",
+        "url": "https://www.justice.gov/usao-cdca/pr/former-la-resident-found-guilty-federal-charges-deliberately-starting-what-became"
+      },
+      {
+        "title": "U.S. Attorney's Office, Central District of California, \"United States v. Jonathan Rinderknecht\" case page (No. 2:25-CR-833-AH)",
+        "url": "https://www.justice.gov/usao-cdca/united-states-v-jonathan-rinderknecht"
+      },
+      {
+        "title": "CNN, Nov. 20, 2026",
+        "url": "https://www.cnn.com/2026/11/20/us/california-palisades-fire-trial-verdict"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261120-late",
     "slot": "Late Check",
     "aired_at": "2026-11-20T23:00:00-06:00",
