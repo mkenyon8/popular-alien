@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261120-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-20T23:00:00-06:00",
+    "headline": "President Trump says gasoline is 'down 60 cents a gallon from just one month ago'; AAA's national average shows regular fell about 59 cents in a month, though it's still about 59 cents above a year ago",
+    "video_url": "",
+    "claim": "\"Already, gasoline is down 60 cents a gallon from just one month ago, and it's going to be dropping fast.\" — President Donald Trump at a White House press briefing, Nov. 20, 2026, as quoted by the White House, \"At Press Briefing, President Trump Touts Historic Wins for Americans, Signals Deal-Making on Healthcare\"",
+    "source_url": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/",
+    "record_url": "https://gasprices.aaa.com/",
+    "record_title": "AAA, \"National average gas prices\" (current, month-ago and year-ago averages), checked Nov. 20, 2026, 11:14 p.m. CT",
+    "verdict": "Matches record",
+    "why": "AAA's national average for regular gasoline was $3.690 a gallon on Friday, down from $4.279 a month earlier, a drop of about 59 cents, which rounds to Trump's 60. The Energy Department's weekly survey, last updated Nov. 16, shows the same trend: regular fell from $4.284 on Oct. 19 to $3.805, about 48 cents in four weeks, with prices still sliding since. Prices are falling from a September peak of $4.478 in the federal survey, and AAA's average is still about 59 cents higher than a year ago, when it was $3.100.",
+    "what_would_change": "AAA or Energy Department figures showing the month-over-month drop as of Nov. 20 was well short of 60 cents, for example near the 48 cents in the Nov. 16 federal weekly survey, would move this toward Missing context. A rebound in prices would not change the verdict for what was true on Friday.",
+    "outlet": "The White House, Nov. 20, 2026",
+    "outlet_url": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/",
+    "script": "President Trump said Friday that gasoline is down 60 cents a gallon from just a month ago. AAA's national average backs him up. Regular was about $3.69 a gallon Friday, down from about $4.28 a month ago, a drop of roughly 59 cents. The Energy Department's weekly survey shows the same slide. One thing to know: prices are falling from a big run-up this fall, and they're still about 59 cents higher than a year ago. Verdict: matches the record.",
+    "read": "AAA's national average for regular gasoline was $3.690 a gallon on Friday, down from $4.279 a month earlier, a drop of about 59 cents, which rounds to Trump's 60. The Energy Department's weekly survey, last updated Nov. 16, shows the same trend: regular fell from $4.284 on Oct. 19 to $3.805, about 48 cents in four weeks, with prices still sliding since. Prices are falling from a September peak of $4.478 in the federal survey, and AAA's average is still about 59 cents higher than a year ago, when it was $3.100. AAA's posted averages update daily, so the month-ago comparison will shift. This check rates only the gas-price line in the White House's account of the briefing, not the other claims, such as the $17 billion in deals or the trade figures for Thailand and the Philippines.",
+    "sources": [
+      {
+        "title": "AAA, \"National average gas prices\" (current, month-ago and year-ago averages), checked Nov. 20, 2026, 11:14 p.m. CT",
+        "url": "https://gasprices.aaa.com/"
+      },
+      {
+        "title": "U.S. Energy Information Administration, Weekly U.S. Regular All Formulations Retail Gasoline Prices (release of Nov. 17, 2026)",
+        "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPMR_PTE_NUS_DPG&f=W"
+      },
+      {
+        "title": "The White House, Nov. 20, 2026",
+        "url": "https://www.whitehouse.gov/releases/2026/11/at-press-briefing-president-trump-touts-historic-wins-for-americans-signals-deal-making-on-healthcare/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261120-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-20T23:00:00-06:00",
+    "headline": "Fox News says Gov. Greg Abbott's January order bars Texas state agencies and public universities from filing new H-1B petitions without state workforce agency approval through May 31, 2027; Abbott's signed directive says that, for agencies run by his appointees",
+    "video_url": "",
+    "claim": "\"Abbott issued the order in January to bar state agencies and public universities from filing new H-1B petitions without written approval from the Texas Workforce Commission\" … \"Abbott's freeze was scheduled to remain in place through May 31, 2027.\" — Fox News (Brittany Miller), \"Texas Gov-elect Gina Hinojosa vows to rescind Abbott's H-1B visa restrictions despite admitting program abuse,\" Nov. 20, 2026",
+    "source_url": "https://www.foxnews.com/politics/texas-gov-elect-gina-hinojosa-vows-rescind-abbotts-h1b-visa-restrictions-despite-admitting-program-abuse",
+    "record_url": "https://gov.texas.gov/uploads/files/press/H-1B_Visa_Program_Letter_1.27.2026_State_Agency_Heads_FINAL_.pdf",
+    "record_title": "Office of the Texas Governor, Gov. Greg Abbott's letter to state agency heads directing a freeze on new H-1B visa petitions, Jan. 27, 2026",
+    "verdict": "Matches record",
+    "why": "Abbott's signed Jan. 27, 2026 letter directs that no state agency run by a governor-appointed head, and no public college or university, may file a new H-1B petition without the Texas Workforce Commission's written permission until the Legislature's regular session ends on May 31, 2027. The letter quotes the line Fox cites about employers firing American workers and replacing them with H-1B employees. Fox's 'state agencies' is slightly broader than the order, which covers only agencies whose heads the governor appoints.",
+    "what_would_change": "A later amendment or rescission of the January directive, or Texas Workforce Commission guidance setting a different end date or covering local school districts, would change this verdict.",
+    "outlet": "Fox News, Nov. 20, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/texas-gov-elect-gina-hinojosa-vows-rescind-abbotts-h1b-visa-restrictions-despite-admitting-program-abuse",
+    "script": "Fox News says Texas Governor-elect Gina Hinojosa plans to undo Governor Greg Abbott's freeze on H-1B visa hiring. Fox describes the January order as barring state agencies and public universities from filing new H-1B petitions without approval from the Texas Workforce Commission, through May 31st, 2027. Abbott's signed letter says exactly that, with one detail: it covers agencies run by people the governor appoints. As Fox notes, it doesn't apply to local school districts. Verdict: matches the record.",
+    "read": "Abbott's signed Jan. 27, 2026 letter directs that no state agency run by a governor-appointed head, and no public college or university, may file a new H-1B petition without the Texas Workforce Commission's written permission until the Legislature's regular session ends on May 31, 2027. The letter quotes the line Fox cites about employers firing American workers and replacing them with H-1B employees. Fox's 'state agencies' is slightly broader than the order, which covers only agencies whose heads the governor appoints. The directive also required those agencies and universities to report their current H-1B holders to the workforce commission by March 27, 2026. This check does not rate Hinojosa's comments to the Texas Tribune or whether she will rescind the order once she takes office.",
+    "sources": [
+      {
+        "title": "Office of the Texas Governor, Gov. Greg Abbott's letter to state agency heads directing a freeze on new H-1B visa petitions, Jan. 27, 2026",
+        "url": "https://gov.texas.gov/uploads/files/press/H-1B_Visa_Program_Letter_1.27.2026_State_Agency_Heads_FINAL_.pdf"
+      },
+      {
+        "title": "Texas Workforce Commission, \"H-1B Visa Program Permission Request for State Employers\"",
+        "url": "https://www.twc.texas.gov/h-1b-visa-program-permission-request-state-employers"
+      },
+      {
+        "title": "Office of the Texas Governor, \"Governor Abbott Launches Investigation Into H-1B Visa Abuse\" (Jan. 27, 2026)",
+        "url": "https://gov.texas.gov/news/post/governor-abbott-launches-investigation-into-h-1b-visa-abuse"
+      },
+      {
+        "title": "Fox News, Nov. 20, 2026",
+        "url": "https://www.foxnews.com/politics/texas-gov-elect-gina-hinojosa-vows-rescind-abbotts-h1b-visa-restrictions-despite-admitting-program-abuse"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261120-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-20T23:00:00-06:00",
+    "headline": "CNN says the Navy named a future carrier for Pearl Harbor hero Doris Miller during Trump's first term, the first carrier named for an African American or an enlisted sailor; the Navy's January 2020 announcement says so",
+    "video_url": "",
+    "claim": "\"During President Donald Trump's first term, the Navy announced that the Ford-class carrier would be called the USS Doris Miller, recognizing an enlisted sailor who helped defend US forces from Japan's attack.\" … \"The choice to name the ship after Miller marked the first time an aircraft carrier would honor an enlisted sailor, and the first aircraft carrier to be named for an African American.\" — CNN (Aleena Fayaz), \"Navy won't rename carrier slated to honor Black war hero after considering switching it to Trump,\" Nov. 20, 2026",
+    "source_url": "https://www.cnn.com/2026/11/20/politics/navy-wont-rename-carrier-for-trump",
+    "record_url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2236587/navy-names-future-aircraft-carrier-doris-miller-during-mlk-jr-day-ceremony/",
+    "record_title": "U.S. Navy press release, \"Navy Names Future Aircraft Carrier Doris Miller During MLK, Jr. Day Ceremony,\" Jan. 20, 2020",
+    "verdict": "Matches record",
+    "why": "The Navy's press release says Acting Navy Secretary Thomas Modly named the future USS Doris Miller (CVN 81) at a Pearl Harbor ceremony on Jan. 20, 2020, during Trump's first term, and a release the day before called it a Gerald R. Ford-class carrier. The Navy said it would be the first aircraft carrier named for an African American and the first named for a sailor's actions while in the enlisted ranks, which is the distinction CNN describes. The releases also say Miller manned an anti-aircraft gun on the USS West Virginia during the Dec. 7, 1941 attack.",
+    "what_would_change": "A Navy record showing the carrier was named under a different administration, or an earlier carrier named for an African American or for an enlisted sailor's actions, would change this verdict. An official renaming of CVN 81 would change the story's premise.",
+    "outlet": "CNN, Nov. 20, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/20/politics/navy-wont-rename-carrier-for-trump",
+    "script": "CNN reports the Navy is no longer considering renaming the future aircraft carrier USS Doris Miller for President Trump. CNN says the Navy picked the name during Trump's first term, and that it's the first carrier named for an African American and the first to honor an enlisted sailor. The Navy's own January 2020 announcement says the same thing. Miller manned an anti-aircraft gun during the attack on Pearl Harbor. Verdict: matches the record.",
+    "read": "The Navy's press release says Acting Navy Secretary Thomas Modly named the future USS Doris Miller (CVN 81) at a Pearl Harbor ceremony on Jan. 20, 2020, during Trump's first term, and a release the day before called it a Gerald R. Ford-class carrier. The Navy said it would be the first aircraft carrier named for an African American and the first named for a sailor's actions while in the enlisted ranks, which is the distinction CNN describes. The releases also say Miller manned an anti-aircraft gun on the USS West Virginia during the Dec. 7, 1941 attack. The Navy's precise wording is the first carrier 'named in honor of a Sailor for actions while serving in the enlisted ranks.' This check does not rate CNN's sourcing on the earlier renaming discussions or the Navy's Medal of Honor recommendation for Miller.",
+    "sources": [
+      {
+        "title": "U.S. Navy press release, \"Navy Names Future Aircraft Carrier Doris Miller During MLK, Jr. Day Ceremony,\" Jan. 20, 2020",
+        "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2236587/navy-names-future-aircraft-carrier-doris-miller-during-mlk-jr-day-ceremony/"
+      },
+      {
+        "title": "U.S. Navy press release, \"Navy to Name Future Ford Class Aircraft Carrier After WWII Hero Doris Miller\" (Jan. 19, 2020)",
+        "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/2236583/navy-to-name-future-ford-class-aircraft-carrier-after-wwii-hero-doris-miller/"
+      },
+      {
+        "title": "CNN, Nov. 20, 2026",
+        "url": "https://www.cnn.com/2026/11/20/politics/navy-wont-rename-carrier-for-trump"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261119-reframe-fox-iran-war-resolution-senate",
     "slot": "ReFrame",
     "lead": false,
