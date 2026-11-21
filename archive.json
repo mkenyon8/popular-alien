@@ -1,5 +1,53 @@
 [
   {
+    "id": "20261119-reframe-fox-iran-war-resolution-senate",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-20T17:57:58-06:00",
+    "label": "ReFrame",
+    "claim": "Fox News says Collins, Murkowski and Paul joined Democrats but the Moulton Iran war powers resolution failed 48-51 in the Senate",
+    "outlet": "Fox News",
+    "outlet_url": "https://www.foxnews.com/politics/dems-gop-rebels-fail-rein-trumps-iran-war-senate-bigger-battle-looms",
+    "source_url": "https://www.foxnews.com/politics/dems-gop-rebels-fail-rein-trumps-iran-war-senate-bigger-battle-looms",
+    "record_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00269.htm",
+    "record_title": "U.S. Senate, Roll Call Vote No. 269, 119th Congress, 2nd Session: H.Con.Res. 93, Nov. 19, 2026",
+    "read": "Fox News (Alex Miller) reports that Democrats and Republican Sens. Susan Collins, Lisa Murkowski and Rand Paul were not enough to pass Rep. Seth Moulton's non-binding Iran war powers resolution, and calls it more of a symbolic move. Senate Roll Call Vote No. 269 shows H.Con.Res. 93 rejected 48-51 on Nov. 19, with Collins, Murkowski and Paul voting yes, Sen. John Fetterman voting no and Sen. Chris Murphy not voting; the House adopted it 220-204 on Sept. 15. The roll call does not say how binding the measure would be, so the 'symbolic' framing rests on the outlet's description. Graded A- on 2 arguments (Fox News A: valid, cogent, strongly supported, no fallacies; Fox News B: valid, cogent, partly supported, no fallacies). Scorecard: 100% valid, 100% cogent, 75% supported, 100% fallacy-free.",
+    "grade": "A-",
+    "scores": {
+      "valid": 100,
+      "cogent": 100,
+      "supported": 75,
+      "fallacy_free": 100
+    },
+    "why": "The tally and the three Republican yes votes check out against the Senate roll call; the 'symbolic' framing is a fair, lightly sourced inference.",
+    "sources": [
+      {
+        "title": "Fox News (Alex Miller), Dems, GOP rebels fail to rein in Trump's Iran war in Senate, but bigger battle looms, Nov. 19, 2026",
+        "url": "https://www.foxnews.com/politics/dems-gop-rebels-fail-rein-trumps-iran-war-senate-bigger-battle-looms"
+      },
+      {
+        "title": "U.S. Senate, Roll Call Vote No. 269, H.Con.Res. 93, Nov. 19, 2026",
+        "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00269.htm"
+      },
+      {
+        "title": "GovInfo, Bill Status: H.Con.Res. 93, 119th Congress",
+        "url": "https://www.govinfo.gov/bulkdata/BILLSTATUS/119/hconres/BILLSTATUS-119hconres93.xml"
+      },
+      {
+        "title": "PopArticles - original story (verdict: Matches record)",
+        "url": "https://popularalien.com/story/20261119-late-fox"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid - full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261119-late-fox-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261119-late-fox-full.mp4",
+    "popart_story": "20261119-late-fox",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Fox News reports: Fox News: Collins, Murkowski and Paul joined Democrats but the Moulton Iran war resolution failed 48-51 in the Senate.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261120-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-20T17:30:00-06:00",
