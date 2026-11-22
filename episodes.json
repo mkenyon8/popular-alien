@@ -1,5 +1,124 @@
 [
   {
+    "id": "20261122-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-22T11:30:00-06:00",
+    "headline": "San Francisco Mayor Daniel Lurie says the National Weather Service told the city to expect tides 'never seen before in recorded history'; the forecast topped the 1983 record when he said it, but the weather service has since lowered it to just under the record",
+    "video_url": "",
+    "claim": "\"We are expecting tides that the National Weather Service told us they have never seen before in recorded history here in San Francisco.\" — San Francisco Mayor Daniel Lurie (@DanielLurie) on X, Nov. 20, 2026, as quoted by CNN on Nov. 22, 2026",
+    "source_url": "https://x.com/DanielLurie/status/2123952450273190135",
+    "record_url": "https://api.weather.gov/products/d0a0d029-da01-423a-9f1a-1a465bf42be0",
+    "record_title": "National Weather Service San Francisco Bay Area, Coastal Flood Warning for the San Francisco and San Pablo Bay shorelines, issued Nov. 21, 2026, 2:30 PM PST (with the earlier forecast issued Nov. 20, 2:52 PM PST, and NOAA's record water level for San Francisco station 9414290)",
+    "verdict": "Missing context",
+    "why": "When Lurie posted on Nov. 20, the National Weather Service's latest coastal flood forecast, issued that afternoon, did call for record tides: 8.7 feet above mean lower low water Tuesday and 8.8 feet Wednesday at the San Francisco gauge, above the 8.66-foot record NOAA lists from Jan. 27, 1983. But the weather service lowered that forecast on Nov. 21, and its current warning calls for a peak of 8.6 feet Wednesday, which it describes as 'approaching the highest tide ever recorded,' not exceeding it. CNN repeated Lurie's quote on Nov. 22 without noting the change.",
+    "what_would_change": "A new weather service forecast putting the peak back above 8.66 feet, or a measured water level at the San Francisco gauge that tops the 1983 record, would make the claim match the record. A lower forecast would weaken it further.",
+    "outlet": "Mayor Daniel Lurie on X, Nov. 20, 2026",
+    "outlet_url": "https://x.com/DanielLurie/status/2123952450273190135",
+    "script": "San Francisco Mayor Daniel Lurie says the National Weather Service told the city to expect tides never seen before in recorded history. When he said it Friday, the weather service's forecast did top the record, calling for up to 8.8 feet at the San Francisco gauge, above the 8.66-foot mark set in 1983. But the forecast has since been lowered to 8.6 feet, which the weather service calls approaching the record, not breaking it. Up to nearly 3 feet of flooding is still possible in low-lying areas. Verdict: missing context.",
+    "read": "When Lurie posted on Nov. 20, the National Weather Service's latest coastal flood forecast, issued that afternoon, did call for record tides: 8.7 feet above mean lower low water Tuesday and 8.8 feet Wednesday at the San Francisco gauge, above the 8.66-foot record NOAA lists from Jan. 27, 1983. But the weather service lowered that forecast on Nov. 21, and its current warning calls for a peak of 8.6 feet Wednesday, which it describes as 'approaching the highest tide ever recorded,' not exceeding it. CNN repeated Lurie's quote on Nov. 22 without noting the change. The danger is real either way: the weather service's warning, in effect from 6 a.m. Monday to 4 p.m. Thursday, calls for up to 2.8 feet of flooding in low-lying areas along the San Francisco and San Pablo Bay shorelines, with up to 1.6 feet of storm surge added to the year's highest tides. Lurie wrote on Nov. 21 that the city was 'preparing for tides exceeding 9 feet,' a figure that doesn't appear in the weather service's published forecasts and may reflect a city safety margin. Forecasts can still change, and actual water levels will settle whether the record falls.",
+    "sources": [
+      {
+        "title": "National Weather Service San Francisco Bay Area, Coastal Flood Warning, issued Nov. 21, 2026, 2:30 PM PST",
+        "url": "https://api.weather.gov/products/d0a0d029-da01-423a-9f1a-1a465bf42be0"
+      },
+      {
+        "title": "National Weather Service San Francisco Bay Area, Coastal Flood Warning, issued Nov. 20, 2026, 2:52 PM PST",
+        "url": "https://api.weather.gov/products/5b6fa68c-7f7c-46d7-bd89-3c65c756e90a"
+      },
+      {
+        "title": "NOAA Tides & Currents, San Francisco, CA (station 9414290) datums and record high water level (Jan. 27, 1983)",
+        "url": "https://tidesandcurrents.noaa.gov/datums.html?id=9414290"
+      },
+      {
+        "title": "Mayor Daniel Lurie on X, Nov. 20, 2026",
+        "url": "https://x.com/DanielLurie/status/2123952450273190135"
+      },
+      {
+        "title": "Mayor Daniel Lurie on X, Nov. 21, 2026",
+        "url": "https://x.com/DanielLurie/status/2124265857476182291"
+      },
+      {
+        "title": "CNN, Nov. 22, 2026",
+        "url": "https://www.cnn.com/2026/11/22/weather/san-francisco-king-tides-warning"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261122-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-22T11:30:00-06:00",
+    "headline": "Fox News says progressives' $25 minimum wage plan would more than triple the $7.25 federal minimum; the bill's text sets that target, but it phases in through 2038 and caps the wage at two-thirds of the median wage, which is about $16 today",
+    "video_url": "",
+    "claim": "\"House Democrats are pushing to raise the federal minimum wage to $25 an hour... The proposal from the Congressional Progressive Caucus would more than triple the current $7.25 federal minimum wage.\" — Fox News (Pedro Boccalato Rodriguez Aparicio), \"Progressives unveil $25 minimum wage push to solve affordability crisis despite economist inflation warning,\" Nov. 22, 2026",
+    "source_url": "https://www.foxnews.com/politics/progressives-unveil-25-minimum-wage-push-solve-affordability-crisis-despite-economist-inflation-warning",
+    "record_url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8555ih/html/BILLS-119hr8555ih.htm",
+    "record_title": "H.R. 8555, Living Wage For All Act, 119th Congress, as introduced in the House April 28, 2026 (U.S. Government Publishing Office text)",
+    "verdict": "Missing context",
+    "why": "The bill behind the push, H.R. 8555, the Living Wage For All Act, does set $25 an hour as its target, more than three times the $7.25 federal minimum the Labor Department says has been in effect since July 2009. But the bill phases that in, reaching $25 in 2031 for large employers and 2038 for everyone else, and it caps the minimum at two-thirds of the national median hourly wage, a level that one Bureau of Labor Statistics measure puts at about $16.34 today.",
+    "what_would_change": "An amended version of the bill that drops the median-wage cap or speeds up the schedule, or a new bill in the next Congress with different terms, would change the verdict.",
+    "outlet": "Fox News, Nov. 22, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/progressives-unveil-25-minimum-wage-push-solve-affordability-crisis-despite-economist-inflation-warning",
+    "script": "Fox News says House progressives want a $25 federal minimum wage, more than triple today's $7.25. The bill's text does set $25 as its goal, and $7.25 has been the federal floor since 2009. But the bill takes until 2031 for big employers and 2038 for everyone else, and it caps the minimum at two-thirds of the national median wage. By one Labor Department measure, that cap is about 16 dollars an hour today. And the bill was introduced back in April. Verdict: missing context.",
+    "read": "The bill behind the push, H.R. 8555, the Living Wage For All Act, does set $25 an hour as its target, more than three times the $7.25 federal minimum the Labor Department says has been in effect since July 2009. But the bill phases that in, reaching $25 in 2031 for large employers and 2038 for everyone else, and it caps the minimum at two-thirds of the national median hourly wage, a level that one Bureau of Labor Statistics measure puts at about $16.34 today. Under that cap, the minimum wage would reach $25 only if the national median hourly wage climbs to about $37.50; BLS's May 2025 occupational wage survey put it at $24.51. The bill isn't new, either: Rep. Delia Ramirez introduced it April 28, 2026, and it was still sitting in the House Education and Workforce Committee when lawmakers rallied for it this month. Bills that don't pass by the end of this Congress in January die and would need to be reintroduced. The 63% Republican support figure Fox attributes to the Living Wage for All coalition comes from polling this check couldn't review.",
+    "sources": [
+      {
+        "title": "H.R. 8555, Living Wage For All Act (introduced April 28, 2026), GPO text",
+        "url": "https://www.govinfo.gov/content/pkg/BILLS-119hr8555ih/html/BILLS-119hr8555ih.htm"
+      },
+      {
+        "title": "H.R. 8555 on Congress.gov",
+        "url": "https://www.congress.gov/bill/119th-congress/house-bill/8555/text"
+      },
+      {
+        "title": "U.S. Department of Labor, Wage and Hour Division, Minimum Wage",
+        "url": "https://www.dol.gov/agencies/whd/minimum-wage"
+      },
+      {
+        "title": "Bureau of Labor Statistics, Occupational Employment and Wage Statistics tables, May 2025 (all-occupations median hourly wage $24.51, series OEUN000000000000000000008)",
+        "url": "https://www.bls.gov/oes/current/oes_nat.htm"
+      },
+      {
+        "title": "Fox News, Nov. 22, 2026",
+        "url": "https://www.foxnews.com/politics/progressives-unveil-25-minimum-wage-push-solve-affordability-crisis-despite-economist-inflation-warning"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261122-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-22T11:30:00-06:00",
+    "headline": "CNN says the Justice Department told a federal appeals court the Army will detonate nearly five tons of lead azide in Iowa by Tuesday under an emergency exemption, despite the court's pause on its permit; the filing matches",
+    "video_url": "",
+    "claim": "\"The US Army intends to detonate nearly five tons of material containing lead azide at an Iowa munitions plant by Tuesday, even though a federal appeals court has paused its permit, by invoking an emergency exemption it says allows it to act without one, the Justice Department told the court in a filing Saturday.\" — CNN (Eduardo Cuevas, Taylor Romine, Julia Vargas Jones, Danya Gainor), \"US Army tells court it intends to detonate bomb-making material in Iowa by Tuesday despite pause. Here's what we know,\" Nov. 21-22, 2026",
+    "source_url": "https://www.cnn.com/2026/11/21/us/iowa-army-detonation-what-we-know",
+    "record_url": "https://cbs2iowa.com/resources/pdf/3062759c-030f-425f-8738-9fac86c8cacc-263374_Documents.pdf",
+    "record_title": "Respondents' Notice of the Army's Intent to Respond to Immediate Threat Under RCRA's Emergency Exclusion, Iowa Environmental Council v. EPA, No. 26-3374 (8th Cir.), filed Nov. 21, 2026 (Entry ID 5708596)",
+    "verdict": "Matches record",
+    "why": "The Justice Department's Nov. 21 notice to the Eighth Circuit, filed for EPA in Iowa Environmental Council v. EPA (No. 26-3374), says the Army will invoke RCRA's emergency munitions exclusion to detonate nearly five tons of lead azide without the stayed EPA permit and 'intends to act by November 24, 2026,' which is Tuesday. It argues the court's stay 'does not enjoin or otherwise prohibit the Army from acting under a separate legal authority' and contains CNN's quoted line that 'the real choice... is not between a detonation and no detonation.'",
+    "what_would_change": "An Eighth Circuit order barring the Army from acting under the emergency exclusion, or a later government filing withdrawing or changing the Nov. 24 timeline, would make the story outdated.",
+    "outlet": "CNN, Nov. 21, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/21/us/iowa-army-detonation-what-we-know",
+    "script": "CNN reports the Justice Department told a federal appeals court the Army will blow up nearly five tons of lead azide at an Iowa munitions plant by Tuesday, even though the court paused its EPA permit. The filing says exactly that. It says an emergency exemption lets the Army act without the permit, and that the real choice is a planned detonation or an unplanned explosion. The FAA flight restriction CNN mentions is real too. Verdict: matches record.",
+    "read": "The Justice Department's Nov. 21 notice to the Eighth Circuit, filed for EPA in Iowa Environmental Council v. EPA (No. 26-3374), says the Army will invoke RCRA's emergency munitions exclusion to detonate nearly five tons of lead azide without the stayed EPA permit and 'intends to act by November 24, 2026,' which is Tuesday. It argues the court's stay 'does not enjoin or otherwise prohibit the Army from acting under a separate legal authority' and contains CNN's quoted line that 'the real choice... is not between a detonation and no detonation.' The notice confirms the court's administrative stay of EPA's emergency permit is still in place and says the Army will follow the permit's mitigation measures anyway, including steps to limit lead dust. The FAA's temporary flight restriction CNN cites is real: NOTAM 6/9186 closes airspace within 4 nautical miles of Middletown, from the surface to 4,000 feet, from 9:30 a.m. CST Monday to 4 p.m. CST Wednesday. The court could still rule on whether the emergency exclusion applies, and the timing could slip.",
+    "sources": [
+      {
+        "title": "Respondents' Notice of the Army's Intent to Respond to Immediate Threat Under RCRA's Emergency Exclusion, No. 26-3374 (8th Cir.), Nov. 21, 2026",
+        "url": "https://cbs2iowa.com/resources/pdf/3062759c-030f-425f-8738-9fac86c8cacc-263374_Documents.pdf"
+      },
+      {
+        "title": "FAA temporary flight restriction NOTAM 6/9186, Middletown, Iowa",
+        "url": "https://tfr.faa.gov/tfr3/?page=detail_6_9186"
+      },
+      {
+        "title": "CNN, Nov. 21, 2026",
+        "url": "https://www.cnn.com/2026/11/21/us/iowa-army-detonation-what-we-know"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261122-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-22T06:30:00-06:00",
