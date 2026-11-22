@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261122-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-22T17:30:00-06:00",
+    "headline": "Sen. John Kennedy says President Trump asked for '42% more spending on defense' and that only a Republican reconciliation bill can deliver it; the White House budget's own numbers match",
+    "video_url": "",
+    "claim": "\"The president has his right to ask for 42% more spending on defense. The Democrats will never do that. The only way to do that is with Republican votes. And the only way to do that is through a reconciliation bill.\" — Sen. John Kennedy (R-La.) on NBC's Meet the Press, Nov. 22, 2026",
+    "source_url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-november-22-2026-rcna610681",
+    "record_url": "https://www.whitehouse.gov/wp-content/uploads/2026/04/fiscal-year-2027-topline-fact-sheet.pdf",
+    "record_title": "Office of Management and Budget, \"Fiscal Year 2027 Topline\" fact sheet, President's Budget request (April 2026)",
+    "verdict": "Matches record",
+    "why": "The White House's fiscal 2027 budget fact sheet requests $1.5 trillion in total defense resources and calls it 'a $445 billion or 42-percent increase from the 2026 total resource level,' which was about $1 trillion. That total depends on reconciliation: it pairs $1.1 trillion in regular discretionary funding for the Defense Department, which the budget calls the Department of War, with $350 billion in extra mandatory money that the budget asks Congress to pass 'through reconciliation,' a process that needs only a simple majority.",
+    "what_would_change": "A revised budget request or OMB figure putting the increase well above or below 42 percent, or a showing that the full $1.5 trillion could be passed through regular appropriations without reconciliation, would change the verdict.",
+    "outlet": "NBC News, Meet the Press, Nov. 22, 2026",
+    "outlet_url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-november-22-2026-rcna610681",
+    "script": "Senator John Kennedy says the president asked for 42 percent more spending on defense, and that only a Republican reconciliation bill can deliver it. The White House budget backs him up. It asks for 1.5 trillion dollars for defense next year, which it calls a 445 billion dollar, 42 percent increase over this year's roughly 1 trillion. And 350 billion of that is meant to pass through reconciliation, which needs only a simple majority. Verdict: matches the record.",
+    "read": "The White House's fiscal 2027 budget fact sheet requests $1.5 trillion in total defense resources and calls it 'a $445 billion or 42-percent increase from the 2026 total resource level,' which was about $1 trillion. That total depends on reconciliation: it pairs $1.1 trillion in regular discretionary funding for the Defense Department, which the budget calls the Department of War, with $350 billion in extra mandatory money that the budget asks Congress to pass 'through reconciliation,' a process that needs only a simple majority. The fact sheet says using reconciliation keeps the defense increase from being 'taken hostage by Democrats,' the same argument Kennedy made on Meet the Press. The 42 percent compares total resources, not just the regular annual defense appropriation. Kennedy, who said he has spent 16 months trying to persuade Majority Leader John Thune to move a reconciliation bill, made the remark as Democrats prepare to take a 56-seat Senate majority in January. Once they do, a reconciliation bill would need Democratic votes too, unless Republicans pass it before then.",
+    "sources": [
+      {
+        "title": "OMB, Fiscal Year 2027 Topline fact sheet",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/04/fiscal-year-2027-topline-fact-sheet.pdf"
+      },
+      {
+        "title": "NBC News, Meet the Press transcript, Nov. 22, 2026",
+        "url": "https://www.nbcnews.com/meet-the-press/transcripts/meet-press-november-22-2026-rcna610681"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261122-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-22T17:30:00-06:00",
+    "headline": "A White House spokeswoman tells Fox News Biden-era wolf protections helped push the national cattle herd to a 75-year low; USDA's count is the lowest since 1951, but the herd started shrinking in 2019, and USDA points to the cattle cycle and drought",
+    "video_url": "",
+    "claim": "\"As a result, the national cattle herd reached a 75-year low, driving up prices for consumers.\" — White House deputy press secretary Taylor Rogers, after saying the Biden administration's 'radical environmental policies' left ranchers defenseless as 'predators wiped out their livestock,' as quoted by Fox News (\"Apex predator at center of farmers vs environmentalists fight as Trump weighs major move: 'Out of control',\" Nov. 22, 2026)",
+    "source_url": "https://www.foxnews.com/politics/apex-predator-center-farmers-vs-environmentalists-fight-trump-weighs-major-move-out-control",
+    "record_url": "https://release.nass.usda.gov/reports/catl0126.pdf",
+    "record_title": "USDA National Agricultural Statistics Service, Cattle report, released Jan. 30, 2026 (with USDA Economic Research Service, Livestock, Dairy, and Poultry Outlook, February 2026)",
+    "verdict": "Missing context",
+    "why": "The number is right: USDA counted 86.2 million cattle and calves on Jan. 1, 2026, below 2025's count and, based on USDA's historical data, the fewest since 1951. But USDA's Economic Research Service says the herd peaked at 94.7 million in 2019, during Trump's first term, and has shrunk for seven straight years since then. USDA explains the drop with the normal cattle cycle, prices and weather, and its reports don't blame wolves or Biden-era rules.",
+    "what_would_change": "USDA or other federal data showing that wolf or other predator losses, or specific Biden administration environmental rules, made up a meaningful share of the herd's decline would support the White House's cause-and-effect claim. A new USDA count showing the herd growing again would make the '75-year low' outdated.",
+    "outlet": "Fox News, Nov. 22, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/apex-predator-center-farmers-vs-environmentalists-fight-trump-weighs-major-move-out-control",
+    "script": "A White House spokeswoman tells Fox News that Biden-era environmental policies left ranchers defenseless against predators, and as a result the national cattle herd hit a 75-year low. The low is real. USDA counted 86.2 million cattle in January, the fewest since 1951. But USDA's own numbers show the herd peaked in 2019, during Trump's first term, and has shrunk every year since. USDA points to the cattle cycle, prices and drought, not wolves. Verdict: missing context.",
+    "read": "The number is right: USDA counted 86.2 million cattle and calves on Jan. 1, 2026, below 2025's count and, based on USDA's historical data, the fewest since 1951. But USDA's Economic Research Service says the herd peaked at 94.7 million in 2019, during Trump's first term, and has shrunk for seven straight years since then. USDA explains the drop with the normal cattle cycle, prices and weather, and its reports don't blame wolves or Biden-era rules. The Economic Research Service describes the cattle cycle as herd expansion and contraction driven by cattle prices, feed and other costs, the time it takes to raise cattle and weather, and University of Arkansas extension economists also cite persistent drought. The beef cow herd is the smallest since 1961. The White House statement came in a Fox News story about whether the Interior Department will remove federal protections for gray wolves. Trump's Sept. 4 executive order gives the interior secretary until Dec. 3 to decide whether the gray wolf and Mexican wolf meet recovery criteria. Fox also quoted Defenders of Wildlife saying wolves account for less than 1% of livestock losses. Rancher losses to wolves are real in places like Minnesota, but USDA's herd data doesn't show how much of the national decline, if any, comes from predators.",
+    "sources": [
+      {
+        "title": "USDA NASS, Cattle report, Jan. 30, 2026",
+        "url": "https://release.nass.usda.gov/reports/catl0126.pdf"
+      },
+      {
+        "title": "USDA ERS, Livestock, Dairy, and Poultry Outlook, February 2026",
+        "url": "https://ers.usda.gov/sites/default/files/_laserfiche/outlooks/113844/LDP-M-380.pdf"
+      },
+      {
+        "title": "USDA ERS, Cattle & Beef: Sector at a Glance",
+        "url": "https://ers.usda.gov/topics/animal-products/cattle-beef/sector-at-a-glance"
+      },
+      {
+        "title": "University of Arkansas System Division of Agriculture, 'With U.S. herd at lowest level in 75 years, could cattle cycle be ready to change?' Feb. 5, 2026",
+        "url": "https://www.uaex.uada.edu/media-resources/news/2026/february/02-05-2026-ark-us-cattle-numbers.aspx"
+      },
+      {
+        "title": "Executive Order 14425, Supporting America's Ranchers, Sept. 4, 2026",
+        "url": "https://www.whitehouse.gov/wp-content/uploads/2026/09/eo-14425.pdf"
+      },
+      {
+        "title": "Fox News, Nov. 22, 2026",
+        "url": "https://www.foxnews.com/politics/apex-predator-center-farmers-vs-environmentalists-fight-trump-weighs-major-move-out-control"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261122-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-22T17:30:00-06:00",
+    "headline": "CNN says a federal judge ruled Agriculture Secretary Brooke Rollins' religious mass emails to USDA staff 'were unconstitutional'; the order matches, but it's a preliminary injunction finding the emails likely unconstitutional, not a final ruling",
+    "video_url": "",
+    "claim": "\"Religious messages that Agriculture Secretary Brooke Rollins emailed to the agency's 100,000 employees were unconstitutional, and she must be careful to avoid proselytizing when communicating with workers, a federal judge ruled Thursday.\" — CNN, \"Judge says agriculture secretary’s religious mass emails to staff were unconstitutional,\" Nov. 20, 2026",
+    "source_url": "https://www.cnn.com/2026/11/20/politics/brooke-rollins-religious-messages-judge-unconstitutional",
+    "record_url": "https://www.au.org/wp-content/uploads/securepdfs/2026/11/NFFE-v.-USDA-PI-Order-11.19.26.pdf",
+    "record_title": "Order Granting Plaintiffs' Motion for Preliminary Injunction, National Federation of Federal Employees v. U.S. Department of Agriculture, No. 3:26-cv-04406-TLT (N.D. Cal.), filed Nov. 19, 2026 (ECF 59)",
+    "verdict": "Missing context",
+    "why": "U.S. District Judge Trina Thompson's Nov. 19 order matches CNN's details: an agency of about 100,000 employees, Christian emails on holidays including Easter, and limits copied from USDA's own policy on religious expression at work. But the order grants a preliminary injunction, which only requires plaintiffs to show they are 'likely to succeed on the merits.' It says Rollins 'appears to exploit' her position, and it is not a final judgment that the emails were unconstitutional. CNN doesn't say the ruling was preliminary.",
+    "what_would_change": "A final judgment or summary judgment holding that the emails violated the Establishment Clause would make CNN's wording fully match. An appeals court reversing or narrowing the injunction would weaken it further.",
+    "outlet": "CNN, Nov. 20, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/20/politics/brooke-rollins-religious-messages-judge-unconstitutional",
+    "script": "CNN says a federal judge ruled Agriculture Secretary Brooke Rollins' religious emails to USDA's 100,000 employees were unconstitutional. The judge's order does back CNN's details, including the Christian Easter message and the limits she placed on Rollins. But it's a preliminary injunction. The judge found the emails likely violate the First Amendment, which is the standard for early relief, not a final ruling. The case goes on, and USDA says it may appeal. Verdict: missing context.",
+    "read": "U.S. District Judge Trina Thompson's Nov. 19 order matches CNN's details: an agency of about 100,000 employees, Christian emails on holidays including Easter, and limits copied from USDA's own policy on religious expression at work. But the order grants a preliminary injunction, which only requires plaintiffs to show they are 'likely to succeed on the merits.' It says Rollins 'appears to exploit' her position, and it is not a final judgment that the emails were unconstitutional. CNN doesn't say the ruling was preliminary. The order says Rollins 'must stop if a colleague asks [her] to stop,' 'cannot create a hostile work environment through persistent unwelcome advances' and 'cannot use official authority to pressure subordinates,' quoting USDA Secretary's Memorandum 1078-019, and it still lets her discuss her faith with interested colleagues. Thompson also dismissed the plaintiffs' Administrative Procedure Act claims and refused to dismiss the constitutional claim, so the case goes on, with a case management conference set for Dec. 17. The suit was filed May 13 by the National Federation of Federal Employees and six USDA employees. CNN reports a USDA spokesperson called the ruling an attempt to 'muzzle' a Cabinet secretary and said the agency is considering an appeal.",
+    "sources": [
+      {
+        "title": "Order Granting Preliminary Injunction, NFFE v. USDA, No. 3:26-cv-04406-TLT (N.D. Cal.), Nov. 19, 2026",
+        "url": "https://www.au.org/wp-content/uploads/securepdfs/2026/11/NFFE-v.-USDA-PI-Order-11.19.26.pdf"
+      },
+      {
+        "title": "CNN, Nov. 20, 2026",
+        "url": "https://www.cnn.com/2026/11/20/politics/brooke-rollins-religious-messages-judge-unconstitutional"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261122-field-cop31-collapse",
     "slot": "Midday Check",
     "label": "Field Report",
