@@ -1,5 +1,50 @@
 [
   {
+    "id": "20261121-reframe-nbc-mcclain-penny-cost",
+    "slot": "ReFrame",
+    "lead": false,
+    "aired_at": "2026-11-22T05:56:37-06:00",
+    "label": "ReFrame",
+    "claim": "Rep. McClain: penny 'costs nearly FOUR cents'; Mint's latest audited cost is 3.02 cents",
+    "outlet": "NBC News",
+    "outlet_url": "https://www.nbcnews.com/politics/white-house/trump-formally-ends-minting-penny-nearly-250-years-production-rcna600580",
+    "source_url": "https://www.nbcnews.com/politics/white-house/trump-formally-ends-minting-penny-nearly-250-years-production-rcna600580",
+    "record_url": "https://oig.treasury.gov/system/files/2026-03/OIG-26-021-%28secured%29.pdf",
+    "record_title": "Treasury Office of Inspector General, OIG-26-021, \"Audit of the United States Mint's Financial Statements for Fiscal Year 2025\" (includes the Mint's 2025 Annual Report), Feb. 26, 2026",
+    "read": "NBC News reported on Nov. 20, 2026 that President Trump signed the Common Cents Act ending penny production, quoting author Rep. Lisa McClain: \"It costs nearly FOUR cents to make just one penny.\" The Mint's audited fiscal 2025 report puts the cost of making and distributing a penny at 3.02 cents, down from 3.69 cents in fiscal 2024, so \"nearly four\" matches the older figure. The penny has still cost more than its face value for 20 straight years, and the $85 million yearly savings figure has no source that can be checked. Graded C+ on 1 argument (McClain C+: valid, not cogent, partly supported, no fallacies). Scorecard: 100% valid, 0% cogent, 50% supported, 100% fallacy-free.",
+    "grade": "C+",
+    "scores": {
+      "valid": 100,
+      "cogent": 0,
+      "supported": 50,
+      "fallacy_free": 100
+    },
+    "why": "The penny does lose money, but 'nearly four cents' is last-but-one year's figure, and the $85 million savings has no cited source. Key question: If the Mint's latest audited cost is 3.02 cents per penny, what is the basis for the nearly four cents figure?",
+    "sources": [
+      {
+        "title": "NBC News, \"Trump formally ends minting of the penny after nearly 250 years of production,\" Nov. 20, 2026",
+        "url": "https://www.nbcnews.com/politics/white-house/trump-formally-ends-minting-penny-nearly-250-years-production-rcna600580"
+      },
+      {
+        "title": "Treasury OIG-26-021, Audit of the U.S. Mint's Financial Statements for Fiscal Year 2025",
+        "url": "https://oig.treasury.gov/system/files/2026-03/OIG-26-021-%28secured%29.pdf"
+      },
+      {
+        "title": "PopArticles - original story (verdict: Missing context)",
+        "url": "https://popularalien.com/story/20261121-evening"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid - full episode (video)",
+        "url": "https://show.popularalien.com/talk/pa-20261121-evening-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/pa-20261121-evening-full.mp4",
+    "popart_story": "20261121-evening",
+    "pa_story_url": "https://popularalien.com/story/20261121-evening",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... NBC News reports: Rep. McClain: penny 'costs nearly FOUR cents'; Mint's latest audited cost is 3.02 cents.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261121-late",
     "slot": "Late Check",
     "aired_at": "2026-11-21T23:00:00-06:00",
