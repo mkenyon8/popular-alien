@@ -1,5 +1,116 @@
 [
   {
+    "id": "20261122-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-22T06:30:00-06:00",
+    "headline": "Sen. John Cornyn says the Dallas judicial seat Trump just filled with Elliot Gaiser 'has been vacant since 2025' and that Trump waited until after the midterms to nominate anyone; the federal courts' vacancy list shows it opened Oct. 1, 2025, with Gaiser nominated Nov. 16, 2026",
+    "video_url": "",
+    "claim": "\"If President Trump wanted to fill a judicial vacancy in Dallas, why did he wait until after the midterms to nominate someone? The seat has been vacant since 2025.\" — Sen. John Cornyn (@JohnCornyn) on X, Nov. 21, 2026",
+    "source_url": "https://x.com/JohnCornyn/status/2124165213859483990",
+    "record_url": "https://www.uscourts.gov/data-news/judicial-vacancies/current-judicial-vacancies",
+    "record_title": "Administrative Office of the U.S. Courts, \"Current Judicial Vacancies\" (update as of Nov. 21, 2026)",
+    "verdict": "Matches record",
+    "why": "The federal judiciary's vacancy list shows the Northern District of Texas seat now held open for T. Elliot Gaiser became vacant when Judge Jane J. Boyle took senior status on Oct. 1, 2025, and that Gaiser's nomination is dated Nov. 16, 2026, nearly two weeks after the Nov. 3 midterm election. The Federal Judicial Center's biography of Boyle confirms the Oct. 1, 2025 senior-status date. For context, the same list shows a second Northern District of Texas vacancy from September 2025 for which Trump named a nominee on Sept. 14, 2026, before the election.",
+    "what_would_change": "A record showing Trump nominated someone else to the Boyle seat before the Nov. 3, 2026 election, or a different vacancy date for that seat, would change the verdict.",
+    "outlet": "Sen. John Cornyn on X, Nov. 21, 2026",
+    "outlet_url": "https://x.com/JohnCornyn/status/2124165213859483990",
+    "script": "Texas Senator John Cornyn, pushing back on President Trump's criticism that he is blocking Trump's Dallas judicial pick, says the seat has been vacant since 2025 and asks why Trump waited until after the midterms to nominate someone. The federal courts' own vacancy list backs him up. The seat opened when Judge Jane Boyle took senior status on October 1, 2025, and Trump nominated Elliot Gaiser on November 16, 2026, after the November 3 election. One note: Trump did nominate someone in September for a different Northern District of Texas vacancy. Verdict: matches record.",
+    "read": "The Administrative Office of the U.S. Courts' current vacancy list, updated as of Nov. 21, 2026, shows the Northern District of Texas seat of Judge Jane J. Boyle as vacant since Oct. 1, 2025, when she took senior status, with T. Elliot Gaiser listed as the nominee and a nomination date of Nov. 16, 2026. The Federal Judicial Center's biography of Boyle confirms she assumed senior status on Oct. 1, 2025. Cornyn's post came after Trump told Fox News' \"Saturday in America\" that Cornyn was doing a \"tremendous disservice\" by refusing to return his blue slip for Gaiser, and Fox News and the AP describe the seat as the Dallas vacancy. So the seat was open for more than a year, and the nomination came after the Nov. 3 midterms, as Cornyn says. The same vacancy list shows a second Northern District of Texas vacancy, created when Judge David C. Godbey took senior status on Sept. 17, 2025, for which Trump nominated Courtney Leigh Coker on Sept. 14, 2026, before the election. Cornyn's other points, that Gaiser is a non-Texan named without consultation and hasn't been properly vetted, are his characterizations and aren't checked here.",
+    "sources": [
+      {
+        "title": "Administrative Office of the U.S. Courts, Current Judicial Vacancies (as of Nov. 21, 2026)",
+        "url": "https://www.uscourts.gov/data-news/judicial-vacancies/current-judicial-vacancies"
+      },
+      {
+        "title": "Federal Judicial Center, Biographical Directory: Boyle, Jane J.",
+        "url": "https://www.fjc.gov/history/judges/boyle-jane-j"
+      },
+      {
+        "title": "Fox News, \"Trump says Sen Cornyn is doing a 'tremendous disservice' by blocking Texas judicial pick,\" Nov. 21, 2026",
+        "url": "https://www.foxnews.com/politics/trump-sen-cornyn-tremendous-disservice-blocking-texas-judicial-pick"
+      },
+      {
+        "title": "Sen. John Cornyn on X, Nov. 21, 2026",
+        "url": "https://x.com/JohnCornyn/status/2124165213859483990"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261122-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-22T06:30:00-06:00",
+    "headline": "Fox News says Nevada's Crescent Dunes solar plant, backed by a $737 million federal loan guarantee, produced just 41% of DOE's projected 482,000 megawatt-hours even in 2018, its best year through 2025; federal energy data and DOE's own testimony match",
+    "video_url": "",
+    "claim": "\"DOE projected it would generate 482,000 megawatt-hours annually, with a maximum output of 110 megawatts... Even in 2018, its best full year through 2025, Crescent Dunes generated just 41% of the annual electricity output projected by DOE, according to federal energy records.\" — Fox News (Michael Dorgan), \"How a $1B Obama-era solar plant went bankrupt twice, leaving taxpayers with the tab,\" Nov. 21, 2026",
+    "source_url": "https://www.foxnews.com/politics/how-1-obama-era-solar-plant-went-bankrupt-twice-costing-taxpayers-508m",
+    "record_url": "https://www.eia.gov/electricity/data/browser/#/plant/57275",
+    "record_title": "U.S. Energy Information Administration, Form EIA-923 annual net generation, Crescent Dunes Solar Energy (plant 57275), 2015-2025",
+    "verdict": "Matches record",
+    "why": "EIA's plant-level data show Crescent Dunes generated 195,810 megawatt-hours in 2018, about 40.6% of the 482,000 megawatt-hours a year that DOE's Loan Programs Office told Congress in 2016 the plant was expected to produce, and no other year from 2015 through 2025 came closer (2024 was next at 154,402). DOE's testimony also confirms the $737 million loan guarantee issued in September 2011 and the plant's 110-megawatt capacity.",
+    "what_would_change": "Revised EIA generation figures for 2018 or a later year, or a DOE projection other than 482,000 megawatt-hours a year, would change the verdict.",
+    "outlet": "Fox News, Nov. 21, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/how-1-obama-era-solar-plant-went-bankrupt-twice-costing-taxpayers-508m",
+    "script": "Fox News reports that Nevada's Crescent Dunes solar plant, backed by a 737 million dollar federal loan guarantee, never came close to its promised output. Even in 2018, its best year through 2025, Fox says it made just 41 percent of what the Energy Department projected. Federal data back that up. The Energy Information Administration shows about 196,000 megawatt-hours in 2018, roughly 41 percent of the 482,000 the department told Congress to expect, and no year has done better. Fox's estimated 507 million dollar taxpayer loss isn't checked here. Verdict: matches record.",
+    "read": "The U.S. Energy Information Administration's Form EIA-923 data for Crescent Dunes Solar Energy (plant 57275) show net generation of 195,810 megawatt-hours in 2018, the plant's highest annual total. Other years were lower: 127,338 in 2016, 42,029 in 2017, 50,168 in 2019, zero in 2020, 74,721 in 2021, 100,666 in 2022, 80,236 in 2023, 154,402 in 2024 and 58,997 in 2025. In July 2016 testimony to the House Natural Resources oversight subcommittee, Loan Programs Office Executive Director Mark McCall said DOE issued a $737 million loan guarantee for the 110-megawatt plant in September 2011 and that it \"is expected to generate 482,000 megawatt-hours of clean energy per year.\" The 2018 total is 40.6% of that figure, which Fox rounds to 41%. This check doesn't cover Fox's estimated federal cost of $507.6 million; Fox itself notes that Treasury hasn't confirmed the full $275.6 million grant was paid out and that DOE hasn't given a final accounting of its estimated $232 million loan loss.",
+    "sources": [
+      {
+        "title": "U.S. Energy Information Administration, Electricity Data Browser: Crescent Dunes Solar Energy (plant 57275)",
+        "url": "https://www.eia.gov/electricity/data/browser/#/plant/57275"
+      },
+      {
+        "title": "U.S. Department of Energy, Statement for the Record of Mark A. McCall, Loan Programs Office, before the House Natural Resources Subcommittee on Oversight and Investigations, July 14, 2016",
+        "url": "https://www.energy.gov/congressional/articles/hearing-house-natural-resources-subcommittee-oversight-and-investigations"
+      },
+      {
+        "title": "Federal Register, \"Issuance of a Loan Guarantee to Tonopah Solar Energy, LLC, for the Crescent Dunes Solar Energy Project,\" Sept. 29, 2011",
+        "url": "https://www.federalregister.gov/documents/2011/09/29/2011-25049/issuance-of-a-loan-guarantee-to-tonopah-solar-energy-llc-for-the-crescent-dunes-solar-energy-project"
+      },
+      {
+        "title": "Fox News, Nov. 21, 2026",
+        "url": "https://www.foxnews.com/politics/how-1-obama-era-solar-plant-went-bankrupt-twice-costing-taxpayers-508m"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261122-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-22T06:30:00-06:00",
+    "headline": "CNN, publishing an AP report, says 70-year-old Reinaldo Dennes' contested lethal injection Thursday was Texas' ninth execution this year; the state prison system's execution records match",
+    "video_url": "",
+    "claim": "\"A Texas official on Friday defended how the state carried out the execution of a 70-year-old man who loudly insisted he was in pain... It was the ninth execution this year in Texas.\" — CNN (Associated Press), \"Texas says an execution went as planned. A witness says screams showed 'tremendous distress',\" Nov. 21, 2026",
+    "source_url": "https://www.cnn.com/2026/11/21/us/texas-execution-reinaldo-dennes-controversy",
+    "record_url": "https://www.tdcj.texas.gov/death_row/executed_inmates.html",
+    "record_title": "Texas Department of Criminal Justice, \"Executed Inmates\" list and \"Executions by Year\" table (last updated Nov. 20, 2026)",
+    "verdict": "Matches record",
+    "why": "The Texas Department of Criminal Justice lists Reinaldo Dennes, age 70, of Harris County, as the 605th inmate executed in Texas, on Nov. 19, 2026, and its executions-by-year table counts nine executions in 2026. The state's records don't address the dispute over whether Dennes was in pain; that account comes from witnesses and a prison spokesperson.",
+    "what_would_change": "An updated TDCJ record showing a different 2026 execution count or a different date or age for Dennes would change the verdict.",
+    "outlet": "CNN (Associated Press), Nov. 21, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/21/us/texas-execution-reinaldo-dennes-controversy",
+    "script": "CNN, running an Associated Press report, says 70-year-old Reinaldo Dennes was executed in Texas on Thursday after a struggle to find a vein, and that it was the state's ninth execution this year. The Texas prison system's records match. They list Dennes, 70, of Harris County, as executed November 19, and count nine executions so far in 2026. Those records don't settle the dispute over whether he was in pain. That comes from witnesses, who described screams, and a prison spokesperson, who says it went as planned. Verdict: matches record.",
+    "read": "The Texas Department of Criminal Justice's executed-inmates list, last updated Nov. 20, 2026, shows Reinaldo Dennes (TDCJ No. 999248), age 70, Hispanic, from Harris County, as execution No. 605, carried out Nov. 19, 2026, which was a Thursday. The department's executions-by-year table shows nine executions in 2026, the same number as in 2019, and the list shows the eight before Dennes ran from Charles Thompson on Jan. 28 to John Rubio on Nov. 12. Dennes' TDCJ inmate record gives a birth date of Feb. 9, 1956, which makes him 70, and shows he was received on death row in December 1997 for an offense dated Jan. 24, 1996. The story's account of the IV placement times and Dennes' words comes from TDCJ spokesperson Amanda Hernandez, his spiritual adviser and an AP reporter who witnessed it; the state's online records don't cover those details, and the cause of his apparent pain is not established.",
+    "sources": [
+      {
+        "title": "Texas Department of Criminal Justice, Executed Inmates",
+        "url": "https://www.tdcj.texas.gov/death_row/executed_inmates.html"
+      },
+      {
+        "title": "Texas Department of Criminal Justice, Executions by Year",
+        "url": "https://www.tdcj.texas.gov/death_row/executions_by_year.html"
+      },
+      {
+        "title": "Texas Department of Criminal Justice, Death Row Inmate Information: Reinaldo Dennes",
+        "url": "https://www.tdcj.texas.gov/death_row/dr_info/dennesreinaldo.html"
+      },
+      {
+        "title": "CNN (Associated Press), Nov. 21, 2026",
+        "url": "https://www.cnn.com/2026/11/21/us/texas-execution-reinaldo-dennes-controversy"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261121-reframe-nbc-mcclain-penny-cost",
     "slot": "ReFrame",
     "lead": false,
