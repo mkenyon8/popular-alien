@@ -1,5 +1,100 @@
 [
   {
+    "id": "20261121-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-21T23:00:00-06:00",
+    "headline": "The Hill says Democrat Chuck Hubbard still leads Rep. Virginia Foxx by 330 votes after a nearly finished recount in North Carolina's 5th District; the State Board of Elections' count matches",
+    "video_url": "",
+    "claim": "\"Democrat Chuck Hubbard remains in the lead over incumbent Rep. Virginia Foxx (R-N.C.) after a nearly finalized recount changed only one vote. Hubbard leads by 330 votes in the race for North Carolina's 5th Congressional District... Foxx had previously requested the recount, citing state law allowing that candidates request one when the margin of victory is under 1 percent.\" — The Hill (Ford McCracken), \"Hubbard leads Foxx by 330 votes after recount,\" Nov. 21, 2026",
+    "source_url": "https://thehill.com/homenews/campaign/6235449-hubbard-leads-foxx-recount/",
+    "record_url": "https://er.ncsbe.gov/?election_dt=11/03/2026&county_id=0&office=FED&contest=0",
+    "record_title": "North Carolina State Board of Elections, Nov. 3, 2026 General Election results, U.S. House of Representatives District 05 (unofficial, 230 of 230 precincts), as of Nov. 21, 2026",
+    "verdict": "Matches record",
+    "why": "The North Carolina State Board of Elections' official results feed, with all 230 precincts reporting, shows Democrat Chuck Hubbard with 139,769 votes (48.74%) and Rep. Virginia Foxx with 139,439 (48.62%), a 330-vote lead, as The Hill reports. State law, G.S. 163-182.7, lets a candidate in a non-statewide race demand a recount when the margin is no more than 1% of the votes cast, and this margin is about 0.12% of the 286,786 ballots counted.",
+    "what_would_change": "A sample hand recount, a successful election protest, or the State Board's Nov. 24 certification showing different totals or a different leader would change the verdict.",
+    "outlet": "The Hill, Nov. 21, 2026",
+    "outlet_url": "https://thehill.com/homenews/campaign/6235449-hubbard-leads-foxx-recount/",
+    "script": "The Hill reports Democrat Chuck Hubbard still leads Republican Congresswoman Virginia Foxx by 330 votes after a recount in North Carolina's 5th District. The state's official count backs that up. The State Board of Elections shows Hubbard at 139,769 votes and Foxx at 139,439, with every precinct in. That gap is about a tenth of one percent, well inside the 1 percent margin where state law lets a candidate demand a recount. The numbers stay unofficial until certification. Verdict: matches record.",
+    "read": "The North Carolina State Board of Elections' official results feed, with all 230 precincts reporting, shows Democrat Chuck Hubbard with 139,769 votes (48.74%) and Rep. Virginia Foxx with 139,439 (48.62%), a 330-vote lead, as The Hill reports. State law, G.S. 163-182.7, lets a candidate in a non-statewide race demand a recount when the margin is no more than 1% of the votes cast, and this margin is about 0.12% of the 286,786 ballots counted. The results are still unofficial: the totals become final only when the State Board certifies them, and Foxx can still ask for a sample hand recount or file a protest. This check doesn't independently confirm the 331-vote margin before the recount, which local reports cite; the State Board's feed shows only the current totals. No major outlet had projected a winner as of Saturday night.",
+    "sources": [
+      {
+        "title": "North Carolina State Board of Elections, 2026 General Election results, U.S. House District 05",
+        "url": "https://er.ncsbe.gov/?election_dt=11/03/2026&county_id=0&office=FED&contest=0"
+      },
+      {
+        "title": "North Carolina State Board of Elections, statewide results data feed (Nov. 3, 2026 election)",
+        "url": "https://er.ncsbe.gov/enr/20261103/data/results_0.txt"
+      },
+      {
+        "title": "N.C. General Statutes § 163-182.7, Ordering recounts",
+        "url": "https://www.ncleg.gov/EnactedLegislation/Statutes/HTML/BySection/Chapter_163/GS_163-182.7.html"
+      },
+      {
+        "title": "The Hill, Nov. 21, 2026",
+        "url": "https://thehill.com/homenews/campaign/6235449-hubbard-leads-foxx-recount/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261121-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-21T23:00:00-06:00",
+    "headline": "Fox News says a GAO report found 17 of 22 major civilian agencies haven't fully followed federal zero trust cybersecurity guidance, drawing 40 recommendations; the GAO report matches",
+    "video_url": "",
+    "claim": "\"A sweeping federal watchdog report found that 17 of 22 major civilian agencies failed to fully address key cybersecurity planning guidance... Only five of the 22 agencies fully addressed the selected guidance as of August 2026, prompting GAO to issue 40 recommendations to the remaining 17... HHS received six recommendations, the most of any agency reviewed.\" — Fox News (Jasmine Baehr), \"17 major federal agencies flagged over cybersecurity gaps as watchdog warns of increased attack risk,\" Nov. 21, 2026",
+    "source_url": "https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk",
+    "record_url": "https://files.gao.gov/reports/GAO-27-108661/index.html",
+    "record_title": "U.S. Government Accountability Office, GAO-27-108661, \"Cybersecurity: Agencies Need to Fully Address Federal Guidance as They Refine Zero Trust Architecture,\" published and released Nov. 18, 2026",
+    "verdict": "Matches record",
+    "why": "GAO's report GAO-27-108661, released Nov. 18, says that as of August 2026 only five of the 22 civilian agencies it reviewed had addressed selected OMB or NIST guidance in their zero trust plans, that the other 17 hadn't fully done so, and that it made 40 recommendations to those 17, including six to HHS and four to Commerce. It contains the warning Fox quotes, says 13 agencies agreed and four neither agreed nor disagreed, and confirms it verified the Nuclear Regulatory Commission had already addressed both of its recommendations.",
+    "what_would_change": "A revised GAO report with different counts of agencies or recommendations, or GAO closing recommendations as agencies fix their plans, would change the verdict or make the story outdated.",
+    "outlet": "Fox News, Nov. 21, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk",
+    "script": "Fox News reports a federal watchdog found 17 of 22 major civilian agencies haven't fully followed federal guidance for their zero trust cybersecurity plans. The Government Accountability Office report backs that up. As of August, only five agencies fully met the guidance, and GAO made 40 recommendations to the other 17, six of them to Health and Human Services. One note: the gaps are in agencies' plans, not confirmed breaches. Verdict: matches record.",
+    "read": "GAO's report GAO-27-108661, released Nov. 18, says that as of August 2026 only five of the 22 civilian agencies it reviewed had addressed selected OMB or NIST guidance in their zero trust plans, that the other 17 hadn't fully done so, and that it made 40 recommendations to those 17, including six to HHS and four to Commerce. It contains the warning Fox quotes, says 13 agencies agreed and four neither agreed nor disagreed, and confirms it verified the Nuclear Regulatory Commission had already addressed both of its recommendations. The gaps GAO found are in agencies' written zero trust plans, not confirmed breaches; GAO says almost all 22 agencies had plans and are still putting zero trust in place. A Fox photo caption says GAO 'attributed many of the incomplete reports' to the shutdown. In the report, it was DHS officials who blamed long shutdowns for incomplete maturity assessments, while other agencies cited staffing, funding or resource limits. Fox's article text gets that right.",
+    "sources": [
+      {
+        "title": "GAO-27-108661, Cybersecurity: Agencies Need to Fully Address Federal Guidance as They Refine Zero Trust Architecture, Nov. 18, 2026",
+        "url": "https://files.gao.gov/reports/GAO-27-108661/index.html"
+      },
+      {
+        "title": "Fox News, Nov. 21, 2026",
+        "url": "https://www.foxnews.com/politics/17-major-federal-agencies-flagged-cybersecurity-gaps-watchdog-warns-increased-attack-risk"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261121-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-21T23:00:00-06:00",
+    "headline": "CNN says a Pew poll this week found 67% of Americans are more worried congressional Democrats will investigate Trump 'too much' than 'not enough' (31%); Pew's report matches",
+    "video_url": "",
+    "claim": "\"The American people seem to have a somewhat limited appetite for investigations, with a Pew Research Center poll this week showing 67% are more worried that congressional Democrats will investigate 'too much,' rather than 'not enough (31%).\" — CNN (Aaron Blake), \"The Democrats' top 9 targets for investigations next Congress,\" Nov. 21, 2026",
+    "source_url": "https://www.cnn.com/2026/11/21/politics/democrats-investigations-donald-trump",
+    "record_url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/11/PP_2026.11.19_post-midterm-attitudes_report.pdf",
+    "record_title": "Pew Research Center, \"In Wake of Democrats' Midterm Victory, Majority of Americans Approve of the Party's Policies and Plans,\" released Nov. 19, 2026 (American Trends Panel Wave 203, Nov. 9-15, 2026)",
+    "verdict": "Matches record",
+    "why": "Pew Research Center's Nov. 19 report on a survey of 10,247 adults, taken Nov. 9-15, found 67% are more concerned congressional Democrats will focus too much on investigating the Trump administration, and 31% that they won't focus enough, exactly as CNN reports. The same survey found more Americans call such investigations the right thing to do (32%) than the wrong thing (19%), with 23% saying it's too early to tell and 25% saying they hadn't heard about them.",
+    "what_would_change": "A correction from Pew to the topline numbers, or a CNN figure that doesn't match Pew's published question, would change the verdict.",
+    "outlet": "CNN, Nov. 21, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/21/politics/democrats-investigations-donald-trump",
+    "script": "CNN says a Pew poll this week found 67 percent of Americans are more worried congressional Democrats will investigate the Trump administration too much, versus 31 percent who worry they won't do enough. Pew's report says exactly that. The same poll also found more people call those investigations the right thing to do than the wrong thing, 32 percent to 19, with about half unsure or unaware. Verdict: matches record.",
+    "read": "Pew Research Center's Nov. 19 report on a survey of 10,247 adults, taken Nov. 9-15, found 67% are more concerned congressional Democrats will focus too much on investigating the Trump administration, and 31% that they won't focus enough, exactly as CNN reports. The same survey found more Americans call such investigations the right thing to do (32%) than the wrong thing (19%), with 23% saying it's too early to tell and 25% saying they hadn't heard about them. The split is sharply partisan: 89% of Republicans and Republican leaners worry about too much focus, while Democrats and Democratic leaners split 49% to 50%. CNN's numbers are accurate. Its reading of them as a 'somewhat limited appetite' for investigations is the writer's interpretation, and the poll's 32%-to-19% result is relevant context for it.",
+    "sources": [
+      {
+        "title": "Pew Research Center, post-midterm attitudes report, Nov. 19, 2026",
+        "url": "https://www.pewresearch.org/wp-content/uploads/sites/20/2026/11/PP_2026.11.19_post-midterm-attitudes_report.pdf"
+      },
+      {
+        "title": "CNN, Nov. 21, 2026",
+        "url": "https://www.cnn.com/2026/11/21/politics/democrats-investigations-donald-trump"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261121-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-21T17:30:00-06:00",
