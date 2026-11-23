@@ -1,5 +1,116 @@
 [
  {
+  "id": "20261122-late",
+  "slot": "Late Check",
+  "aired_at": "2026-11-22T23:00:00-06:00",
+  "headline": "The Hill says Senate Democrats blocked a bill in September to bar members of Congress from buying stocks, in a 53-47 vote with no Democratic support and 60 votes needed; the Senate's roll call matches",
+  "video_url": "",
+  "claim": "\"In late September, Senate Democrats blocked a bill to prevent members of Congress from purchasing new stocks of publicly traded companies... The Stop Insider Trading Act sunk in a 53-47 vote, with none of the Democrats backing and 60 votes required for it to advance.\" — The Hill (Tara Suter, \"Jeffries says he'll move to ban lawmakers from stock trading 'very early' in next Congress,\" Nov. 22, 2026), reporting on House Minority Leader Hakeem Jeffries' pledge on CBS's \"Face the Nation\"",
+  "source_url": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/",
+  "record_url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00253.htm",
+  "record_title": "U.S. Senate Roll Call Vote 253, 119th Congress, 2nd Session, Sept. 30, 2026: cloture on the motion to proceed to H.R. 7008, the Stop Insider Trading Act (with Congress.gov's bill summary and actions)",
+  "verdict": "Matches record",
+  "why": "The Senate's official roll call shows cloture on the motion to proceed to H.R. 7008, the Stop Insider Trading Act, failed 53-47 on Sept. 30, 2026, with 60 votes required; all 53 Republicans voted yes, and all 45 Democrats and the two independents who caucus with them voted no. The Congress.gov summary says the bill generally bars members, their spouses and dependent children from buying stocks and requires public notice before they sell. It was a procedural vote on whether to take up the bill, which the House passed 232-198 in July.",
+  "what_would_change": "A corrected Senate roll call showing any Democrat voting yes, or a different tally, would change this. So would bill text showing the measure doesn't restrict new stock purchases by members of Congress.",
+  "outlet": "The Hill, Nov. 22, 2026",
+  "outlet_url": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/",
+  "script": "The Hill says Senate Democrats blocked a bill in September to stop members of Congress from buying new stocks, sinking it 53 to 47 with no Democratic votes and 60 needed. The Senate's own roll call matches. On Sept. 30, all 53 Republicans voted yes, and all 45 Democrats plus the two independents who caucus with them voted no. The bill, the Stop Insider Trading Act, would generally bar members and their families from buying stocks. It was a procedural vote. Verdict: matches the record.",
+  "read": "The Senate's official roll call shows cloture on the motion to proceed to H.R. 7008, the Stop Insider Trading Act, failed 53-47 on Sept. 30, 2026, with 60 votes required; all 53 Republicans voted yes, and all 45 Democrats and the two independents who caucus with them voted no. The Congress.gov summary says the bill generally bars members, their spouses and dependent children from buying stocks and requires public notice before they sell. It was a procedural vote on whether to take up the bill, which the House passed 232-198 in July. Congress.gov lists Rep. Bryan Steil, R-Wis., as the sponsor; the bill exempts widely held investment funds and certain trusts and sets a fee of at least $2,000 or 10% of a transaction's value for violations. The Hill reports Democrats said the legislation wasn't strong enough against possible corruption. The roll call came up in coverage of Jeffries telling CBS's \"Face the Nation\" on Nov. 22 that \"very early on in the new Congress, House Democrats are going to move to ban members of Congress from trading stock.\" He didn't say what that bill would contain.",
+  "sources": [
+   {
+    "title": "U.S. Senate Roll Call Vote 253, 119th Congress, 2nd Session, Sept. 30, 2026",
+    "url": "https://www.senate.gov/legislative/LIS/roll_call_votes/vote1192/vote_119_2_00253.htm"
+   },
+   {
+    "title": "Congress.gov, H.R. 7008, Stop Insider Trading Act, 119th Congress",
+    "url": "https://www.congress.gov/bill/119th-congress/house-bill/7008"
+   },
+   {
+    "title": "CBS News, Transcript: House Minority Leader Hakeem Jeffries on 'Face the Nation with Margaret Brennan,' Nov. 22, 2026",
+    "url": "https://www.cbsnews.com/news/transcript-house-minority-leader-hakeem-jeffries-on-face-the-nation-with-margaret-brennan-nov-22-2026/"
+   },
+   {
+    "title": "The Hill, Nov. 22, 2026",
+    "url": "https://thehill.com/homenews/house/6236202-jeffries-plans-congressional-stock-ban/"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261122-late-fox",
+  "slot": "Late Check",
+  "aired_at": "2026-11-22T23:00:00-06:00",
+  "headline": "Trump, quoted by Fox News, says stock markets have gone down 'substantially' since Democrats won the midterms, as he predicted; the major indexes are down about 5% to 7% since Election Day, but they rose the day after the vote and had started slipping before it",
+  "video_url": "",
+  "claim": "\"As everyone remembers, I predicted two things concerning the November 3rd Midterm Elections. One, that if the Democrats win, the Stock Markets would go down, substantially, which they have...\" — President Donald Trump on Truth Social, as quoted by Fox News (\"Trump says Iran unleashed missile, drone surge after midterms,\" Nov. 22, 2026)",
+  "source_url": "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
+  "record_url": "https://fred.stlouisfed.org/series/DJIA",
+  "record_title": "S&P Dow Jones Indices, Dow Jones Industrial Average daily closes via Federal Reserve Bank of St. Louis FRED (with FRED's S&P 500 and Nasdaq Composite series)",
+  "verdict": "Missing context",
+  "why": "The drop is real: the Dow closed at 51,786.72 on Election Day, Nov. 3, and at 48,147.33 on Nov. 20, down about 7%, and through Nov. 19 the S&P 500 was down about 5.2% and the Nasdaq about 5.9%. But the day after the election, as Democratic wins came in, the Dow rose about 3% and the S&P 500 about 1.6%, and the S&P 500 had already slipped about 2.3% in the week before the vote. The index data can't show the election caused the slide, and Trump's own Treasury secretary also pointed Sunday to Federal Reserve remarks and tighter financial conditions.",
+  "what_would_change": "Market analysis or data tying the post-election decline mainly to the Democratic wins, rather than to Fed policy, AI stocks or other factors, would support Trump's cause-and-effect claim. A rebound that erases the losses since Nov. 3 would make 'substantially' down outdated.",
+  "outlet": "Fox News, Nov. 22, 2026",
+  "outlet_url": "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms",
+  "script": "President Trump says he predicted that if Democrats won the midterms, the stock market would go down substantially, and it has. The drop is real. The Dow closed Nov. 20 about 7% below its Election Day close, and the S&P 500 and Nasdaq are down about 5% to 6%. But the day after the election, as Democratic wins came in, the Dow rose 3%. Stocks had already slipped before the vote, and his own Treasury secretary also points to the Fed and tighter financial conditions. Verdict: missing context.",
+  "read": "The drop is real: the Dow closed at 51,786.72 on Election Day, Nov. 3, and at 48,147.33 on Nov. 20, down about 7%, and through Nov. 19 the S&P 500 was down about 5.2% and the Nasdaq about 5.9%. But the day after the election, as Democratic wins came in, the Dow rose about 3% and the S&P 500 about 1.6%, and the S&P 500 had already slipped about 2.3% in the week before the vote. The index data can't show the election caused the slide, and Trump's own Treasury secretary also pointed Sunday to Federal Reserve remarks and tighter financial conditions. FRED's daily closes show the S&P 500 at 7,743.98 on Oct. 28, 7,568.92 on Nov. 3, 7,688.62 on Nov. 4 and 7,175.83 on Nov. 19; the biggest one-day drop came Nov. 5, when it fell about 4.4%. On CBS's \"Face the Nation\" Sunday, Treasury Secretary Scott Bessent said the sell-off \"actually began as the Democrats moved ahead in the polls and then accelerated after Election Day,\" and he also cited the Democrats' position on the AI buildout, \"very hawkish remarks from the Federal Reserve\" and \"a substantial tightening in financial conditions over the past few months.\" In the same Truth Social post, Trump said Iran has killed 81,000 protesters and launched more drones and missiles over the past week than at any time in over a year; this check doesn't cover those claims.",
+  "sources": [
+   {
+    "title": "FRED, Dow Jones Industrial Average (DJIA), S&P Dow Jones Indices",
+    "url": "https://fred.stlouisfed.org/series/DJIA"
+   },
+   {
+    "title": "FRED, S&P 500 (SP500), S&P Dow Jones Indices",
+    "url": "https://fred.stlouisfed.org/series/SP500"
+   },
+   {
+    "title": "FRED, Nasdaq Composite Index (NASDAQCOM)",
+    "url": "https://fred.stlouisfed.org/series/NASDAQCOM"
+   },
+   {
+    "title": "CBS News, Transcript: Treasury Secretary Scott Bessent on 'Face the Nation with Margaret Brennan,' Nov. 22, 2026",
+    "url": "https://www.cbsnews.com/news/transcript-treasury-secretary-scott-bessent-face-the-nation-with-margaret-brennan-nov-22-2026/"
+   },
+   {
+    "title": "Fox News, Nov. 22, 2026",
+    "url": "https://www.foxnews.com/world/trump-says-iran-unleashed-missile-drone-surge-after-midterms"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261122-late-cnn",
+  "slot": "Late Check",
+  "aired_at": "2026-11-22T23:00:00-06:00",
+  "headline": "CNN says Trump's meme coin gala at his Virginia golf club was open only to the top 185 $TRUMP holders, with a VIP reception for the top 29 and gold watches for the top four, and that the coin fell to $0.89 Sunday from $1.73 just before Halloween; the event's own site and Kraken's price data match",
+  "video_url": "",
+  "claim": "\"The website for $Trump coin holders advertised an 'evening of legends,' featuring boxing legend Floyd Mayweather and mentalist Lior Suchard among others, for the top 185 holders of the $TRUMP meme coin... The value of the $TRUMP meme coin has recently plummeted, trading at $0.89 on the Kraken cryptocurrency exchange Sunday after reaching $1.73 just before Halloween.\" — CNN (Julia Benbrook, \"Trump organization hosts 'exclusive' dinner to promote president's meme coin,\" Nov. 22, 2026)",
+  "source_url": "https://www.cnn.com/2026/11/22/politics/trump-headlines-exclusive-dinner-to-promote-his-meme-coin",
+  "record_url": "https://www.gettrumpmemes.com/gala-dinner",
+  "record_title": "$TRUMP Coin Club, 'An Evening of Legends' Gala Dinner page, Nov. 22, 2026 (with Kraken's public TRUMP/USD daily price data)",
+  "verdict": "Matches record",
+  "why": "The coin club's own gala page lists President Trump as featured speaker, limits seats to the top 185 holders, offers a VIP reception to the top 29 and an 18-karat gold Trump watch to the top four VIPs, and names Floyd Mayweather and mentalist Lior Suchard among the guests. Kraken's daily TRUMP/USD data show the coin trading between about $0.87 and $0.92 on Nov. 22 and closing near $1.72 on Oct. 28, in line with CNN's figures. One detail CNN leaves out: the gold watch goes only to top-four VIPs holding at least 1 million coins.",
+  "what_would_change": "Kraken price data showing the coin far from $0.89 on Sunday or nowhere near $1.73 in late October would change this, as would an earlier version of the gala page with different seat counts or prizes. Confirmation of whether Trump actually spoke at the event would add to the story but wouldn't change these figures.",
+  "outlet": "CNN, Nov. 22, 2026",
+  "outlet_url": "https://www.cnn.com/2026/11/22/politics/trump-headlines-exclusive-dinner-to-promote-his-meme-coin",
+  "script": "CNN says Trump's meme coin club held a gala at his Virginia golf club Sunday for the top 185 holders of the $TRUMP coin, with a VIP reception for the top 29 and gold watches for the top four. The event's own website says exactly that, and lists Trump as featured speaker. CNN also says the coin traded at 89 cents Sunday, down from $1.73 just before Halloween. Kraken's price data match, a drop of nearly half. One catch: the gold watch required holding at least a million coins. Verdict: matches the record.",
+  "read": "The coin club's own gala page lists President Trump as featured speaker, limits seats to the top 185 holders, offers a VIP reception to the top 29 and an 18-karat gold Trump watch to the top four VIPs, and names Floyd Mayweather and mentalist Lior Suchard among the guests. Kraken's daily TRUMP/USD data show the coin trading between about $0.87 and $0.92 on Nov. 22 and closing near $1.72 on Oct. 28, in line with CNN's figures. One detail CNN leaves out: the gold watch goes only to top-four VIPs holding at least 1 million coins. Kraken's data show the coin trading between about $1.62 and $1.92 in the last 10 days of October, closing about $1.58 on Election Day and dipping below $1 on Nov. 14, so Sunday's price is roughly half its late-October level. The gala page also lists Kevin O'Leary and Tristan Thompson, says rankings were based on time-weighted holdings with a final snapshot on Nov. 16 and states \"there will be no private meetings with The President.\" CNN reported it was unclear late Sunday whether Trump attended, and the White House referred questions to the hosts, Trump Organization affiliates CIC Digital and Fight Fight Fight LLC. This check didn't independently verify CNN's figure of about 224,000 holders, which it attributes to CoinMarketCap.",
+  "sources": [
+   {
+    "title": "$TRUMP Coin Club, 'An Evening of Legends' Gala Dinner",
+    "url": "https://www.gettrumpmemes.com/gala-dinner"
+   },
+   {
+    "title": "Kraken public API, TRUMP/USD daily OHLC data",
+    "url": "https://api.kraken.com/0/public/OHLC?pair=TRUMPUSD&interval=1440"
+   },
+   {
+    "title": "CNN, Nov. 22, 2026",
+    "url": "https://www.cnn.com/2026/11/22/politics/trump-headlines-exclusive-dinner-to-promote-his-meme-coin"
+   }
+  ],
+  "corrections": []
+ },
+ {
   "id": "20261122-reframe-cbs-trump-permanent-iran-deal",
   "slot": "ReFrame",
   "lead": true,
