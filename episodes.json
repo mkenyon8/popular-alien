@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261123-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-23T17:30:00-06:00",
+    "headline": "Hakeem Jeffries says House Democrats' new 258-seat majority is 'the largest majority any party in Congress has held this century'; it beats every opening-day House majority since 2001, but it only ties the 258 seats Democrats held in late 2009",
+    "video_url": "",
+    "claim": "\"House Democrats have just secured the largest majority any party in Congress has held this century. BOOM.\" — House Democratic Leader Hakeem Jeffries (@RepJeffries) on X, Nov. 22, 2026, after Democrats won their 258th House seat (as reported by CBS News)",
+    "source_url": "https://x.com/RepJeffries/status/2124582412667564354",
+    "record_url": "https://history.house.gov/Institution/Party-Divisions/Party-Divisions/",
+    "record_title": "History, Art & Archives, U.S. House of Representatives, \"Party Divisions of the House of Representatives, 1789 to Present\" (with NBC News' Dec. 22, 2009 report of the House's 258-177 split before Rep. Parker Griffith switched parties)",
+    "verdict": "Missing context",
+    "why": "The House historian's party-division table, which counts seats on each Congress's opening day, shows no party has started a Congress this century with more than the 257 seats Democrats held in 2009, so 258 tops every opening-day majority since 2001. But Democrats briefly held 258 seats in that same Congress: NBC News reported a 258-177 House on Dec. 22, 2009, just before Alabama Rep. Parker Griffith switched to the GOP. So 258 ties the century's high rather than beating it, unless Democrats win one of the four House races still undecided.",
+    "what_would_change": "A Democratic win in any of the four outstanding House races (Minnesota, Tennessee or the two Louisiana runoffs), pushing the caucus to 259 or more, would make Jeffries' claim match the record outright. A record showing Democrats never actually reached 258 seats in late 2009 would also change the verdict.",
+    "outlet": "Hakeem Jeffries on X, Nov. 22, 2026 (reported by CBS News)",
+    "outlet_url": "https://x.com/RepJeffries/status/2124582412667564354",
+    "script": "House Democratic Leader Hakeem Jeffries says Democrats' new 258-seat House majority is the largest any party in Congress has held this century. That's mostly right, with one catch. No party has opened a Congress since 2001 with more than the 257 seats Democrats had in 2009. But later in that Congress, Democrats held 258 seats until a member switched parties in December 2009. So 258 ties the high mark rather than beating it, and four races are still undecided. Verdict: missing context.",
+    "read": "The House historian's party-division table, which counts seats on each Congress's opening day, shows no party has started a Congress this century with more than the 257 seats Democrats held in 2009, so 258 tops every opening-day majority since 2001. But Democrats briefly held 258 seats in that same Congress: NBC News reported a 258-177 House on Dec. 22, 2009, just before Alabama Rep. Parker Griffith switched to the GOP. So 258 ties the century's high rather than beating it, unless Democrats win one of the four House races still undecided. Jeffries posted the claim on X on Nov. 22 after Democrat Chuck Hubbard's win over Rep. Virginia Foxx gave Democrats their 258th seat, according to CBS News, which reported Republicans will hold at least 173 seats with four races still outstanding. The largest Republican House this century opened with 247 seats in 2015. By margin, today's 258-173 split with four seats undecided is at least as wide as late 2009's 258-177. CBS also notes the 258 seats match Democrats' total after the 1992 election, which is last century. Jeffries' post refers to House Democrats, so Senate majorities, such as the 60-seat Democratic caucus in 2009 and 2010, aren't part of the comparison.",
+    "sources": [
+      {
+        "title": "Hakeem Jeffries (@RepJeffries) on X, Nov. 22, 2026",
+        "url": "https://x.com/RepJeffries/status/2124582412667564354"
+      },
+      {
+        "title": "History, Art & Archives, U.S. House of Representatives, Party Divisions of the House of Representatives",
+        "url": "https://history.house.gov/Institution/Party-Divisions/Party-Divisions/"
+      },
+      {
+        "title": "NBC News, \"House Democrat announces switch to GOP,\" Dec. 22, 2009",
+        "url": "https://www.nbcnews.com/id/wbna34524455"
+      },
+      {
+        "title": "CBS News, \"Democrats reach historic House majority not seen since 1992,\" Nov. 22, 2026",
+        "url": "https://www.cbsnews.com/news/democrats-historic-house-majority-since-1992/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261123-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-23T17:30:00-06:00",
+    "headline": "Fox News says a federal judge blocked Connecticut from enforcing its use-of-force, investigation and mask rules against federal officers; the judge's order matches, though the attorney general was dropped from the case and the inspector general can still enforce the mask rule",
+    "video_url": "",
+    "claim": "\"In a preliminary ruling Friday, U.S. District Judge Vernon D. Oliver blocked Connecticut officials from enforcing certain sections of SB 397 against federal officers while the federal government's lawsuit over the law continues. The blocked provisions of the law, passed in May, set statewide use-of-force standards, gave state officials authority to investigate and prosecute certain cases involving federal officers... and restricted federal officers' use of face coverings. Oliver wrote that the sections likely violate the Constitution's supremacy clause.\" — Fox News (Alec Schemmel), \"Trump DOJ scores early win in fight over blue state mandates targeting ICE,\" Nov. 23, 2026",
+    "source_url": "https://www.foxnews.com/politics/federal-judge-blocks-blue-state-ice-mask-mandate-rules-targeting-federal-officers",
+    "record_url": "https://www.govinfo.gov/content/pkg/USCOURTS-ctd-3_26-cv-00758/pdf/USCOURTS-ctd-3_26-cv-00758-0.pdf",
+    "record_title": "U.S. District Court for the District of Connecticut, United States v. State of Connecticut et al., No. 3:26-cv-758 (VDO), Memorandum & Order (ECF No. 83), Judge Vernon D. Oliver, filed Nov. 20, 2026",
+    "verdict": "Matches record",
+    "why": "Judge Oliver's Nov. 20 order, issued on a Friday, finds that Sections 3, 4, 5 and 6 of SB 397 likely violate the Supremacy Clause and grants a preliminary injunction. Those sections cover state use-of-force standards, state investigation and prosecution of federal officers, and limits on face coverings. The order also confirms the legislature passed the bill on May 1, 2026. One detail Fox doesn't spell out: Attorney General William Tong was dismissed from the case and can't be enjoined, and Inspector General Eliot Prescott is barred only from enforcing the use-of-force sections, not the mask rule in Section 6.",
+    "what_would_change": "An appeals court staying or reversing the injunction, or an amended order narrowing which sections or officials are covered, would change the verdict.",
+    "outlet": "Fox News, Nov. 23, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/federal-judge-blocks-blue-state-ice-mask-mandate-rules-targeting-federal-officers",
+    "script": "Fox News reports a federal judge blocked Connecticut from enforcing parts of its new law regulating federal immigration officers, including use-of-force rules, state investigations, and a ban on masks. The court's order backs that up. On Friday, Judge Vernon Oliver found those four sections likely violate the Constitution's Supremacy Clause and blocked them while the case goes on. One wrinkle: the state attorney general was dropped from the case, and the inspector general can still enforce the mask rule. Verdict: matches the record.",
+    "read": "Judge Oliver's Nov. 20 order, issued on a Friday, finds that Sections 3, 4, 5 and 6 of SB 397 likely violate the Supremacy Clause and grants a preliminary injunction. Those sections cover state use-of-force standards, state investigation and prosecution of federal officers, and limits on face coverings. The order also confirms the legislature passed the bill on May 1, 2026. One detail Fox doesn't spell out: Attorney General William Tong was dismissed from the case and can't be enjoined, and Inspector General Eliot Prescott is barred only from enforcing the use-of-force sections, not the mask rule in Section 6. The order, enacted as Public Act 26-14, says Gov. Ned Lamont signed the bill on May 4 and that the challenged sections took effect immediately. It enjoins the State of Connecticut, Lamont and Chief State's Attorney Patrick Griffin from enforcing all four sections against federal officers, agents and employees. Sections 3 and 5 give the Division of Criminal Justice and the inspector general power to investigate deaths involving officers' use of force, and Section 6 bars officers from wearing face coverings while dealing with the public, with limited exceptions. The ruling is preliminary, not a final decision on the merits, as Fox notes.",
+    "sources": [
+      {
+        "title": "D. Conn., United States v. State of Connecticut, No. 3:26-cv-758, Memorandum & Order, Nov. 20, 2026 (GovInfo)",
+        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-ctd-3_26-cv-00758/pdf/USCOURTS-ctd-3_26-cv-00758-0.pdf"
+      },
+      {
+        "title": "GovInfo, USA v. State of Connecticut et al, docket entry",
+        "url": "https://www.govinfo.gov/app/details/USCOURTS-ctd-3_26-cv-00758/USCOURTS-ctd-3_26-cv-00758-0/context"
+      },
+      {
+        "title": "Fox News, Nov. 23, 2026",
+        "url": "https://www.foxnews.com/politics/federal-judge-blocks-blue-state-ice-mask-mandate-rules-targeting-federal-officers"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261123-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-23T17:30:00-06:00",
+    "headline": "CNN says a House Ethics report found Rep. Jimmy Gomez made sexual contact with a congressional aide without her consent, contributing to her leaving the House; the committee's report makes those findings but recommends no sanction because Gomez lost reelection",
+    "video_url": "",
+    "claim": "\"Democratic Rep. Jimmy Gomez is resigning from Congress on the heels of a damning report from the House Ethics Committee that found he 'made sexual contact' with a congressional aide without her consent. The ethics panel concluded that 'Representative Gomez's conduct caused this House staffer significant and ongoing distress and contributed to her decision to leave House employment altogether.'\" — CNN (Pamela Brown, Lauren Fox, Alison Main), \"Democratic Rep. Jimmy Gomez resigns after damning House ethics report,\" Nov. 23, 2026",
+    "source_url": "https://www.cnn.com/2026/11/23/politics/house-ethics-committee-reports-jimmy-gomez",
+    "record_url": "https://ethics.house.gov/wp-content/uploads/2026/11/Committee-Report-Rep.-Gomez.pdf",
+    "record_title": "U.S. House Committee on Ethics, \"In the Matter of Allegations Relating to Representative Jimmy Gomez,\" Report, adopted Nov. 19, 2026, released Nov. 23, 2026",
+    "verdict": "Matches record",
+    "why": "The committee's report finds substantial evidence that Gomez made unwelcome sexual advances and sexual contact toward a House staffer, and says there is no question he made sexual contact with her and that he knew or had reason to know it wasn't welcome. It finds her credible and uses the exact words CNN quotes: his conduct caused her 'significant and ongoing distress' and contributed to her decision to leave House employment. The report recommends no punishment, saying there isn't time for an adequate House sanction because Gomez lost reelection, and leaves it to the full House to decide whether to act.",
+    "what_would_change": "A revised or withdrawn Ethics Committee report, or a House action rejecting its findings, would change the verdict. Gomez disputes the report, but his statement doesn't change what the committee found.",
+    "outlet": "CNN, Nov. 23, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/23/politics/house-ethics-committee-reports-jimmy-gomez",
+    "script": "CNN reports Democratic Rep. Jimmy Gomez is resigning after a House Ethics report found he made sexual contact with a congressional aide without her consent, and that it contributed to her leaving the House. The report says exactly that. The bipartisan committee found substantial evidence of unwelcome sexual advances and contact, found the former staffer credible, and said his conduct caused her significant and ongoing distress. It recommended no punishment, because Gomez already lost reelection. Gomez disputes the findings and says he'll resign December first. Verdict: matches the record.",
+    "read": "The committee's report finds substantial evidence that Gomez made unwelcome sexual advances and sexual contact toward a House staffer, and says there is no question he made sexual contact with her and that he knew or had reason to know it wasn't welcome. It finds her credible and uses the exact words CNN quotes: his conduct caused her 'significant and ongoing distress' and contributed to her decision to leave House employment. The report recommends no punishment, saying there isn't time for an adequate House sanction because Gomez lost reelection, and leaves it to the full House to decide whether to act. The panel, five Republicans and five Democrats, says it reviewed documents and spoke to 10 witnesses, including Gomez, and voted to adopt the report on Nov. 19. It finds he violated clauses 1 and 18(b) of the House Code of Official Conduct and notes his conduct could amount to misdemeanor sexual abuse under D.C. law. Gomez has not been charged with a crime. The report says Gomez first disclosed only 'one sole occasion' of 'consensual kissing' and later admitted to sexual contact he says was consensual. Gomez's statement, quoted by CNN and NPR, says he has 'strong disagreements' with the report and will resign effective Dec. 1.",
+    "sources": [
+      {
+        "title": "House Committee on Ethics, Report on Representative Jimmy Gomez, Nov. 23, 2026",
+        "url": "https://ethics.house.gov/wp-content/uploads/2026/11/Committee-Report-Rep.-Gomez.pdf"
+      },
+      {
+        "title": "NPR, \"California Democrat Rep. Gomez resigns following ethics report on sexual misconduct allegations,\" Nov. 23, 2026",
+        "url": "https://www.npr.org/2026/11/23/g-s1-155142/california-democrat-rep-gomez-resigns-following-ethics-report-on-sexual-misconduct-allegations"
+      },
+      {
+        "title": "CNN, Nov. 23, 2026",
+        "url": "https://www.cnn.com/2026/11/23/politics/house-ethics-committee-reports-jimmy-gomez"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261123-field-russian-warship-libya",
     "slot": "Midday Check",
     "label": "Field Report",
