@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261123-reframe-reuters-cop31-collapse-hijacked",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-23T17:36:59-06:00",
+    "label": "Story of the Day",
+    "claim": "COP31 climate talks collapse as EU and others reject deal",
+    "outlet": "Reuters",
+    "outlet_url": "https://www.reuters.com/3fec1b0a85a0/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/",
+    "source_url": "https://www.reuters.com/3fec1b0a85a0/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/",
+    "record_url": "https://www.reuters.com/3fec1b0a85a0/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/",
+    "record_title": "Reuters, COP31 climate talks collapse as EU and others reject deal, Nov. 22, 2026",
+    "read": "Reuters reported that COP31 climate talks in Turkey collapsed after the EU and others rejected a final deal that never mentions fossil fuels. The talks did collapse over fossil fuels, and that part is solid. But every side is telling a story that flatters itself. COP31 President Murat Kurum said the presidency did all it could, yet Reuters reports that a letter from about 130 countries asking that any deal mention moving away from fossil fuels was left out of the final text. Ireland's climate minister, speaking for the EU, said the summit was hijacked by oil states; Saudi resistance was a major cause, but the EU also hardened its line, the U.S. sent no delegation, and the EU's own formal objection is what sank the text. The Turkish presidency denied favoritism that negotiators from several regions described to Reuters. Graded C- across 3 arguments (COP31 President Murat Kurum C-; Ireland's climate minister Darragh O'Brien, for the EU, C+; Turkish COP31 presidency D+). Scorecard: 0% valid, 33% cogent, 33% supported, 80% fallacy-free.",
+    "grade": "C-",
+    "scores": {
+      "valid": 0,
+      "cogent": 33,
+      "supported": 33,
+      "fallacy_free": 80
+    },
+    "why": "The talks did collapse over fossil fuels, and that part is solid. But every side is telling a story that flatters itself. The host says it did all it could, the EU blames only the oil states, and the presidency denies favoritism its own negotiators describe. Key question: If the presidency did all it could, why did its final text ignore a letter backed by about 130 countries?",
+    "sources": [
+      {
+        "title": "Reuters, COP31 climate talks collapse as EU and others reject deal, Nov. 22, 2026",
+        "url": "https://www.reuters.com/3fec1b0a85a0/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261123-cop31-collapse-hijacked-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261123-cop31-collapse-hijacked-full.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Reuters reports: COP31 climate talks collapse as EU and others reject deal.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261123-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-23T17:30:00-06:00",
