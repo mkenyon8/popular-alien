@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261123-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-23T23:00:00-06:00",
+    "headline": "Trump says his new directive orders the Justice Department to seek the death penalty for child murderers and for rapists and human traffickers who kill their victims; the memorandum he signed matches, though it covers only federal cases and leaves each decision to the attorney general",
+    "video_url": "",
+    "claim": "\"...child murderers, as well as rapists and human traffickers who kill their victims.\" — President Donald Trump, describing the death-penalty directive he announced at Justice Department headquarters, Nov. 23, 2026, as quoted by NBC News",
+    "source_url": "https://www.nbcnews.com/politics/donald-trump/president-doj-bashes-gavin-newsom-death-row-commutations-rcna610999",
+    "record_url": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/",
+    "record_title": "The White House, Presidential Memorandum, \"Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes,\" Nov. 23, 2026",
+    "verdict": "Matches record",
+    "why": "Section 2 of the memorandum tells the attorney general to seek the death penalty for first-degree murder of a minor, murder committed during rape, sexual abuse, child sexual exploitation or sex trafficking, and murder committed during kidnapping or human trafficking, and Section 3 orders federal death sentences carried out \"as expeditiously as possible.\" That matches Trump's description. But the memo applies only to federal capital crimes, only \"when appropriate and consistent with applicable law,\" so it does not reach state cases like the California death sentences Newsom is commuting.",
+    "what_would_change": "A published version of the directive that differs from the White House text, or Justice Department guidance narrowing which cases it covers, would change this. Evidence that the memo reaches state death-penalty cases would also change the context note.",
+    "outlet": "NBC News, Nov. 23, 2026",
+    "outlet_url": "https://www.nbcnews.com/politics/donald-trump/president-doj-bashes-gavin-newsom-death-row-commutations-rcna610999",
+    "script": "At the Justice Department Monday, President Trump said his new directive orders prosecutors to seek the death penalty for child murderers, as well as rapists and human traffickers who kill their victims. The memorandum he signed matches. It lists first-degree murder of a minor, and murders committed during rape, child sexual exploitation, sex trafficking, kidnapping or human trafficking, and tells the attorney general to speed up federal executions. But it covers only federal cases, when appropriate under the law, so it doesn't touch California's state death sentences. Verdict: matches the record.",
+    "read": "The memorandum, dated Nov. 23, 2026, directs the attorney general to \"pursue Federal jurisdiction and seek the death penalty\" for three added categories beyond those in Executive Order 14164 of Jan. 20, 2025: first-degree murder of a minor; murder in the course of rape, sexual abuse, sexual exploitation of a child or sex trafficking; and murder in the course of kidnapping or human trafficking. Section 3 tells the Justice Department to prioritize appeals and habeas cases, oppose \"dilatory litigation tactics,\" seek expedited court consideration and cut administrative delays. The memo says it is to be carried out \"consistent with applicable law and subject to the availability of appropriations\" and creates no enforceable rights. NBC News notes the California death sentences Newsom is commuting all stem from state cases, which a federal directive does not govern.",
+    "sources": [
+      {
+        "title": "The White House, Presidential Memorandum, \"Expeditious Enforcement of Capital Sentences and the Pursuit of Justice for Victims of Heinous Crimes,\" Nov. 23, 2026",
+        "url": "https://www.whitehouse.gov/presidential-actions/2026/11/expeditious-enforcement-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/"
+      },
+      {
+        "title": "The White House, Fact Sheet on the capital sentences memorandum, Nov. 23, 2026",
+        "url": "https://www.whitehouse.gov/fact-sheets/2026/11/fact-sheet-president-donald-j-trump-ensures-expeditious-enforcements-of-capital-sentences-and-the-pursuit-of-justice-for-victims-of-heinous-crimes/"
+      },
+      {
+        "title": "NBC News, Nov. 23, 2026",
+        "url": "https://www.nbcnews.com/politics/donald-trump/president-doj-bashes-gavin-newsom-death-row-commutations-rcna610999"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261123-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-23T23:00:00-06:00",
+    "headline": "Fox News says Army Sgt. Jian Zhao pleaded guilty to conspiring to pass national defense information to buyers in China, faces up to 10 years, and agreed to forfeit $17,500 plus about $30,000 in seized cash; the U.S. attorney's announcement matches",
+    "video_url": "",
+    "claim": "\"Sgt. Jian Zhao faces up to 10 years in prison after pleading guilty to selling national defense information from Joint Base Lewis-McChord, prosecutors say... Under his plea agreement, Zhao agreed to forfeit $17,500 in proceeds from the scheme and give up his claim to the seized cash.\" — Fox News (Stepheny Price, \"Army sergeant pleads guilty to cashing in on US military secrets in China-linked plot, DOJ says,\" Nov. 23, 2026)",
+    "source_url": "https://www.foxnews.com/us/army-sergeant-pleads-guilty-cashing-us-military-secrets-china-linked-plot-doj-says",
+    "record_url": "https://flashalert.net/id/USAO-Oregon/192245",
+    "record_title": "U.S. Attorney's Office for the District of Oregon, \"Active-Duty U.S. Army Sergeant Pleads Guilty in Conspiracy to Gather and Transfer National Defense Information,\" press release, Nov. 23, 2026 (as distributed on FlashAlert), with the Justice Department's 2025 indictment",
+    "verdict": "Matches record",
+    "why": "The U.S. attorney's release says Zhao, 37, a battery supply sergeant at Joint Base Lewis-McChord, pleaded guilty to conspiring to gather, transmit and transfer national defense information to people connected to China, a charge carrying up to 10 years and a $250,000 fine. It says he agreed to forfeit $17,500 in proceeds and abandon about $30,000 seized at his Lacey, Washington, home in March 2025, matching Fox's figures. Ten years is the statutory maximum; his sentence will be set at a hearing scheduled for March 1, 2027.",
+    "what_would_change": "A court filing showing different plea terms, a withdrawn plea, or a different forfeiture amount would change this. The actual sentence on March 1, 2027, will replace the maximum as the key number.",
+    "outlet": "Fox News, Nov. 23, 2026",
+    "outlet_url": "https://www.foxnews.com/us/army-sergeant-pleads-guilty-cashing-us-military-secrets-china-linked-plot-doj-says",
+    "script": "Fox News reports Army Sergeant Jian Zhao pleaded guilty to selling military secrets to buyers linked to China, faces up to 10 years in prison, and agreed to forfeit 17,500 dollars plus the cash agents seized. The U.S. attorney's announcement matches. Zhao, a supply sergeant at Joint Base Lewis-McChord, admitted conspiring to pass along national defense information, including HIMARS manual excerpts. Agents seized about 30,000 dollars when they arrested him in March 2025. Ten years is the maximum; he'll be sentenced in March. Verdict: matches the record.",
+    "read": "According to the release, Zhao enlisted in 2017, held a security clearance, and from about November 2021 through March 2025 conspired with former soldier Ruoyu Duan of Hillsboro, Oregon, who has already pleaded guilty, to get defense information and equipment to buyers in China. Zhao provided excerpts from HIMARS technical manuals, offered military computers and government hard drives for sale, and photographed restricted presentations on Army operations, communications networks, rocket and missile systems and exercises. Agents arrested him March 6, 2025, recovering about $30,000 in cash, electronics and Army hard drives. The charge carries up to 10 years, a $250,000 fine and three years of supervised release; sentencing is set for March 1, 2027.",
+    "sources": [
+      {
+        "title": "U.S. Attorney's Office, District of Oregon, press release, Nov. 23, 2026 (FlashAlert)",
+        "url": "https://flashalert.net/id/USAO-Oregon/192245"
+      },
+      {
+        "title": "U.S. Department of Justice, Indictment, United States v. Jian Zhao",
+        "url": "https://www.justice.gov/opa/media/1392231/dl"
+      },
+      {
+        "title": "U.S. Department of Justice, \"Active-Duty and Former U.S. Army Soldiers Arrested for Theft of Government Property and Bribery Scheme,\" March 6, 2025",
+        "url": "https://www.justice.gov/opa/pr/active-duty-and-former-us-army-soldiers-arrested-theft-government-property-and-bribery"
+      },
+      {
+        "title": "Fox News, Nov. 23, 2026",
+        "url": "https://www.foxnews.com/us/army-sergeant-pleads-guilty-cashing-us-military-secrets-china-linked-plot-doj-says"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261123-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-23T23:00:00-06:00",
+    "headline": "CNN says a federal appeals court ruled Judge Hellerstein erred in blocking Trump's new bid to move his hush money case to federal court, and said state appeals should pause; the 2nd Circuit's order matches, though the pause is a request relayed through the district court",
+    "video_url": "",
+    "claim": "\"In Monday's decision, the panel of judges, two nominated by Democrats and one nominated by a Republican, said Hellerstein erred by ruling that removal is not allowed after a federal officer defendant is convicted and by finding that Trump's lawyers failed to show 'good cause'... the three-judge panel that ruled Monday said those proceedings should pause in the meantime.\" — CNN (Kara Scannell, \"Trump gets another shot in his quest to overturn hush money conviction,\" Nov. 23, 2026)",
+    "source_url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/11/23/trump-gets-another-shot-in-his-quest-to-overturn-hush-money-conviction/",
+    "record_url": "https://www.courthousenews.com/wp-content/uploads/2026/11/second-circuit-order-trump-hush-money.pdf",
+    "record_title": "U.S. Court of Appeals for the Second Circuit, People of the State of New York v. Donald J. Trump, No. 26-2427-cv, order, Nov. 23, 2026 (Lohier, C.J., Walker and Cabranes, JJ.)",
+    "verdict": "Matches record",
+    "why": "The order says the district court \"erred in holding that removal is categorically unavailable\" after a federal officer defendant is convicted and erred in finding Trump failed to show good cause, and it sends the case back with instructions to let him file a second removal notice. The panel of Chief Judge Lohier and Judge Cabranes, both Democratic nominees, and Judge Walker, a Republican nominee, matches CNN. On the pause, the order does not halt the state courts directly: it tells the district court to \"respectfully request\" no further state proceedings while removal is pending, and the full reasoning is still to come in a later opinion.",
+    "what_would_change": "The Second Circuit's promised opinion, or a state appellate court that keeps going despite the request, could change the picture on the pause. A district court ruling on removal, or a Supreme Court order, would change where the case stands.",
+    "outlet": "CNN, Nov. 23, 2026 (CNN Newsource copy via ABC17News)",
+    "outlet_url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/11/23/trump-gets-another-shot-in-his-quest-to-overturn-hush-money-conviction/",
+    "script": "CNN reports a federal appeals court gave President Trump another shot at moving his hush money case to federal court, saying Judge Alvin Hellerstein erred, and that state appeals should pause meanwhile. The Second Circuit's order matches. It says the judge was wrong that removal is off the table after a conviction, and wrong that Trump hadn't shown good cause, and it tells the district court to let him file again. One nuance: the court didn't freeze the state case itself. It asked the district court to request that state courts hold off. Verdict: matches the record.",
+    "read": "The one-page order, filed Nov. 23, 2026, in case 26-2427, vacates Judge Hellerstein's Aug. 28, 2026, denial of Trump's motion for leave to file a second notice of removal under 28 U.S.C. sections 1442 and 1455, and remands with instructions to grant it. Once Trump files, the district court must notify the New York Supreme Court and its Appellate Division, \"respectfully request that no further proceedings occur in the state courts while the removal question is pending,\" and \"promptly issue a decision.\" If removal is allowed, the district court is to adopt the state court judgment. The panel said an opinion with its reasoning \"will follow in due course.\" CNN reports Hellerstein died last month and the case has not been reassigned.",
+    "sources": [
+      {
+        "title": "U.S. Court of Appeals for the Second Circuit, New York v. Trump, No. 26-2427-cv, order, Nov. 23, 2026 (Courthouse News copy)",
+        "url": "https://www.courthousenews.com/wp-content/uploads/2026/11/second-circuit-order-trump-hush-money.pdf"
+      },
+      {
+        "title": "Associated Press, \"Federal appeals court gives President Donald Trump a path to erasing hush money conviction,\" Nov. 23, 2026",
+        "url": "https://apnews.com/article/trump-hush-money-appeal-immunity-85d97732018b716f4fe87a554698ec02"
+      },
+      {
+        "title": "CNN, Nov. 23, 2026 (CNN Newsource copy via ABC17News)",
+        "url": "https://abc17news.com/politics/national-politics/cnn-us-politics/2026/11/23/trump-gets-another-shot-in-his-quest-to-overturn-hush-money-conviction/"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261123-reframe-reuters-cop31-collapse-hijacked",
     "slot": "ReFrame",
     "lead": true,
