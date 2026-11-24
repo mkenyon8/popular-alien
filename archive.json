@@ -1,5 +1,104 @@
 [
  {
+  "id": "20261124-midday",
+  "slot": "Midday Check",
+  "aired_at": "2026-11-24T11:30:00-06:00",
+  "headline": "CBS News says unsealed records show a magistrate judge questioned whether prosecutors had probable cause for at least two offenses before the search of Rep. Ilhan Omar's D.C. home, in a probe covering conduct back to 1980; the court filings match",
+  "video_url": "",
+  "claim": "\"A federal magistrate judge questioned whether prosecutors had probable cause for at least two of the offenses they were investigating when they sought to search the Washington, D.C., home of Democratic Minnesota U.S. Rep. Ilhan Omar, according to court documents released Monday evening.\" The warrant application covered alleged violations \"occurring between 1980 to the present.\" — CBS News (WCCO/CBS Minnesota), \"Rep. Omar D.C. home search sought evidence going back to 1980,\" Nov. 24, 2026",
+  "source_url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/",
+  "record_url": "https://www.dcd.uscourts.gov/sites/dcd/files/26-sw-318.pdf",
+  "record_title": "U.S. District Court for the District of Columbia, In the Matter of the Search of One Residence in Washington, D.C. Under Rule 41, No. 1:26-sw-00318 (MJS), unsealed docket filings (169 pages, redacted), released Nov. 23, 2026",
+  "verdict": "Matches record",
+  "why": "The 169 pages the D.C. federal court released in case 26-sw-318 include an Oct. 7 order from Magistrate Judge Matthew Sharbaugh asking prosecutors to more fully explain their theory of probable cause for two redacted offenses, and the government's reply that its application supported probable cause for all the target offenses, 'not just the two the Court flagged.' The Oct. 7 government brief quotes the Oct. 2 warrant application as seeking evidence of violations 'involving Ilhan Nur Said Elmi a/k/a Ilhan Abdullahi Omar, and occurring between 1980 to the present.' The judge still signed the warrant on Oct. 9, finding probable cause, and the documents list no charges against Omar.",
+  "what_would_change": "Unredacted filings showing the judge's Oct. 7 order didn't question probable cause for specific offenses, or that the warrant application covered a different time period than 1980 to the present, would change the verdict.",
+  "outlet": "CBS News, Nov. 24, 2026",
+  "outlet_url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/",
+  "script": "CBS News reports that court records released Monday show a federal magistrate judge questioned whether prosecutors had probable cause for at least two offenses before agents searched Rep. Ilhan Omar's Washington home, and that the warrant sought evidence going back to 1980. The unsealed filings match. Judge Matthew Sharbaugh asked prosecutors to better explain probable cause for two redacted offenses, and the application covers alleged violations from 1980 to the present. The judge still signed the warrant, and Omar hasn't been charged. Verdict: matches the record.",
+  "read": "The 169 pages the D.C. federal court released in case 26-sw-318 include an Oct. 7 order from Magistrate Judge Matthew Sharbaugh asking prosecutors to more fully explain their theory of probable cause for two redacted offenses, and the government's reply that its application supported probable cause for all the target offenses, 'not just the two the Court flagged.' The Oct. 7 government brief quotes the Oct. 2 warrant application as seeking evidence of violations 'involving Ilhan Nur Said Elmi a/k/a Ilhan Abdullahi Omar, and occurring between 1980 to the present.' The judge still signed the warrant on Oct. 9, finding probable cause, and the documents list no charges against Omar. The filings also match CBS's other details: Sharbaugh's Oct. 15 memorandum order says the government's view that a member of Congress is unlikely to keep legislative papers at home 'blinks reality,' and it applies the Speech or Debate Clause protections from the 2007 Rayburn decision to the search. An Oct. 9 order sealed the warrant, citing risks including flight from prosecution and evidence tampering, and later filings say Homeland Security Investigations agents executed it at about 6:05 a.m. on Oct. 12. An Oct. 16 government filing says the United States 'believes ILHAN has committed [redacted] crimes over decades—beginning long before she was ever in Congress,' and a Nov. 4 filing signed for U.S. Attorney Jeanine Pirro and Associate Deputy Attorney General Alessandra Serano asked the court to keep the docket sealed. The alleged crimes, the evidence and the inventory of seized items are redacted. Those are the government's allegations, not findings; Omar's office said in October that she had 'done nothing wrong' and called the raid an 'outrageous abuse of power.'",
+  "sources": [
+   {
+    "title": "U.S. District Court for D.C., No. 26-sw-318, unsealed filings, released Nov. 23, 2026",
+    "url": "https://www.dcd.uscourts.gov/sites/dcd/files/26-sw-318.pdf"
+   },
+   {
+    "title": "CBS News, Nov. 24, 2026",
+    "url": "https://www.cbsnews.com/news/ilhan-omar-home-search-documents-magistrate-judge-probable-cause/"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261124-midday-fox",
+  "slot": "Midday Check",
+  "aired_at": "2026-11-24T11:30:00-06:00",
+  "headline": "Fox News says DOJ charged more than 800 defendants and recovered over $8 billion in its largest anti-scam surge; DOJ's release confirms 800-plus defendants in 400-plus cases, but the $8 billion is 'intended loss,' not money returned",
+  "video_url": "",
+  "claim": "\"Federal prosecutors have charged more than 800 defendants and recovered over $8 billion in intended victim losses as part of the largest anti-scam enforcement surge in Justice Department history, U.S. Attorney General Todd Blanche announced Tuesday.\" — Fox News (Stephen Sorace), \"DOJ recovers $8B, charges more than 800 suspects in largest anti-scam surge in history,\" Nov. 24, 2026",
+  "source_url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
+  "record_url": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants",
+  "record_title": "U.S. Department of Justice, Office of Public Affairs, \"Justice Department Announces Largest-Ever Crackdown on Scammers, Targeting Over 800 Defendants to Protect Americans from Fraud,\" Nov. 24, 2026 (with Gallup, \"Scam Victims Report Billions Lost and Harm to Mental Health\")",
+  "verdict": "Missing context",
+  "why": "The Justice Department's Nov. 24 release confirms the scale: since President Trump's March 6 executive order, prosecutors acted in over 400 cases against over 800 defendants in 85 federal districts. But those 800 include extraditions, guilty verdicts and sentences, not only new charges, and the written release gives no $8 billion figure. Blanche said at the news conference that DOJ had 'recovered over $8 billion in intended loss to victims,' and 'intended loss' measures what schemes aimed to take, not money returned to victims; DOJ didn't say how much was actually recovered.",
+  "what_would_change": "A DOJ accounting showing more than $8 billion actually returned to or recovered for victims, or showing all 800-plus defendants were newly charged during the surge, would change the verdict.",
+  "outlet": "Fox News, Nov. 24, 2026",
+  "outlet_url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history",
+  "script": "Fox News reports the Justice Department charged more than 800 defendants and recovered over 8 billion dollars in its largest-ever anti-scam surge. DOJ's own release confirms more than 800 defendants in over 400 cases since March. But that count includes extraditions, convictions and sentences, not just new charges. And the 8 billion dollar figure, which isn't in the written release, is what Attorney General Todd Blanche called intended loss, meaning what scammers tried to take, not money handed back to victims. Verdict: missing context.",
+  "read": "The Justice Department's Nov. 24 release confirms the scale: since President Trump's March 6 executive order, prosecutors acted in over 400 cases against over 800 defendants in 85 federal districts. But those 800 include extraditions, guilty verdicts and sentences, not only new charges, and the written release gives no $8 billion figure. Blanche said at the news conference that DOJ had 'recovered over $8 billion in intended loss to victims,' and 'intended loss' measures what schemes aimed to take, not money returned to victims; DOJ didn't say how much was actually recovered. The release says the 800 defendants reflect 'new charges, extraditions, guilty verdicts, and criminal sentences,' and Blanche's own remarks, as quoted by The Epoch Times, describe defendants 'charged, extradited, pleaded guilty, and some of them sentenced.' The amounts the release does list are frozen, restrained or prevented losses, such as nearly $17 billion in illicit funds the FBI says it restrained under Operation Blackout and over $350 million frozen by the FBI's Recovery Asset Team. Fox's Gallup figures match Gallup's survey: 10% of U.S. adults say they or a household member were scammed in 2025, with an estimated $68 billion lost. One mismatch: Fox credits Operation Level Up with nearly $700 million in prevented losses, while DOJ's release puts Level Up at more than $143 million since March and attributes the $690 million figure to Operation Blackout. 'Largest in history' is DOJ's own description, and this check found no independent measure of it.",
+  "sources": [
+   {
+    "title": "U.S. Department of Justice, press release, Nov. 24, 2026",
+    "url": "https://www.justice.gov/opa/pr/justice-department-announces-largest-ever-crackdown-scammers-targeting-over-800-defendants"
+   },
+   {
+    "title": "Gallup, \"Scam Victims Report Billions Lost and Harm to Mental Health\"",
+    "url": "https://news.gallup.com/poll/710984/scam-victims-report-billions-lost-harm-mental-health.aspx"
+   },
+   {
+    "title": "The Epoch Times, Nov. 24, 2026",
+    "url": "https://www.theepochtimes.com/us/feds-recover-8-billion-in-largest-ever-scam-crackdown-blanche-6128801"
+   },
+   {
+    "title": "Fox News, Nov. 24, 2026",
+    "url": "https://www.foxnews.com/politics/doj-recovers-8b-charges-more-than-800-suspects-largest-anti-scam-surge-history"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261124-midday-cnn",
+  "slot": "Midday Check",
+  "aired_at": "2026-11-24T11:30:00-06:00",
+  "headline": "CNN says leaked Rosstat data show 490,000 confirmed Russian military deaths and an estimated 720,000-plus including the missing, citing Mediazona and Meduza; their analysis matches, though the higher figure is a modeled estimate",
+  "video_url": "",
+  "claim": "\"Russian opposition outlets Mediazona and Meduza reported on Monday that by the end of September, 490,000 Russian troops had been confirmed dead by Russia's statistical bureau, Rosstat. But accounting for time lags in reporting and including troops who have been reported as missing in action – and are most likely dead – Russian fatalities jump to more than 720,000 since the start of the war, according to the two outlets.\" — CNN (Ivana Kottasová), \"One every four minutes: 720,000 Russian soldiers killed since start of Ukraine war, new data suggests,\" Nov. 24, 2026",
+  "source_url": "https://www.cnn.com/2026/11/24/europe/putin-russia-war-soldier-death-toll-intl",
+  "record_url": "https://meduza.io/en/feature/2026/11/23/more-than-700-000-russian-troops-died-in-the-war-in-ukraine-by-late-september-2026-meduza-and-mediazona-estimate",
+  "record_title": "Meduza and Mediazona, \"More than 700,000 Russian troops died in the war in Ukraine by late September 2026, Meduza and Mediazona estimate,\" Nov. 23, 2026 (with Mediazona's English summary of the joint analysis)",
+  "verdict": "Matches record",
+  "why": "Meduza and Mediazona's joint Nov. 23 analysis says leaked Rosstat death records show at least 490,000 registered Russian military deaths through late September 2026, and that counting deaths not yet registered, mostly troops listed as missing, the toll had likely risen to around 720,000 by fall. That matches CNN's numbers and its account of the leak. But the 720,000 is a statistical model, not a count: the outlets say it could be off by a wide margin, with most of the uncertainty in the last 12 months, and CNN notes it can't independently verify the figures.",
+  "what_would_change": "A revised Meduza-Mediazona analysis with materially different registered or estimated totals, or evidence that the leaked Rosstat database isn't authentic, would change the verdict.",
+  "outlet": "CNN, Nov. 24, 2026",
+  "outlet_url": "https://www.cnn.com/2026/11/24/europe/putin-russia-war-soldier-death-toll-intl",
+  "script": "CNN reports that leaked Russian government data show 490,000 Russian soldiers confirmed dead in the Ukraine war by the end of September, and more than 720,000 once missing troops and late registrations are counted, citing the outlets Mediazona and Meduza. Their joint analysis matches. Leaked Rosstat records show at least 490,000 registered military deaths, and their model puts the full toll around 720,000. That higher number is an estimate, and the outlets say it could be off by a wide margin. Verdict: matches the record.",
+  "read": "Meduza and Mediazona's joint Nov. 23 analysis says leaked Rosstat death records show at least 490,000 registered Russian military deaths through late September 2026, and that counting deaths not yet registered, mostly troops listed as missing, the toll had likely risen to around 720,000 by fall. That matches CNN's numbers and its account of the leak. But the 720,000 is a statistical model, not a count: the outlets say it could be off by a wide margin, with most of the uncertainty in the last 12 months, and CNN notes it can't independently verify the figures. The analysis says the hacked database, obtained by the Belarusian Cyber Partisans and Silent Crow, appears authentic because its records match the outlets' named list of dead soldiers, the inheritance register and other sources. It also says that of the more than 160,000 missing soldiers in Mediazona's database of relatives' search notices, fewer than 10% were found alive, which fits CNN's line that only around 10% survive. CNN's 'one every four minutes' is its own math, and if anything understates the pace: 720,000 deaths between Feb. 24, 2022 and the end of September 2026 is about one every three and a half minutes. Ukraine doesn't publish its own death toll either.",
+  "sources": [
+   {
+    "title": "Meduza and Mediazona, Nov. 23, 2026",
+    "url": "https://meduza.io/en/feature/2026/11/23/more-than-700-000-russian-troops-died-in-the-war-in-ukraine-by-late-september-2026-meduza-and-mediazona-estimate"
+   },
+   {
+    "title": "Mediazona, \"How many Russian soldiers died in the war with Ukraine,\" Nov. 23, 2026",
+    "url": "https://en.zona.media/article/2026/11/23/casualties_eng-trl"
+   },
+   {
+    "title": "CNN, Nov. 24, 2026",
+    "url": "https://www.cnn.com/2026/11/24/europe/putin-russia-war-soldier-death-toll-intl"
+   }
+  ],
+  "corrections": []
+ },
+ {
   "id": "20261124-reframe-reuters-trump-huang-reinstated",
   "slot": "ReFrame",
   "lead": true,
