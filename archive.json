@@ -1,5 +1,108 @@
 [
  {
+  "id": "20261124-evening",
+  "slot": "Evening Check",
+  "aired_at": "2026-11-24T17:30:00-06:00",
+  "headline": "The Hill says newborn hepatitis B vaccination rates dropped sharply after RFK Jr.-led confusion, to 65.6% in 2026 from about 80%; the study's numbers match, but the decline began in mid-2023 and the study doesn't measure the cause",
+  "video_url": "",
+  "claim": "\"Newborn hepatitis B vaccination rates dropped sharply after RFK Jr.-led confusion\" … \"The rate of infants who received the hepatitis B Virus (HBV) vaccine fell to 65.6 percent in 2026, down from around 80 percent from 2020 to 2022, according to a study published Tuesday in The New England Journal of Medicine.\" — The Hill (Sarah Davis), Nov. 24, 2026",
+  "source_url": "https://thehill.com/policy/healthcare/6240970-hepatitis-b-vaccine-rates-drop/",
+  "record_url": "https://www.cidrap.umn.edu/sites/default/files/page-files/PHA-Hepatitis%20B%20birth%20dose112426.pdf",
+  "record_title": "Masters, Cartwright et al., \"Hepatitis B Birth Dose Vaccination in the United States, January 2018–June 2026,\" NEJM Evidence Public Health Alerts (in partnership with CIDRAP), DOI 10.1056/EVIDpha2600326, published Nov. 24, 2026",
+  "verdict": "Missing context",
+  "why": "The study's numbers match: newborn hepatitis B shots within a day of birth averaged 80.0% from 2020 to 2022 and fell to 65.6% in the first half of 2026, and among babies of mothers who tested positive the rate fell from 97%-98% to 93.9%. But the study says the decline began in mid-2023, about a year and a half before Robert F. Kennedy Jr. became HHS secretary, and it doesn't measure what caused the drop; 'confusion among parents' is the authors' likely explanation, not a finding. The paper ran in NEJM Evidence's Public Health Alerts section, not The New England Journal of Medicine itself.",
+  "what_would_change": "Data showing newborn hepatitis B vaccination held steady until after Kennedy took office in 2025, or a study that measured parents' reasons and tied the drop to federal guidance changes, would change the verdict.",
+  "outlet": "The Hill, Nov. 24, 2026",
+  "outlet_url": "https://thehill.com/policy/healthcare/6240970-hepatitis-b-vaccine-rates-drop/",
+  "script": "The Hill says newborn hepatitis B vaccination rates dropped sharply after confusion led by Health Secretary Robert F. Kennedy Jr., falling to 65.6 percent this year from about 80 percent. The study's numbers match, and the steepest drop came in 2025. But the researchers say the decline started in mid-2023, before Kennedy took office, and the study doesn't measure why parents are skipping the shot. It also ran in NEJM Evidence, not the New England Journal of Medicine itself. Verdict: missing context.",
+  "read": "The study's numbers match: newborn hepatitis B shots within a day of birth averaged 80.0% from 2020 to 2022 and fell to 65.6% in the first half of 2026, and among babies of mothers who tested positive the rate fell from 97%-98% to 93.9%. But the study says the decline began in mid-2023, about a year and a half before Robert F. Kennedy Jr. became HHS secretary, and it doesn't measure what caused the drop; 'confusion among parents' is the authors' likely explanation, not a finding. The paper ran in NEJM Evidence's Public Health Alerts section, not The New England Journal of Medicine itself. The Hill's line that the drop accelerated after Kennedy took office fits the study's yearly counts: about 77.9% of newborns got the shot in 2023 and 75.4% in 2024, then 69.0% in 2025, the steepest one-year fall in the data. The authors write that the decline 'appeared to accelerate prior to' the vaccine advisory committee's December 2025 vote to drop the universal birth-dose recommendation, and that an earlier study found rates falling from a peak in February 2023. The research used Truveta's electronic health records covering 1,338,961 infants born from January 2018 through June 2026, so it is a large sample, not a national registry count.",
+  "sources": [
+   {
+    "title": "NEJM Evidence Public Health Alerts, \"Hepatitis B Birth Dose Vaccination in the United States, January 2018–June 2026,\" Nov. 24, 2026",
+    "url": "https://www.cidrap.umn.edu/sites/default/files/page-files/PHA-Hepatitis%20B%20birth%20dose112426.pdf"
+   },
+   {
+    "title": "CIDRAP, \"Hepatitis B vaccination rates in US newborns falling, Public Health Alerts report shows,\" Nov. 24, 2026",
+    "url": "https://www.cidrap.umn.edu/public-health-alerts/hepatitis-b-vaccination-rates-us-newborns-falling-public-health-alerts-report"
+   },
+   {
+    "title": "The Hill, Nov. 24, 2026",
+    "url": "https://thehill.com/policy/healthcare/6240970-hepatitis-b-vaccine-rates-drop/"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261124-evening-fox",
+  "slot": "Evening Check",
+  "aired_at": "2026-11-24T17:30:00-06:00",
+  "headline": "Fox News says Biden raised just $1.5 million for his presidential library in 2025, less than 1% of Obama's $232.6 million in 2017; the math holds, but Obama's foundation had been raising money since 2014 and Biden's listed $4 million on its first return",
+  "video_url": "",
+  "claim": "\"In 2017, Obama’s first year out of office, the two-term president managed to bring in $232.6 million in donations and contributions to fund the foundation behind his presidential library. By comparison, Biden secured just $1.5 million in 2025 for his presidential library foundation, per tax filings. This is less than 1% of what his former boss raised in the same amount of time after leaving office.\" — Fox News (Robert Schmad), \"Biden's first-year fundraising fails to crack 1% of Obama's library haul as questions swirl over legacy,\" Nov. 24, 2026",
+  "source_url": "https://www.foxnews.com/politics/bidens-first-year-fundraising-fails-crack-1-percent-obamas-library-haul-questions-swirl-legacy",
+  "record_url": "https://projects.propublica.org/nonprofits/organizations/332456598",
+  "record_title": "IRS Form 990 data via ProPublica Nonprofit Explorer: Joe and Jill Biden Presidential Library Foundation (EIN 33-2456598) and The Barack Obama Foundation (EIN 46-4950751); with CBS News, \"Biden library nears site decision as fundraising lags,\" Nov. 16, 2026",
+  "verdict": "Missing context",
+  "why": "IRS Form 990 data on ProPublica's Nonprofit Explorer show the Obama Foundation took in about $232 million in contributions in 2017, and CBS News, citing a 2025 return it obtained that has not been made public, reported the Biden foundation raised less than $1.5 million last year, so 'less than 1%' holds. But the comparison isn't the same amount of time: the Obama Foundation had been raising money since 2014, while the Biden foundation was incorporated in December 2024, got tax-exempt status in March 2025, and listed $4 million in contributions on its first return, for 2024. The foundation told CBS that 2025 was a 'building and infrastructure year' when it wasn't actively fundraising, and a source said it has since landed gifts including two $5 million donations.",
+  "what_would_change": "The Biden foundation's public 2025 return showing it raised substantially more than $1.5 million, or records showing the Obama Foundation raised little before Obama left office, would change the verdict.",
+  "outlet": "Fox News, Nov. 24, 2026",
+  "outlet_url": "https://www.foxnews.com/politics/bidens-first-year-fundraising-fails-crack-1-percent-obamas-library-haul-questions-swirl-legacy",
+  "script": "Fox News says Joe Biden raised just 1.5 million dollars for his presidential library in 2025, less than one percent of the 232.6 million Barack Obama raised in 2017. IRS data show the Obama Foundation took in about 232 million that year, and CBS reported Biden's foundation raised under 1.5 million, so the math holds. But it isn't the same timeline. Obama's foundation had been raising money since 2014. Biden's was set up in December 2024, listed 4 million dollars in seed money on its first return, and says it wasn't actively fundraising in 2025. Verdict: missing context.",
+  "read": "IRS Form 990 data on ProPublica's Nonprofit Explorer show the Obama Foundation took in about $232 million in contributions in 2017, and CBS News, citing a 2025 return it obtained that has not been made public, reported the Biden foundation raised less than $1.5 million last year, so 'less than 1%' holds. But the comparison isn't the same amount of time: the Obama Foundation had been raising money since 2014, while the Biden foundation was incorporated in December 2024, got tax-exempt status in March 2025, and listed $4 million in contributions on its first return, for 2024. The foundation told CBS that 2025 was a 'building and infrastructure year' when it wasn't actively fundraising, and a source said it has since landed gifts including two $5 million donations. The IRS data list Obama Foundation contributions of $5.4 million in 2014, $1.9 million in 2015 and $13.2 million in 2016, before Obama left office. For 2017 they show $231,993,748 in contributions and $232,148,718 in total revenue, slightly below the $232.6 million Fox cites, and for 2018 about $163.9 million in contributions, close to Fox's $164.8 million. The Biden foundation's 2024 return shows $4,000,000 in contributions, no expenses and $4 million in net assets. CBS reported the 2025 filing shows about $2.1 million in spending and a deficit of around $600,000, which fits Fox's 'spending $600,000 more than it raised' and the $3.4 million in net assets CBS says the foundation ended 2025 with. The 2025 figures can't be checked against a public filing yet.",
+  "sources": [
+   {
+    "title": "ProPublica Nonprofit Explorer, Joe and Jill Biden Presidential Library Foundation (IRS Form 990 data)",
+    "url": "https://projects.propublica.org/nonprofits/organizations/332456598"
+   },
+   {
+    "title": "ProPublica Nonprofit Explorer, The Barack Obama Foundation (IRS Form 990 data)",
+    "url": "https://projects.propublica.org/nonprofits/organizations/464950751"
+   },
+   {
+    "title": "CBS News, Nov. 16, 2026",
+    "url": "https://www.cbsnews.com/news/biden-library-fundraising-site/"
+   },
+   {
+    "title": "Fox News, Nov. 24, 2026",
+    "url": "https://www.foxnews.com/politics/bidens-first-year-fundraising-fails-crack-1-percent-obamas-library-haul-questions-swirl-legacy"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261124-evening-cnn",
+  "slot": "Evening Check",
+  "aired_at": "2026-11-24T17:30:00-06:00",
+  "headline": "CNN says Utah prosecutors dropped criminal charges against Kalshi and its co-founders Tuesday, a day after the company left the state; the AG's release says it filed a motion to dismiss without prejudice on Monday, the same day Kalshi paused",
+  "video_url": "",
+  "claim": "\"Utah prosecutors dropped criminal charges against the prediction company Kalshi and its co-founders on Tuesday, one day after the company halted operations in the state.\" … \"Kalshi unilaterally exited Utah on Monday after a setback in federal court, and state prosecutors asked the judge to dismiss the criminal case on Tuesday.\" — CNN (Marshall Cohen), \"Utah scores win against Kalshi as company halts operations in state,\" Nov. 24, 2026",
+  "source_url": "https://www.cnn.com/2026/11/24/politics/utah-criminal-charges-kalshi-dropped",
+  "record_url": "https://attorneygeneral.utah.gov/utah-dismiss-kalshi-criminal-case/",
+  "record_title": "Office of the Utah Attorney General, \"Utah moves to dismiss Kalshi criminal case after company blocks Utah users,\" Nov. 24, 2026",
+  "verdict": "Missing context",
+  "why": "The Utah attorney general's own Nov. 24 release says his office filed a motion on Monday in Third District Court to dismiss all 14 criminal charges against Kalshi and its co-founders, without prejudice so they can be refiled, after Kalshi blocked Utah users. That confirms the substance of CNN's report and Brown's quote, which matches the release word for word. But CNN says prosecutors dropped the charges and asked the judge to dismiss on Tuesday, 'one day after' Kalshi halted operations; the release and KSL both say the motion was filed Monday, the same day Kalshi paused, and the release describes a request to the court, not a completed dismissal.",
+  "what_would_change": "A court docket showing the dismissal motion was filed Tuesday, or that the judge has already granted it, would change the verdict.",
+  "outlet": "CNN, Nov. 24, 2026",
+  "outlet_url": "https://www.cnn.com/2026/11/24/politics/utah-criminal-charges-kalshi-dropped",
+  "script": "CNN reports Utah prosecutors dropped criminal charges against the prediction market Kalshi and its co-founders on Tuesday, one day after the company pulled out of the state. The attorney general's own release confirms Utah is moving to dismiss all 14 charges after Kalshi blocked Utah users. But it says the motion was filed Monday, the same day Kalshi paused, and it's a request to the court, without prejudice, so the charges can come back if Kalshi returns. Verdict: missing context.",
+  "read": "The Utah attorney general's own Nov. 24 release says his office filed a motion on Monday in Third District Court to dismiss all 14 criminal charges against Kalshi and its co-founders, without prejudice so they can be refiled, after Kalshi blocked Utah users. That confirms the substance of CNN's report and Brown's quote, which matches the release word for word. But CNN says prosecutors dropped the charges and asked the judge to dismiss on Tuesday, 'one day after' Kalshi halted operations; the release and KSL both say the motion was filed Monday, the same day Kalshi paused, and the release describes a request to the court, not a completed dismissal. The release says the office opened a criminal investigation in September 2026 and filed the 14 charges on Oct. 28, and that after the charges were filed Kalshi said it would geofence Utah and monitor for Utah IP addresses. It also says seven prediction-market companies, including Kalshi, have agreed to stop operating in Utah, and that Utah is one of only two states with no legal gambling of any kind. KSL reports the charges were one count of a pattern of unlawful activity, 12 counts of online gambling promotion and one misdemeanor count, and that the civil case is still pending, as CNN says. Kalshi's figure of more than 177,000 Utah users is the company's own claim. CNN discloses that it has a partnership with Kalshi.",
+  "sources": [
+   {
+    "title": "Office of the Utah Attorney General, press release, Nov. 24, 2026",
+    "url": "https://attorneygeneral.utah.gov/utah-dismiss-kalshi-criminal-case/"
+   },
+   {
+    "title": "KSL.com, Nov. 24, 2026",
+    "url": "https://www.ksl.com/article/51647875/utah-ag-moves-to-dismiss-charges-against-kalshi-after-it-blocks-service-in-state"
+   },
+   {
+    "title": "CNN, Nov. 24, 2026",
+    "url": "https://www.cnn.com/2026/11/24/politics/utah-criminal-charges-kalshi-dropped"
+   }
+  ],
+  "corrections": []
+ },
+ {
   "id": "20261124-midday",
   "slot": "Midday Check",
   "aired_at": "2026-11-24T11:30:00-06:00",
