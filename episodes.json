@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261124-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-24T06:30:00-06:00",
+    "headline": "Rep. Jamie Raskin says Trump's FDA authorized five Juul e-cigarette products months after Donald Trump Jr.'s firm invested in Juul; FDA's July 2025 orders match, though the agency had already dropped its Juul ban under Biden in 2024",
+    "video_url": "",
+    "claim": "\"President Trump's FDA threw Juul a financial lifeline by authorizing Juul to market and sell five e-cigarette products.\" — Rep. Jamie Raskin (D-Md.), ranking member of the House Judiciary Committee, in a Nov. 23, 2026 letter to Juul's CEO, as quoted by MS NOW",
+    "source_url": "https://www.ms.now/news/house-democrats-four-companies-donald-trump-jr",
+    "record_url": "https://www.accessdata.fda.gov/static/searchtobacco/juul/MRKT_ORDR_LTR_Multiple_STNs_JUL2025_Redacted.pdf",
+    "record_title": "U.S. Food and Drug Administration, Center for Tobacco Products, Marketing Granted Orders to JUUL Labs Inc., July 17, 2025 (with FDA's July 17, 2025 announcement and June 6, 2024 update rescinding the 2022 marketing denial orders)",
+    "verdict": "Matches record",
+    "why": "FDA's marketing granted orders, issued July 17, 2025, authorized five JUUL products: the JUUL device and Virginia Tobacco and Menthol JUULpods at 3% and 5% nicotine. That came about four months after the March 2025 investment Raskin cites, so the timing and the count match. But the path to authorization reopened under the Biden administration, when FDA rescinded its 2022 ban on Juul products in June 2024, and the authorized pods are tobacco and menthol only, not the fruit and sweet flavors at the center of the youth vaping fight.",
+    "what_would_change": "FDA records showing it authorized a different number of Juul products, or that the authorization came before 1789 Capital's investment, would change the verdict.",
+    "outlet": "MS NOW, Nov. 24, 2026",
+    "outlet_url": "https://www.ms.now/news/house-democrats-four-companies-donald-trump-jr",
+    "script": "House Judiciary Democrat Jamie Raskin says President Trump's FDA authorized five Juul e-cigarette products just months after Donald Trump Jr.'s investment firm bought into the company. FDA's records match. In July 2025, the agency authorized the Juul device and tobacco and menthol pods at two nicotine strengths, about four months after the March 2025 investment Raskin cites. But FDA had already lifted its Juul ban under President Biden in 2024, and no fruit or candy flavors were approved. Verdict: matches the record.",
+    "read": "FDA's marketing granted orders, issued July 17, 2025, authorized five JUUL products: the JUUL device and Virginia Tobacco and Menthol JUULpods at 3% and 5% nicotine. That came about four months after the March 2025 investment Raskin cites, so the timing and the count match. But the path to authorization reopened under the Biden administration, when FDA rescinded its 2022 ban on Juul products in June 2024, and the authorized pods are tobacco and menthol only, not the fruit and sweet flavors at the center of the youth vaping fight. FDA said Juul's applications included a two-year study showing high rates of adult smokers switching completely to the products, and that the authorization does not mean the products are safe or 'FDA approved.' FDA's June 6, 2024 update says the rescission returned Juul's applications to pending review and was 'not an authorization or a denial.' Raskin's Aug. 26, 2026 letter to 1789 Capital makes the same claim and says the firm took a $5 million stake in Juul in March 2025; this check didn't find a primary record of that investment and doesn't rate it. The letters don't show that Donald Trump Jr. or 1789 Capital influenced FDA's decision; they ask the companies for records to find out, and 1789 Capital's lawyer calls the allegations 'personal attacks untethered to actual evidence.'",
+    "sources": [
+      {
+        "title": "FDA, Marketing Granted Orders to JUUL Labs Inc., July 17, 2025",
+        "url": "https://www.accessdata.fda.gov/static/searchtobacco/juul/MRKT_ORDR_LTR_Multiple_STNs_JUL2025_Redacted.pdf"
+      },
+      {
+        "title": "FDA, \"FDA Authorizes Marketing of Tobacco- and Menthol-Flavored JUUL E-Cigarette Products\"",
+        "url": "https://www.fda.gov/tobacco-products/ctp-newsroom/fda-authorizes-marketing-tobacco-and-menthol-flavored-juul-e-cigarette-products"
+      },
+      {
+        "title": "FDA, \"Update on FDA's Scientific Review of JUUL Product Applications,\" June 6, 2024",
+        "url": "https://www.fda.gov/tobacco-products/ctp-newsroom/update-fdas-scientific-review-juul-product-applications"
+      },
+      {
+        "title": "Rep. Jamie Raskin, letter to 1789 Capital Management, Aug. 26, 2026",
+        "url": "https://democrats-judiciary.house.gov/sites/evo-subsites/democrats-judiciary.house.gov/files/evo-media-document/2026-08-26-raskin-to-malik-buskirk-trump-jr-1789-capital-re-insider-access.pdf"
+      },
+      {
+        "title": "MS NOW, Nov. 24, 2026",
+        "url": "https://www.ms.now/news/house-democrats-four-companies-donald-trump-jr"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261124-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-24T06:30:00-06:00",
+    "headline": "Fox News says Massachusetts sued to stop ICE courthouse arrests, citing over 600 arrests in 2025, over 500 so far in 2026 and at least 38 warrantless arrests since the state's new law took effect; the complaint matches, though it gives no 1,110 total",
+    "video_url": "",
+    "claim": "\"The attorney general said more than 1,110 people have been arrested at her state's courthouses since President Donald Trump returned to the White House in January 2025, including more than 600 people in 2025 and more than 500 during the first 10 months of 2026. Campbell said ICE has ignored the new state law and arrested at least 38 people in Massachusetts courthouses without judicial warrants in the two and a half weeks since the courthouse protections went into effect.\" — Fox News, \"Massachusetts sues Trump admin to stop ICE's courthouse arrests: 'Unnecessary fear',\" Nov. 24, 2026",
+    "source_url": "https://www.foxnews.com/politics/massachusetts-sues-trump-admin-stop-ice-courthouse-arrests-unnecessary-fear",
+    "record_url": "https://www.universalhub.com/files/attachments/2026/icearrests-complaint.pdf",
+    "record_title": "Commonwealth of Massachusetts v. U.S. Immigration and Customs Enforcement et al., No. 1:26-cv-15219, Complaint for Declaratory and Injunctive Relief, U.S. District Court for the District of Massachusetts, filed Nov. 23, 2026",
+    "verdict": "Matches record",
+    "why": "Massachusetts' federal complaint, filed Nov. 23, 2026, says ICE arrested over 600 people in the state's courthouses in 2025 and over 500 in the first 10 months of 2026, and made civil arrests of 38 people without a judicial warrant from Nov. 3, when the PROTECT Act's courthouse rule took effect, through Nov. 20. Those figures match Fox's account. The complaint doesn't give a 1,110 total; its two figures add up to more than 1,100, and the 2025 count covers the whole year, including the weeks before Trump took office.",
+    "what_would_change": "Court records or ICE data showing materially different courthouse arrest counts, or showing the 38 post-Nov. 3 arrests were made with judicial warrants, would change the verdict.",
+    "outlet": "Fox News, Nov. 24, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/massachusetts-sues-trump-admin-stop-ice-courthouse-arrests-unnecessary-fear",
+    "script": "Fox News reports Massachusetts sued the Trump administration to stop ICE arrests in state courthouses, saying ICE arrested more than 600 people there in 2025, more than 500 so far this year, and at least 38 without a judicial warrant since a new state law took effect Nov. 3. The state's complaint lists those same numbers. One detail: it never gives the 1,110 total in Fox's story. The two yearly figures add up to more than 1,100. Verdict: matches the record.",
+    "read": "Massachusetts' federal complaint, filed Nov. 23, 2026, says ICE arrested over 600 people in the state's courthouses in 2025 and over 500 in the first 10 months of 2026, and made civil arrests of 38 people without a judicial warrant from Nov. 3, when the PROTECT Act's courthouse rule took effect, through Nov. 20. Those figures match Fox's account. The complaint doesn't give a 1,110 total; its two figures add up to more than 1,100, and the 2025 count covers the whole year, including the weeks before Trump took office. The complaint, Commonwealth of Massachusetts v. U.S. Immigration and Customs Enforcement, No. 1:26-cv-15219 in the U.S. District Court for Massachusetts, challenges ICE's May 2025 courthouse-arrest directive under the Administrative Procedure Act and the Tenth Amendment, as Fox reports. It says a federal court vacated that directive on June 30, 2026, matching Fox's description of a June ruling, and lists 60 courthouse arrests in July, 41 in August, 52 in September and 45 in October. The state didn't sue to enforce the PROTECT Act directly. DHS told reporters courthouse arrests are safer because people inside have been screened for weapons.",
+    "sources": [
+      {
+        "title": "Commonwealth of Massachusetts v. ICE, No. 1:26-cv-15219, complaint, Nov. 23, 2026",
+        "url": "https://www.universalhub.com/files/attachments/2026/icearrests-complaint.pdf"
+      },
+      {
+        "title": "WBUR, Nov. 23, 2026",
+        "url": "https://www.wbur.org/news/2026/11/23/massachusetts-ice-lawsuit-courtroom-arrests"
+      },
+      {
+        "title": "Fox News, Nov. 24, 2026",
+        "url": "https://www.foxnews.com/politics/massachusetts-sues-trump-admin-stop-ice-courthouse-arrests-unnecessary-fear"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261124-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-24T06:30:00-06:00",
+    "headline": "CNN says CDC data show an estimated 3.7 million flu illnesses, 50,000 hospitalizations and 2,800 deaths so far this season, with roughly half of states at moderate to high activity; CDC's latest FluView matches",
+    "video_url": "",
+    "claim": "\"An estimated 3.7 million people in the US have already had the flu this season, including 50,000 who have been hospitalized and 2,800 who have died, according to data from the CDC. Roughly half of states are reporting moderate to high levels of flu activity, mostly in the South and West.\" — CNN (Brenda Goodman), \"The CDC stays quiet on flu as an early season catches many Americans off-guard,\" Nov. 24, 2026",
+    "source_url": "https://www.cnn.com/2026/11/24/health/flu-season-vaccines-cdc",
+    "record_url": "https://www.cdc.gov/fluview/surveillance/2026-week-45.html",
+    "record_title": "Centers for Disease Control and Prevention, \"Weekly US Influenza Surveillance Report: Key Updates for Week 45, ending November 14, 2026\" (FluView), Nov. 20, 2026",
+    "verdict": "Matches record",
+    "why": "CDC's FluView report for the week ending Nov. 14, published Nov. 20, says 'CDC estimates that there have been at least 3,700,000 illnesses, 50,000 hospitalizations, and 2,800 deaths associated with flu so far this season,' matching CNN's figures. Those are modeled minimum estimates, not counted cases. On activity, the report's state map puts 24 of 55 jurisdictions at moderate, high or very high flu-like illness levels, a bit under half, which fits CNN's 'roughly half.'",
+    "what_would_change": "A revised CDC burden estimate for the same period with materially different illness, hospitalization or death figures, or state activity data showing far fewer than half of states at moderate or higher levels, would change the verdict.",
+    "outlet": "CNN, Nov. 24, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/24/health/flu-season-vaccines-cdc",
+    "script": "CNN reports that, according to CDC data, an estimated 3.7 million Americans have already had the flu this season, with 50,000 hospitalized and 2,800 deaths, and roughly half of states at moderate to high flu levels. CDC's latest weekly flu report matches. It estimates at least 3.7 million illnesses, 50,000 hospitalizations and 2,800 deaths, and puts 24 of 55 states and territories at moderate or higher levels. Those are modeled estimates, and CDC rates the season's severity as low so far. Verdict: matches the record.",
+    "read": "CDC's FluView report for the week ending Nov. 14, published Nov. 20, says 'CDC estimates that there have been at least 3,700,000 illnesses, 50,000 hospitalizations, and 2,800 deaths associated with flu so far this season,' matching CNN's figures. Those are modeled minimum estimates, not counted cases. On activity, the report's state map puts 24 of 55 jurisdictions at moderate, high or very high flu-like illness levels, a bit under half, which fits CNN's 'roughly half.' The same report says flu indicators are higher than usual for this time of year but that an early rise doesn't necessarily mean a higher peak, and it rates the season's severity as low so far for all age groups. Seven children have died of flu this season, and the cumulative hospitalization rate is the highest for this point in the season since 2010-11. CDC won't post its next FluView until Nov. 30 because of Thanksgiving, so these are the latest official numbers. This check doesn't rate CNN's reporting on CDC's vaccination campaigns.",
+    "sources": [
+      {
+        "title": "CDC, FluView, Week 45 ending Nov. 14, 2026",
+        "url": "https://www.cdc.gov/fluview/surveillance/2026-week-45.html"
+      },
+      {
+        "title": "CNN, Nov. 24, 2026",
+        "url": "https://www.cnn.com/2026/11/24/health/flu-season-vaccines-cdc"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261123-late",
     "slot": "Late Check",
     "aired_at": "2026-11-23T23:00:00-06:00",
