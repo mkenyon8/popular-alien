@@ -1,5 +1,44 @@
 [
   {
+    "id": "20261125-reframe-reuters-iran-hormuz-mines-claims",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-25T08:42:39-06:00",
+    "label": "Story of the Day",
+    "claim": "Iran says tankers hit mines in Hormuz; the U.S. says the lanes are clear",
+    "outlet": "Reuters (via Arab News)",
+    "outlet_url": "https://www.arabnews.com/middle-east/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage-3013942",
+    "source_url": "https://www.arabnews.com/middle-east/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage-3013942",
+    "record_url": "https://www.arabnews.com/middle-east/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage-3013942",
+    "record_title": "Reuters via Arab News, “Iran says ships hit mines in Hormuz, warns vessels to coordinate passage,” Nov. 24, 2026",
+    "read": "Reuters, in a report carried by Arab News, says Iran's Revolutionary Guards Navy claimed that oil tankers hit naval mines, exploded and caught fire in the Strait of Hormuz: three on Monday and two more on Wednesday, while transiting an \"unauthorised route.\" U.S. Central Command rejected Monday's claim, saying U.S. forces had cleared all internationally recognized primary shipping routes and that they remain free of mines. Iran's claims of mined, burning tankers are unproven. No ships are named, no images are out, and the regional maritime center calls them unconfirmed. The U.S. denial rests mostly on its own word, but it fits the record. The real message is the threat, aimed at every shipowner in the strait. The Guards named no vessels, owners or crews and released none of the images they promised; the maritime center tracking the strait called the claims unconfirmed, and CENTCOM dismissed similar Guards claims in July and September as false. CENTCOM's denial fits the record (114 U.S.-assisted passages logged Nov. 19-21), but clearing the main lanes doesn't prove no ship hit a mine anywhere, it released no evidence of its own, and it answered Monday's claim, not Wednesday's. The Reuters headline correctly attributes the claim to Iran, but the version we read leaves out the U.S. denial. Graded C across 3 arguments (Iran's Revolutionary Guards Navy D; U.S. Central Command B-; Reuters B+). Scorecard: 33% valid, 67% cogent, 50% supported, 80% fallacy-free.",
+    "grade": "C",
+    "scores": {
+      "valid": 33,
+      "cogent": 67,
+      "supported": 50,
+      "fallacy_free": 80
+    },
+    "why": "Iran's claims of mined, burning tankers are unproven. No ships are named, no images are out, and the regional maritime center calls them unconfirmed. The U.S. denial rests mostly on its own word, but it fits the record. The real message is the threat, aimed at every shipowner in the strait. Key question: If tankers exploded and burned in the strait, why has no ship, owner or crew been named?",
+    "sources": [
+      {
+        "title": "Reuters via Arab News, “Iran says ships hit mines in Hormuz, warns vessels to coordinate passage,” Nov. 24, 2026",
+        "url": "https://www.arabnews.com/middle-east/iran-says-ships-hit-mines-in-hormuz-warns-vessels-to-coordinate-passage-3013942"
+      },
+      {
+        "title": "CNBC, Nov. 24, 2026 (story image source)",
+        "url": "https://www.cnbc.com/2026/11/24/iran-trump-hormuz-crude-.html"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261125-iran-hormuz-mines-claims-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261125-iran-hormuz-mines-claims-full.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Reuters (via Arab News) reports: Iran says tankers hit mines in Hormuz; the U.S. says the lanes are clear.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261125-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-25T06:30:00-06:00",
