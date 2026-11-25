@@ -1,5 +1,104 @@
 [
   {
+    "id": "20261125-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-25T17:30:00-06:00",
+    "headline": "ANI says USTR proposed tariffs of up to 25% on India, South Korea, Taiwan and four Southeast Asian economies and up to 40% on China; USTR's release lists 25% only for India, 15% to 18% for the others and up to 20% for China, all still proposals",
+    "video_url": "",
+    "claim": "\"United States Trade Representative (USTR) proposes tariff rates of up to 25% for India, Cambodia, Indonesia, South Korea, Malaysia, Taiwan, and Thailand, according to an official statement reported by Reuters. The USTR also proposes tariff rates of up to 20% for Bangladesh, the European Union (EU), Japan, Switzerland, and Singapore; up to 35% for Vietnam; and up to 40% for China.\" — ANI (@ANI) on X, Nov. 25, 2026 (about 100,000 views)",
+    "source_url": "https://x.com/ANI/status/2125581945925234914",
+    "record_url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+    "record_title": "Office of the U.S. Trade Representative press release, Nov. 25, 2026: 'USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors'",
+    "verdict": "Missing context",
+    "why": "USTR's own release lists proposed tariffs of up to 25% only for India; Cambodia, Indonesia, Malaysia, Thailand and Bangladesh are listed at up to 18%, South Korea, Taiwan, the EU, Japan and Switzerland at up to 15% (net of MFN rates), Singapore at up to 20% (10% with a trade deal), Vietnam at up to 35% (20% with a deal) and China at up to 20%. The release doesn't mention a 40% rate for China; Reuters reports China's rate would rise to 40% only if the U.S.-China truce unravels, and ANI's own post goes on to say rates would be capped at those lower levels. None of the rates is in effect: written comments are due Jan. 5, 2027, and hearings start Jan. 25, 2027.",
+    "what_would_change": "The Federal Register notices showing 25% (or 40% for China) as the proposed rates USTR actually intends to apply, rather than ceilings above the caps, would move this toward Matches record; a final USTR action after the January hearings setting different rates would also change it.",
+    "outlet": "X (@ANI), Nov. 25, 2026",
+    "outlet_url": "https://x.com/ANI/status/2125581945925234914",
+    "script": "A widely shared ANI post says the U.S. Trade Representative proposed tariffs of up to 25 percent on India, Cambodia, Indonesia, South Korea, Malaysia, Taiwan and Thailand, and up to 40 percent on China. USTR's own release tells a narrower story. Only India is listed at up to 25 percent. Cambodia, Indonesia, Malaysia and Thailand are listed at up to 18 percent, and South Korea and Taiwan at up to 15. China is listed at up to 20 percent; the release doesn't mention 40, which Reuters says would apply only if the U.S.-China truce falls apart. ANI's post does mention those caps further down. And none of this is in effect yet: comments are due January 5 and hearings start January 25. Verdict: missing context.",
+    "sources": [
+      {
+        "title": "USTR press release on 14 Section 301 excess-capacity determinations, Nov. 25, 2026",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+      },
+      {
+        "title": "Reuters: Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat, Nov. 25, 2026",
+        "url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/"
+      },
+      {
+        "title": "ANI on X, Nov. 25, 2026",
+        "url": "https://x.com/ANI/status/2125581945925234914"
+      }
+    ],
+    "read": "USTR's Nov. 25 release lists proposed Section 301 tariffs of up to 25% for India (17% with a trade deal), up to 18% for Bangladesh, Cambodia, Indonesia, Malaysia and Thailand, up to 15% net of MFN rates for the EU, Japan, South Korea, Switzerland and Taiwan, up to 20% for Singapore (10% with a deal), up to 35% for Vietnam (20% with a deal) and up to 20% for most Chinese goods (10% for goods in Annex A), with Mexico and Norway not yet decided. The release doesn't mention a 40% rate for China; Reuters reports that rate would apply only if the U.S.-China truce expiring Jan. 10 unravels. ANI's post leads with higher 'up to' figures, though its second paragraph notes the lower caps. This check didn't review the Federal Register notices, which may list higher ceilings. All the tariffs are proposals: written comments are due Jan. 5, 2027, and hearings begin Jan. 25, 2027.",
+    "corrections": []
+  },
+  {
+    "id": "20261125-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-25T17:30:00-06:00",
+    "headline": "Fox News says Judge Christopher Cooper struck down Trump's August birthright citizenship order covering children of suspected terrorists or gang members and surrogacy births; the opinion matches on what the order covers, but it is a classwide preliminary injunction, not a final ruling",
+    "video_url": "",
+    "claim": "\"A DC federal judge, previously dubbed by President Donald Trump as an 'anti-Trump Hater,' blocked Trump's second attempt to restrict birthright citizenship in a Wednesday ruling … striking down an August executive order that barred U.S.-born children whose parents are suspected terrorists or gang members, or children born through surrogacy to foreign parents, from citizenship eligibility.\" — Elaine Mallon, Fox News, Nov. 25, 2026",
+    "source_url": "https://www.foxnews.com/politics/trumps-birthright-citizenship-restrictions-struck-down-dc-federal-judge-called-hater",
+    "record_url": "https://assets.aclu.org/live/uploads/2026/09/Nathan-opinion.pdf",
+    "record_title": "Memorandum Opinion, Nathan v. Trump, No. 26-cv-3377 (CRC) (D.D.C.), signed by Judge Christopher R. Cooper on Nov. 25, 2026 (copy posted by the ACLU; docket on CourtListener)",
+    "verdict": "Missing context",
+    "why": "Cooper's opinion matches Fox's description of Executive Order 14418, issued Aug. 6, 2026: it targets children with a parent suspected of membership in certain gangs or terrorist groups, children born through commercial surrogacy, and children of foreign-government and international-organization workers without diplomatic immunity. But the court didn't strike the order down in a final ruling. It certified a class and preliminarily enjoined the government from enforcing the order against that class, which it limited to children born on or after Aug. 6, 2026, who would be unlawfully denied citizenship, while the case goes on. The government says it plans to appeal.",
+    "what_would_change": "A final judgment or permanent injunction vacating the order would make 'striking down' accurate (Matches record); an appeals-court stay of Cooper's injunction would make 'blocked' outdated.",
+    "outlet": "Fox News, Nov. 25, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/trumps-birthright-citizenship-restrictions-struck-down-dc-federal-judge-called-hater",
+    "script": "Fox News reports that a D.C. federal judge struck down President Trump's August executive order denying citizenship to some U.S.-born children, including those whose parents are suspected terrorists or gang members and those born through surrogacy to foreign parents. Judge Christopher Cooper's opinion matches on what the order covers, and on its date, August 6. But it isn't a final ruling. Cooper certified a class of children born on or after August 6 who would be denied citizenship and preliminarily blocked the government from enforcing the order against them while the case continues. The administration is expected to appeal. Verdict: missing context.",
+    "sources": [
+      {
+        "title": "Memorandum Opinion, Nathan v. Trump, No. 26-cv-3377 (D.D.C. Nov. 25, 2026), ACLU copy",
+        "url": "https://assets.aclu.org/live/uploads/2026/09/Nathan-opinion.pdf"
+      },
+      {
+        "title": "Nathan v. Trump docket, 1:26-cv-03377 (D.D.C.), CourtListener",
+        "url": "https://www.courtlistener.com/docket/74859805/nathan-v-trump/"
+      },
+      {
+        "title": "Fox News: Trump's birthright citizenship restrictions struck down again by DC federal judge he called 'hater', Nov. 25, 2026",
+        "url": "https://www.foxnews.com/politics/trumps-birthright-citizenship-restrictions-struck-down-dc-federal-judge-called-hater"
+      }
+    ],
+    "read": "Judge Christopher R. Cooper's Nov. 25 memorandum opinion in Nathan v. Trump covers Executive Order 14418, 'Continuing to Protect the Meaning and Value of American Citizenship,' issued Aug. 6, 2026 (91 Fed. Reg. 51991). The opinion says the order targets children whose parents work for foreign governments or international organizations without diplomatic immunity, children born through commercial surrogacy, and children with a parent suspected of membership in certain gangs or terrorist organizations, which matches Fox's summary. The docket shows two orders that day: one certifying the class and one granting a classwide preliminary injunction. The court limited the class to children born on or after Aug. 6, 2026, and barred enforcement against them, writing that 'the President cannot carve out new exceptions to birthright citizenship.' That is preliminary relief while the case goes on, not a final judgment striking the order down. The opinion notes the government intends to appeal the related Maryland injunction, and Fox reports an appeal of this ruling is expected.",
+    "corrections": []
+  },
+  {
+    "id": "20261125-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-25T17:30:00-06:00",
+    "headline": "CNN says a Todd Boehly-led consortium including the U.S. government's DFC agreed to buy Lukoil's international assets through a share swap with no direct cash to Russia, pending OFAC approval; Eldridge's announcement matches",
+    "video_url": "",
+    "claim": "\"Eldridge said in a statement that the consortium, which includes the U.S. International Development Finance Corporation, had agreed to buy Lukoil International from its sanctioned Russian parent. The sale price was not disclosed, but the deal will result in the US government receiving an equity stake in Lukoil via the DFC.\" — Hanna Ziady, CNN, Nov. 25, 2026",
+    "source_url": "https://ktvz.com/money/cnn-business-consumer/2026/11/25/russian-oil-firm-lukoils-overseas-assets-sold-to-investors-led-by-us-billionaire-todd-boehly/",
+    "record_url": "https://www.businesswire.com/news/home/20261125144720/en/American-Led-Consortium-Announces-Agreement-to-Acquire-LUKOIL-Internationals-Global-Energy-Portfolio",
+    "record_title": "Eldridge consortium announcement, Nov. 25, 2026: 'American-Led Consortium Announces Agreement to Acquire LUKOIL International's Global Energy Portfolio' (Business Wire)",
+    "verdict": "Matches record",
+    "why": "Eldridge's announcement says the consortium it leads, with the DFC, UAE-based Catena Investment Holding and Xtellus Partners, signed a definitive agreement to buy Lukoil International GmbH through a share swap of restricted Russian shares that 'avoids any direct cash payment to Russia,' subject to OFAC's conditional approval. It discloses no price, and it says the DFC will receive an ownership interest for the U.S. at no upfront cost. CNN's numbers also match: upstream operations in 11 countries producing about 350,000 barrels of oil equivalent a day, three European refineries, and more than 2,000 stations in 16 countries.",
+    "what_would_change": "OFAC refusing approval, the deal failing its other closing conditions, or a filing showing the DFC's stake isn't equity in the acquired Lukoil International assets would change the verdict.",
+    "outlet": "CNN (CNN Wire, via KTVZ), Nov. 25, 2026",
+    "outlet_url": "https://ktvz.com/money/cnn-business-consumer/2026/11/25/russian-oil-firm-lukoils-overseas-assets-sold-to-investors-led-by-us-billionaire-todd-boehly/",
+    "script": "CNN reports that a consortium led by billionaire Todd Boehly's firm Eldridge, including the U.S. government's development finance agency, agreed to buy Russian oil giant Lukoil's international assets, with no price disclosed and the U.S. getting a stake. Eldridge's announcement matches. It describes a definitive agreement to buy Lukoil International through a share swap of restricted Russian shares, which avoids any direct cash payment to Russia. The DFC gets an ownership interest at no upfront cost to taxpayers. The deal still needs Treasury sanctions approval and has other closing conditions, and the payment is held in a restricted account for five years or until sanctions are lifted. Verdict: matches record.",
+    "sources": [
+      {
+        "title": "Eldridge consortium announcement (Business Wire), Nov. 25, 2026",
+        "url": "https://www.businesswire.com/news/home/20261125144720/en/American-Led-Consortium-Announces-Agreement-to-Acquire-LUKOIL-Internationals-Global-Energy-Portfolio"
+      },
+      {
+        "title": "Same announcement, AFP external communications",
+        "url": "https://www.afp.com/en/external-communications/american-led-consortium-announces-agreement-acquire-lukoil-internationals"
+      },
+      {
+        "title": "CNN (Hanna Ziady) via KTVZ: Russian oil firm Lukoil's overseas assets sold to investors led by US billionaire Todd Boehly, Nov. 25, 2026",
+        "url": "https://ktvz.com/money/cnn-business-consumer/2026/11/25/russian-oil-firm-lukoils-overseas-assets-sold-to-investors-led-by-us-billionaire-todd-boehly/"
+      }
+    ],
+    "read": "The Nov. 25 announcement says a U.S.-led consortium led by Eldridge, with the U.S. International Development Finance Corporation, Catena Investment Holding and Xtellus Partners, has signed a definitive agreement to acquire LUKOIL International GmbH. The consortium will swap restricted shares of PJSC LUKOIL and other Russian companies for 100% of LIG's equity, which 'avoids any direct cash payment to Russia.' The DFC 'will receive an ownership interest with no upfront cost to the American taxpayer,' and the sale consideration will be held in a restricted custodial account for five years or until sanctions are lifted. The deal needs OFAC's conditional approval and still faces closing conditions, due diligence and other regulatory approvals. The assets include upstream operations in 11 countries producing about 350,000 barrels of oil equivalent a day, three refineries (Burgas in Bulgaria, Zeeland in the Netherlands and Petrotel in Romania), the LITASCO trading arm, and more than 2,000 retail stations in 16 countries. No price is disclosed. CNN's 'agreed to buy' fits the signing, though the deal hasn't closed.",
+    "corrections": []
+  },
+  {
     "id": "20261125-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-25T11:30:00-06:00",
