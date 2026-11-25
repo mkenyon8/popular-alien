@@ -1,5 +1,104 @@
 [
  {
+  "id": "20261125-morning",
+  "slot": "Morning Check",
+  "aired_at": "2026-11-25T06:30:00-06:00",
+  "headline": "CNBC says consumer confidence jumped 11.4 points to 103.3 in November after the midterms, led by Democrats and independents; the Conference Board's release matches",
+  "video_url": "",
+  "claim": "\"Consumers grew significantly more optimistic in November in the wake of the midterm elections, with a growing number of Americans now seeing improvement in the labor market and expecting inflation to cool. The Conference Board survey released Tuesday showed improvement across the board, with the headline confidence index jumping to 103.3, up 11.4 points from October\" … \"Confidence among Democrats and independent voters improved sharply, the Conference Board said, while confidence among Republican respondents fell slightly.\" — CNBC (Jeff Cox), \"Consumer confidence shoots up after Democrats' midterm victories — though inflation worries persist,\" Nov. 24, 2026",
+  "source_url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+  "record_url": "https://www.conference-board.org/topics/consumer-confidence",
+  "record_title": "The Conference Board, \"US Consumer Confidence Surged in November\" (Consumer Confidence Survey press release, preliminary results), Nov. 24, 2026",
+  "verdict": "Matches record",
+  "why": "The Conference Board's Nov. 24 release matches CNBC's numbers: its Consumer Confidence Index rose 11.4 points to 103.3 in November from 91.9 in October, with the Present Situation Index up 13.7 points to 132.8 and the Expectations Index up 9.9 points to 83.6. It also confirms that confidence improved sharply among Democrats and independents while falling slightly among Republicans, that 12-month inflation expectations fell for a second month to 5.7%, and that the jobs 'plentiful' share rose to 30.8% from 26.2% while 'hard to get' fell to 18.4% from 21.4%. The tie to the midterms is the board's own reading: its senior economist said the rally was 'potentially due to lower uncertainty following the midterm elections.'",
+  "what_would_change": "A revision to the November index when final results come out, or Conference Board data showing the gain came mostly from responses collected before the Nov. 3 election, would change the verdict.",
+  "outlet": "CNBC, Nov. 24, 2026",
+  "outlet_url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html",
+  "script": "CNBC says consumer confidence shot up after the midterm elections, with the Conference Board's index jumping 11.4 points to 103.3, driven by Democrats and independents. The Conference Board's own release matches: the index rose from 91.9 in October to 103.3, confidence rose sharply among Democrats and independents and dipped slightly among Republicans, and inflation expectations eased to 5.7 percent. The board's economist says the rally was potentially due to lower uncertainty after the midterms, and these are preliminary numbers from a survey that started two days before the election. Verdict: matches record.",
+  "read": "The Conference Board's Nov. 24 release matches CNBC's numbers: its Consumer Confidence Index rose 11.4 points to 103.3 in November from 91.9 in October, with the Present Situation Index up 13.7 points to 132.8 and the Expectations Index up 9.9 points to 83.6. It also confirms that confidence improved sharply among Democrats and independents while falling slightly among Republicans, that 12-month inflation expectations fell for a second month to 5.7%, and that the jobs 'plentiful' share rose to 30.8% from 26.2% while 'hard to get' fell to 18.4% from 21.4%. The tie to the midterms is the board's own reading: its senior economist said the rally was 'potentially due to lower uncertainty following the midterm elections.' These are preliminary results from a survey run Nov. 1 to 17, so a few days of responses came before the Nov. 3 election, and the board offers the midterm explanation as a possibility, not a measured cause. The board says the index is back to levels last seen in January 2025 after two straight monthly gains. CNBC's comparison to a Dow Jones consensus forecast of 92.2 and its figure for the University of Michigan survey weren't checked against a primary source here.",
+  "sources": [
+   {
+    "title": "The Conference Board, Consumer Confidence Survey press release, Nov. 24, 2026",
+    "url": "https://www.conference-board.org/topics/consumer-confidence"
+   },
+   {
+    "title": "CNBC, Nov. 24, 2026",
+    "url": "https://www.cnbc.com/2026/11/24/consumer-confidence-november-election-midterm.html"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261125-morning-fox",
+  "slot": "Morning Check",
+  "aired_at": "2026-11-25T06:30:00-06:00",
+  "headline": "Fox News says Newsom's blanket commutation of all 548 California death sentences could eventually open a pathway to freedom; his fact sheet confirms the 548, but the sentences become life without parole and many still await state Supreme Court review",
+  "video_url": "",
+  "claim": "\"Victim advocates and California prosecutors are pushing back against Gov. Gavin Newsom’s blanket commutation of all 548 death row sentences, arguing the move overrides the will of voters, bypasses individual case reviews and could eventually open a legal pathway to freedom for convicted killers.\" — Fox News (Louis Casiano), \"Gavin Newsom commutes 548 death sentences as victims' advocates slam move,\" Nov. 24, 2026",
+  "source_url": "https://www.foxnews.com/politics/california-prosecutors-victim-advocates-challenge-newsoms-mass-death-sentence-commutation",
+  "record_url": "https://www.gov.ca.gov/wp-content/uploads/2026/11/11-5-26-External-Fact-Sheet-Clemency-Action.pdf",
+  "record_title": "Office of Gov. Gavin Newsom, \"FACT SHEET: California Commutations,\" Nov. 5, 2026; with the governor's Nov. 5 and Nov. 23, 2026 releases",
+  "verdict": "Missing context",
+  "why": "Newsom's own fact sheet confirms 548 people are under California death sentences, that the action converts them to life without parole, and that Prop 66 passed 10 years ago, as the advocates say. But the same fact sheet says the commutations do not make anyone eligible for parole and specifically exclude these prisoners from the state's new parole board commutation and resentencing rules, which undercuts the 'legal pathway to freedom' worry the story leaves unanswered. And it isn't yet a completed blanket commutation: for people twice convicted of felonies the state constitution requires California Supreme Court review, Newsom submitted the matter to that court, and his office describes it as a plan and a 'request,' while prosecutors have asked the same court to block it.",
+  "what_would_change": "A California Supreme Court ruling approving all of the commutations, or a law or rule making commuted prisoners eligible for parole or resentencing, would change the verdict.",
+  "outlet": "Fox News, Nov. 24, 2026",
+  "outlet_url": "https://www.foxnews.com/politics/california-prosecutors-victim-advocates-challenge-newsoms-mass-death-sentence-commutation",
+  "script": "Fox News says prosecutors and victim advocates are fighting Governor Gavin Newsom's blanket commutation of all 548 California death sentences, warning it could eventually open a pathway to freedom for convicted killers. Newsom's own fact sheet confirms the 548 and that the sentences become life without parole. But it says the action makes no one eligible for parole and bars these prisoners from the state's new resentencing rules. And it isn't final: for people twice convicted of felonies, the state Supreme Court has to review it, and the governor's office calls it a request. Verdict: missing context.",
+  "read": "Newsom's own fact sheet confirms 548 people are under California death sentences, that the action converts them to life without parole, and that Prop 66 passed 10 years ago, as the advocates say. But the same fact sheet says the commutations do not make anyone eligible for parole and specifically exclude these prisoners from the state's new parole board commutation and resentencing rules, which undercuts the 'legal pathway to freedom' worry the story leaves unanswered. And it isn't yet a completed blanket commutation: for people twice convicted of felonies the state constitution requires California Supreme Court review, Newsom submitted the matter to that court, and his office describes it as a plan and a 'request,' while prosecutors have asked the same court to block it. Fox's headline says Newsom 'commutes 548 death sentences,' and the story calls it a 'blanket commutation of all 548.' The governor's Nov. 5 release says he 'plans to change' all death sentences, his Nov. 23 release refers to his 'request to commute all death sentences,' and his office's own site calls it a 'proposed action.' The fact sheet also says the action does not release anyone, pardon anyone, change any conviction or erase restitution orders, and that California's last execution was Jan. 17, 2006, consistent with the story. The advocates' statements are opinion and aren't rated; nothing in the governor's documents rules out a future governor or law changing these sentences again.",
+  "sources": [
+   {
+    "title": "Office of Gov. Gavin Newsom, \"FACT SHEET: California Commutations,\" Nov. 5, 2026",
+    "url": "https://www.gov.ca.gov/wp-content/uploads/2026/11/11-5-26-External-Fact-Sheet-Clemency-Action.pdf"
+   },
+   {
+    "title": "Office of Gov. Gavin Newsom, \"Governor Newsom releases letter to California on the death penalty,\" Nov. 5, 2026",
+    "url": "https://www.gov.ca.gov/2026/11/05/governor-newsom-releases-letter-to-california-on-the-death-penalty/"
+   },
+   {
+    "title": "Office of Gov. Gavin Newsom, release, Nov. 23, 2026",
+    "url": "https://www.gov.ca.gov/2026/11/23/governor-newsoms-action-draws-continued-support-from-survivors-who-say-justice-must-mean-more-than-state-sanctioned-killing/"
+   },
+   {
+    "title": "Fox News, Nov. 24, 2026",
+    "url": "https://www.foxnews.com/politics/california-prosecutors-victim-advocates-challenge-newsoms-mass-death-sentence-commutation"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261125-morning-cnn",
+  "slot": "Morning Check",
+  "aired_at": "2026-11-25T06:30:00-06:00",
+  "headline": "CNN says a judge ordered Fulton County to hand the State Election Board a copy of the 2020 election records the FBI seized, by 5 p.m. Wednesday, under a protective order; the order matches, but the county has appealed and must bear most costs",
+  "video_url": "",
+  "claim": "\"A judge on Tuesday ordered Georgia’s Fulton County to turn over a digital copy of ballots and other election records seized by the FBI earlier this year to the State Election Board\" … \"Fulton County Superior Court Judge Kelly Lee Ellerbe ordered that the records be delivered to the Republican-controlled state board by 5 p.m. Wednesday. She also put in place a protective order that limits who can see the unredacted records.\" — CNN (Associated Press), \"Georgia’s Fulton County ordered to give copy of 2020 election records seized by FBI to state board,\" Nov. 24, 2026",
+  "source_url": "https://www.cnn.com/2026/11/24/politics/judge-orders-fulton-county-election-records-state-board",
+  "record_url": "https://georgiarecorder.com/wp-content/uploads/2026/11/2261818883436737310.pdf",
+  "record_title": "Protective Order and Final Order, Allen et al. v. State of Georgia, Fulton County Superior Court Civil Action No. 24CV014632, signed by Judge Kelly Lee Ellerbe, Nov. 24, 2026 (as posted by the Georgia Recorder)",
+  "verdict": "Missing context",
+  "why": "Judge Kelly Lee Ellerbe's Nov. 24 protective and final order matches CNN's account: Fulton County must deliver an unredacted digital copy of the FBI-created records of the 2020 election materials seized on or about Jan. 28, 2026, to the State Election Board by 5 p.m. Wednesday, Nov. 25, and the board may share them only with the people the order lists, including its members, staff and outside experts who sign an agreement. But the story leaves out that the county filed an appeal, according to the Georgia Recorder, which could affect Wednesday's deadline. It also notes an earlier ruling that the board would bear production costs, while the final order caps the board's reimbursement at $500 for flash drives and up to two hours of copying labor and has the county bear all other costs.",
+  "what_would_change": "Court records showing the county dropped its appeal or turned the records over by Wednesday's deadline would move the verdict to Matches record; a stay of the order would make the deadline outdated.",
+  "outlet": "CNN, Nov. 24, 2026",
+  "outlet_url": "https://www.cnn.com/2026/11/24/politics/judge-orders-fulton-county-election-records-state-board",
+  "script": "CNN reports a Georgia judge ordered Fulton County to give the State Election Board a copy of the 2020 election records the FBI seized in January, by 5 p.m. Wednesday, under a protective order limiting who can see them. The judge's order matches that. But the story doesn't mention that the county has appealed, according to the Georgia Recorder, which could put the deadline in question. And while it notes an earlier ruling that the board would pay production costs, the final order caps the board's share at 500 dollars and has the county pay the rest. Verdict: missing context.",
+  "read": "Judge Kelly Lee Ellerbe's Nov. 24 protective and final order matches CNN's account: Fulton County must deliver an unredacted digital copy of the FBI-created records of the 2020 election materials seized on or about Jan. 28, 2026, to the State Election Board by 5 p.m. Wednesday, Nov. 25, and the board may share them only with the people the order lists, including its members, staff and outside experts who sign an agreement. But the story leaves out that the county filed an appeal, according to the Georgia Recorder, which could affect Wednesday's deadline. It also notes an earlier ruling that the board would bear production costs, while the final order caps the board's reimbursement at $500 for flash drives and up to two hours of copying labor and has the county bear all other costs. The order also says the county and the court clerk vouch only that the drive is a true copy of what the FBI delivered, and expressly disclaim any other claim about the accuracy or completeness of the FBI's records. It bars the board from releasing the records under open-records requests while its investigations are pending, denies the county's remaining requests for declaratory and injunctive relief, and closes the case, citing the court's Dec. 19, 2025 order denying the county's bid to quash the subpoenas and an Oct. 14, 2026 order after an October hearing, consistent with CNN. The CNN story carries an Associated Press byline.",
+  "sources": [
+   {
+    "title": "Protective Order and Final Order, Allen et al. v. State of Georgia, No. 24CV014632, Nov. 24, 2026",
+    "url": "https://georgiarecorder.com/wp-content/uploads/2026/11/2261818883436737310.pdf"
+   },
+   {
+    "title": "Georgia Recorder, Nov. 24, 2026",
+    "url": "https://georgiarecorder.com/2026/11/24/judge-orders-fulton-county-to-turn-over-2020-election-records-to-state-election-board/"
+   },
+   {
+    "title": "CNN (Associated Press), Nov. 24, 2026",
+    "url": "https://www.cnn.com/2026/11/24/politics/judge-orders-fulton-county-election-records-state-board"
+   }
+  ],
+  "corrections": []
+ },
+ {
   "id": "20261124-late",
   "slot": "Late Check",
   "aired_at": "2026-11-24T23:00:00-06:00",
