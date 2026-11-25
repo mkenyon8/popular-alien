@@ -1,5 +1,124 @@
 [
  {
+  "id": "20261124-late",
+  "slot": "Late Check",
+  "aired_at": "2026-11-24T23:00:00-06:00",
+  "headline": "DHS Secretary Markwayne Mullin calls Kilmar Abrego Garcia a 'human trafficker, wife beater, gang member, and child predator' as he self-deports to Spain; the only criminal case, a human-smuggling indictment, was thrown out in May as vindictive prosecution",
+  "video_url": "",
+  "claim": "\"We are delighted to announce that Kilmar Abrego Garcia has self-deported from the United States to Spain. We promised the American people that this human trafficker, wife beater, gang member, and child predator would not remain in our country.\" — Homeland Security Secretary Markwayne Mullin, DHS statement, Nov. 24, 2026",
+  "source_url": "https://www.dhs.gov/news/2026/11/24/human-trafficker-wife-beater-and-ms-13-gang-member-kilmar-garcia-self-deports",
+  "record_url": "https://www.courthousenews.com/wp-content/uploads/2026/05/crenshaw-ruling-abreg-garcia-vindictive-prosecution-indictment-dismissed.pdf",
+  "record_title": "U.S. District Court for the Middle District of Tennessee, United States v. Kilmar Armando Abrego Garcia, No. 3:25-cr-00115, Memorandum Opinion (Doc. No. 312), filed May 22, 2026 (Crenshaw, J.)",
+  "verdict": "Missing context",
+  "why": "Abrego Garcia's only criminal case, a two-count indictment charging him with transporting undocumented migrants, was dismissed on May 22, 2026, after Judge Waverly Crenshaw found the government failed to rebut a presumption of vindictive prosecution. The Justice Department's appeal is pending, with oral argument set for Feb. 4, 2027. DHS's own release calls him a 'suspected human smuggler' who has been 'accused' of domestic violence and of soliciting images of a minor; we found no court record of a conviction on any of those labels, and he denies the gang allegation.",
+  "what_would_change": "A Sixth Circuit ruling reinstating the indictment followed by a conviction, or a court judgment finding the domestic-violence, gang or child-exploitation allegations proven, would change the verdict.",
+  "outlet": "Department of Homeland Security statement, Nov. 24, 2026 (also reported by CBS News and Fox News)",
+  "outlet_url": "https://www.dhs.gov/news/2026/11/24/human-trafficker-wife-beater-and-ms-13-gang-member-kilmar-garcia-self-deports",
+  "script": "Homeland Security Secretary Markwayne Mullin celebrated Kilmar Abrego Garcia's self-deportation to Spain Tuesday, calling him a human trafficker, wife beater, gang member and child predator. But the only criminal case against him, a federal human-smuggling indictment in Tennessee, was dismissed in May after a judge found the prosecution presumptively vindictive, and the government's appeal won't be argued until February. DHS's own release calls him a suspected smuggler who has been accused of the other conduct. We found no conviction behind any of those labels. Verdict: missing context.",
+  "read": "Crenshaw's 32-page opinion says DHS reopened a closed investigation of a Nov. 30, 2022, Tennessee traffic stop within days of the Supreme Court's April 2025 order that the government facilitate Abrego's return, and that the Justice Department then indicted him on two counts: conspiring to transport undocumented migrants between 2016 and 2025 and transporting them during the 2022 stop. The court found 'insufficient evidence of actual vindictiveness' but held the government 'failed to rebut the presumption of vindictiveness,' and dismissed both counts. The Sixth Circuit docket (No. 26-5555) shows the government's appeal fully briefed and argument scheduled for Feb. 4, 2027. The DHS release lists the allegations behind Mullin's labels: protective-order petitions filed by his wife in 2020 and 2021, a claim from court filings that he solicited images of a minor, and the government's MS-13 allegation. Those are accusations, not adjudicated findings in any record we located.",
+  "sources": [
+   {
+    "title": "U.S. District Court (M.D. Tenn.), United States v. Abrego Garcia, No. 3:25-cr-00115, Memorandum Opinion, May 22, 2026 (Courthouse News copy)",
+    "url": "https://www.courthousenews.com/wp-content/uploads/2026/05/crenshaw-ruling-abreg-garcia-vindictive-prosecution-indictment-dismissed.pdf"
+   },
+   {
+    "title": "U.S. Court of Appeals for the Sixth Circuit, United States v. Kilmar Abrego Garcia, No. 26-5555, docket (CourtListener)",
+    "url": "https://www.courtlistener.com/docket/73524247/united-states-v-kilmar-abrego-garcia/"
+   },
+   {
+    "title": "Department of Homeland Security, \"Human Trafficker, Wife Beater, and MS-13 Gang Member Kilmar Garcia Self-Deports from the United States,\" Nov. 24, 2026",
+    "url": "https://www.dhs.gov/news/2026/11/24/human-trafficker-wife-beater-and-ms-13-gang-member-kilmar-garcia-self-deports"
+   },
+   {
+    "title": "CBS News, \"Kilmar Abrego Garcia leaving U.S. today, heading to Spain,\" Nov. 24, 2026",
+    "url": "https://www.cbsnews.com/news/kilmar-abrego-garcia-leaving-us-europe/"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261124-late-fox",
+  "slot": "Late Check",
+  "aired_at": "2026-11-24T23:00:00-06:00",
+  "headline": "Fox News says Florida AG James Uthmeier wants a North Miami Beach doctor's license revoked over at least 149 suspected illegal abortions, each a third-degree felony; the statute matches, but the state's emergency order cites 'more than 50' and only restricts his license",
+  "video_url": "",
+  "claim": "\"Florida Attorney General James Uthmeier is pushing to strip a North Miami Beach doctor of his medical license over at least 149 suspected illegal abortions, a number he says could rise to 180 as the investigation continues... He said each alleged violation amounts to a third-degree felony.\" — Fox News (Stepheny Price), Nov. 24, 2026",
+  "source_url": "https://www.foxnews.com/us/florida-ag-calls-doctor-lose-medical-license-149-alleged-illegal-abortions",
+  "record_url": "https://floridaphoenix.com/wp-content/uploads/2026/11/BRAITHWAITE-ESO-1.pdf",
+  "record_title": "Florida Department of Health, In re: Emergency Restriction of the License of Sylvester Reynold Braithwaite, M.D., License No. ME 62140, Case No. 2026-89677, Order of Emergency Restriction of License (Final Order No. DOH261629MQA), signed by State Surgeon General Joseph A. Ladapo, Nov. 24, 2026",
+  "verdict": "Missing context",
+  "why": "Florida law backs the felony point: section 390.0111(10)(a) makes willfully performing an abortion in violation of the six-week limit a third-degree felony. But the state's only public record so far, the Department of Health's Nov. 24 emergency order, finds 'over 50' abortions past six weeks between June and September 2026, not 149, and it restricts his license from elective abortions rather than revoking it. The 149 and 180 figures come from 'initial reports' the attorney general cited and that haven't been released, no charges have been filed, and the order says nothing about late-term abortions.",
+  "what_would_change": "Release of the health department reports behind the 149 figure, an administrative complaint or Board of Medicine action covering that many cases, or criminal charges would change the verdict.",
+  "outlet": "Fox News, Nov. 24, 2026",
+  "outlet_url": "https://www.foxnews.com/us/florida-ag-calls-doctor-lose-medical-license-149-alleged-illegal-abortions",
+  "script": "Fox News reports Florida Attorney General James Uthmeier wants a North Miami Beach doctor stripped of his license over at least 149 suspected illegal abortions, each one a third-degree felony. The felony part matches Florida law. But the state health department's emergency order, signed Tuesday, cites more than 50 abortions past six weeks, not 149, and it restricts the doctor from elective abortions instead of revoking his license. The higher number comes from reports that haven't been made public, and no charges have been filed. Verdict: missing context.",
+  "read": "The order, signed by State Surgeon General Joseph Ladapo, finds that 'between June and September 2026, Dr. Braithwaite performed over 50 elective abortion procedures on fetuses that were a gestational age of more than 6 weeks' and 'failed to identify any circumstances' allowing them. It restricts license ME 62140 'to prohibit Dr. Braithwaite from performing any elective pregnancy termination procedures or non-emergency medical abortion procedures' and says a formal discipline case 'will be promptly instituted.' It leaves his other medical practice untouched and can be challenged in a district court of appeal. Florida Statutes section 390.0111(1) bars abortions after six weeks except to save the woman's life or avert serious physical harm, for a fatal fetal abnormality, or up to 15 weeks in documented cases of rape, incest or human trafficking; subsection (10)(a) makes a willful violation a third-degree felony. Fox lists the medical-emergency and rape, incest and trafficking exceptions Uthmeier cited but not the fatal-fetal-abnormality exception. Uthmeier's post on X attributes the 149 figure to 'initial reports from state health officials.'",
+  "sources": [
+   {
+    "title": "Florida Department of Health, Order of Emergency Restriction of License, Sylvester Reynold Braithwaite, M.D., Nov. 24, 2026 (Florida Phoenix copy)",
+    "url": "https://floridaphoenix.com/wp-content/uploads/2026/11/BRAITHWAITE-ESO-1.pdf"
+   },
+   {
+    "title": "Florida Statutes, section 390.0111, Termination of pregnancies (Online Sunshine)",
+    "url": "http://www.leg.state.fl.us/statutes/index.cfm?App_mode=Display_Statute&URL=0300-0399/0390/Sections/0390.0111.html"
+   },
+   {
+    "title": "Florida Phoenix, \"State accuses doctor of illegal abortions, restricts his practice,\" Nov. 24, 2026",
+    "url": "https://floridaphoenix.com/2026/11/24/state-accuses-doctor-of-illegal-abortions-restricts-his-practice/"
+   },
+   {
+    "title": "Fox News, Nov. 24, 2026",
+    "url": "https://www.foxnews.com/us/florida-ag-calls-doctor-lose-medical-license-149-alleged-illegal-abortions"
+   }
+  ],
+  "corrections": []
+ },
+ {
+  "id": "20261124-late-cnn",
+  "slot": "Late Check",
+  "aired_at": "2026-11-24T23:00:00-06:00",
+  "headline": "CNN says Fort Hood shooter Nidal Hasan asked a federal judge in Kansas to halt his Dec. 3 firing-squad execution, which would be the military's first execution in 65 years; Army records match, though Hasan filed the motion himself with lawyers assisting",
+  "video_url": "",
+  "claim": "\"Attorneys for the former US Army major filed a motion Tuesday in US District Court in Kansas to halt the execution while they mount a legal challenge... Hasan's execution — scheduled for December 3 at Fort Hood — will be the US Army's first such execution of a soldier since World War II and its first imposition of any death penalty on an armed service member in 65 years.\" — CNN (Rashard Rose), Nov. 24, 2026",
+  "source_url": "https://www.cnn.com/2026/11/24/politics/fort-hood-mass-shooter-asks-halt-execution",
+  "record_url": "https://www.army.mil/article/295989/army_sets_execution_date_for_convicted_murderer_nidal_hasan",
+  "record_title": "U.S. Army Public Affairs, \"Army Sets Execution Date for Convicted Murderer Nidal Hasan,\" Oct. 7, 2026",
+  "verdict": "Matches record",
+  "why": "The Army's announcement says the acting Army secretary ordered Hasan's execution by firing squad at Fort Hood at 1 p.m. on Dec. 3, 2026, after President Trump approved the death sentence on Oct. 2. The Army's own 2013 report on his sentencing says the last service member executed by the military was Pvt. John A. Bennett, hanged April 13, 1961, so 'first in 65 years' holds; the 'since World War II' line only works as a firing-squad comparison. The District of Kansas docket shows the stay motion filed Tuesday in Hasan v. Sergent and a hearing set, though the motion was filed by Hasan himself, with federal defender and ACLU lawyers helping as standby counsel.",
+  "what_would_change": "A stay from the Kansas court or the 10th Circuit, or an Army order moving the date, would change the Dec. 3 timeline. Evidence of a U.S. military execution after April 1961 would change the 65-year comparison.",
+  "outlet": "CNN, Nov. 24, 2026",
+  "outlet_url": "https://www.cnn.com/2026/11/24/politics/fort-hood-mass-shooter-asks-halt-execution",
+  "script": "CNN reports Fort Hood shooter Nidal Hasan has asked a federal judge in Kansas to halt his firing-squad execution, set for December 3rd, which CNN says would be the military's first execution in 65 years. Army records match. The Army set the date after President Trump approved the death sentence in October, and its own records say the last military execution was a 1961 hanging. One nuance: Hasan filed the motion himself, with lawyers helping as standby counsel. A hearing is set for Wednesday. Verdict: matches the record.",
+  "read": "The Army's Oct. 7, 2026, release says Acting Army Secretary Adam Telle directed the execution on Oct. 6, that only the president can approve a military death sentence, that Trump did so Oct. 2 after the appeals ran out, and that Army Regulation 190-55 requires a date 60 to 150 days after approval. A court-martial panel convicted Hasan on 13 counts of premeditated murder and 32 of attempted premeditated murder and sentenced him to death Aug. 28, 2013; the Supreme Court denied review March 31, 2025. The Army's Sept. 3, 2013, article says the last military execution was Pvt. John A. Bennett's hanging at Fort Leavenworth on April 13, 1961. The District of Kansas docket for Hasan v. Sergent, No. 5:26-cv-03460, shows a stay-of-execution motion filed Nov. 24 and notices of hearing; Law Dork reports Judge Anthony Mattivi set a status conference for 2:30 p.m. CT Wednesday and quotes the filing as pro se, drafted with help from the Fourth Circuit Capital Habeas Unit, with ACLU lawyers as standby counsel.",
+  "sources": [
+   {
+    "title": "U.S. Army, \"Army Sets Execution Date for Convicted Murderer Nidal Hasan,\" Oct. 7, 2026",
+    "url": "https://www.army.mil/article/295989/army_sets_execution_date_for_convicted_murderer_nidal_hasan"
+   },
+   {
+    "title": "U.S. Army, \"Fort Hood shooter Hasan sentenced to death,\" Sept. 3, 2013",
+    "url": "https://www.army.mil/article/110393/fort_hood_shooter_hasan_sentenced_to_death"
+   },
+   {
+    "title": "U.S. District Court for the District of Kansas, Hasan v. Sergent, No. 5:26-cv-03460, docket (PACER)",
+    "url": "https://ecf.ksd.uscourts.gov/cgi-bin/DktRpt.pl?167836"
+   },
+   {
+    "title": "ACLU, \"ACLU, as Standby Counsel, Urges Court to Halt First Military Execution in 60 Years,\" Nov. 24, 2026",
+    "url": "https://www.aclu.org/press-releases/aclu-as-standby-counsel-urges-court-to-halt-first-military-execution-in-60-years"
+   },
+   {
+    "title": "Law Dork (Chris Geidner), \"Nidal Hasan, set to be executed by the military on December 3, seeks stay of execution,\" Nov. 25, 2026",
+    "url": "https://www.lawdork.com/p/nidal-hasan-seeks-stay-of-execution"
+   },
+   {
+    "title": "CNN, Nov. 24, 2026",
+    "url": "https://www.cnn.com/2026/11/24/politics/fort-hood-mass-shooter-asks-halt-execution"
+   }
+  ],
+  "corrections": []
+ },
+ {
   "id": "20261124-evening",
   "slot": "Evening Check",
   "aired_at": "2026-11-24T17:30:00-06:00",
