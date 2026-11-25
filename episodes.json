@@ -1,5 +1,104 @@
 [
   {
+    "id": "20261125-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-25T11:30:00-06:00",
+    "headline": "Rep. Robert Garcia says Eric Trump was given a 6% stake in drone firm Space-Eyes to tap his 'network of contacts' and give 'public and private endorsement,' per SEC filings; the company's SEC filing matches",
+    "video_url": "",
+    "claim": "\"FACT: You were given a 6% stake in the drone company Space-Eyes to tap into your “network of contacts” and so you could give “public and private endorsement” of the company according to their own SEC filings.\" — Rep. Robert Garcia (D-Calif.), incoming House Oversight chairman, replying to Eric Trump on X, Nov. 23, 2026",
+    "source_url": "https://x.com/RepRobertGarcia/status/2125011175649759429",
+    "record_url": "https://www.sec.gov/Archives/edgar/data/2067592/000121390026106819/ea0300852-02.htm",
+    "record_title": "McKinley Acquisition Corp. / Space-Eyes, Inc., Amendment No. 1 to Form S-4 registration statement (proxy statement/prospectus), filed with the SEC Oct. 5, 2026: Space-Eyes 'Advisory Agreement' with Advance Endeavor LLC and beneficial ownership table",
+    "verdict": "Matches record",
+    "why": "Space-Eyes' amended S-4 registration statement, filed with the SEC on Oct. 5 alongside blank-check company McKinley Acquisition Corp., matches Garcia's description: a May 27, 2026, two-year advisory agreement with Advance Endeavor LLC calls for 'public and private endorsement of Space-Eyes' business through the Advisor's network of contacts' and for introductions to potential customers, partners and suppliers, and the filing names Eric Trump as the person who may be deemed to own the LLC's shares. The 'given' part also holds: CEO Jatinder Bains personally transferred 300,000 shares as the sole compensation for the agreement, about 6% of the company, though the LLC's full 6.13% stake (308,334 shares) also includes 8,334 shares it bought from Bains for $100,000.",
+    "what_would_change": "A later SEC filing showing the advisory agreement was changed or ended, or that the 300,000 shares were not compensation for the agreement, would change the verdict; so would a filing showing someone other than Eric Trump controls Advance Endeavor LLC.",
+    "outlet": "X (@RepRobertGarcia), Nov. 23, 2026",
+    "outlet_url": "https://x.com/RepRobertGarcia/status/2125011175649759429",
+    "script": "Incoming House Oversight chairman Robert Garcia told Eric Trump on X that he was given a 6 percent stake in drone company Space-Eyes to tap his network of contacts and give public and private endorsement of the company, citing the company's own SEC filings. The filing matches. Space-Eyes' amended S-4 describes a May 2026 advisory deal with Eric Trump's LLC calling for public and private endorsement through his network of contacts, paid with 300,000 shares the CEO handed over, about 6 percent of the company. The LLC also bought another 8,334 shares for 100,000 dollars. The filing doesn't put Eric Trump on the board or tie him to any government contract, which fits his own point that he sits on no boards of directors. Verdict: matches record.",
+    "read": "Space-Eyes' amended S-4 registration statement, filed with the SEC on Oct. 5 alongside blank-check company McKinley Acquisition Corp., matches Garcia's description: a May 27, 2026, two-year advisory agreement with Advance Endeavor LLC calls for 'public and private endorsement of Space-Eyes' business through the Advisor's network of contacts' and for introductions to potential customers, partners and suppliers, and the filing names Eric Trump as the person who may be deemed to own the LLC's shares. The 'given' part also holds: CEO Jatinder Bains personally transferred 300,000 shares as the sole compensation for the agreement, about 6% of the company, though the LLC's full 6.13% stake (308,334 shares) also includes 8,334 shares it bought from Bains for $100,000. The same filing doesn't say Eric Trump sits on Space-Eyes' board or has worked on any government contract, which is consistent with his Nov. 23 post saying he is on 'ZERO' boards of directors and has never procured a U.S. government contract; an advisory agreement is not a board seat. Separately, Dominari Holdings' Feb. 11, 2025, release filed with the SEC confirms that Eric Trump joined its Board of Advisors, as Garcia's post also says. The filing says Trump disclaims beneficial ownership of the shares except to the extent of his pecuniary interest. Garcia's other claims, about Foundation Future Industries' $24 million Pentagon contract, Xtend and World Liberty Financial, weren't checked here.",
+    "sources": [
+      {
+        "title": "McKinley Acquisition Corp. / Space-Eyes, Inc., Form S-4/A, SEC, Oct. 5, 2026",
+        "url": "https://www.sec.gov/Archives/edgar/data/2067592/000121390026106819/ea0300852-02.htm"
+      },
+      {
+        "title": "Dominari Holdings press release (SEC exhibit 99.2), Feb. 11, 2025",
+        "url": "https://www.sec.gov/Archives/edgar/data/12239/000121390025012362/ea023075501ex99-2_dominari.htm"
+      },
+      {
+        "title": "Rep. Robert Garcia on X, Nov. 23, 2026",
+        "url": "https://x.com/RepRobertGarcia/status/2125011175649759429"
+      },
+      {
+        "title": "Eric Trump on X, Nov. 23, 2026",
+        "url": "https://x.com/EricTrump/status/2124948334716637446"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261125-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-25T11:30:00-06:00",
+    "headline": "Fox News says prosecutors dropped a 2020 felony charge against Rep.-elect LaKesha Womack after she settled a 2019 rental car bill; the DA's release matches, but it says her court appearance was waived and the final rental began Oct. 7, not Oct. 11",
+    "video_url": "",
+    "claim": "\"Nearly two weeks after she was declared the winner in the Nov. 3 election, flipping a Republican-held seat, a North Carolina Democrat settled a 2019 rental car bill for a car she did not return, allowing prosecutors to drop a felony charge.\" … \"Womack first appeared in court on the summons one week after being declared a future U.S. House member, and nearly seven years after the summons was issued. The rental car agreement was from Oct. 11, 2019, according to the district attorney\" — Fox News (Eric Mack), \"Prosecutors drop felony charge from 2020 against incoming House Dem,\" Nov. 25, 2026",
+    "source_url": "https://www.foxnews.com/politics/prosecutors-drop-felony-charge-2020-incoming-house-dem",
+    "record_url": "https://charmeckda.com/wp-content/uploads/2026/11/112426_1.pdf",
+    "record_title": "Mecklenburg County District Attorney's Office (Spencer B. Merriweather III), \"DA's Office concludes criminal matter involving unreturned rental vehicle,\" news release, Nov. 24, 2026",
+    "verdict": "Missing context",
+    "why": "The Mecklenburg County district attorney's Nov. 24 release matches Fox's core account: Womack was charged in a Jan. 14, 2020, summons with felony failure to return hired property, the summons was served Oct. 11, 2026, prosecutors learned Nov. 16 that she had reached an agreement with the rental company, and the state filed a voluntary dismissal with prejudice after the company confirmed it was paid and said it considered the matter resolved. But two details don't match the release: Fox says Womack 'first appeared in court on the summons' a week after the election, while the DA says her appearance on Nov. 10 was waived and her lawyer appeared in her absence, and Fox dates the rental agreement to Oct. 11, 2019, while the DA says the final rental period began Oct. 7, 2019. The release also says the car was recovered by police and returned to the company on Dec. 4, 2019, more than a month before the charge was filed.",
+    "what_would_change": "Court records showing Womack personally appeared in court on the summons, or a rental agreement dated Oct. 11, 2019, would move the verdict to Matches record.",
+    "outlet": "Fox News, Nov. 25, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/prosecutors-drop-felony-charge-2020-incoming-house-dem",
+    "script": "Fox News reports prosecutors dropped a 2020 felony charge against North Carolina Rep.-elect LaKesha Womack after she settled a bill for a rental car she didn't return in 2019. The district attorney's release backs that up: the company confirmed it was paid, said the matter was resolved, and the state dismissed the charge with prejudice. But Fox says Womack first appeared in court a week after the election, and the DA says her appearance was waived and her lawyer went in her place. Fox also dates the rental to October 11, 2019, while the DA says the final rental began October 7. And the release notes police had recovered the car and returned it more than a month before she was charged. Verdict: missing context.",
+    "read": "The Mecklenburg County district attorney's Nov. 24 release matches Fox's core account: Womack was charged in a Jan. 14, 2020, summons with felony failure to return hired property, the summons was served Oct. 11, 2026, prosecutors learned Nov. 16 that she had reached an agreement with the rental company, and the state filed a voluntary dismissal with prejudice after the company confirmed it was paid and said it considered the matter resolved. But two details don't match the release: Fox says Womack 'first appeared in court on the summons' a week after the election, while the DA says her appearance on Nov. 10 was waived and her lawyer appeared in her absence, and Fox dates the rental agreement to Oct. 11, 2019, while the DA says the final rental period began Oct. 7, 2019. The release also says the car was recovered by police and returned to the company on Dec. 4, 2019, more than a month before the charge was filed. Fox's own later paragraph gives the correct Oct. 7, 2019, date, citing prosecutors and court records. The DA's release doesn't say how much Womack paid, only that it equaled the assessed rental cost from the day the car was overdue until it was recovered. Fox's claim that the case was dropped 'nearly two weeks after she was declared the winner' depends on when her race was called, which wasn't checked here.",
+    "sources": [
+      {
+        "title": "Mecklenburg County District Attorney's Office news release, Nov. 24, 2026",
+        "url": "https://charmeckda.com/wp-content/uploads/2026/11/112426_1.pdf"
+      },
+      {
+        "title": "Fox News, Nov. 25, 2026",
+        "url": "https://www.foxnews.com/politics/prosecutors-drop-felony-charge-2020-incoming-house-dem"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261125-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-25T11:30:00-06:00",
+    "headline": "CNN says third-quarter GDP growth was revised up to 4.3% from 3.4% and PCE inflation hit 3.8% in October; BEA's releases match the numbers, but the 3.8% is a year-over-year change, not an annualized rate",
+    "video_url": "",
+    "claim": "\"The US economy boomed last quarter, growing at an annualized rate of 4.3%, the Commerce Department reported on Wednesday. That’s a massive jump from the 3.4% rate initially reported.\" … \"the Personal Consumption Expenditures price index — the Federal Reserve’s preferred inflation gauge — showed prices accelerated slightly to an annualized rate of 3.8% in October from 3.7% the prior month.\" — CNN (Elisabeth Buchwald), \"US economy grew faster last quarter than initially reported,\" Nov. 25, 2026",
+    "source_url": "https://www.cnn.com/2026/11/25/economy/us-pce-inflation-spending-gdp",
+    "record_url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026",
+    "record_title": "U.S. Bureau of Economic Analysis, \"GDP (Second Estimate) and Corporate Profits, 3rd Quarter 2026\" (BEA 26-50) and \"Personal Income and Outlays, October 2026\" (BEA 26-51), Nov. 25, 2026",
+    "verdict": "Missing context",
+    "why": "The Bureau of Economic Analysis' Nov. 25 releases match CNN's main numbers: real GDP grew at a 4.3% annual rate in the third quarter, revised up 0.9 point from the 3.4% advance estimate, and the October PCE price index rose 3.8% from a year earlier and 0.3% from September, down from 0.5%, with the saving rate at 4.1% (3.6% in September) and real spending essentially flat. But CNN calls the 3.8% inflation figure 'an annualized rate'; BEA reports it as the change from October 2025, not a monthly pace converted to an annual rate. CNN credits business investment boosted by software spending, which BEA's release supports, but doesn't mention that BEA says the upward revision to investment, led by software, was based primarily on a revised Bureau of Labor Statistics price index for software publishing.",
+    "what_would_change": "A CNN correction describing the 3.8% as a year-over-year rise would move the verdict to Matches record; a BEA revision to the third-quarter GDP or October PCE figures would change it.",
+    "outlet": "CNN, Nov. 25, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/25/economy/us-pce-inflation-spending-gdp",
+    "script": "CNN reports the economy grew at a 4.3 percent annual rate last quarter, up from the 3.4 percent first reported, and that the Fed's preferred inflation gauge rose to 3.8 percent in October. The Commerce Department's releases match those numbers. GDP was revised up nine-tenths of a point, the PCE price index was up 3.8 percent from a year earlier, the saving rate rose to 4.1 percent, and real spending was flat. But CNN calls the 3.8 percent an annualized rate, and it's actually the change from a year earlier. And the story doesn't mention that the government says the upward revision to investment, led by software, was based mainly on a revised price index for software. Verdict: missing context.",
+    "read": "The Bureau of Economic Analysis' Nov. 25 releases match CNN's main numbers: real GDP grew at a 4.3% annual rate in the third quarter, revised up 0.9 point from the 3.4% advance estimate, and the October PCE price index rose 3.8% from a year earlier and 0.3% from September, down from 0.5%, with the saving rate at 4.1% (3.6% in September) and real spending essentially flat. But CNN calls the 3.8% inflation figure 'an annualized rate'; BEA reports it as the change from October 2025, not a monthly pace converted to an annual rate. CNN credits business investment boosted by software spending, which BEA's release supports, but doesn't mention that BEA says the upward revision to investment, led by software, was based primarily on a revised Bureau of Labor Statistics price index for software publishing. BEA's release also confirms that the October income gain was boosted by one-time Medicare Improvement Fund premium rebate payments, as CNN says. CNN's figure of 3.7% for September's year-over-year PCE inflation, its 4.9% saving rate for October 2025 and its 'best quarter in three years' comparison weren't checked against a primary source here. These are second estimates; BEA's third estimate of third-quarter GDP is due Dec. 23.",
+    "sources": [
+      {
+        "title": "BEA, GDP (Second Estimate), 3rd Quarter 2026, Nov. 25, 2026",
+        "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"
+      },
+      {
+        "title": "BEA, Personal Income and Outlays, October 2026, Nov. 25, 2026",
+        "url": "https://www.bea.gov/news/2026/personal-income-and-outlays-october-2026"
+      },
+      {
+        "title": "CNN, Nov. 25, 2026",
+        "url": "https://www.cnn.com/2026/11/25/economy/us-pce-inflation-spending-gdp"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261125-reframe-reuters-iran-hormuz-mines-claims",
     "slot": "ReFrame",
     "lead": true,
