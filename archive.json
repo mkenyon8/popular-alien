@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261126-reframe-reuters-tariffs-14-economies-overcapacity",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-26T08:38:43-06:00",
+    "label": "Story of the Day",
+    "claim": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
+    "outlet": "Reuters",
+    "outlet_url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+    "source_url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+    "record_url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+    "record_title": "Reuters, “Trump announces new tariffs, undeterred by midterms defeat” (US proposes new tariffs on 14 trading partners to fight excess factory capacity), Nov. 25, 2026",
+    "read": "Reuters reports that the U.S. Trade Representative determined Wednesday, Nov. 25, that 14 economies, including China, the European Union, Japan, South Korea, India and Vietnam, have \"unreasonable\" policies that create structural excess manufacturing capacity, and proposed new tariffs under Section 301. USTR's release lists proposed ceilings from up to 15% for Japan, Korea, Taiwan, Switzerland and the EU, to 18% for five Southeast and South Asian economies, 20% for China and Singapore, 25% for India and 35% for Vietnam, with exemptions (Reuters' story puts the maximum rates at 20-40%; we use USTR's own figures). Comments are due Jan. 5 and hearings start Jan. 25. These are proposed tariffs, not new ones yet. Nothing changes until hearings in January. Washington's case is real for some economies, but it puts Japan and Switzerland in the same bin as China, and its own trade chief says the deals already fix much of it. Beijing's flat denial isn't evidence either. Trade Representative Jamieson Greer leans on an appeal to authority: leaders from Trump to Biden, Xi and Macron recognizing overcapacity doesn't show that each of these 14 economies causes it, or that tariffs on all their goods are the fix. The case against China's state support is well documented, but the same label covers Japan and Switzerland, and the rates track trade deals rather than how much excess capacity each place has. China's embassy answered with a flat denial and no data, calling the issue \"a pretext for political manipulation\" without addressing any of the specific practices in USTR's China report. Reuters' reporting is balanced and well sourced, but the headline says \"unveils new tariffs\" for what are only proposals, and \"undeterred by midterms defeat\" is the reporters' own read of the motive. Graded C+ across 3 arguments (U.S. Trade Rep. Jamieson Greer C; China's embassy in Washington D+; Reuters B). Scorecard: 33% valid, 33% cogent, 50% supported, 60% fallacy-free.",
+    "grade": "C+",
+    "scores": {
+      "valid": 33,
+      "cogent": 33,
+      "supported": 50,
+      "fallacy_free": 60
+    },
+    "why": "These are proposed tariffs, not new ones yet. Nothing changes until hearings in January. Washington's case is real for some economies, but it puts Japan and Switzerland in the same bin as China, and its own trade chief says the deals already fix much of it. Beijing's flat denial isn't evidence either. Key question: If the trade deals already solve much of the overcapacity problem, as Greer says, what do these new tariffs add?",
+    "sources": [
+      {
+        "title": "Reuters, “Trump announces new tariffs, undeterred by midterms defeat” (US proposes new tariffs on 14 trading partners to fight excess factory capacity), Nov. 25, 2026",
+        "url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261126-tariffs-14-economies-overcapacity-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261126-tariffs-14-economies-overcapacity-full.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... Reuters reports: Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261126-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-26T06:30:00-06:00",
