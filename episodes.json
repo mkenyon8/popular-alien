@@ -293,6 +293,89 @@
     "corrections": []
   },
   {
+    "id": "20261125-field-iowa-lead-detonation",
+    "slot": "Midday Check",
+    "label": "Field Report",
+    "aired_at": "2026-11-25T16:30:00-06:00",
+    "headline": "Army Detonates Nation's Entire Lead Azide Stockpile in Iowa; EPA Says Early Air Readings Show No Lead",
+    "claim": "“The U.S. Army intentionally blew up the nation’s entire stockpile of lead azide, a chemical used to make explosives, saying early signs Wednesday indicated the controlled detonation in Iowa did not allow any toxic dust to spread to nearby homes and farms.” — AP, Nov. 25, 2026",
+    "outlet": "AP, “Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume,” Nov. 25, 2026",
+    "outlet_url": "https://apnews.com/article/iowa-lead-detonation-714e040baedc1cd90c2ba688be76cfc7",
+    "source_url": "https://apnews.com/article/iowa-lead-detonation-714e040baedc1cd90c2ba688be76cfc7",
+    "record_url": "https://www.epa.gov/newsreleases/initial-air-monitoring-shows-zero-detection-airborne-lead-following-controlled",
+    "record_title": "EPA, “Initial Air Monitoring Shows Zero Detection of Airborne Lead Following Controlled Detonation at Iowa Army Ammunition Plant,” Nov. 25, 2026",
+    "verdict": "Missing context",
+    "read": "On Wednesday, Nov. 25, 2026, at about 9 a.m. CST, the U.S. Army carried out a controlled, in-place detonation of about 68 drums of degraded, crystallized lead azide, more than 9,700 pounds net explosive weight, inside earth-covered magazines at the Iowa Army Ammunition Plant in Middletown, Iowa. AP described it as the nation’s entire stockpile of the chemical. The Army said in its Nov. 24 announcement that in its crystallized state the material had become an ultra-sensitive primary explosive, making any physical handling, chemical neutralization or off-site transport an unacceptably high risk. FEMA supported a recommended relocation of residents of Middletown and a five-mile cone southwest of the plant, with hotel stays through Nov. 27, and people within 20 miles were advised to stay indoors with windows closed. Gov. Kim Reynolds declared a disaster emergency in three counties. NPR reports the detonation was first scheduled for Friday, Nov. 20, and was rescheduled three times amid lawsuits by environmental groups; AP reports a court ultimately cleared the way. Maj. Gen. Eric Shirley, who led the operation, said all of the lead azide was destroyed with no secondary explosions or infrastructure damage. The EPA said that one hour after the blast all of its real-time air monitors were reporting zero detection of airborne lead, and that its 300 staff and contractors would keep sampling air, land, dust and water. The New York Times reported, and Iowa Public Radio followed, that the Army hired MuniRem Environmental in March to neutralize the material chemically and canceled that part of the contract two months later; the Army and EPA say opening or moving the drums could have triggered an explosion.",
+    "why": "A USA TODAY Network story published Wednesday stated that “the detonation has spread a plume of lead dust over more than a hundred miles southwest of the blast site.” The 100-mile reach comes from the Army’s pre-blast plume map, which estimated dust could reach northern Missouri, while the EPA reported zero airborne lead on its real-time monitors after the blast; soil, dust and water results were still pending. A CBS2 Iowa headline said “EPA monitors detect no lead after Iowa detonation,” while its own story says “the results are preliminary”; the readings came from air monitors only, and residents were told to stay indoors until the Army issued an all-clear.",
+    "what_would_change": "Soil, dust and surface-water sampling results from the EPA and Iowa agencies showing lead deposition above baseline, or the Army explaining why it dropped the chemical-treatment contract, would change this report.",
+    "sources": [
+      {
+        "title": "AP, “Army calls detonation of bomb chemicals in Iowa a success after earlier fears of a toxic plume,” Nov. 25, 2026",
+        "url": "https://apnews.com/article/iowa-lead-detonation-714e040baedc1cd90c2ba688be76cfc7"
+      },
+      {
+        "title": "AP (@AP) on X, Nov. 25, 2026",
+        "url": "https://x.com/AP/status/2125608114749653126"
+      },
+      {
+        "title": "AP, “The Latest: All 5 tons of lead azide were successfully destroyed in Iowa detonation, Army says,” Nov. 25, 2026",
+        "url": "https://apnews.com/article/iowa-lead-detonation-77fa69b9e88b46c5d1adc29841d2b4cc"
+      },
+      {
+        "title": "U.S. Army, “Army announces controlled detonation of degraded explosive material at Iowa Army Ammunition Plant,” Nov. 24, 2026",
+        "url": "https://www.army.mil/article/297069/army_announces_controlled_detonation_of_degraded_explosive_material_at_iowa_army_ammunition_plant"
+      },
+      {
+        "title": "EPA, “Initial Air Monitoring Shows Zero Detection of Airborne Lead Following Controlled Detonation at Iowa Army Ammunition Plant,” Nov. 25, 2026",
+        "url": "https://www.epa.gov/newsreleases/initial-air-monitoring-shows-zero-detection-airborne-lead-following-controlled"
+      },
+      {
+        "title": "Gov. Kim Reynolds, statement following detonation at Iowa Army Ammunition Plant, Nov. 25, 2026",
+        "url": "https://governor.iowa.gov/press-release/2026-11-25/gov-reynolds-issues-statement-following-successful-detonation-iowa-army-ammunition-plant"
+      },
+      {
+        "title": "NPR, “Army detonates nearly five tons of lead-based explosives in Iowa,” Nov. 25, 2026",
+        "url": "https://www.npr.org/2026/11/25/nx-s1-6052338/army-detonation-lead-explosives-iowa"
+      },
+      {
+        "title": "Iowa Public Radio, “Report shows the Army canceled a chemical treatment contract before opting to detonate toxic explosives in Iowa,” Nov. 21, 2026",
+        "url": "https://www.iowapublicradio.org/environment/2026-11-21/army-canceled-a-chemical-treatment-contract-toxic-explosives-iowa"
+      },
+      {
+        "title": "Iowa Public Radio, “Army chose to blast unstable lead azide days after contractor submitted a chemical treatment plan,” Nov. 24, 2026",
+        "url": "https://www.iowapublicradio.org/environment/2026-11-24/army-blast-unstable-lead-azide-contractor-chemical-treatment-plan"
+      },
+      {
+        "title": "USA TODAY Network (via The Oklahoman), “Army detonates lead azide. ‘It looks like it caved inward perfectly.’,” Nov. 25, 2026",
+        "url": "https://www.oklahoman.com/story/news/iowa/2026/11/25/iowa-lead-detonation-middletown-ia-army-ammunition-plant/92861275007/"
+      },
+      {
+        "title": "CBS2 Iowa, “EPA monitors detect no lead after Iowa detonation, Zeldin tells CNN,” Nov. 25, 2026",
+        "url": "https://cbs2iowa.com/news/local/epa-monitors-detect-no-lead-after-iowa-detonation-zeldin-tells-cnn"
+      },
+      {
+        "title": "Democracy Now!, Headlines for November 25, 2026",
+        "url": "https://www.democracynow.org/2026/11/25/headlines"
+      },
+      {
+        "title": "Field Report with Marcus Okafor (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261125-iowa-lead-detonation.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/fr-20261125-iowa-lead-detonation.mp4",
+    "script": "Coming to you virtually from Middletown, Iowa. I'm Marcus Okafor. The Army just blew up the nation's entire stockpile of lead azide. Here's the record.\nOn Wednesday, the Army detonated 68 drums of degraded lead azide, more than 9,700 pounds, where they sat at the Iowa Army Ammunition Plant. It said the material was too sensitive to move or treat.\nResidents in a five-mile zone southwest of the plant were told to relocate, and people up to 20 miles away to stay indoors. Lawsuits from environmental groups delayed the blast before a court cleared the way.\nThe Army called it a success. The EPA says its air monitors found no airborne lead in the first hour; soil and water tests continue. The Times reported the Army had hired a firm to neutralize the drums, then dropped it.\nHow it was told.\nOne. A USA Today Network story said the blast spread lead dust over more than a hundred miles. That distance was the Army's pre-blast model. EPA monitors found no airborne lead.\nTwo. A local TV headline said, EPA monitors detect no lead. Its own story calls the results preliminary, from air monitors only.\nFull report at popularalien.com. From Middletown, Iowa, I'm Marcus Okafor.",
+    "corrections": [],
+    "field_report": {
+      "reporter": "Marcus Okafor",
+      "dateline": "Middletown, Iowa",
+      "video_url": "https://show.popularalien.com/talk/fr-20261125-iowa-lead-detonation.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261125-iowa-lead-detonation.jpg",
+      "duration_s": 87.7,
+      "published_at": "2026-11-26T07:52:36-06:00",
+      "note": "Field reports state facts and show receipts; they never grade."
+    }
+  },
+  {
     "id": "20261125-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-25T11:30:00-06:00",
