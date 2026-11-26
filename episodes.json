@@ -1,5 +1,104 @@
 [
   {
+    "id": "20261125-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-25T23:00:00-06:00",
+    "headline": "The White House says overdose deaths fell for an 18th straight month under Trump and are down 42% from the 'Biden era peak'; CDC's numbers match, but the decline began in mid-2023 and most of it came before Trump took office",
+    "video_url": "",
+    "claim": "\"Overdose Deaths Plunge 42% from Biden Era Peak ... this represents an approximately 41.5% decrease in total drug overdose deaths compared to the peak under the previous administration (112,418). ... Overall, drug overdose deaths have declined every month since President Trump took office in January 2025.\" — The White House / Office of National Drug Control Policy, news release, Nov. 16, 2026",
+    "source_url": "https://www.whitehouse.gov/releases/2026/11/u-s-drug-overdose-deaths-decrease-for-18th-consecutive-month-under-trump-administration/",
+    "record_url": "https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm",
+    "record_title": "CDC National Center for Health Statistics, Vital Statistics Rapid Release: Provisional Drug Overdose Death Counts (12-month-ending predicted provisional counts through June 2026)",
+    "verdict": "Missing context",
+    "why": "The figures match CDC's predicted provisional counts: 65,724 overdose deaths in the 12 months ending June 2026, about 41.5% below the peak of 112,418 in the 12 months ending August 2023. But the release leaves out that the decline started in mid-2023, under Biden, and that annual deaths had already fallen below 80,000 by January 2025, so roughly two-thirds of the drop came before Trump took office. Drug-policy experts quoted by FactCheck.org say there's little evidence that border and cartel enforcement is the main driver of the trend.",
+    "what_would_change": "CDC data showing the decline began or sharply accelerated after January 2025, or a peer-reviewed study tying a large share of the drop to the administration's border and cartel policies, would move this toward Matches record; a CDC revision showing a month without a decline since January 2025 would move the 'every month' line toward Contradicted.",
+    "outlet": "The White House, Nov. 16, 2026",
+    "outlet_url": "https://www.whitehouse.gov/releases/2026/11/u-s-drug-overdose-deaths-decrease-for-18th-consecutive-month-under-trump-administration/",
+    "script": "The White House says overdose deaths have fallen for 18 straight months under President Trump and are down 42 percent from the Biden-era peak. The numbers match the CDC. Its predicted provisional count shows 65,724 overdose deaths in the 12 months ending June 2026, about 41.5 percent below the peak of 112,418 in the year ending August 2023. What the release leaves out is when the decline started. Overdose deaths began falling in mid-2023, under President Biden, and annual deaths had already dropped below 80,000 by January 2025. That means roughly two-thirds of the drop happened before Trump took office. Experts told FactCheck.org there's little evidence border and cartel enforcement is the main reason deaths keep falling. Our verdict: missing context.",
+    "sources": [
+      {
+        "title": "CDC NCHS Vital Statistics Rapid Release: Provisional Drug Overdose Death Counts",
+        "url": "https://www.cdc.gov/nchs/nvss/vsrr/drug-overdose-data.htm"
+      },
+      {
+        "title": "White House release: U.S. Drug Overdose Deaths Decrease for 18th Consecutive Month Under Trump Administration, Nov. 16, 2026",
+        "url": "https://www.whitehouse.gov/releases/2026/11/u-s-drug-overdose-deaths-decrease-for-18th-consecutive-month-under-trump-administration/"
+      },
+      {
+        "title": "FactCheck.org: Trump Officials Overstate Role in Drug-Death Decline, Nov. 25, 2026",
+        "url": "https://www.factcheck.org/2026/11/trump-officials-overstate-role-in-drug-death-decline/"
+      }
+    ],
+    "read": "CDC's provisional data put predicted overdose deaths at 65,724 for the 12 months ending June 2026, the lowest since December 2016 and about 41.5% below the 112,418 peak in the 12 months ending August 2023. The decline began in mid-2023; FactCheck.org, citing CDC data, says annual deaths had fallen below 80,000 by January 2025, so about two-thirds of the drop happened under the Biden administration. The White House release credits border security and anti-cartel actions; experts quoted by FactCheck.org say those are at most one of many possible contributors.",
+    "corrections": []
+  },
+  {
+    "id": "20261125-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-25T23:00:00-06:00",
+    "headline": "Fox News says Congress will have just under two weeks after the Senate returns Nov. 30 to avoid a shutdown; the stopgap law runs out Dec. 11, so the timeline matches",
+    "video_url": "",
+    "claim": "\"When the upper chamber returns on Nov. 30, there will be just shy of two weeks for both sides to reach an agreement to thwart another partisan closure.\" — Alex Miller, Fox News Digital, Nov. 25, 2026",
+    "source_url": "https://www.foxnews.com/politics/senate-gop-takes-risky-bet-dems-holiday-shutdown-deadline-looms-its-gamble",
+    "record_url": "https://www.congress.gov/119/plaws/publ103/PLAW-119publ103.htm",
+    "record_title": "Public Law 119-103, Continuing Appropriations and Extensions Act, 2027 (signed Sept. 2, 2026), Division A, Sec. 106",
+    "verdict": "Matches record",
+    "why": "Section 106 of the stopgap law signed Sept. 2, 2026, says its funding runs out on December 11, 2026, and the Congressional Research Service says a funding gap would begin December 12 unless Congress passes regular spending bills or another CR. Counting from the Senate's Nov. 30 return, that's 11 to 12 days, which fits Fox's 'just shy of two weeks.' This check covers the deadline only, not Fox's other political characterizations in the piece.",
+    "what_would_change": "A new law extending or replacing the Dec. 11 expiration date before the Senate returns, or a change to the Senate's Nov. 30 return date, would make the timeline out of date.",
+    "outlet": "Fox News, Nov. 25, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/senate-gop-takes-risky-bet-dems-holiday-shutdown-deadline-looms-its-gamble",
+    "script": "Fox News reports that when the Senate returns on November 30, Congress will have just under two weeks to reach a funding deal and avoid another shutdown, with the Iran war at the center of the fight. The law backs up the timeline. The current stopgap, signed September 2, says its funding runs out on December 11, 2026. The Congressional Research Service says a funding gap would begin December 12 unless Congress passes regular spending bills or another continuing resolution. From November 30, that's 11 to 12 days, just shy of two weeks. Our verdict: matches the record.",
+    "sources": [
+      {
+        "title": "Public Law 119-103, Continuing Appropriations and Extensions Act, 2027",
+        "url": "https://www.congress.gov/119/plaws/publ103/PLAW-119publ103.htm"
+      },
+      {
+        "title": "CRS R49353: Overview of Continuing Appropriations for FY2027 (Division A of P.L. 119-103), Sept. 17, 2026",
+        "url": "https://www.congress.gov/crs_external_products/R/PDF/R49353/R49353.1.pdf"
+      },
+      {
+        "title": "Fox News: Senate GOP takes risky bet on Dems as holiday shutdown deadline looms, Nov. 25, 2026",
+        "url": "https://www.foxnews.com/politics/senate-gop-takes-risky-bet-dems-holiday-shutdown-deadline-looms-its-gamble"
+      }
+    ],
+    "read": "P.L. 119-103, the Continuing Appropriations and Extensions Act, 2027, was signed Sept. 2, 2026. Division A, Sec. 106 makes its continuing appropriations available until the earlier of full-year appropriations or December 11, 2026. CRS report R49353 says the CR covers Oct. 1 through Dec. 11, 2026, a 72-day period, and that without new appropriations or another CR, a funding gap would begin Dec. 12, 2026.",
+    "corrections": []
+  },
+  {
+    "id": "20261125-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-25T23:00:00-06:00",
+    "headline": "CNN says the Supreme Court's immigration showdown starts Dec. 9 with arguments over third-country deportations; the Court's December calendar lists DHS v. D.V.D. for that day",
+    "video_url": "",
+    "claim": "\"The showdown will begin on December 9, when the justices will hear arguments in a case challenging Trump's push to remove certain migrants to countries other than their homeland.\" — John Fritze, CNN, Nov. 25, 2026",
+    "source_url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/25/forget-congress-the-supreme-court-will-decide-the-future-of-trumps-immigration-agenda/",
+    "record_url": "https://www.supremecourt.gov/ORAL_ARGUMENTS/argument_calendars/MonthlyArgumentCalDecember2026.pdf",
+    "record_title": "Supreme Court of the United States, October Term 2026, Monthly Argument Calendar for the session beginning Nov. 30, 2026 (amended Oct. 1, 2026)",
+    "verdict": "Matches record",
+    "why": "The Court's official December calendar lists No. 26-426, Dept. of Homeland Security v. D.V.D., the third-country removal case, for argument on Wednesday, Dec. 9, 2026, at 10 a.m. CNN's account of the rest of the docket also holds up: SCOTUSblog reports the justices agreed on Nov. 13 to hear the asylum-suspension case, Mullin v. RAICES, which CNN says will be argued in the spring. Decisions in argued cases normally come by the end of the term in late June or early July.",
+    "what_would_change": "An amended argument calendar moving or removing D.V.D. from Dec. 9, or the case being dismissed or settled before argument, would make the claim out of date.",
+    "outlet": "CNN (via KESQ), Nov. 25, 2026",
+    "outlet_url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/25/forget-congress-the-supreme-court-will-decide-the-future-of-trumps-immigration-agenda/",
+    "script": "CNN reports that the Supreme Court, not Congress, may decide the future of President Trump's immigration agenda, with a showdown starting December 9 over his push to deport some migrants to countries other than their homeland. The Court's own calendar matches. Its December argument schedule lists Department of Homeland Security versus D.V.D., the third-country removal case, for Wednesday, December 9, at 10 a.m. CNN also says the justices will take up the asylum ban in the spring, and SCOTUSblog reports the Court agreed on November 13 to hear that case. Our verdict: matches the record.",
+    "sources": [
+      {
+        "title": "Supreme Court Monthly Argument Calendar, December 2026",
+        "url": "https://www.supremecourt.gov/ORAL_ARGUMENTS/argument_calendars/MonthlyArgumentCalDecember2026.pdf"
+      },
+      {
+        "title": "SCOTUSblog: Supreme Court agrees to hear case on Trump administration's suspension of asylum, Nov. 13, 2026",
+        "url": "https://www.scotusblog.com/2026/11/supreme-court-agrees-to-hear-case-on-trump-administrations-suspension-of-asylum/"
+      },
+      {
+        "title": "CNN (via KESQ): The Supreme Court is about to take a closer look at Trump's immigration agenda, Nov. 25, 2026",
+        "url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/25/forget-congress-the-supreme-court-will-decide-the-future-of-trumps-immigration-agenda/"
+      }
+    ],
+    "read": "The Supreme Court's October Term 2026 calendar for the session beginning Nov. 30, 2026 (amended Oct. 1, 2026) lists No. 26-426, Dept. of Homeland Security v. D.V.D., and No. 25-965, Grand v. City of University Heights, for Wednesday, Dec. 9; the Court convenes at 10 a.m. SCOTUSblog reports that on Nov. 13, 2026, the Court granted review in Mullin v. Refugee and Immigrant Center for Education and Legal Services, the challenge to the asylum suspension at the southern border.",
+    "corrections": []
+  },
+  {
     "id": "20261125-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-25T17:30:00-06:00",
