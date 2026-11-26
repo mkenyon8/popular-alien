@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261126-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-26T17:30:00-06:00",
+    "headline": "CBS News, with AP, says Judge Loren AliKhan found the DNC hadn't shown a likelihood of prevailing in its suit over taxpayer-funded pro-Trump ads; her opinion denied the injunction only for lack of irreparable harm and says the DNC's main claim is still likely to succeed",
+    "video_url": "",
+    "claim": "\"U.S. District Judge Loren AliKhan in Washington, D.C., said the Democratic National Committee hadn't shown a likelihood of prevailing in the case.\" — CBS News (The Associated Press contributed), \"Judge declines to issue long-term ban on taxpayer-funded pro-Trump ads,\" Nov. 25, 2026",
+    "source_url": "https://www.cbsnews.com/news/judge-declines-long-term-ban-pro-trump-ads/",
+    "record_url": "https://storage.courtlistener.com/pdf/2026/11/25/democratic_national_committee_v._trump.pdf",
+    "record_title": "Memorandum Opinion and Order, Democratic National Committee v. Trump et al., Civil Action No. 26-3506 (LLA), U.S. District Court for the District of Columbia, Judge Loren L. AliKhan, Nov. 25, 2026",
+    "verdict": "Contradicted",
+    "why": "Judge AliKhan did deny the DNC's motion for a preliminary injunction and stay, and the quotes CBS uses ('come and gone,' 'the court is unpersuaded') are in her opinion. But she denied it only because the DNC hadn't shown irreparable harm now that the midterms are over. In footnote 12 she wrote that 'nothing in this opinion should be construed to cast doubt on the DNC's likelihood of success on the merits' and that the APA claim against OMB and DHS 'is likely to succeed.' So the line that she found the DNC hadn't shown it was likely to win gets her ruling backward.",
+    "what_would_change": "A later ruling in the case finding the DNC unlikely to win on the merits, or a correction showing the opinion's text differs from the CourtListener copy, would change this verdict. If CBS or AP corrected the sentence, the story would be fixed, but the verdict on the original wording would stand.",
+    "outlet": "CBS News, Nov. 25, 2026",
+    "outlet_url": "https://www.cbsnews.com/news/judge-declines-long-term-ban-pro-trump-ads/",
+    "script": "CBS News, in a report with the Associated Press, says a federal judge in Washington declined to extend a ban on the taxpayer-funded pro-Trump ads, and that Judge Loren AliKhan said the Democratic National Committee hadn't shown a likelihood of prevailing in the case. We read the 25-page opinion. The judge did deny the DNC's request, and she did write that the midterms \"have come and gone.\" But her reason was that the DNC couldn't show it would be harmed now that the election is over. On the merits, she said the opposite. A footnote says nothing in the opinion should cast doubt on the DNC's likelihood of success, and that its main claim against the budget office and Homeland Security is likely to succeed. The case goes on, with a status report due December 9. Our verdict: contradicted by the record.",
+    "read": "DNC v. Trump, No. 26-3506 (LLA) (D.D.C.), Memorandum Opinion and Order, Nov. 25, 2026: the Oct. 28 TRO (ECF No. 26) found 'a substantial likelihood of success on the merits of its APA claim against OMB and DHS.' On irreparable harm: 'But the November 2026 midterm elections have come and gone' ... the DNC now cites two December 2026 Louisiana runoffs, 2027 elections, special elections and the 2028 cycle; 'At this juncture and on this record, the court is unpersuaded.' Conclusion: 'because the DNC has failed to demonstrate irreparable harm ... the DNC is not entitled to a preliminary injunction or a stay at this time'; motion (ECF No. 31) DENIED; amended complaint construed as supplemental complaint; joint status report due by Dec. 9, 2026. Footnote 12: 'nothing in this opinion should be construed to cast doubt on the DNC's likelihood of success on the merits. As the court explained in its opinion granting a TRO, the APA claim against the OMB and DHS is likely to succeed'; the court is also 'doubtful' of the government's argument on the ultra vires claim but 'need not resolve such issues now when the DNC has failed to show irreparable harm.'",
+    "sources": [
+      {
+        "title": "DNC v. Trump, No. 26-3506 (D.D.C.), Memorandum Opinion and Order, Nov. 25, 2026",
+        "url": "https://storage.courtlistener.com/pdf/2026/11/25/democratic_national_committee_v._trump.pdf"
+      },
+      {
+        "title": "CourtListener docket: Democratic National Committee v. Trump, 1:26-cv-03506",
+        "url": "https://www.courtlistener.com/docket/74932638/democratic-national-committee-v-trump/"
+      },
+      {
+        "title": "CBS News: Judge declines to issue long-term ban on taxpayer-funded pro-Trump ads, Nov. 25, 2026",
+        "url": "https://www.cbsnews.com/news/judge-declines-long-term-ban-pro-trump-ads/"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261126-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-26T17:30:00-06:00",
+    "headline": "Fox News reports Trump's Thanksgiving post thanking 'the 2% of our Somalian population that have a job'; Minnesota's state demographer finds about two-thirds of working-age Somali Minnesotans are employed and 92% of their households have a worker",
+    "video_url": "",
+    "claim": "\"I want to thank the 2% of our Somalian population that have a job, and are actually willing to work, without receiving Government Assistance.\" — President Donald Trump, Truth Social, Nov. 26, 2026, as reported by Louis Casiano, Fox News Digital",
+    "source_url": "https://www.foxnews.com/politics/trump-takes-somali-welfare-dependency-thanksgiving-message-lays-who-should-stay-us",
+    "record_url": "https://mn.gov/admin/assets/The%20Economic%20Status%20of%20Minnesotans%202026_tcm36-717691.pdf",
+    "record_title": "Minnesota State Demographic Center, The Economic Status of Minnesotans 2026: A Chartbook with Data for Minnesota's Largest Cultural Groups (January 2026; 2019-2023 American Community Survey), Tables 13, 14 and 18",
+    "verdict": "Contradicted",
+    "why": "The state demographer's analysis of Census survey data counts about 42,500 Somali Minnesotans ages 16 to 64, and 28,300 of them, about two-thirds, have jobs; 33% are unemployed or not in the labor force. Of 17,900 Somali households with a householder under 65, only about 1,500 (8%) have no earner. The chartbook doesn't track how many workers also get public benefits, so the 'without receiving Government Assistance' part can't be measured from it, but no published figure puts the share of Somalis with jobs anywhere near 2%.",
+    "what_would_change": "Official data showing that only about 2% of Somali Minnesotans both work and receive no public benefits, such as a state or federal tally linking employment to benefit receipt, would move this to Missing context or Matches record.",
+    "outlet": "Fox News, Nov. 26, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/trump-takes-somali-welfare-dependency-thanksgiving-message-lays-who-should-stay-us",
+    "script": "Fox News reports that in a Thanksgiving post, President Trump thanked \"the 2% of our Somalian population that have a job, and are actually willing to work, without receiving Government Assistance,\" and said the others should be thrown out to save Minnesota. We checked the Minnesota State Demographic Center's January report, built on five years of Census survey data. It counts about 42,500 working-age Somali Minnesotans, and about 28,300 of them, roughly two-thirds, have jobs. Only 8% of Somali households have nobody working. The report doesn't say how many of those workers also get benefits like food stamps or Medicaid, which many working families qualify for. But nothing in the data puts the share with jobs anywhere near 2%. Our verdict: contradicted by the record.",
+    "read": "Minnesota State Demographic Center, The Economic Status of Minnesotans 2026 (January 2026; 2019-2023 ACS; Somali = Somali ancestry or birthplace, including U.S.-born children): Table ii, Somali population 75,100, 1.3% of Minnesotans. Table 13 (ages 16-64): unemployed 2,500, employed 28,300, in labor force 30,800. Table 14: unemployed or not in labor force 14,200; employed 28,300; total 42,500 (Figure 14: 33%). Figure 11: 72% labor force participation. Table 18 (households with householder under 65): no earner 1,500, one earner 7,200, two or more 9,200, total 17,900 (Figure 18: 8% no earner). Minnesota Compass (Wilder Research), 2020-2024 ACS: 69.6% of working-age (18-64) Somali adults employed. Trump's Truth Social post, Nov. 26, 2026, archived at trumpstruth.org status 43746, contains the quoted sentence.",
+    "sources": [
+      {
+        "title": "Minnesota State Demographic Center: The Economic Status of Minnesotans 2026 (chartbook, January 2026)",
+        "url": "https://mn.gov/admin/assets/The%20Economic%20Status%20of%20Minnesotans%202026_tcm36-717691.pdf"
+      },
+      {
+        "title": "Minnesota Compass: Somali population, cultural communities profile",
+        "url": "https://www.mncompass.org/topics/demographics/cultural-communities/somali"
+      },
+      {
+        "title": "Donald J. Trump, Truth Social post, Nov. 26, 2026",
+        "url": "https://truthsocial.com/@realDonaldTrump/117683512952489451"
+      },
+      {
+        "title": "Trump's Truth archive of the post (status 43746)",
+        "url": "https://www.trumpstruth.org/statuses/43746"
+      },
+      {
+        "title": "Fox News: Trump takes on Somali welfare dependency in Thanksgiving message, Nov. 26, 2026",
+        "url": "https://www.foxnews.com/politics/trump-takes-somali-welfare-dependency-thanksgiving-message-lays-who-should-stay-us"
+      }
+    ],
+    "corrections": []
+  },
+  {
+    "id": "20261126-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-26T17:30:00-06:00",
+    "headline": "CNN says the GOP law extended SNAP's work requirement to people 55 to 64, parents of older teens, veterans, homeless people and former foster youth, cutting 2.4 million people from food stamps in an average month; CBO's August 2025 estimate matches",
+    "video_url": "",
+    "claim": "\"The Republicans’ package expanded that existing mandate to parents with older teen children, people ages 55 to 64, veterans, those experiencing homelessness and former foster youth.\" … \"Some 2.4 million fewer Americans are expected to receive food stamps benefits in an average month because of the work mandate provision, according to a Congressional Budget Office analysis released in August 2025.\" — Tami Luhby, CNN, Nov. 26, 2026",
+    "source_url": "https://www.cnn.com/2026/11/26/politics/snap-work-requirement-volunteer",
+    "record_url": "https://www.cbo.gov/system/files/2025-08/61367-SNAP.pdf",
+    "record_title": "Congressional Budget Office, Supplemental Information: Estimated Effects of Public Law 119-21 on Participation and Benefits Under the Supplemental Nutrition Assistance Program, Aug. 11, 2025",
+    "verdict": "Matches record",
+    "why": "CBO says Section 10102 of the law extends SNAP's work requirement to able-bodied adults through age 64 without dependent children and to adults 18 to 64 who live with children 14 or older, and ends the exclusions for veterans, people experiencing homelessness and 18- to 24-year-olds who aged out of foster care. CBO estimates those changes, along with limits on state waivers, will cut SNAP participation by about 2.4 million people in an average month over 2025-2034. CNN's 'older teen children' means children 14 or older, the 2.4 million is a 10-year average that includes the waiver limits, and the law also added new exclusions for American Indians.",
+    "what_would_change": "A newer CBO estimate with a different number, or a later law changing who must meet SNAP's work requirement, would make CNN's description out of date.",
+    "outlet": "CNN, Nov. 26, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/26/politics/snap-work-requirement-volunteer",
+    "script": "CNN reports that the Republicans' big tax and spending law expanded SNAP's work requirement to parents with older teens, people 55 to 64, veterans, people experiencing homelessness and former foster youth, and that CBO expects 2.4 million fewer people on food stamps in an average month. We checked CBO's August 2025 analysis. It says the law applies the 80-hour-a-month requirement to adults through age 64 without dependents and to adults living with children 14 or older, and it ends the exemptions for veterans, homeless people and young adults who aged out of foster care. CBO puts the drop at about 2.4 million people in an average month over ten years, a figure that also counts tighter rules on state waivers. The law also created new exemptions for American Indians. Our verdict: matches the record.",
+    "read": "CBO Supplemental Information, Aug. 11, 2025 (61367-SNAP), Work Requirements: 'Section 10102 expands the program's work requirements to apply to able-bodied adults through age 64 who do not live with dependent children and to adults ages 18 to 64 who live with children age 14 or older. The section also eliminates exclusions from work requirements for veterans, people experiencing homelessness, and people ages 18 to 24 who were in foster care when they turned 18. It creates new exclusions for American Indians.' Before the law, the requirement (at least 80 hours a month of work or training to get benefits for more than 3 months in 36) applied to certain able-bodied adults 18 to 54 without dependents. Waivers are now limited to counties with unemployment above 10% (Alaska and Hawaii: 1.5 times the national rate). 'CBO estimates that together those provisions will reduce participation in SNAP by roughly 2.4 million people in an average month over the 2025-2034 period': about 800,000 adults through 64 without dependents, 300,000 adults 18-64 living with children 14 or older, roughly 1 million adults 18-54 who would have had waivers, and a net 300,000 from ending the veteran, homeless and foster-youth exclusions, partly offset by the new American Indian exclusions. cbo.gov blocks automated fetches; text verified from the Internet Archive capture of the same URL (Nov. 11, 2026).",
+    "sources": [
+      {
+        "title": "CBO: Estimated Effects of Public Law 119-21 on Participation and Benefits Under SNAP, Aug. 11, 2025",
+        "url": "https://www.cbo.gov/system/files/2025-08/61367-SNAP.pdf"
+      },
+      {
+        "title": "Internet Archive capture of the CBO SNAP estimate",
+        "url": "https://web.archive.org/web/20261111235538/https://www.cbo.gov/system/files/2025-08/61367-SNAP.pdf"
+      },
+      {
+        "title": "CNN: SNAP's work mandate doesn't always require employment, Nov. 26, 2026",
+        "url": "https://www.cnn.com/2026/11/26/politics/snap-work-requirement-volunteer"
+      }
+    ],
+    "corrections": []
+  },
+  {
     "id": "20261126-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-26T11:30:00-06:00",
