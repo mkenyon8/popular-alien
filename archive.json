@@ -1,5 +1,40 @@
 [
   {
+    "id": "20261127-reframe-bbc-kuwait-drone-italians-iran-denies",
+    "slot": "ReFrame",
+    "lead": true,
+    "aired_at": "2026-11-27T08:50:25-06:00",
+    "label": "Story of the Day",
+    "claim": "Two Italians killed in strike in Kuwait, as Iran denies responsibility",
+    "outlet": "BBC News",
+    "outlet_url": "https://www.bbc.com/news/articles/c39w9y5dx4k5o",
+    "source_url": "https://www.bbc.com/news/articles/c39w9y5dx4k5o",
+    "record_url": "https://www.bbc.com/news/articles/c39w9y5dx4k5o",
+    "record_title": "BBC News, “Two Italians killed in strike in Kuwait, as Iran denies responsibility,” Nov. 26, 2026",
+    "read": "BBC News reports that two Italian technicians working for German arms maker Rheinmetall were killed Thursday, Nov. 26, when drones struck an air-defence radar site in Kuwait. Kuwait's defence ministry said several drones from Iran were detected and intercepted and that falling debris hit the site; Kuwait called it \"heinous Iranian aggression.\" Italy's foreign minister Antonio Tajani said investigations showed the drone was manufactured in Iran and that Iranian proxies are known to carry out attacks in the region. Iran denies responsibility. Two men are dead, and the evidence so far points at Iranian-made drones. Kuwait and Italy blame Iran; Tehran says it wasn't them and hints at a false flag, but offers no evidence for that. The investigation isn't finished, so watch what it actually finds. Iran's armed forces and its embassy in Rome answer with a red herring: saying the U.S. and Israel staged a \"false flag\" to draw Europe into the war shifts the question to who benefits, not what the drones show, and offers no evidence of a staged attack. Iran's own army confirmed a separate drone attack on Kuwait's Ali Al Salem base earlier this month. Foreign Minister Abbas Araghchi's offer of a joint investigation is the right move, but calling the accusations baseless while, by his own account, the cause is still undetermined gets ahead of the facts. Tajani and Kuwait have the physical evidence, but \"made in Iran\" plus \"proxies operate here\" doesn't yet show who launched the drone, and the findings haven't been published. The BBC's headline is fair and matches the story, with the blame attributed to the authorities; it could have said more clearly that no investigation findings have been released. Graded C+ across 4 arguments (Iran's armed forces and its embassy in Rome D; Iranian Foreign Minister Abbas Araghchi C-; Tajani and Kuwait's government B-; BBC News A-). Scorecard: 25% valid, 50% cogent, 38% supported, 80% fallacy-free.",
+    "grade": "C+",
+    "scores": {
+      "valid": 25,
+      "cogent": 50,
+      "supported": 38,
+      "fallacy_free": 80
+    },
+    "why": "Two men are dead, and the evidence so far points at Iranian-made drones. Kuwait and Italy blame Iran; Tehran says it wasn't them and hints at a false flag, but offers no evidence for that. The investigation isn't finished, so watch what it actually finds. Key question: If Iran's army confirmed striking Kuwait's Ali Al Salem base this month, what evidence shows this strike came from someone else?",
+    "sources": [
+      {
+        "title": "BBC News, “Two Italians killed in strike in Kuwait, as Iran denies responsibility,” Nov. 26, 2026",
+        "url": "https://www.bbc.com/news/articles/c39w9y5dx4k5o"
+      },
+      {
+        "title": "ReFrame the Facts with Professor Reid — full episode (video)",
+        "url": "https://show.popularalien.com/talk/sotd-20261127-kuwait-drone-italians-iran-denies-full.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/sotd-20261127-kuwait-drone-italians-iran-denies-full.mp4",
+    "script": "Good evening, I'm Professor Reid, and this is ReFrame. Tonight... BBC News reports: Two Italians killed in strike in Kuwait, as Iran denies responsibility.\nLet's grade the headline.\nDon't just read the news. ReFrame it.",
+    "corrections": []
+  },
+  {
     "id": "20261127-morning",
     "slot": "Morning Check",
     "aired_at": "2026-11-27T06:30:00-06:00",
