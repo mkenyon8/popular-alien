@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261127-midday",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-27T11:30:00-06:00",
+    "headline": "Idaho Rep. Heather Scott shares a post saying ex-Venezuelan spy chief Hugo Carvajal linked 60 U.S. senators to Maduro bribes; Carvajal's only public letter from custody, filed in federal court, names no senators and contains no list",
+    "video_url": "",
+    "claim": "\"VENEZUELA LIST\" EXPLODES – Maduro Links 60 U.S. SENATORS to Multi-Million Bribe Allegations (FULL LIST & DOCUMENTS) Venezuelan Intel Chief Hugo Carvajal confesses from U.S. custody...\" — American Media Group (amg-news.com) headline, shared on X by Idaho state Rep. Heather Scott (@HeatherScottID), Nov. 26, 2026",
+    "source_url": "https://x.com/HeatherScottID/status/2125918688041742767",
+    "record_url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.234316/gov.uscourts.dcd.234316.167.7.pdf",
+    "record_title": "Hugo Carvajal Barrios, letter to President Trump dated Dec. 2, 2025, as filed in U.S. District Court for the District of Columbia, Case 1:21-cv-02131-CJN-MAU, ECF No. 167-7 (filed Jan. 10, 2026), CourtListener copy",
+    "verdict": "Unverifiable",
+    "why": "Carvajal's Dec. 2, 2025 letter to Trump, the statement from him in U.S. custody that's on the public record, says \"U.S. diplomats and CIA officers were paid to assist Chávez and Maduro in remaining in power,\" but it names no one, gives no number of people or dollar amounts, and never mentions senators or a list. We found no court filing, plea record or U.S. government statement containing a 60-senator list, and Lead Stories traced the list to a Nov. 10, 2026 Facebook post by a page categorized as \"Comedian.\" The letter's claim that Smartmatic's system \"can be altered\" is Carvajal's own assertion, not a court or government finding.",
+    "what_would_change": "A court filing, sworn testimony, or DOJ or FBI statement in which Carvajal names senators as bribe recipients would move this toward Matches record or Missing context; a statement from Carvajal or his lawyer disavowing any such list would move it to Contradicted.",
+    "outlet": "X post by Idaho state Rep. Heather Scott, sharing American Media Group, Nov. 26, 2026",
+    "outlet_url": "https://x.com/HeatherScottID/status/2125918688041742767",
+    "script": "A post making the rounds over Thanksgiving, shared by Idaho state Representative Heather Scott to more than a hundred thousand views, says a 'Venezuela List' from former Venezuelan spy chief Hugo Carvajal links 60 U.S. senators to multimillion-dollar bribes from Maduro's regime. We went to the record. Carvajal's December 2025 letter to President Trump, written from U.S. custody and filed in federal court in Washington, says U.S. diplomats and CIA officers were paid to help Chávez and Maduro stay in power. But it names no one, gives no numbers, and never mentions senators or any list. We found no court filing or government statement with a list of senators, and fact-checkers at Lead Stories traced it to a Facebook page labeled as comedy. Our verdict: unverifiable.",
+    "sources": [
+      {
+        "title": "Hugo Carvajal Barrios letter to President Trump, Dec. 2, 2025, filed as ECF No. 167-7, Case 1:21-cv-02131-CJN-MAU (D.D.C.), Jan. 10, 2026 (CourtListener PDF)",
+        "url": "https://storage.courtlistener.com/recap/gov.uscourts.dcd.234316/gov.uscourts.dcd.234316.167.7.pdf"
+      },
+      {
+        "title": "Rep. Heather Scott (@HeatherScottID) on X, Nov. 26, 2026",
+        "url": "https://x.com/HeatherScottID/status/2125918688041742767"
+      },
+      {
+        "title": "Lead Stories: Fact Check: NO Evidence Hugo Carvajal Released 'Venezuela List' Of U.S. Senators Who Took Bribes, Nov. 12, 2026",
+        "url": "https://leadstories.com/hoax-alert/2026/11/fact-check-venezuela-list-does-not-have-verified-source-or-evidence-to-back-claim-us-senators-took-millions-in-bribes.html"
+      },
+      {
+        "title": "American Media Group (amg-news.com): 'Venezuela List' explodes article shared in the post",
+        "url": "https://amg-news.com/breaking-explosive-report-venezuela-list-explodes-maduro-links-60-u-s-senators-to-multi-million-bribe-allegations-full-list-documents-1/"
+      }
+    ],
+    "read": "Carvajal letter, Dec. 2, 2025: \"U.S. diplomats and CIA officers were paid to assist Chávez and Maduro in remaining in power. These Americans acted as spies for Cuba and Venezuela, and some remain active to this day.\"",
+    "corrections": []
+  },
+  {
+    "id": "20261127-midday-fox",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-27T11:30:00-06:00",
+    "headline": "Fox News says Trump and NATO's Mark Rutte urged Russia to avoid actions that 'expand the war' in a joint statement; NATO's published text matches word for word, though Trump later posted a version that adds Ukraine",
+    "video_url": "",
+    "claim": "\"'We also discussed the importance of Russia avoiding any actions that intentionally, or unintentionally, expand the war, and the importance of obtaining a peaceful resolution to the war as rapidly as possible,' the statement added.\" — Greg Norman, Fox News, \"Trump, NATO chief push Russia to avoid any actions that would 'expand the war' with Ukraine,\" Nov. 26, 2026",
+    "source_url": "https://www.foxnews.com/politics/trump-nato-chief-push-russia-avoid-actions-expand-war-ukraine",
+    "record_url": "https://www.nato.int/en/news-and-events/articles/news/2026/11/26/joint-statement-by-the-president-of-the-united-states-of-america-and-the-nato-secretary-general",
+    "record_title": "NATO, \"Joint statement made by the President of the United States of America, Donald J. Trump, and NATO Secretary General, Mark Rutte,\" Nov. 26, 2026",
+    "verdict": "Matches record",
+    "why": "NATO's published joint statement contains the sentence Fox quotes word for word, along with the lines about the \"outstanding meeting\" at Mar-a-Lago and expanding defense spending. About an hour after Fox's story posted, Trump shared his own version on Truth Social saying \"Russia and Ukraine\" should avoid expanding the war, and Politico reports a NATO official said the original text was the one both sides agreed to. Fox's quote matches the agreed statement; it simply predates Trump's rewording.",
+    "what_would_change": "A corrected joint statement from NATO or the White House adopting Trump's \"Russia and Ukraine\" wording would mean Fox's quote needs that context; a NATO text that differs from what Fox quoted would move it to Contradicted.",
+    "outlet": "Fox News, Nov. 26, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/trump-nato-chief-push-russia-avoid-actions-expand-war-ukraine",
+    "script": "Fox News reports that President Trump and NATO Secretary General Mark Rutte, after meeting at Mar-a-Lago, called on Russia to avoid any actions that intentionally or unintentionally expand the war in Ukraine. We checked NATO's published joint statement, and the sentence Fox quotes is there word for word. One wrinkle: about an hour after Fox's story went up, the president posted his own version on Truth Social saying Russia and Ukraine should avoid expanding the war, and Politico reports a NATO official said the original was the agreed text. Fox quoted the agreed statement accurately. Our verdict: matches the record.",
+    "sources": [
+      {
+        "title": "NATO: Joint statement by President Trump and NATO Secretary General Mark Rutte, Nov. 26, 2026",
+        "url": "https://www.nato.int/en/news-and-events/articles/news/2026/11/26/joint-statement-by-the-president-of-the-united-states-of-america-and-the-nato-secretary-general"
+      },
+      {
+        "title": "President Trump on Truth Social, Nov. 26, 2026, 9:19 AM ET: his version of the joint statement (trumpstruth.org archive)",
+        "url": "https://www.trumpstruth.org/statuses/43742"
+      },
+      {
+        "title": "Politico Europe: Trump diverges from NATO statement, emphasizing Ukraine mustn't expand war, Nov. 26, 2026",
+        "url": "https://www.politico.eu/article/donald-trump-diverges-from-nato-statement-emphasizing-ukraine-mustnt-expand-war/"
+      },
+      {
+        "title": "Fox News: Trump, NATO chief push Russia to avoid any actions that would 'expand the war' with Ukraine, Nov. 26, 2026",
+        "url": "https://www.foxnews.com/politics/trump-nato-chief-push-russia-avoid-actions-expand-war-ukraine"
+      }
+    ],
+    "read": "NATO joint statement, Nov. 26, 2026: \"We also discussed the importance of Russia avoiding any actions that intentionally, or unintentionally, expand the war, and the importance of obtaining a peaceful resolution to the war as rapidly as possible.\"",
+    "corrections": []
+  },
+  {
+    "id": "20261127-midday-cnn",
+    "slot": "Midday Check",
+    "aired_at": "2026-11-27T11:30:00-06:00",
+    "headline": "CNN says Trump posted Friday that the U.S. supports Iraqi Prime Minister Ali al-Zaidi's push to stop oil smuggling and bring all weapons under state control; Trump's Truth Social post matches word for word",
+    "video_url": "",
+    "claim": "\"'We support Iraqi Prime Minister Ali al-Zaidi's efforts to assert state authority throughout Iraq, stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the exclusive control of the state,' Trump said Friday on Truth Social.\" — Nadeen Ebrahim, CNN, \"What's behind Trump's post about Iraq?\", Nov. 27, 2026",
+    "source_url": "https://ktvz.com/news/national-world/cnn-world/2026/11/27/whats-behind-trumps-post-about-iraq/",
+    "record_url": "https://truthsocial.com/@realDonaldTrump/117687912933180934",
+    "record_title": "President Donald J. Trump, Truth Social post, Nov. 27, 2026, 5:23 AM ET (archived at trumpstruth.org/statuses/43750)",
+    "verdict": "Matches record",
+    "why": "Trump's Truth Social post from 5:23 a.m. Eastern on Friday, Nov. 27 says exactly what CNN quotes, followed by a second line backing al-Zaidi's efforts \"to build a united, prosperous, and strong Iraq that makes its own political decisions.\" The post doesn't mention the Kurdistan Region or Iran-backed militias by name; CNN's link to those disputes is its own analysis of the timing, not something Trump wrote.",
+    "what_would_change": "If Trump deleted or edited the post, or the White House said it didn't reflect U.S. policy, the story would need updating; archived post text that differs from CNN's quote would move it to Contradicted.",
+    "outlet": "CNN, Nov. 27, 2026",
+    "outlet_url": "https://ktvz.com/news/national-world/cnn-world/2026/11/27/whats-behind-trumps-post-about-iraq/",
+    "script": "CNN reports that President Trump posted on Friday that the United States supports Iraqi Prime Minister Ali al-Zaidi's efforts to assert state authority, stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the state's exclusive control. We pulled the post. It went up at 5:23 a.m. Eastern on Friday and says exactly that, plus a second line backing a united, strong Iraq that makes its own political decisions. The post itself doesn't name the Kurdish region or the Iran-backed militias; tying it to those fights is CNN's analysis. Our verdict: matches the record.",
+    "sources": [
+      {
+        "title": "President Trump on Truth Social, Nov. 27, 2026, 5:23 AM ET",
+        "url": "https://truthsocial.com/@realDonaldTrump/117687912933180934"
+      },
+      {
+        "title": "Trump's Truth archive copy of the Nov. 27, 2026 post",
+        "url": "https://www.trumpstruth.org/statuses/43750"
+      },
+      {
+        "title": "CNN (via KTVZ, CNN Newsource): What's behind Trump's post about Iraq?, Nov. 27, 2026",
+        "url": "https://ktvz.com/news/national-world/cnn-world/2026/11/27/whats-behind-trumps-post-about-iraq/"
+      }
+    ],
+    "read": "Trump on Truth Social, Nov. 27, 2026: \"We support Iraqi Prime Minister Ali al-Zaidi's efforts to assert state authority throughout Iraq, stop the smuggling of Iraqi oil, end corruption, and bring all weapons under the exclusive control of the state.\"",
+    "corrections": []
+  },
+  {
     "id": "20261127-reframe-bbc-kuwait-drone-italians-iran-denies",
     "slot": "ReFrame",
     "lead": true,
