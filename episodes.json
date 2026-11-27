@@ -305,6 +305,81 @@
     "corrections": []
   },
   {
+    "id": "20261126-field-tariffs-14-economies",
+    "slot": "Midday Check",
+    "label": "Field Report",
+    "aired_at": "2026-11-26T16:30:00-06:00",
+    "headline": "U.S. Proposes Tariffs on 14 Trading Partners Over Excess Capacity; China, EU, Japan Push Back",
+    "claim": "“Major economies from China to the EU hit out at proposed new US tariffs after Washington concluded its months-long probe into alleged excess production, potentially opening a new phase in trade tensions with both allies and foes alike.” — AFP, Nov. 26, 2026",
+    "outlet": "AFP, “Major economies balk at new US tariffs over 'unfair' trade,” Nov. 26, 2026",
+    "outlet_url": "https://www.afp.com/en/major-economies-balk-new-us-tariffs-over-unfair-trade",
+    "source_url": "https://www.afp.com/en/major-economies-balk-new-us-tariffs-over-unfair-trade",
+    "record_url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural",
+    "record_title": "USTR, “USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors,” Nov. 25, 2026",
+    "verdict": "Missing context",
+    "read": "On Wednesday, Nov. 25, 2026, U.S. Trade Representative Jamieson Greer determined under Section 301 of the Trade Act of 1974 that policies of 14 economies — China, the European Union, Singapore, Switzerland, Indonesia, Malaysia, Cambodia, Thailand, Korea, Vietnam, Taiwan, Bangladesh, Japan and India — relating to structural excess manufacturing capacity are unreasonable and burden U.S. commerce. USTR made no determination on Mexico or Norway. It proposed additional tariffs, with exemptions for certain goods: up to 15% for the EU, Japan, Korea, Taiwan and Switzerland; up to 18% for Bangladesh, Cambodia, Indonesia, Malaysia and Thailand; up to 20% for China and Singapore; up to 25% for India; and up to 35% for Vietnam, which USTR says could be adjusted to 20% if Vietnam reaches a reciprocal trade agreement. Written comments are due Jan. 5, 2027, and hearings begin Jan. 25, 2027. AFP reports the investigation was launched days after the Supreme Court struck down Trump’s earlier global tariffs in February, and a senior U.S. official said the new levies would not stack on sector tariffs such as those on autos and steel. China’s Commerce Ministry spokesman He Yadong called the investigation “a typical act of unilateralism” that violates WTO rules and said China reserves the right to take necessary measures. Japan’s chief cabinet secretary, Minoru Kihara, said Japan has no structural excess production capacity. The European Commission said it rejected the premise and expected the U.S. to honor last year’s 15% deal, and Singapore said it was “very disappointed.” Greer told CNBC the China rate “falls within” the existing understanding with Beijing.",
+    "why": "Several headlines presented the measures as already imposed: AAP’s headline said the U.S. “slaps new tariffs on 14 nations,” and Reuters’ headline said Trump “unveils new tariffs.” USTR’s own release says it “proposed responsive action” for public comment, with hearings starting Jan. 25, 2027, and a U.S. official told Reuters the tariffs were unlikely to take effect before then. AFP reported the new tolls “range up to 20 percent,” with Vietnam facing 20% and India 17%, “according to the USTR’s office”; USTR’s Nov. 25 release lists proposed ceilings of up to 35% for Vietnam (20% only if it reaches a trade agreement) and up to 25% for India.",
+    "what_would_change": "Final USTR determinations after the January hearings, published rates in the Federal Register, or a USTR statement explaining the 17% and 20% figures AFP attributed to it would change this report.",
+    "sources": [
+      {
+        "title": "AFP, “Major economies balk at new US tariffs over 'unfair' trade,” Nov. 26, 2026",
+        "url": "https://www.afp.com/en/major-economies-balk-new-us-tariffs-over-unfair-trade"
+      },
+      {
+        "title": "AFP (@AFP) on X, Nov. 26, 2026",
+        "url": "https://x.com/AFP/status/2125817886539170282"
+      },
+      {
+        "title": "USTR, “USTR Makes Determinations and Proposes Actions in 14 Section 301 Investigations Relating to Structural Excess Capacity and Production in Manufacturing Sectors,” Nov. 25, 2026",
+        "url": "https://ustr.gov/about/policy-offices/press-office/press-releases/2026/november/ustr-makes-determinations-and-proposes-actions-14-section-301-investigations-relating-structural"
+      },
+      {
+        "title": "USTR, Section 301 – Structural Excess Capacity and Production in Manufacturing Sectors (notices and reports)",
+        "url": "https://ustr.gov/trade-topics/enforcement/section-301-investigations/section-301-structural-excess-capacity-and-production-manufacturing-sectors"
+      },
+      {
+        "title": "Reuters, “Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat,” Nov. 25, 2026",
+        "url": "https://www.reuters.com/3fec1b0a85a0/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/"
+      },
+      {
+        "title": "AAP, “China hits back as US slaps new tariffs on 14 nations,” Nov. 26, 2026",
+        "url": "https://aapnews.aap.com.au/news/trump-unveils-proposed-tariffs-on-14-trade-partners"
+      },
+      {
+        "title": "France 24, “'Unacceptable': China, EU among major economies against new US tariffs,” Nov. 26, 2026",
+        "url": "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs"
+      },
+      {
+        "title": "Xinhua, “China firmly opposes U.S. additional tariffs on China, other economies: commerce ministry,” Nov. 26, 2026",
+        "url": "https://english.news.cn/20261126/8c1dee5ce2df4f5e936be1468bf4c3b1/c.html"
+      },
+      {
+        "title": "China Daily, “China firmly opposes proposed US Section 301 tariffs,” Nov. 26, 2026",
+        "url": "https://www.chinadaily.com.cn/a/202611/26/WS6b07eb65e4b03ebf8519ed79.html"
+      },
+      {
+        "title": "Popular Alien ReFrame Story of the Day: Reuters on the 14-economy tariffs, Nov. 26, 2026",
+        "url": "https://popularalien.com/story/20261126-reframe-reuters-tariffs-14-economies-overcapacity"
+      },
+      {
+        "title": "Field Report with Lena Sato (video)",
+        "url": "https://show.popularalien.com/talk/fr-20261126-tariffs-14-economies.mp4"
+      }
+    ],
+    "video_url": "https://show.popularalien.com/talk/fr-20261126-tariffs-14-economies.mp4",
+    "script": "Coming to you virtually from Washington. I'm Lena Sato. The U.S. has proposed new tariffs on fourteen trading partners, and they're pushing back. Here's the record.\nOn Wednesday, U.S. Trade Representative Jamieson Greer found that fourteen economies, including China, the European Union, Japan and India, have unreasonable policies that create excess factory capacity.\nHis office proposed tariff ceilings from 15 percent for Japan, Korea, Taiwan, Switzerland and the E.U., up to 35 percent for Vietnam. Comments are due January 5th, and hearings start January 25th.\nChina's commerce ministry called it unilateralism and reserved the right to respond. Japan denied having excess capacity, and the E.U. said it expects its 15 percent deal to be honored.\nHow it was told.\nOne. Headlines said the U.S. slapped, or unveiled, new tariffs. Under the trade office's own notice, these are proposals. Nothing is final until after public hearings in late January.\nTwo. AFP reported the tariffs top out at 20 percent, with India at 17. The trade office's own release lists up to 25 percent for India, and up to 35 for Vietnam.\nFull report at popularalien.com. From Washington, I'm Lena Sato.",
+    "corrections": [],
+    "field_report": {
+      "reporter": "Lena Sato",
+      "dateline": "Washington",
+      "video_url": "https://show.popularalien.com/talk/fr-20261126-tariffs-14-economies.mp4",
+      "poster_url": "https://show.popularalien.com/talk/fr-20261126-tariffs-14-economies.jpg",
+      "note": "Field reports state facts and show receipts; they never grade.",
+      "duration_s": 86.4,
+      "published_at": "2026-11-27T08:01:00-06:00"
+    }
+  },
+  {
     "id": "20261126-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-26T11:30:00-06:00",
