@@ -1,5 +1,108 @@
 [
   {
+    "id": "20261126-late",
+    "slot": "Late Check",
+    "aired_at": "2026-11-26T23:00:00-06:00",
+    "headline": "The White House says the national gas average fell to its lowest in eight months after the biggest three-week drop since 2008; EIA's weekly data match, but the average is still about 58 cents above a year ago after this year's spike",
+    "video_url": "",
+    "claim": "\"From coast to coast, prices at the pump are falling fast, with the national average falling to its lowest price in eight months after the biggest three-week dive since 2008.\" — The White House, \"Gas Prices Plunge Ahead of Thanksgiving — Just as President Trump Predicted,\" news release, Nov. 24, 2026",
+    "source_url": "https://www.whitehouse.gov/releases/2026/11/gas-prices-plunge-ahead-of-thanksgiving-just-as-president-trump-predicted/",
+    "record_url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPMR_PTE_NUS_DPG&f=W",
+    "record_title": "U.S. Energy Information Administration, Weekly U.S. Regular All Formulations Retail Gasoline Prices (dollars per gallon), series EMM_EPMR_PTE_NUS_DPG, release of Nov. 24, 2026",
+    "verdict": "Missing context",
+    "why": "EIA's weekly survey puts the national average for regular at $3.642 on Nov. 23, down 51.1 cents from $4.153 three weeks earlier. That's the biggest three-week drop since November 2008 and the lowest price since March 9 ($3.502), so both parts of the claim match. But the release leaves out that prices are still about 58 cents (19%) higher than a year ago ($3.061 on Nov. 24, 2025), because the average jumped from about $3.02 in early March to $4.50 in May and nearly that again ($4.478) in September.",
+    "what_would_change": "An EIA revision or later weekly reading showing the average back at or below last year's level (about $3.06) would make the omission less important and move this toward Matches record; EIA data showing a larger three-week drop sometime after 2008, or a lower price within the past eight months, would move it toward Contradicted.",
+    "outlet": "The White House, Nov. 24, 2026",
+    "outlet_url": "https://www.whitehouse.gov/releases/2026/11/gas-prices-plunge-ahead-of-thanksgiving-just-as-president-trump-predicted/",
+    "script": "Just before Thanksgiving, the White House said gas prices are falling fast, with the national average at its lowest in eight months after the biggest three-week drop since 2008. We checked the Energy Information Administration's weekly price survey. On November 23 the average for regular was $3.64 a gallon, down 51 cents in three weeks. That is the steepest three-week drop since late 2008, and the lowest price since early March. So the numbers check out. What the release leaves out is where prices started. The national average was about $3.02 in early March, then climbed to $4.50 by May and almost that high again in September. Even after this drop, gas costs about 58 cents more than it did a year ago, when it was $3.06. Our verdict: missing context.",
+    "sources": [
+      {
+        "title": "EIA: Weekly U.S. Regular All Formulations Retail Gasoline Prices (history table)",
+        "url": "https://www.eia.gov/dnav/pet/hist/LeafHandler.ashx?n=PET&s=EMM_EPMR_PTE_NUS_DPG&f=W"
+      },
+      {
+        "title": "EIA: Gasoline and Diesel Fuel Update",
+        "url": "https://www.eia.gov/petroleum/gasdiesel/"
+      },
+      {
+        "title": "White House release: Gas Prices Plunge Ahead of Thanksgiving — Just as President Trump Predicted, Nov. 24, 2026",
+        "url": "https://www.whitehouse.gov/releases/2026/11/gas-prices-plunge-ahead-of-thanksgiving-just-as-president-trump-predicted/"
+      }
+    ],
+    "read": "EIA weekly U.S. regular gasoline, all formulations ($/gal), release date 11/24/2026: 2026-11-02 4.153; 11-09 3.995; 11-16 3.805; 11-23 3.642. Three-week change 11/02 to 11/23: -$0.511, the largest three-week decline in the series since 2008-11-03 to 2008-11-24 (-$0.508; the all-time largest is -$0.828, 2008-10-06 to 10-27); the largest in 2022 was -$0.454 (2022-07-11 to 08-01). Last reading at or below $3.642: 2026-03-09, $3.502. Year earlier: 2025-11-24, $3.061 (+$0.581, about +19%). 2026 path: 01-12 $2.779 (year low); 03-02 $3.015; 05-11 $4.500 (year high); 06-29 $3.831; 09-21 $4.478.",
+    "corrections": []
+  },
+  {
+    "id": "20261126-late-fox",
+    "slot": "Late Check",
+    "aired_at": "2026-11-26T23:00:00-06:00",
+    "headline": "Fox News says DOJ has been hit with 97,000 detainee habeas petitions since January 2025 that Blanche calls 'frivolous'; his memo gives those numbers, but it calls 'many' of them frivolous, not all, and assigns the 30-day appellate plan to different offices than Fox says",
+    "video_url": "",
+    "claim": "\"Blanche issued a three-page memo Tuesday calling on attorneys working outside of immigration issues to assist in the lawsuits described by Blanche as 'frivolous' ... the Justice Department has been hit with 97,000 habeas corpus petition filings since January 2025, including close to 10,000 new petitions filed since October. ... Within the next 30 days, leadership from the respective divisions must submit an 'aggressive appellate strategy' for tackling the habeas corpus claims and deploy attorneys to high-volume districts.\" — Elaine Mallon, Fox News Digital, \"DOJ lawyers ordered to swarm 'frivolous' 97,000-lawsuit wave from ICE detainees,\" Nov. 25, 2026",
+    "source_url": "https://www.foxnews.com/politics/doj-lawyers-ordered-swarm-frivolous-97000-lawsuit-wave-ice-detainees",
+    "record_url": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AG-Memo-11.24.26.pdf",
+    "record_title": "Office of the Attorney General, Memorandum for All Department Employees, \"Surging Department Resources to Address Increasing Habeas Litigation,\" Nov. 24, 2026 (3 pages; copy published by the Washington Examiner)",
+    "verdict": "Missing context",
+    "why": "The memo is dated Tuesday, Nov. 24, runs three pages, and says more than 97,000 detainees have filed habeas petitions since January 2025, with about 10,000 since October 2026, so Fox's numbers match. But Blanche wrote that 'many' of the petitions are frivolous, not that the whole wave is, as the headline puts it. And the 30-day 'aggressive appellate strategy' recommendations are assigned to the U.S. Attorneys' advisory committee, EOUSA, the Civil Division, the Solicitor General and the deputy and associate AG offices, not the Antitrust, Civil Rights and environment divisions being drafted; the memo sets no 30-day deadline for sending lawyers to busy districts, only 'in the coming weeks.'",
+    "what_would_change": "A second DOJ directive or a revised memo that sets a 30-day deadline for the drafted divisions to deploy lawyers or submit the appellate strategy, or language calling all the petitions frivolous, would move this to Matches record. Court or DOJ data showing the 97,000 and 10,000 counts are wrong would move it toward Contradicted.",
+    "outlet": "Fox News, Nov. 25, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/doj-lawyers-ordered-swarm-frivolous-97000-lawsuit-wave-ice-detainees",
+    "script": "Fox News reports that Attorney General Todd Blanche ordered Justice Department lawyers to swarm a wave of 97,000 frivolous lawsuits from ICE detainees. We read the three-page memo, dated November 24. The numbers match: Blanche writes that more than 97,000 detainees have filed habeas petitions since January 2025, about 10,000 of them since October. He does pull in lawyers from the Antitrust, Civil Rights, Civil and environment divisions. But the memo says many of the petitions are frivolous, not all of them. And Fox says those divisions must hand in an aggressive appellate strategy within 30 days. The memo gives that 30-day job to other offices: the U.S. Attorneys' advisory committee, the Civil Division, the Solicitor General and the department's top leadership. Lawyers will be assigned in the coming weeks, with no set deadline. Our verdict: missing context.",
+    "sources": [
+      {
+        "title": "AG memo: Surging Department Resources to Address Increasing Habeas Litigation, Nov. 24, 2026 (Washington Examiner copy)",
+        "url": "https://www.washingtonexaminer.com/wp-content/uploads/2026/11/AG-Memo-11.24.26.pdf"
+      },
+      {
+        "title": "CBS News: Inundated by thousands of ICE detainee lawsuits, DOJ directs non-immigration attorneys to help with caseload, Nov. 24, 2026",
+        "url": "https://www.cbsnews.com/news/ice-detainee-lawsuits-justice-department-non-immigration-attorneys/"
+      },
+      {
+        "title": "Fox News: DOJ lawyers ordered to swarm 'frivolous' 97,000-lawsuit wave from ICE detainees, Nov. 25, 2026",
+        "url": "https://www.foxnews.com/politics/doj-lawyers-ordered-swarm-frivolous-97000-lawsuit-wave-ice-detainees"
+      }
+    ],
+    "read": "AG memo, Nov. 24, 2026, p.1: 'These habeas petitions, many of which are frivolous, have substantially burdened U.S. Attorneys' Offices'; the Department 'must surge significant assistance and resources from the Department's roughly 2,000 litigators in our civil components.' p.2: 'Since January 2025, more than 97,000 aliens have filed habeas petitions challenging their detention ... approximately 10,000 new petitions filed since October 2026. Despite many such petitions being jurisdictionally barred, the Department must still ... defend against these petitions.' Directs 'the four civil litigating divisions—Antitrust, Civil Rights, Civil, Energy [sic] and Natural Resources—as well as the U.S. Trustees Program' to join; 'In the coming weeks, each litigating component shall designate a point of contact'; 'This process will be rolled out component by component.' Directs 'the Attorney General's Advisory Committee of the U.S. Attorneys, the Executive Office for U.S. Attorneys, the Civil Division, and the Offices of the Solicitor General, the Associate Attorney General, and the Deputy Attorney General to submit recommendations ... to adopt an aggressive appellate strategy' within 30 days. pp.2-3: 'significant workload in light of personnel reduction.'",
+    "corrections": []
+  },
+  {
+    "id": "20261126-late-cnn",
+    "slot": "Late Check",
+    "aired_at": "2026-11-26T23:00:00-06:00",
+    "headline": "CNN says Pablo Hernández de Cos is set to succeed Christine Lagarde as ECB president when she leaves in February, with eurozone inflation running at 4%, twice the ECB's target; the European Council's release and Eurostat's data match",
+    "video_url": "",
+    "claim": "\"De Cos, whose appointment must still be formally approved, will succeed Christine Lagarde when she steps down in February after euro area member states endorsed his appointment ... He will have to contend with inflation currently running at 4%, twice the ECB's target.\" — Hanna Ziady, CNN Business, \"European Central Bank set to appoint its first Spanish leader,\" Nov. 26, 2026",
+    "source_url": "https://www.cnn.com/2026/11/26/business/ecb-president-pablo-hernandez-de-cos-intl",
+    "record_url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/european-council-puts-forward-pablo-hernandez-de-cos-as-next-president-of-the-european-central-bank/",
+    "record_title": "European Council press release, \"European Council puts forward Pablo Hernández de Cos as next President of the European Central Bank,\" Nov. 26, 2026; with Eurostat euro indicators release, \"Annual inflation up to 4.0% in the euro area,\" Nov. 18, 2026",
+    "verdict": "Matches record",
+    "why": "The European Council says it put forward Hernández de Cos on Nov. 26 and that, once confirmed, he is expected to replace Lagarde when she leaves office on Feb. 7, 2027, after the Council adopted its recommendation; it will consult the European Parliament and the ECB before a formal decision, which fits CNN's 'must still be formally approved.' It also names Laurence Boone and Markus Brunnermeier to replace Isabel Schnabel and Philip Lane, as CNN reports. Eurostat puts euro-area inflation at 4.0% in October, double the ECB's 2% target, though energy, up 21%, accounts for nearly half of it (1.89 points); inflation excluding energy was 2.3%.",
+    "what_would_change": "A formal European Council decision naming someone else, a delay of Lagarde's Feb. 7 departure, or a Eurostat revision or new monthly reading putting inflation well away from 4% would move this toward Missing context or Contradicted.",
+    "outlet": "CNN Business, Nov. 26, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/26/business/ecb-president-pablo-hernandez-de-cos-intl",
+    "script": "CNN reports that the European Central Bank is set to get its first Spanish president, Pablo Hernández de Cos, who would replace Christine Lagarde when she steps down in February, and that he'll face inflation running at 4 percent, twice the bank's target. We checked the European Council's announcement from Thursday. It says leaders put forward Hernández de Cos, and that once confirmed he's expected to replace Lagarde when she leaves on February 7. The European Parliament and the ECB still get consulted before a formal decision, which CNN notes. The council also named Laurence Boone and Markus Brunnermeier to the bank's board, as CNN says. On inflation, Eurostat's October figure for the euro area is 4.0 percent, double the 2 percent target. Energy prices, up 21 percent, account for nearly half of that. Without energy, inflation was 2.3 percent. Our verdict: matches the record.",
+    "sources": [
+      {
+        "title": "European Council press release: European Council puts forward Pablo Hernández de Cos as next President of the European Central Bank, Nov. 26, 2026",
+        "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/26/european-council-puts-forward-pablo-hernandez-de-cos-as-next-president-of-the-european-central-bank/"
+      },
+      {
+        "title": "Eurostat euro indicators: Annual inflation up to 4.0% in the euro area (October 2026), Nov. 18, 2026",
+        "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/2-18112026-ap"
+      },
+      {
+        "title": "ECB: Our monetary policy strategy (2% inflation target)",
+        "url": "https://www.ecb.europa.eu/mopo/strategy/html/index.en.html"
+      },
+      {
+        "title": "CNN Business: European Central Bank set to appoint its first Spanish leader, Nov. 26, 2026",
+        "url": "https://www.cnn.com/2026/11/26/business/ecb-president-pablo-hernandez-de-cos-intl"
+      }
+    ],
+    "read": "European Council, Nov. 26, 2026: 'The European Council has today put forward Pablo Hernández de Cos as next President of the European Central Bank. Once confirmed, Mr Hernández de Cos is expected to replace the outgoing President, Christine Lagarde, when she leaves office on 7 February 2027. The mandate ... is for 8 years and non-renewable.' Boone and Brunnermeier put forward to replace Schnabel (stepping down 3 Jan. 2027) and Lane (term ends 31 May 2027). 'The European Council will now consult the European Parliament and the ECB's governing council ... before taking a formal decision.' 'On 26 November 2026, the Council adopted its recommendations.' Eurostat, Nov. 18, 2026: euro-area annual HICP inflation 4.0% in October 2026, up from 3.8% in September (2.1% a year earlier); energy 21.0% (contribution 1.89 percentage points); all items excluding energy 2.3%; services 3.3%. ECB strategy: 2% inflation target over the medium term.",
+    "corrections": []
+  },
+  {
     "id": "20261126-evening",
     "slot": "Evening Check",
     "aired_at": "2026-11-26T17:30:00-06:00",
