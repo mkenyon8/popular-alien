@@ -1,5 +1,100 @@
 [
   {
+    "id": "20261127-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-27T06:30:00-06:00",
+    "headline": "The Daily Beast says Magistrate Judge Zia Faruqui found the case against two ex-FBI officials was rushed under pressure from Trump; his 48-page opinion says the charges came 'at the behest of the President,' in a ruling that prosecutors hadn't shown probable cause",
+    "video_url": "",
+    "claim": "\"U.S. Magistrate Judge Zia Faruqui, who dismissed a criminal case against two former FBI agents accused of lying to Congress about past investigations of Hunter Biden, has determined that the charges were intentionally rushed under pressure from the president.\" \u2014 Annabella Rosciglione, The Daily Beast, \"Judge Exposes Trump's Botched Midterms Plot in Blistering 48-Page Opinion,\" Nov. 24, 2026",
+    "source_url": "https://www.thedailybeast.com/judge-zia-faruqui-issues-scathing-48-page-opinion-on-trumps-midterms-plot",
+    "record_url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_26-mj-00185/pdf/USCOURTS-dcd-1_26-mj-00185-0.pdf",
+    "record_title": "U.S. District Court for the District of Columbia, United States v. Floris and Benavides, No. 26-mj-00185, Memorandum Opinion (ECF No. 30), signed by Magistrate Judge Zia M. Faruqui, filed Nov. 24, 2026 (GovInfo copy)",
+    "verdict": "Matches record",
+    "why": "Faruqui's Nov. 24 memorandum opinion says that \"at the behest of the President of the United States and the Director of the FBI, the government rushed to charge\" Nicole Floris and Bradley Benavides, and that the motive for the rush was \"to appease President Trump in his campaign of retribution against the FBI and to score cheap political points to impact the midterm elections.\" The other passages the Daily Beast quotes, including the \"horror movie villain\" line and the \"betrayal\" of DOJ's values, are in the 48-page opinion. It's a magistrate judge's ruling that prosecutors failed to show probable cause at a preliminary hearing, explaining his Nov. 2 bench dismissal, not a trial verdict, and the opinion doesn't say whether prosecutors can still seek an indictment.",
+    "what_would_change": "A district judge or appeals court vacating or reversing the opinion's findings, or an amended opinion that drops the findings about presidential pressure, would make the claim out of date; the quoted passages not appearing in the filed opinion would move it toward Contradicted.",
+    "outlet": "The Daily Beast, Nov. 24, 2026",
+    "outlet_url": "https://www.thedailybeast.com/judge-zia-faruqui-issues-scathing-48-page-opinion-on-trumps-midterms-plot",
+    "script": "The Daily Beast reports that Magistrate Judge Zia Faruqui, who threw out the case against two former FBI officials accused of lying to Congress about the Hunter Biden laptop investigation, found the charges were rushed under pressure from President Trump. We read the judge's 48-page opinion, filed November 24. It says that at the behest of the President and the FBI director, the government rushed to charge Nicole Floris and Bradley Benavides, and that the motive was to appease President Trump in his campaign of retribution against the FBI and to score cheap political points before the midterms. The other lines the Daily Beast quotes are in there too. One thing to keep in mind: this is a ruling that prosecutors didn't show probable cause at a preliminary hearing, not a verdict after a trial. Our verdict: matches the record.",
+    "sources": [
+      {
+        "title": "U.S. v. Floris and Benavides, No. 26-mj-00185 (D.D.C.), Memorandum Opinion, Nov. 24, 2026 (GovInfo PDF)",
+        "url": "https://www.govinfo.gov/content/pkg/USCOURTS-dcd-1_26-mj-00185/pdf/USCOURTS-dcd-1_26-mj-00185-0.pdf"
+      },
+      {
+        "title": "The Daily Beast: Judge Exposes Trump's Botched Midterms Plot in Blistering 48-Page Opinion, Nov. 24, 2026",
+        "url": "https://www.thedailybeast.com/judge-zia-faruqui-issues-scathing-48-page-opinion-on-trumps-midterms-plot"
+      },
+      {
+        "title": "CNN: The case that illustrates how Trump\u2019s retribution campaign is falling short, Nov. 27, 2026",
+        "url": "https://www.cnn.com/2026/11/27/politics/trump-retribution-campaign-prosecution"
+      }
+    ],
+    "read": "Memorandum Opinion, ECF No. 30, Case 1:26-mj-00185, filed 11/24/26, 48 pages, digitally signed by Magistrate Judge Zia M. Faruqui 2026.11.24 12:05 ET. p.1: \"At the behest of the President of the United States and the Director of the FBI, the government rushed to charge Nicole Floris and Bradley Benavides...\"; p.2: the government \"failed this simple task. Accordingly, this case is dismissed.\" p.6: preliminary hearing Oct. 27-29, 2026; \"On November 2, 2026, the Court issued an oral decision. This opinion memorializes the basis for that decision.\" Timeline: July 16, 2026, Trump directed the FBI to investigate; July 17, Director Patel ordered the Kansas City field office to investigate; Nov. 3, 2026, midterm elections. p.35: \"the motive for that is clear: to appease President Trump in his campaign of retribution against the FBI and to score cheap political points to impact the midterm elections.\" p.46: \"They are one tweet away from being prosecuted by their own government.\" p.47 cites U.S. v. Riley: during an eight-week period of the D.C. federal surge the government moved to dismiss 21% of cases charged by complaint, vs. about 0.5% over the prior ten years. The opinion doesn't state whether the dismissal is with or without prejudice.",
+    "corrections": []
+  },
+  {
+    "id": "20261127-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-27T06:30:00-06:00",
+    "headline": "Fox News says Visa expects holiday sales to rise 4.5% from last year, but only 1.1% after higher prices; Visa's forecast matches and puts holiday-goods inflation at about 3.4%",
+    "video_url": "",
+    "claim": "\"Visa Business and Economics Insights expects holiday sales to increase 4.5% from last year \u2014 but after accounting for higher prices, the actual increase in what shoppers buy is projected to be just 1.1%.\" \u2014 Amanda Macias, Fox News Digital, \"Black Friday deals may not be bargains, marketing professor warns,\" Nov. 27, 2026",
+    "source_url": "https://www.foxnews.com/politics/how-spot-real-black-friday-savings-holiday-season-amid-affordability-squeeze",
+    "record_url": "https://corporate.visa.com/en/sites/visa-perspectives/newsroom/visa-forecasts-us-holiday-spending-2026.html",
+    "record_title": "Visa press release, \"Visa Forecasts U.S. Holiday Spending to Rise 4.5% as Consumers Keep the Holidays a Priority\" (Visa Business and Economic Insights 2026 U.S. Holiday Spending Outlook), Nov. 5, 2026",
+    "verdict": "Matches record",
+    "why": "Visa Business and Economic Insights forecasts U.S. holiday retail sales in November and December will rise 4.5% from a year earlier, the strongest holiday growth since 2021. It expects prices for holiday-related goods to rise about 3.4%, leaving inflation-adjusted holiday spending up 1.1%, so Fox's numbers match. It's a forecast, not actual sales, and Visa's measure covers retail only, leaving out travel and dining.",
+    "what_would_change": "A revised Visa forecast with different numbers, or a later Visa release showing Fox misstated the 4.5% or 1.1% figures, would move this toward Contradicted. Actual holiday sales coming in differently wouldn't change whether Fox reported the forecast correctly.",
+    "outlet": "Fox News, Nov. 27, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/how-spot-real-black-friday-savings-holiday-season-amid-affordability-squeeze",
+    "script": "Fox News, in a Black Friday shopping guide, says Visa expects holiday sales to rise 4.5 percent from last year, but only 1.1 percent once you account for higher prices. We checked Visa's forecast, released November 5. Visa's economists project U.S. holiday retail sales in November and December will rise 4.5 percent, the strongest growth since 2021. They expect prices for holiday goods to rise about 3.4 percent, which leaves real, inflation-adjusted spending up 1.1 percent. So Fox has the numbers right. Keep in mind it's a forecast, and Visa's measure counts retail only, not travel or dining. Our verdict: matches the record.",
+    "sources": [
+      {
+        "title": "Visa: Visa Forecasts U.S. Holiday Spending to Rise 4.5% as Consumers Keep the Holidays a Priority, Nov. 5, 2026",
+        "url": "https://corporate.visa.com/en/sites/visa-perspectives/newsroom/visa-forecasts-us-holiday-spending-2026.html"
+      },
+      {
+        "title": "Fox News: Black Friday deals may not be bargains, marketing professor warns, Nov. 27, 2026",
+        "url": "https://www.foxnews.com/politics/how-spot-real-black-friday-savings-holiday-season-amid-affordability-squeeze"
+      }
+    ],
+    "read": "Visa press release dated 11/05/2026: \"U.S. holiday retail sales are forecast to rise 4.5% year over year, marking the strongest holiday sales growth since 2021.\" \"VBEI expects prices for holiday-related goods to rise approximately 3.4%, with inflation-adjusted holiday spending increasing 1.1%.\" (1.045 / 1.034 = about 1.011.) Consumers plan to spend an average of $777 on holiday gifts, up 5.6% from $736 in 2025. \"VBEI's holiday sales measure focuses on retail and excludes travel and dining.\" Fox's article (published 2026-11-27 06:00 ET) refers to \"Visa Business and Economics Insights\"; Visa's name for the unit is Visa Business and Economic Insights.",
+    "corrections": []
+  },
+  {
+    "id": "20261127-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-27T06:30:00-06:00",
+    "headline": "CNN says the Supreme Court hears its AR-15 ban case Wednesday and that last year a unanimous Court called the AR-15 'the most popular rifle in the country'; the Court's calendar and its 2025 Smith & Wesson opinion match",
+    "video_url": "",
+    "claim": "\"The Supreme Court acknowledged as much last year, noting in a unanimous opinion that the weapons are 'widely legal,' purchased by 'many ordinary consumers' and that the AR\u201315 'is the most popular rifle in the country.'\" Also: \"the justices will hear arguments Wednesday over state and local bans on 'assault-style' weapons, such as the AR-15.\" \u2014 John Fritze, CNN, \"Supreme Court to tackle AR-15 bans in blockbuster Second Amendment case,\" Nov. 27, 2026",
+    "source_url": "https://www.cnn.com/2026/11/27/politics/supreme-court-ar-15-ban-second-amendment",
+    "record_url": "https://www.supremecourt.gov/opinions/24pdf/23-1141_lkgn.pdf",
+    "record_title": "Supreme Court of the United States, Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos, No. 23-1141, slip opinion (decided June 5, 2025)",
+    "verdict": "Matches record",
+    "why": "In Smith & Wesson v. Mexico, decided June 5, 2025, Justice Kagan wrote for a unanimous Court that the guns Mexico targeted are \"both widely legal and bought by many ordinary consumers,\" adding, \"The AR\u201315 is the most popular rifle in the country.\" The Court's December argument calendar lists the consolidated Cook County and Connecticut cases, Viramontes v. Cook County and Grant v. Higgins, for Wednesday, Dec. 2. One piece of context: the 2025 ruling was about Mexico's lawsuit against gunmakers, not the Second Amendment.",
+    "what_would_change": "An amended argument calendar moving or dropping the Dec. 2 argument would make the timing out of date; a corrected version of the 2025 opinion without the quoted language, or a showing that it wasn't unanimous, would move this toward Contradicted.",
+    "outlet": "CNN, Nov. 27, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/27/politics/supreme-court-ar-15-ban-second-amendment",
+    "script": "CNN reports the Supreme Court will hear arguments Wednesday over state and local bans on AR-15-style rifles, and notes that last year a unanimous Court called the guns widely legal and the AR-15 the most popular rifle in the country. We checked both. The Court's December calendar lists the Cook County and Connecticut cases, consolidated, for Wednesday, December 2. And in its June 2025 ruling in Smith and Wesson versus Mexico, Justice Kagan wrote for all nine justices that these guns are widely legal and bought by many ordinary consumers, and that the AR-15 is the most popular rifle in the country. One piece of context: that case was about Mexico's lawsuit against gun makers, not the Second Amendment. Our verdict: matches the record.",
+    "sources": [
+      {
+        "title": "Supreme Court: Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos, No. 23-1141 (June 5, 2025)",
+        "url": "https://www.supremecourt.gov/opinions/24pdf/23-1141_lkgn.pdf"
+      },
+      {
+        "title": "Supreme Court Monthly Argument Calendar, session beginning Nov. 30, 2026 (amended Oct. 1, 2026)",
+        "url": "https://www.supremecourt.gov/ORAL_ARGUMENTS/argument_calendars/MonthlyArgumentCalDecember2026.pdf"
+      },
+      {
+        "title": "CNN: Supreme Court to tackle AR-15 bans in blockbuster Second Amendment case, Nov. 27, 2026",
+        "url": "https://www.cnn.com/2026/11/27/politics/supreme-court-ar-15-ban-second-amendment"
+      }
+    ],
+    "read": "Smith & Wesson Brands, Inc. v. Estados Unidos Mexicanos, No. 23-1141, argued March 4, 2025, decided June 5, 2025. \"KAGAN, J., delivered the opinion for a unanimous Court. THOMAS, J., and JACKSON, J., filed concurring opinions.\" Slip op. at 14: Mexico focuses on \"military style\" assault weapons, \"among which it includes AR\u201315 rifles, AK\u201347 rifles, and .50 caliber sniper rifles... But those products are both widely legal and bought by many ordinary consumers. (The AR\u201315 is the most popular rifle in the country...)\" Supreme Court October Term 2026 calendar for the session beginning Nov. 30, 2026 (amended Oct. 1, 2026): Wednesday, Dec. 2: Nos. 25-238 Viramontes v. Cook County and 25-566 Grant v. Higgins (consolidated, 1 hr. for argument). Court convenes at 10 a.m.",
+    "corrections": []
+  },
+  {
     "id": "20261126-late",
     "slot": "Late Check",
     "aired_at": "2026-11-26T23:00:00-06:00",
