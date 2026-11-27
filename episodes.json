@@ -1,5 +1,112 @@
 [
   {
+    "id": "20261127-evening",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-27T17:30:00-06:00",
+    "headline": "Dave Rubin says Mayor Mamdani 'cancelled' the Macy's Thanksgiving Day Parade 'because he hates America'; the city's announcement shows the parade was moved to Saturday ahead of a storm forecast to bring 65 mph gusts",
+    "video_url": "",
+    "claim": "\"He didn’t cancel the Thanksgiving Day parade because of the rain, he cancelled the Thanksgiving Day parade because he hates America.\" — Dave Rubin (@RubinReport) on X, Nov. 26, 2026",
+    "source_url": "https://x.com/RubinReport/status/2125930090458464530",
+    "record_url": "https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani-issues-travel-advisory-for-thanksgiving-day-as-coa",
+    "record_title": "NYC Mayor's Office, \"Mayor Mamdani Issues Travel Advisory for Thanksgiving Day as Coastal Storm Approaches,\" Nov. 25, 2026",
+    "verdict": "Contradicted",
+    "why": "The Mayor's Office announced on Nov. 25 that the 100th Macy's Thanksgiving Day Parade \"has been moved to Saturday, November 28, in coordination with Macy's, the NYPD and other City agencies,\" so it was postponed, not cancelled. The same announcement cites National Weather Service High Wind and Coastal Flood Warnings for Thursday, with gusts of 60 to 65 mph, heavy rain and coastal flooding expected. Rubin's claim about the mayor's motive is opinion that no record can confirm or rule out, but the post's factual premise, that the parade was cancelled, is contradicted by the city's announcement.",
+    "what_would_change": "An announcement from Macy's or the city that the parade was cancelled outright rather than rescheduled, or records showing the postponement was decided for reasons other than the storm, would move this toward Missing context or Matches record.",
+    "outlet": "X post by Dave Rubin (@RubinReport), Nov. 26, 2026",
+    "outlet_url": "https://x.com/RubinReport/status/2125930090458464530",
+    "script": "Conservative commentator Dave Rubin told his followers on X, in a post seen more than one and a half million times, that New York Mayor Zohran Mamdani didn't cancel the Thanksgiving Day parade because of the rain, he cancelled it because he hates America. We went to the record. The mayor's office announced the day before Thanksgiving that the hundredth Macy's parade was moved to Saturday, November 28th, in coordination with Macy's and the NYPD, as the National Weather Service warned of wind gusts up to 65 miles an hour, heavy rain and coastal flooding. The parade was postponed, not cancelled. What the mayor feels about America is Rubin's opinion, and no record settles that, but the parade wasn't cancelled. Our verdict: contradicted.",
+    "sources": [
+      {
+        "title": "NYC Mayor's Office: Mayor Mamdani Issues Travel Advisory for Thanksgiving Day as Coastal Storm Approaches, Nov. 25, 2026",
+        "url": "https://www.nyc.gov/mayors-office/news/2026/11/mayor-mamdani-issues-travel-advisory-for-thanksgiving-day-as-coa"
+      },
+      {
+        "title": "Dave Rubin (@RubinReport) on X, Nov. 26, 2026",
+        "url": "https://x.com/RubinReport/status/2125930090458464530"
+      },
+      {
+        "title": "The Daily Beast: MAGA Goes Full Conspiracy After Iconic Parade's Postponement, Nov. 26, 2026",
+        "url": "https://www.thedailybeast.com/maga-goes-full-conspiracy-after-iconic-macys-thanksgiving-day-parades-postponement"
+      }
+    ],
+    "read": "NYC Mayor's Office, Nov. 25, 2026: \"The 100th Macy’s Thanksgiving Day Parade has been moved to Saturday, November 28, in coordination with Macy’s, the NYPD and other City agencies.\"",
+    "corrections": []
+  },
+  {
+    "id": "20261127-evening-fox",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-27T17:30:00-06:00",
+    "headline": "Fox News says Treasury sanctioned more than two dozen exchange houses, front companies and officials in Iran's 'shadow banking' network and that FinCEN flagged about $14.7 billion in potentially linked activity; Treasury's releases match",
+    "video_url": "",
+    "claim": "\"The Treasury Department on Monday imposed sweeping new sanctions against more than two dozen Iranian exchange houses, overseas front companies and financial operatives accused of moving billions of dollars through a global 'shadow banking' network... The Treasury also revealed Monday that its Financial Crimes Enforcement Network (FinCEN) 'identified approximately $14.7 billion of financial activity from January 2025 to August 2026 potentially linked to Iranian shadow banking.'\" — Eric Mack, Fox News, \"Trump admin announces sweeping measure to cut Iran's 'last financial lifeline',\" Nov. 23, 2026",
+    "source_url": "https://www.foxnews.com/politics/trump-admin-announces-sweeping-measure-cut-iran-last-financial-lifeline",
+    "record_url": "https://home.treasury.gov/news/press-releases/sb0699",
+    "record_title": "U.S. Department of the Treasury, \"Operation Economic Outcast Disrupts Iran's Global Shadow Banking Networks,\" press release sb0699, Nov. 23, 2026",
+    "verdict": "Matches record",
+    "why": "Treasury's Nov. 23 release says it \"sanctioned over two dozen Iranian exchange houses, front companies, and key personnel,\" and it quotes Secretary Bessent's \"last financial lifeline of a bankrupt regime\" line exactly as Fox does; named targets Fox lists, including the Iran Center for Exchange of Currency and Gold, Nesim Baharan, Recaz Star and H N B Trading, appear in the release. A companion Treasury release on FinCEN's analysis gives the same $14.7 billion figure for January 2025 to August 2026. Fox correctly keeps Treasury's qualifier that the money is \"potentially linked\" to shadow banking, drawn from activity banks flagged as suspicious, not a proven total.",
+    "what_would_change": "A Treasury or OFAC correction changing the number of designations or the $14.7 billion figure, or OFAC's SDN list omitting targets Fox names, would move this to Missing context or Contradicted.",
+    "outlet": "Fox News, Nov. 23, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/trump-admin-announces-sweeping-measure-cut-iran-last-financial-lifeline",
+    "script": "Fox News reports the Treasury Department hit more than two dozen Iranian exchange houses, front companies and financial operatives with sanctions for running what it calls a shadow banking network through Dubai, Hong Kong and Turkey, and that Treasury's financial crimes unit flagged about 14.7 billion dollars in activity potentially linked to it. We checked Treasury's own releases. The sanctions announcement says over two dozen exchange houses, front companies and key personnel were designated, quotes Secretary Bessent calling the network the last financial lifeline of a bankrupt regime, and names the companies Fox lists. A second release puts the FinCEN figure at about 14.7 billion dollars from January 2025 through August 2026. Fox kept Treasury's key word: potentially linked. Our verdict: matches the record.",
+    "sources": [
+      {
+        "title": "U.S. Treasury: Operation Economic Outcast Disrupts Iran's Global Shadow Banking Networks (sb0699), Nov. 23, 2026",
+        "url": "https://home.treasury.gov/news/press-releases/sb0699"
+      },
+      {
+        "title": "U.S. Treasury: Treasury Identifies Nearly $15 Billion in Potential Iranian Shadow Banking (sb0698), Nov. 23, 2026",
+        "url": "https://home.treasury.gov/news/press-releases/sb0698"
+      },
+      {
+        "title": "OFAC: Iran-related Designations, recent actions, Nov. 23, 2026",
+        "url": "https://ofac.treasury.gov/recent-actions/20261123"
+      },
+      {
+        "title": "FinCEN: BSA Spotlight, Iranian Shadow Banking: Update on Trends in Bank Secrecy Act Data, Nov. 23, 2026 (PDF)",
+        "url": "https://www.fincen.gov/sites/default/files/100/FTA-Iran-Shadow-Banking.pdf"
+      },
+      {
+        "title": "Fox News: Trump admin announces sweeping measure to cut Iran's 'last financial lifeline', Nov. 23, 2026",
+        "url": "https://www.foxnews.com/politics/trump-admin-announces-sweeping-measure-cut-iran-last-financial-lifeline"
+      }
+    ],
+    "read": "Treasury, Nov. 23, 2026: \"Today, as part of Operation Economic Outcast, the U.S. Department of the Treasury sanctioned over two dozen Iranian exchange houses, front companies, and key personnel in a sweeping effort to disrupt Iran’s global shadow banking networks.\"",
+    "corrections": []
+  },
+  {
+    "id": "20261127-evening-cnn",
+    "slot": "Evening Check",
+    "aired_at": "2026-11-27T17:30:00-06:00",
+    "headline": "CNN says the Pentagon spent just over $81 million on its Guantanamo migrant mission while holding only 849 people; the inspector general's report matches, though the money is obligations and covers only the Pentagon, not DHS",
+    "video_url": "",
+    "claim": "\"The US Defense Department spent just over $81 million on its mission supporting the Department of Homeland Security by transferring and holding migrants at Naval Station Guantanamo Bay in Cuba — despite having held only 849 individuals since the operation began, according to a recent watchdog report.\" — Haley Britzky, CNN, Nov. 27, 2026",
+    "source_url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/27/watchdog-finds-us-military-spent-81-million-holding-fewer-than-900-migrants-at-guantanamo-bay/",
+    "record_url": "https://media.defense.gov/2026/Nov/25/2004038070/-1/-1/1/OSG_Q4_SEP2026_FINAL_261123_508%20SECURE.PDF",
+    "record_title": "Lead Inspector General for Operation Southern Guard, Report to the U.S. Congress, July 1, 2026–September 30, 2026 (DoW OIG, released Nov. 25, 2026)",
+    "verdict": "Matches record",
+    "why": "The report's Table 1 lists Pentagon obligations for Operation Southern Guard totaling $81,525,406 as of Sept. 30, 2026, and it says 849 people were transferred to Guantanamo since January 2025, of whom 632 were repatriated, 209 were moved to the U.S. and 8 remained. CNN's own story notes the figure is money \"obligated,\" and it covers only the Pentagon; DHS separately reported obligating $43.32 million for the operation in fiscal 2026 alone. One detail is looser than the report: it gives 399 as the base's maximum capacity \"as of the start of the quarter,\" not the highest capacity since the operation began, as CNN put it.",
+    "what_would_change": "A revised inspector general report or Pentagon comptroller data showing different obligations or detainee totals would move this to Contradicted; evidence that the $81 million includes significant spending unrelated to holding migrants would move it to Missing context.",
+    "outlet": "CNN (via KESQ), Nov. 27, 2026",
+    "outlet_url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/27/watchdog-finds-us-military-spent-81-million-holding-fewer-than-900-migrants-at-guantanamo-bay/",
+    "script": "CNN reports the Pentagon spent just over 81 million dollars supporting the migrant holding mission at Guantanamo Bay, despite holding only 849 people there since it began. We checked the Lead Inspector General's report to Congress, released Wednesday. Its funding table shows Pentagon obligations of 81 million, 525 thousand dollars as of September 30th, and it says 849 people were transferred through the base since January 2025, with eight still there at the end of September. Two notes: that's money committed, not necessarily spent, and it's only the Pentagon's share. Homeland Security reported another 43 million dollars this fiscal year. The core numbers check out. Our verdict: matches the record.",
+    "sources": [
+      {
+        "title": "Lead Inspector General for Operation Southern Guard, Report to Congress, July 1–Sept. 30, 2026 (PDF), released Nov. 25, 2026",
+        "url": "https://media.defense.gov/2026/Nov/25/2004038070/-1/-1/1/OSG_Q4_SEP2026_FINAL_261123_508%20SECURE.PDF"
+      },
+      {
+        "title": "DoW Office of Inspector General: Operation Southern Guard (OSG) report page, Nov. 25, 2026",
+        "url": "https://www.dodig.mil/reports.html/Article/4659810/operation-southern-guard-osg/"
+      },
+      {
+        "title": "CNN (via KESQ): Watchdog finds US military spent $81 million holding fewer than 900 migrants at Guantanamo Bay, Nov. 27, 2026",
+        "url": "https://kesq.com/news/national-politics/cnn-us-politics/2026/11/27/watchdog-finds-us-military-spent-81-million-holding-fewer-than-900-migrants-at-guantanamo-bay/"
+      }
+    ],
+    "read": "Lead IG report, July–Sept. 2026: \"Of the 849 illegal aliens transferred to NSGB since January 2025, 632 were repatriated, 209 were transferred to locations in the United States, and 8 remained at NSGB as of September 30, 2026.\" Table 1, DoW obligations for OSG as of Sept. 30, 2026: total $81,525,406.",
+    "corrections": []
+  },
+  {
     "id": "20261127-midday",
     "slot": "Midday Check",
     "aired_at": "2026-11-27T11:30:00-06:00",
