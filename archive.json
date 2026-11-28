@@ -1,5 +1,96 @@
 [
   {
+    "id": "20261128-morning",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-28T06:30:00-06:00",
+    "headline": "UK Home Secretary Shabana Mahmood says Labour brought net migration to 77,000, 'down 92% from its peak under the Conservatives'; ONS figures match, but the fall began after the March 2023 peak, more than a year before Labour took office",
+    "video_url": "",
+    "claim": "\"This Government has restored control. We have brought net migration to 77,000, down 92% from its peak under the Conservatives. Where they failed, we have delivered for the British people.\" — UK Home Secretary Shabana Mahmood, Nov. 26, 2026, as quoted by the Evening Standard (PA)",
+    "source_url": "https://www.standard.co.uk/news/politics/ons-shabana-mahmood-government-office-for-national-statistics-conservatives-b1306489.html",
+    "record_url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026",
+    "record_title": "Office for National Statistics, \"Long-term international migration, provisional: year ending June 2026,\" released Nov. 26, 2026",
+    "verdict": "Missing context",
+    "why": "The numbers match: ONS provisionally estimates net migration at 77,000 in the year ending June 2026, down from a peak of 944,000 in the year ending March 2023, a drop of about 91.8%, which rounds to 92%, and calls it the lowest estimate since 1997 outside the pandemic. But that peak was recorded in early 2023 and ONS says non-EU+ net migration \"has continued to fall since 2023,\" so the decline began more than a year before Labour took office in July 2024, which is why the Conservatives are also claiming credit, and the record doesn't divide the 92% fall between the two governments. ONS also labels the 77,000 figure provisional, \"official statistics in development\" that it expects to revise, and says British and EU+ nationals had negative net migration, with more of them leaving than arriving.",
+    "what_would_change": "An ONS or Migration Observatory breakdown showing that most of the drop from the 944,000 peak came from policies Labour introduced after July 2024 would move this toward Matches record; a large upward revision to the provisional 77,000 figure would move it toward Contradicted.",
+    "outlet": "Evening Standard (PA), Nov. 26, 2026",
+    "outlet_url": "https://www.standard.co.uk/news/politics/ons-shabana-mahmood-government-office-for-national-statistics-conservatives-b1306489.html",
+    "script": "Britain's Home Secretary Shabana Mahmood says the Labour government has restored control of the border, bringing net migration down to 77,000, which she called down 92 percent from its peak under the Conservatives. We went to the record. The Office for National Statistics does estimate net migration at 77,000 for the year to June 2026, down from a peak of 944,000 in the year to March 2023. That's a drop of about 92 percent, and the lowest figure since 1997 outside the pandemic. But the peak came in early 2023, and ONS says the fall has been under way since then, more than a year before Labour took office in July 2024. The record doesn't say how much of the drop belongs to which government. And the 77,000 is a provisional estimate that could be revised. Our verdict: missing context.",
+    "sources": [
+      {
+        "title": "ONS: Long-term international migration, provisional: year ending June 2026, Nov. 26, 2026",
+        "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/yearendingjune2026"
+      },
+      {
+        "title": "Evening Standard: Net migration plummets to 77,000, ONS estimates, Nov. 26, 2026",
+        "url": "https://www.standard.co.uk/news/politics/ons-shabana-mahmood-government-office-for-national-statistics-conservatives-b1306489.html"
+      }
+    ],
+    "read": "ONS, Nov. 26, 2026: \"The line chart in Figure 2 shows that net migration has fallen since its peak of 944,000 in year ending (YE) March 2023. In YE June 2026, it was provisionally estimated at 77,000. Excluding the coronavirus (COVID-19) pandemic, when international travel restrictions were in place, this is the lowest recorded net migration estimate since 1997.\"",
+    "corrections": []
+  },
+  {
+    "id": "20261128-morning-fox",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-28T06:30:00-06:00",
+    "headline": "Fox News says Texas' SB 10 requires a 'conspicuous' Ten Commandments display in every classroom and that the 5th Circuit upheld it in April; the law and the ruling match, but SB 10 also says the attorney general 'shall defend' schools sued over it",
+    "video_url": "",
+    "claim": "\"Under state law, Senate Bill 10 requires that a 'conspicuous' copy of the Ten Commandments be displayed in every classroom in every public school and open-enrollment charter school across Texas. In April, the 5th U.S. Circuit Court of Appeals ruled that the law did not violate the Constitution.\" — Fox News (Michael Sinkewicz), Nov. 28, 2026, reporting that Texas Attorney General-elect Nathan Johnson won't defend the law",
+    "source_url": "https://www.foxnews.com/politics/texas-attorney-general-elect-refuses-defend-ten-commandments-classroom-law",
+    "record_url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00010F.htm",
+    "record_title": "Texas Legislature, S.B. No. 10 (89th Legislature, Regular Session), enrolled version, adding Education Code Sec. 1.0041 (with the 5th Circuit's en banc opinion in Nathan v. Alamo Heights ISD, No. 25-50695, filed April 21, 2026)",
+    "verdict": "Missing context",
+    "why": "SB 10's enrolled text requires each public elementary or secondary school to \"display in a conspicuous place in each classroom\" a poster or framed copy of the Ten Commandments at least 16 by 20 inches, and the full 5th Circuit's April 21, 2026 opinion reversed the lower court, vacated its injunction and dismissed the challengers' claims, so both points match. What's missing is that the same law, in subsection (g), says \"the attorney general shall defend a public elementary or secondary school\" sued over complying with it, and the defendants in the 5th Circuit case were nine school districts, so the job Johnson says he won't do on the state's position sits alongside a statutory duty to defend schools that the story doesn't mention. The enrolled text also says \"public elementary or secondary school\" and doesn't name open-enrollment charter schools; Fox's broader wording may reflect how other parts of state law apply to charters, which this record doesn't settle.",
+    "what_would_change": "A statement from Johnson that his office will still defend school districts under subsection (g) while declining to argue the law is constitutional, or a court order or attorney general opinion on how subsection (g) applies, would move this toward Matches record; a Supreme Court decision to hear the case could change the stakes of the story.",
+    "outlet": "Fox News, Nov. 28, 2026",
+    "outlet_url": "https://www.foxnews.com/politics/texas-attorney-general-elect-refuses-defend-ten-commandments-classroom-law",
+    "script": "Fox News reports that Texas' incoming Democratic attorney general, Nathan Johnson, won't defend the state's Ten Commandments classroom law, which Fox says requires a conspicuous copy in every classroom and was upheld by a federal appeals court in April. We went to the record. Senate Bill 10 does require public schools to display the Ten Commandments in a conspicuous place in each classroom, on a poster at least 16 by 20 inches. And on April 21st, the full Fifth Circuit reversed the lower court and threw out the challenge. But the same law also says the attorney general shall defend a school that gets sued for complying with it, and the defendants in that case were nine school districts. That detail isn't in the story. Our verdict: missing context.",
+    "sources": [
+      {
+        "title": "Texas Legislature: S.B. No. 10, 89th Legislature, enrolled version (Education Code Sec. 1.0041)",
+        "url": "https://capitol.texas.gov/tlodocs/89R/billtext/html/SB00010F.htm"
+      },
+      {
+        "title": "U.S. Court of Appeals for the Fifth Circuit: Nathan v. Alamo Heights ISD, No. 25-50695 (en banc), April 21, 2026",
+        "url": "https://www.ca5.uscourts.gov/opinions/pub/25/25-50695-CV0.pdf"
+      },
+      {
+        "title": "Fox News: Texas attorney general-elect refuses to defend Ten Commandments classroom law, Nov. 28, 2026",
+        "url": "https://www.foxnews.com/politics/texas-attorney-general-elect-refuses-defend-ten-commandments-classroom-law"
+      }
+    ],
+    "read": "Texas Education Code Sec. 1.0041, as added by S.B. 10: \"(a) ... a public elementary or secondary school shall display in a conspicuous place in each classroom of the school a durable poster or framed copy of the Ten Commandments ... (g) The attorney general shall defend a public elementary or secondary school in a cause of action relating to any claims arising out of a school's compliance with this section.\"",
+    "corrections": []
+  },
+  {
+    "id": "20261128-morning-cnn",
+    "slot": "Morning Check",
+    "aired_at": "2026-11-28T06:30:00-06:00",
+    "headline": "CNN says MSF reported two of its watchmen killed in a 'direct strike' on a Gaza clinic, bringing its staff deaths in Gaza to 17; MSF's statement matches, while Israel's claim that the men were Hamas operatives is unproven in the record",
+    "video_url": "",
+    "claim": "\"Two Médecins Sans Frontières (MSF) workers were killed on Friday in an Israeli strike on a Gaza clinic, the organization said Saturday ... The workers, who died in a 'direct strike,' worked as watchmen at the site, MSF said ... Their deaths bring the total number of MSF workers killed during the conflict in Gaza to 17.\" — CNN, Nov. 28, 2026",
+    "source_url": "https://www.cnn.com/2026/11/28/middleeast/msf-gaza-israel-deaths-intl",
+    "record_url": "https://prezly.msf.org.uk/msf-gaza-israeli-strike-kills-two-msf-colleagues",
+    "record_title": "Médecins Sans Frontières UK press release, \"MSF GAZA: Israeli strike kills two MSF colleagues,\" Nov. 27, 2026",
+    "verdict": "Matches record",
+    "why": "MSF's own statement says two colleagues, \"both watchmen,\" were killed in an Israeli strike on one of its Gaza clinics, calls it \"a direct hit,\" puts the total of MSF colleagues killed in Gaza at 17, and says the premises were marked with MSF logos and their location known to the Israeli military, all as CNN reports. CNN accurately attributes these points to MSF and also reports the Israeli military's account that the two men were Hamas operatives working as security guards and that no medical infrastructure was damaged. Neither side's account of who the men were is backed by documents we could check, so that part stays unverified.",
+    "what_would_change": "A correction or update from MSF to its count or its description of the strike, or evidence published by the Israeli military or an independent investigation about the two men or the target, would change how this is framed and could move it toward Missing context.",
+    "outlet": "CNN, Nov. 28, 2026",
+    "outlet_url": "https://www.cnn.com/2026/11/28/middleeast/msf-gaza-israel-deaths-intl",
+    "script": "CNN reports that two workers for Doctors Without Borders, known as MSF, were killed in what the group called a direct Israeli strike on one of its clinics in Gaza, bringing the number of MSF staff killed in Gaza to 17. We went to the record. MSF's own statement says two of its colleagues, both watchmen, were killed in an Israeli strike on a Gaza clinic Friday night, calls it a direct hit, and puts the toll of its staff killed in Gaza at 17. It says the clinic was clearly marked and its location known to the Israeli military. CNN also reports Israel's claim that the two men were Hamas operatives, which neither side has backed with evidence we could check. On what MSF said, CNN's report matches. Our verdict: matches the record.",
+    "sources": [
+      {
+        "title": "MSF UK: MSF GAZA: Israeli strike kills two MSF colleagues, Nov. 27, 2026",
+        "url": "https://prezly.msf.org.uk/msf-gaza-israeli-strike-kills-two-msf-colleagues"
+      },
+      {
+        "title": "CNN: MSF 'outraged' as two workers killed in Israeli strike on Gaza, Nov. 28, 2026",
+        "url": "https://www.cnn.com/2026/11/28/middleeast/msf-gaza-israel-deaths-intl"
+      }
+    ],
+    "read": "MSF, Nov. 27, 2026: \"We are devastated and outraged by the killing of two of our colleagues, both watchmen, in an Israeli strike on one of our Gaza clinics tonight. This is a direct hit on Médecins Sans Frontières / Doctors Without Borders (MSF), bringing the total number of MSF colleagues killed in Gaza to 17.\"",
+    "corrections": []
+  },
+  {
     "id": "20261127-late",
     "slot": "Late Check",
     "aired_at": "2026-11-27T23:00:00-06:00",
